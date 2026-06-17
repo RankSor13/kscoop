@@ -642,7 +642,7 @@ export const HERO_FEATURES = [
   },
 ];
 
-export const LAST_UPDATED = "2026-06-17T17:49:18.965Z";
+export const LAST_UPDATED = "2026-06-17T17:56:14.727Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
