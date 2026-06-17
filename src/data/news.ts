@@ -103,252 +103,301 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
-    id: "n1",
-    title:
-      "Kim Soo-hyun Returns to Work with Fashion Brand Tie-Up After Dating Controversy",
-    summary:
-      "South Korean star Kim Soo-hyun is officially resuming activities, signing a new deal with a global fashion house after months out of the spotlight. The move comes after police concluded their investigation into rumors linking him to the late actress Kim Sae-ron, finding that a YouTuber had used AI to fabricate the damaging evidence. Industry watchers say the comeback marks one of the fastest scandal recoveries in recent K-entertainment history.",
-    category: "gossip",
-    source: "The Straits Times",
-    sourceUrl:
-      "https://www.straitstimes.com/life/entertainment/s-korean-star-kim-soo-hyun-returns-to-work-with-fashion-brand-tie-up-aft",
-    date: "2026-06-09",
-    image: IMG.kimsoohyun,
-    tags: ["Kim Soo-hyun", "comeback", "fashion", "scandal"],
-    hot: true,
+    "id": "n1",
+    "title": "Kim Soo-hyun Returns to Work with Fashion Brand Tie-Up After Dating Controversy",
+    "summary": "South Korean star Kim Soo-hyun is officially resuming activities, signing a new deal with a global fashion house after months out of the spotlight. The move comes after police concluded their investigation into rumors linking him to the late actress Kim Sae-ron, finding that a YouTuber had used AI to fabricate the damaging evidence. Industry watchers say the comeback marks one of the fastest scandal recoveries in recent K-entertainment history.",
+    "category": "gossip",
+    "source": "The Straits Times",
+    "sourceUrl": "https://www.straitstimes.com/life/entertainment/s-korean-star-kim-soo-hyun-returns-to-work-with-fashion-brand-tie-up-aft",
+    "date": "2026-06-09",
+    "image": "https://sfile.chatglm.cn/images-ppt/5eb965d0a16d.jpg",
+    "tags": [
+      "Kim Soo-hyun",
+      "comeback",
+      "fashion",
+      "scandal"
+    ],
+    "hot": true
   },
   {
-    id: "n2",
-    title:
-      "AI Was Used to Fake Evidence That Nearly Ended Kim Soo-hyun's Career, Say Police",
-    summary:
-      "South Korean police are seeking an arrest warrant for a YouTuber who allegedly fabricated evidence to defame actor Kim Soo-hyun. Investigators confirmed that the recordings and chat logs used to accuse the star of dating the late actress Kim Sae-ron while she was a minor were generated or altered using AI tools. The case is now being cited as a landmark for AI-driven celebrity defamation.",
-    category: "gossip",
-    source: "BBC News",
-    sourceUrl: "https://www.bbc.com/news/articles/c0r2j18k2vxo",
-    date: "2026-06-05",
-    image: IMG.kimsoohyun2,
-    tags: ["Kim Soo-hyun", "AI", "defamation", "police"],
-    hot: true,
+    "id": "n2",
+    "title": "AI Was Used to Fake Evidence That Nearly Ended Kim Soo-hyun's Career, Say Police",
+    "summary": "South Korean police are seeking an arrest warrant for a YouTuber who allegedly fabricated evidence to defame actor Kim Soo-hyun. Investigators confirmed that the recordings and chat logs used to accuse the star of dating the late actress Kim Sae-ron while she was a minor were generated or altered using AI tools. The case is now being cited as a landmark for AI-driven celebrity defamation.",
+    "category": "gossip",
+    "source": "BBC News",
+    "sourceUrl": "https://www.bbc.com/news/articles/c0r2j18k2vxo",
+    "date": "2026-06-05",
+    "image": "https://sfile.chatglm.cn/images-ppt/ef8859b912a1.jpeg",
+    "tags": [
+      "Kim Soo-hyun",
+      "AI",
+      "defamation",
+      "police"
+    ],
+    "hot": true
   },
   {
-    id: "n3",
-    title:
-      "Kim Soo-hyun Civil Lawsuit Resumes as 10 Billion Won Claims Return to Court",
-    summary:
-      "A civil damages suit seeking 10 billion won against actor Kim Soo-hyun resumed in a Seoul court this week, according to a Star News report dated June 5. The plaintiff alleges breach of contract tied to endorsements paused during the scandal. Legal experts expect the case to set precedent for how brands handle talent contracts during public controversies.",
-    category: "gossip",
-    source: "Star News (via Instagram)",
-    sourceUrl: "https://www.instagram.com/reel/DZdqInYz5UN",
-    date: "2026-06-12",
-    image: IMG.kimsoohyun3,
-    tags: ["Kim Soo-hyun", "lawsuit", "court", "endorsement"],
+    "id": "n3",
+    "title": "Kim Soo-hyun Civil Lawsuit Resumes as 10 Billion Won Claims Return to Court",
+    "summary": "A civil damages suit seeking 10 billion won against actor Kim Soo-hyun resumed in a Seoul court this week, according to a Star News report dated June 5. The plaintiff alleges breach of contract tied to endorsements paused during the scandal. Legal experts expect the case to set precedent for how brands handle talent contracts during public controversies.",
+    "category": "gossip",
+    "source": "Star News (via Instagram)",
+    "sourceUrl": "https://www.instagram.com/reel/DZdqInYz5UN",
+    "date": "2026-06-12",
+    "image": "https://sfile.chatglm.cn/images-ppt/fd4c601b5fe6.jpg",
+    "tags": [
+      "Kim Soo-hyun",
+      "lawsuit",
+      "court",
+      "endorsement"
+    ]
   },
   {
-    id: "n4",
-    title:
-      "'My Royal Nemesis' Actress Hong Yi-seol Denies Dating Rumors With Heo Nam-jun",
-    summary:
-      "Rising star Hong Yi-seol has firmly denied dating rumors involving co-star Heo Nam-jun, calling the speculation 'a misunderstanding between close colleagues.' The duo, who play adversaries-turned-lovers in tvN's hit period drama 'My Royal Nemesis,' have been the subject of intense fan speculation after behind-the-scenes photos leaked online.",
-    category: "trending",
-    source: "Soompi",
-    sourceUrl: "https://www.soompi.com",
-    date: "2026-06-15",
-    image: IMG.couple,
-    tags: ["Hong Yi-seol", "Heo Nam-jun", "My Royal Nemesis", "dating rumor"],
-    hot: true,
+    "id": "n4",
+    "title": "'My Royal Nemesis' Actress Hong Yi-seol Denies Dating Rumors With Heo Nam-jun",
+    "summary": "Rising star Hong Yi-seol has firmly denied dating rumors involving co-star Heo Nam-jun, calling the speculation 'a misunderstanding between close colleagues.' The duo, who play adversaries-turned-lovers in tvN's hit period drama 'My Royal Nemesis,' have been the subject of intense fan speculation after behind-the-scenes photos leaked online.",
+    "category": "trending",
+    "source": "Soompi",
+    "sourceUrl": "https://www.soompi.com",
+    "date": "2026-06-15",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "Hong Yi-seol",
+      "Heo Nam-jun",
+      "My Royal Nemesis",
+      "dating rumor"
+    ],
+    "hot": true
   },
   {
-    id: "n5",
-    title:
-      "June 2026 K-Drama Lineup: Netflix, Disney+, and Prime Video Offer Diverse Premieres",
-    summary:
-      "Forbes reports that June 2026 brings a quieter but varied slate of new K-drama premieres across the three major streamers. Highlights include 'Doctor On The Edge' (ENA/Disney+, June 1), 'Teach You A Lesson' (Netflix, June 5), 'Agent Kim Reactivated' (SBS/Netflix, June 27), and 'See You At Work Tomorrow!' The diversity spans medical thriller, rom-com, action, and workplace drama.",
-    category: "upcoming",
-    source: "Forbes",
-    sourceUrl:
-      "https://www.forbes.com/sites/hannahabraham/2026/06/04/7-kdramas-to-watch-in-june-2026-netflix-disney-plus-and-prime-vide",
-    date: "2026-06-04",
-    image: IMG.kdrama,
-    tags: ["June 2026", "Netflix", "Disney+", "Prime Video", "lineup"],
-    hot: true,
+    "id": "n5",
+    "title": "June 2026 K-Drama Lineup: Netflix, Disney+, and Prime Video Offer Diverse Premieres",
+    "summary": "Forbes reports that June 2026 brings a quieter but varied slate of new K-drama premieres across the three major streamers. Highlights include 'Doctor On The Edge' (ENA/Disney+, June 1), 'Teach You A Lesson' (Netflix, June 5), 'Agent Kim Reactivated' (SBS/Netflix, June 27), and 'See You At Work Tomorrow!' The diversity spans medical thriller, rom-com, action, and workplace drama.",
+    "category": "upcoming",
+    "source": "Forbes",
+    "sourceUrl": "https://www.forbes.com/sites/hannahabraham/2026/06/04/7-kdramas-to-watch-in-june-2026-netflix-disney-plus-and-prime-vide",
+    "date": "2026-06-04",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "June 2026",
+      "Netflix",
+      "Disney+",
+      "Prime Video",
+      "lineup"
+    ],
+    "hot": true
   },
   {
-    id: "n6",
-    title:
-      "Delusion — Suzy & Kim Seon-ho Lead 2026's Most-Anticipated Fantasy Mystery",
-    summary:
-      "Set in 1930s Korea, 'Delusion' follows painter Yun I-ho (Kim Seon-ho) who is commissioned to paint the portrait of a mysterious woman (Suzy) — only to discover she may not be human. The series is adapted from a popular Naver webtoon and is being positioned as one of the most-anticipated K-dramas of 2026 by international fan communities.",
-    category: "upcoming",
-    source: "Facebook (Hyeong2023)",
-    sourceUrl:
-      "https://www.facebook.com/hyeong2023.kd/posts/the-wait-is-finally-over-presenting-the-much-awaited-2026-k-drama-lineup-/8",
-    date: "2026-05-28",
-    image: IMG.suzy,
-    tags: ["Suzy", "Kim Seon-ho", "Delusion", "fantasy", "mystery"],
-    hot: true,
+    "id": "n6",
+    "title": "Delusion — Suzy & Kim Seon-ho Lead 2026's Most-Anticipated Fantasy Mystery",
+    "summary": "Set in 1930s Korea, 'Delusion' follows painter Yun I-ho (Kim Seon-ho) who is commissioned to paint the portrait of a mysterious woman (Suzy) — only to discover she may not be human. The series is adapted from a popular Naver webtoon and is being positioned as one of the most-anticipated K-dramas of 2026 by international fan communities.",
+    "category": "upcoming",
+    "source": "Facebook (Hyeong2023)",
+    "sourceUrl": "https://www.facebook.com/hyeong2023.kd/posts/the-wait-is-finally-over-presenting-the-much-awaited-2026-k-drama-lineup-/8",
+    "date": "2026-05-28",
+    "image": "https://sfile.chatglm.cn/images-ppt/9753f73fb4bf.jpeg",
+    "tags": [
+      "Suzy",
+      "Kim Seon-ho",
+      "Delusion",
+      "fantasy",
+      "mystery"
+    ],
+    "hot": true
   },
   {
-    id: "n7",
-    title:
-      "Perfect Crown — IU & Byeon Woo-seok to Star in Disney+ Modern-Monarchy Romance",
-    summary:
-      "Disney+ has confirmed 'Perfect Crown' for a March 2026 premiere, starring IU and Byeon Woo-seok alongside Gong Seung-yeon. Set in a modern Korea under a constitutional monarchy, the series follows a chaebol heiress and a crown prince whose public rivalry masks a deeper connection. Production is helmed by the team behind 'Queen of Tears.'",
-    category: "casting",
-    source: "IMDb",
-    sourceUrl: "https://www.imdb.com/title/tt39333617",
-    date: "2026-03-15",
-    image: IMG.couple2,
-    tags: ["IU", "Byeon Woo-seok", "Perfect Crown", "Disney+", "romance"],
-    hot: true,
+    "id": "n7",
+    "title": "Perfect Crown — IU & Byeon Woo-seok to Star in Disney+ Modern-Monarchy Romance",
+    "summary": "Disney+ has confirmed 'Perfect Crown' for a March 2026 premiere, starring IU and Byeon Woo-seok alongside Gong Seung-yeon. Set in a modern Korea under a constitutional monarchy, the series follows a chaebol heiress and a crown prince whose public rivalry masks a deeper connection. Production is helmed by the team behind 'Queen of Tears.'",
+    "category": "casting",
+    "source": "IMDb",
+    "sourceUrl": "https://www.imdb.com/title/tt39333617",
+    "date": "2026-03-15",
+    "image": "https://sfile.chatglm.cn/images-ppt/872e9713158b.jpeg",
+    "tags": [
+      "IU",
+      "Byeon Woo-seok",
+      "Perfect Crown",
+      "Disney+",
+      "romance"
+    ],
+    "hot": true
   },
   {
-    id: "n8",
-    title:
-      "Disney+ Unveils 2026 K-Drama Slate — A Shop for Killers S2, Battle of the Fates, Bloody Flower",
-    summary:
-      "Disney+ Singapore has officially revealed its 2026 Korean slate: 'A Shop for Killers Season 2,' 'Battle of the Fates,' 'Bloody Flower' (Ryeoun & Keum Sae-rok), 'In Your Radiant Season' (Lee Sung-kyung & Chae Jong-hyeop), and 'Portraits of Delusion.' The lineup signals Disney+'s continued heavy investment in K-content for APAC audiences.",
-    category: "upcoming",
-    source: "Disney+ Singapore",
-    sourceUrl:
-      "https://www.disneyplus.com/en-sg/explore/articles/disney-plus-announces-new-korean-series-slate-for-2026",
-    date: "2026-02-20",
-    image: IMG.kdrama2,
-    tags: ["Disney+", "2026 slate", "A Shop for Killers", "Bloody Flower"],
+    "id": "n8",
+    "title": "Disney+ Unveils 2026 K-Drama Slate — A Shop for Killers S2, Battle of the Fates, Bloody Flower",
+    "summary": "Disney+ Singapore has officially revealed its 2026 Korean slate: 'A Shop for Killers Season 2,' 'Battle of the Fates,' 'Bloody Flower' (Ryeoun & Keum Sae-rok), 'In Your Radiant Season' (Lee Sung-kyung & Chae Jong-hyeop), and 'Portraits of Delusion.' The lineup signals Disney+'s continued heavy investment in K-content for APAC audiences.",
+    "category": "upcoming",
+    "source": "Disney+ Singapore",
+    "sourceUrl": "https://www.disneyplus.com/en-sg/explore/articles/disney-plus-announces-new-korean-series-slate-for-2026",
+    "date": "2026-02-20",
+    "image": "https://sfile.chatglm.cn/images-ppt/6f7c0678c6c8.jpg",
+    "tags": [
+      "Disney+",
+      "2026 slate",
+      "A Shop for Killers",
+      "Bloody Flower"
+    ]
   },
   {
-    id: "n9",
-    title:
-      "Netflix 2026 K-Drama Lineup: The Art of Sarah, All of Us Are Dead S2, Yumi's Cells Return",
-    summary:
-      "Netflix has teased a packed 2026 K-drama slate including 'The Art of Sarah' (Feb 13, starring Shin Hye-sun as a luxury-brand regional CEO), a long-awaited return of 'All of Us Are Dead,' new seasons of 'Yumi's Cells,' and 'A Shop for Queen.' The Reddit KDRAMA community response has been overwhelmingly positive.",
-    category: "upcoming",
-    source: "Reddit r/KDRAMA",
-    sourceUrl:
-      "https://www.reddit.com/r/KDRAMA/comments/1qii687/netflix_2026_drama_lineup_teaser",
-    date: "2026-01-30",
-    image: IMG.kdrama3,
-    tags: ["Netflix", "2026 slate", "All of Us Are Dead", "Yumi's Cells"],
+    "id": "n9",
+    "title": "Netflix 2026 K-Drama Lineup: The Art of Sarah, All of Us Are Dead S2, Yumi's Cells Return",
+    "summary": "Netflix has teased a packed 2026 K-drama slate including 'The Art of Sarah' (Feb 13, starring Shin Hye-sun as a luxury-brand regional CEO), a long-awaited return of 'All of Us Are Dead,' new seasons of 'Yumi's Cells,' and 'A Shop for Queen.' The Reddit KDRAMA community response has been overwhelmingly positive.",
+    "category": "upcoming",
+    "source": "Reddit r/KDRAMA",
+    "sourceUrl": "https://www.reddit.com/r/KDRAMA/comments/1qii687/netflix_2026_drama_lineup_teaser",
+    "date": "2026-01-30",
+    "image": "https://sfile.chatglm.cn/images-ppt/e0889b4a1796.jpg",
+    "tags": [
+      "Netflix",
+      "2026 slate",
+      "All of Us Are Dead",
+      "Yumi's Cells"
+    ]
   },
   {
-    id: "n10",
-    title:
-      "Korean-American Actor Greta Lee Joins 'Toy Story 5' as Villain",
-    summary:
-      "Korean-American actor Greta Lee, celebrated for her turns in 'Past Lives' and 'The Morning Show,' has been cast as the antagonist in Pixar's upcoming 'Toy Story 5.' Lee reflected on the role in an SBS Star interview, calling it 'a surreal full-circle moment' after growing up watching the franchise. The casting is being hailed as a milestone for Asian representation in Hollywood animation.",
-    category: "trending",
-    source: "SBS Star",
-    sourceUrl: "https://sbsstar.net",
-    date: "2026-06-10",
-    image: IMG.actress,
-    tags: ["Greta Lee", "Toy Story 5", "Pixar", "Hollywood"],
+    "id": "n10",
+    "title": "Korean-American Actor Greta Lee Joins 'Toy Story 5' as Villain",
+    "summary": "Korean-American actor Greta Lee, celebrated for her turns in 'Past Lives' and 'The Morning Show,' has been cast as the antagonist in Pixar's upcoming 'Toy Story 5.' Lee reflected on the role in an SBS Star interview, calling it 'a surreal full-circle moment' after growing up watching the franchise. The casting is being hailed as a milestone for Asian representation in Hollywood animation.",
+    "category": "trending",
+    "source": "SBS Star",
+    "sourceUrl": "https://sbsstar.net",
+    "date": "2026-06-10",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "Greta Lee",
+      "Toy Story 5",
+      "Pixar",
+      "Hollywood"
+    ]
   },
   {
-    id: "n11",
-    title:
-      "Rare Bae Yong-joon Sighting Revives Interest in Korea's Most Reclusive Celebrity",
-    summary:
-      "A rare public appearance by 'Winter Sonata' legend Bae Yong-joon has reignited fascination with the reclusive star. Photos shared on social media show the actor at a private art event in Seoul. The Korea Times notes that Bae has largely stayed out of the spotlight since pivoting to business ventures nearly a decade ago.",
-    category: "trending",
-    source: "The Korea Times",
-    sourceUrl: "https://www.koreatimes.co.kr/entertainment",
-    date: "2026-06-13",
-    image: IMG.actor,
-    tags: ["Bae Yong-joon", "Winter Sonata", "rare sighting"],
+    "id": "n11",
+    "title": "Rare Bae Yong-joon Sighting Revives Interest in Korea's Most Reclusive Celebrity",
+    "summary": "A rare public appearance by 'Winter Sonata' legend Bae Yong-joon has reignited fascination with the reclusive star. Photos shared on social media show the actor at a private art event in Seoul. The Korea Times notes that Bae has largely stayed out of the spotlight since pivoting to business ventures nearly a decade ago.",
+    "category": "trending",
+    "source": "The Korea Times",
+    "sourceUrl": "https://www.koreatimes.co.kr/entertainment",
+    "date": "2026-06-13",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "Bae Yong-joon",
+      "Winter Sonata",
+      "rare sighting"
+    ]
   },
   {
-    id: "n12",
-    title:
-      "5 of the Best New K-Dramas to Watch in June 2026 — Doctor on the Edge, Teach You a Lesson & More",
-    summary:
-      "SCMP's critics pick the five standout new K-dramas of June 2026: 'Doctor on the Edge' (medical thriller), 'Teach You a Lesson' (Netflix dark comedy), 'See You at Work Tomorrow!' (workplace slice-of-life), 'Agent Kim Reactivated' (action comedy), and 'Notes from the Last Row' (coming-of-age). Each is rated on story, cast chemistry, and bingeability.",
-    category: "upcoming",
-    source: "South China Morning Post",
-    sourceUrl:
-      "https://www.scmp.com/lifestyle/k-drama/k-drama/article/3355164/5-best-new-k-dramas-watch-june-2026-including-see-you-wor",
-    date: "2026-06-01",
-    image: IMG.couple3,
-    tags: ["June 2026", "best K-dramas", "SCMP", "picks"],
+    "id": "n12",
+    "title": "5 of the Best New K-Dramas to Watch in June 2026 — Doctor on the Edge, Teach You a Lesson & More",
+    "summary": "SCMP's critics pick the five standout new K-dramas of June 2026: 'Doctor on the Edge' (medical thriller), 'Teach You a Lesson' (Netflix dark comedy), 'See You at Work Tomorrow!' (workplace slice-of-life), 'Agent Kim Reactivated' (action comedy), and 'Notes from the Last Row' (coming-of-age). Each is rated on story, cast chemistry, and bingeability.",
+    "category": "upcoming",
+    "source": "South China Morning Post",
+    "sourceUrl": "https://www.scmp.com/lifestyle/k-drama/k-drama/article/3355164/5-best-new-k-dramas-watch-june-2026-including-see-you-wor",
+    "date": "2026-06-01",
+    "image": "https://sfile.chatglm.cn/images-ppt/634893b016ce.jpg",
+    "tags": [
+      "June 2026",
+      "best K-dramas",
+      "SCMP",
+      "picks"
+    ]
   },
   {
-    id: "n13",
-    title:
-      "Climax, Reverse, Goldland — Anticipated K-Dramas Set for Q1–Q2 2026 Premiere",
-    summary:
-      "According to fan tracker NoSleep4Dramas, the most-anticipated early 2026 premieres include 'Climax' (March 16, Ju Ji-hoon), 'Reverse' (March, Seo Ji-hye), 'Goldland' (April, Park Bo-young, Hulu/Disney+), and 'Scarecrow.' The list reflects strong demand across thriller, melodrama, and fantasy genres.",
-    category: "upcoming",
-    source: "NoSleep4Dramas",
-    sourceUrl: "https://nosleep4dramas.com/2026/01/28/anticipated-kdramas-of-2026",
-    date: "2026-01-28",
-    image: IMG.kdrama3,
-    tags: ["Climax", "Reverse", "Goldland", "Ju Ji-hoon", "Park Bo-young"],
+    "id": "n13",
+    "title": "Climax, Reverse, Goldland — Anticipated K-Dramas Set for Q1–Q2 2026 Premiere",
+    "summary": "According to fan tracker NoSleep4Dramas, the most-anticipated early 2026 premieres include 'Climax' (March 16, Ju Ji-hoon), 'Reverse' (March, Seo Ji-hye), 'Goldland' (April, Park Bo-young, Hulu/Disney+), and 'Scarecrow.' The list reflects strong demand across thriller, melodrama, and fantasy genres.",
+    "category": "upcoming",
+    "source": "NoSleep4Dramas",
+    "sourceUrl": "https://nosleep4dramas.com/2026/01/28/anticipated-kdramas-of-2026",
+    "date": "2026-01-28",
+    "image": "https://sfile.chatglm.cn/images-ppt/e0889b4a1796.jpg",
+    "tags": [
+      "Climax",
+      "Reverse",
+      "Goldland",
+      "Ju Ji-hoon",
+      "Park Bo-young"
+    ]
   },
   {
-    id: "n14",
-    title:
-      "TIME Magazine Names Most Anticipated K-Dramas of 2026 — Including All of Us Are Dead Return",
-    summary:
-      "TIME Magazine's annual preview spotlights 2026's most anticipated Korean dramas, including the long-awaited return of Netflix's youth zombie hit 'All of Us Are Dead,' new seasons of 'Yumi's Cells' and 'A Shop for Killers,' and the period epic 'Siren's Kiss.' The feature credits global streamers for sustaining K-content's international momentum.",
-    category: "upcoming",
-    source: "TIME",
-    sourceUrl: "https://time.com/7345886/korean-dramas-2026",
-    date: "2026-02-10",
-    image: IMG.kdrama,
-    tags: ["TIME", "2026 preview", "All of Us Are Dead", "Siren's Kiss"],
+    "id": "n14",
+    "title": "TIME Magazine Names Most Anticipated K-Dramas of 2026 — Including All of Us Are Dead Return",
+    "summary": "TIME Magazine's annual preview spotlights 2026's most anticipated Korean dramas, including the long-awaited return of Netflix's youth zombie hit 'All of Us Are Dead,' new seasons of 'Yumi's Cells' and 'A Shop for Killers,' and the period epic 'Siren's Kiss.' The feature credits global streamers for sustaining K-content's international momentum.",
+    "category": "upcoming",
+    "source": "TIME",
+    "sourceUrl": "https://time.com/7345886/korean-dramas-2026",
+    "date": "2026-02-10",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "TIME",
+      "2026 preview",
+      "All of Us Are Dead",
+      "Siren's Kiss"
+    ]
   },
   {
-    id: "n15",
-    title:
-      "K-Drama Actress Reveals Being Hit On By Three Celebrities At The Same Time",
-    summary:
-      "In a candid variety show appearance, a popular K-drama actress revealed she was simultaneously pursued by three male celebrities — without any of them knowing about each other. Koreaboo reports the actress kept identities anonymous but hinted 'two are A-listers and one is a current co-star.' The clip has gone viral across Asian social media.",
-    category: "gossip",
-    source: "Koreaboo",
-    sourceUrl: "https://www.koreaboo.com",
-    date: "2026-06-14",
-    image: IMG.actress2,
-    tags: ["variety show", "dating rumor", "anonymous", "viral"],
+    "id": "n15",
+    "title": "K-Drama Actress Reveals Being Hit On By Three Celebrities At The Same Time",
+    "summary": "In a candid variety show appearance, a popular K-drama actress revealed she was simultaneously pursued by three male celebrities — without any of them knowing about each other. Koreaboo reports the actress kept identities anonymous but hinted 'two are A-listers and one is a current co-star.' The clip has gone viral across Asian social media.",
+    "category": "gossip",
+    "source": "Koreaboo",
+    "sourceUrl": "https://www.koreaboo.com",
+    "date": "2026-06-14",
+    "image": "https://sfile.chatglm.cn/images-ppt/3c6e73d2afc8.jpg",
+    "tags": [
+      "variety show",
+      "dating rumor",
+      "anonymous",
+      "viral"
+    ]
   },
   {
-    id: "n16",
-    title:
-      "35-Year-Old Actor 'Clowned' Online After Surprise Reveal on Dating Show",
-    summary:
-      "A 35-year-old K-actor was the subject of intense online discussion after a surprise reveal on a popular Korean dating show. Allkpop reports that fans were divided — some calling the appearance 'refreshingly honest,' others 'career self-sabotage.' The episode trended #1 on Korean Twitter for over 12 hours.",
-    category: "gossip",
-    source: "allkpop",
-    sourceUrl: "https://www.allkpop.com",
-    date: "2026-06-11",
-    image: IMG.actor2,
-    tags: ["dating show", "viral", "Twitter"],
+    "id": "n16",
+    "title": "35-Year-Old Actor 'Clowned' Online After Surprise Reveal on Dating Show",
+    "summary": "A 35-year-old K-actor was the subject of intense online discussion after a surprise reveal on a popular Korean dating show. Allkpop reports that fans were divided — some calling the appearance 'refreshingly honest,' others 'career self-sabotage.' The episode trended #1 on Korean Twitter for over 12 hours.",
+    "category": "gossip",
+    "source": "allkpop",
+    "sourceUrl": "https://www.allkpop.com",
+    "date": "2026-06-11",
+    "image": "https://sfile.chatglm.cn/images-ppt/ed0f3015934b.jpg",
+    "tags": [
+      "dating show",
+      "viral",
+      "Twitter"
+    ]
   },
   {
-    id: "n17",
-    title:
-      "Kim Soo-hyun Reigns Supreme — Voted Korean Celebrity of the Year 2025",
-    summary:
-      "Despite months out of the spotlight, Kim Soo-hyun was voted 'Korean Celebrity of the Year 2025' in a fan poll aggregating votes from 18 countries. The actor's 'Queen of Tears' performance and resilient comeback narrative were cited as key factors. The award was presented at a private ceremony in Seoul.",
-    category: "trending",
-    source: "Instagram (kdramaworld)",
-    sourceUrl:
-      "https://www.instagram.com/popular/korean-celebrities-news-today",
-    date: "2026-01-15",
-    image: IMG.kimsoohyun,
-    tags: ["Kim Soo-hyun", "award", "Celebrity of the Year", "Queen of Tears"],
+    "id": "n17",
+    "title": "Kim Soo-hyun Reigns Supreme — Voted Korean Celebrity of the Year 2025",
+    "summary": "Despite months out of the spotlight, Kim Soo-hyun was voted 'Korean Celebrity of the Year 2025' in a fan poll aggregating votes from 18 countries. The actor's 'Queen of Tears' performance and resilient comeback narrative were cited as key factors. The award was presented at a private ceremony in Seoul.",
+    "category": "trending",
+    "source": "Instagram (kdramaworld)",
+    "sourceUrl": "https://www.instagram.com/popular/korean-celebrities-news-today",
+    "date": "2026-01-15",
+    "image": "https://sfile.chatglm.cn/images-ppt/5eb965d0a16d.jpg",
+    "tags": [
+      "Kim Soo-hyun",
+      "award",
+      "Celebrity of the Year",
+      "Queen of Tears"
+    ]
   },
   {
-    id: "n18",
-    title:
-      "If Wishes Could Kill, Filing for Love, Gold Land — Wikipedia Logs Spring 2026 K-Drama Pipeline",
-    summary:
-      "Wikipedia's 2026 South Korean television tracker logs an active spring pipeline: 'If Wishes Could Kill' (Netflix, April 24), 'Filing for Love' (tvN, April 25), 'Gold Land' (Hulu/Disney+, April 29), and 'My Royal Nemesis' (tvN, ongoing). The tracker is updated daily by community editors and serves as a reference for international fans.",
-    category: "upcoming",
-    source: "Wikipedia",
-    sourceUrl: "https://en.wikipedia.org/wiki/2026_in_South_Korean_television",
-    date: "2026-04-29",
-    image: IMG.kdrama2,
-    tags: ["Wikipedia", "spring 2026", "If Wishes Could Kill", "Gold Land"],
-  },
+    "id": "n18",
+    "title": "If Wishes Could Kill, Filing for Love, Gold Land — Wikipedia Logs Spring 2026 K-Drama Pipeline",
+    "summary": "Wikipedia's 2026 South Korean television tracker logs an active spring pipeline: 'If Wishes Could Kill' (Netflix, April 24), 'Filing for Love' (tvN, April 25), 'Gold Land' (Hulu/Disney+, April 29), and 'My Royal Nemesis' (tvN, ongoing). The tracker is updated daily by community editors and serves as a reference for international fans.",
+    "category": "upcoming",
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2026_in_South_Korean_television",
+    "date": "2026-04-29",
+    "image": "https://sfile.chatglm.cn/images-ppt/6f7c0678c6c8.jpg",
+    "tags": [
+      "Wikipedia",
+      "spring 2026",
+      "If Wishes Could Kill",
+      "Gold Land"
+    ]
+  }
 ];
 
 // ---------------------------------------------------------------------------
@@ -593,7 +642,7 @@ export const HERO_FEATURES = [
   },
 ];
 
-export const LAST_UPDATED = "2026-06-17T08:00:00+08:00";
+export const LAST_UPDATED = "2026-06-17T17:17:52.043Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
