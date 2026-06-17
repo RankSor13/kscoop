@@ -1,0 +1,32 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Suzy Bae Korean actress portrait"
+✅ Got 3 images
+{
+  "success": true,
+  "query": "Suzy Bae Korean actress portrait",
+  "count": 3,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/9753f73fb4bf.jpeg",
+      "caption": "",
+      "source": "Kpop Profiles",
+      "original_width": "800px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/7005fc244e1e.jpg",
+      "caption": "",
+      "source": "HubPages",
+      "original_width": "1200px",
+      "original_height": "913px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/7aaa49d4c254.jpg",
+      "caption": "",
+      "source": "GQ India",
+      "original_width": "1440px",
+      "original_height": "1080px"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Korean actress red carpet glamour"
+✅ Got 3 images
+{
+  "success": true,
+  "query": "Korean actress red carpet glamour",
+  "count": 3,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "948px",
+      "original_height": "1390px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/3c6e73d2afc8.jpg",
+      "caption": "",
+      "source": "Pinterest",
+      "original_width": "736px",
+      "original_height": "1172px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/6d00315c286c.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "901px",
+      "original_height": "1390px"
+    }
+  ]
+}

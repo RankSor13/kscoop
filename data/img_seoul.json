@@ -1,0 +1,32 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Seoul Korea cityscape night neon lights"
+✅ Got 3 images
+{
+  "success": true,
+  "query": "Seoul Korea cityscape night neon lights",
+  "count": 3,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+      "caption": "",
+      "source": "Pexels",
+      "original_width": "5472px",
+      "original_height": "3648px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/3f0edfe4b431.jpg",
+      "caption": "",
+      "source": "Wallpaper Abyss - Alpha Coders",
+      "original_width": "7360px",
+      "original_height": "4912px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/9ef0fa8b8fa0.jpg",
+      "caption": "",
+      "source": "By Steve Roe",
+      "original_width": "980px",
+      "original_height": "1307px"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Korean actor portrait studio handsome"
+✅ Got 3 images
+{
+  "success": true,
+  "query": "Korean actor portrait studio handsome",
+  "count": 3,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/ed0f3015934b.jpg",
+      "caption": "",
+      "source": "South China Morning Post",
+      "original_width": "1024px",
+      "original_height": "1280px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/7da970fc4899.jpg",
+      "caption": "",
+      "source": "Rolling Stone India",
+      "original_width": "1280px",
+      "original_height": "720px"
+    }
+  ]
+}

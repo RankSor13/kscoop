@@ -1,0 +1,32 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Korean drama filming scene cinematic"
+✅ Got 3 images
+{
+  "success": true,
+  "query": "Korean drama filming scene cinematic",
+  "count": 3,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+      "caption": "",
+      "source": "South Korea Hallyu",
+      "original_width": "813px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/6f7c0678c6c8.jpg",
+      "caption": "",
+      "source": "Lemon8",
+      "original_width": "960px",
+      "original_height": "1280px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/e0889b4a1796.jpg",
+      "caption": "",
+      "source": "Netflix",
+      "original_width": "1200px",
+      "original_height": "675px"
+    }
+  ]
+}

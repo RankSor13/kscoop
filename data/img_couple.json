@@ -1,0 +1,32 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Korean drama couple romantic scene cinematic"
+✅ Got 3 images
+{
+  "success": true,
+  "query": "Korean drama couple romantic scene cinematic",
+  "count": 3,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/872e9713158b.jpeg",
+      "caption": "",
+      "source": "Ubuy Nepal",
+      "original_width": "2453px",
+      "original_height": "1398px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/634893b016ce.jpg",
+      "caption": "",
+      "source": "The Guardian",
+      "original_width": "1200px",
+      "original_height": "720px"
+    }
+  ]
+}

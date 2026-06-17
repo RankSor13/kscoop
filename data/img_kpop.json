@@ -1,0 +1,32 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "K-pop idol stage performance concert lights"
+✅ Got 3 images
+{
+  "success": true,
+  "query": "K-pop idol stage performance concert lights",
+  "count": 3,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+      "caption": "",
+      "source": "original.donga.com",
+      "original_width": "750px",
+      "original_height": "1080px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/c53b0fd76043.jpg",
+      "caption": "",
+      "source": "entertainers.",
+      "original_width": "1140px",
+      "original_height": "760px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/f96b903a5171.jpg",
+      "caption": "",
+      "source": "Tatler Asia",
+      "original_width": "1018px",
+      "original_height": "881px"
+    }
+  ]
+}
