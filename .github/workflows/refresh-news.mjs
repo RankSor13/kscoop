@@ -86,7 +86,7 @@ CONTENT RULES:
 - NEVER fabricate quotes, dates, or specific numbers not in the source material
 - Write in third person
 - 4-6 body paragraphs total
-- Return ONLY Markdown — no HTML, no preamble, no "Here is the article:"`);
+- Return ONLY Markdown — no HTML, no preamble, no "Here is the article:"`;
 
 // ✅ FIX 3 — Real-sounding author names, rotated per article
 const AUTHORS = [
