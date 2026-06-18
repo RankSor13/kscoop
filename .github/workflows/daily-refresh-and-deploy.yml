@@ -62,7 +62,8 @@ jobs:
 
       - name: Refresh news data
         env:
-          ZAI_API_KEY: ${{ secrets.ZAI_API_KEY }}
+          SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         run: node .github/workflows/refresh-news.mjs
 
       - name: Commit refreshed data
