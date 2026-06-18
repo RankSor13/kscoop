@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-06-18T13:58:45.035Z
+ * Last updated: 2026-06-18T14:37:20.407Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -2327,6 +2327,249 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       {
         "type": "p",
         "text": "So, what are fans saying about these nominations? They're pretty thrilled, that's what. And who can blame them? It's not every day you get to see your favorite stars up for a major award. But the real question is, will they be able to take home the win? That's up to the fans to decide. [originally reported by metro.style](https://metro.style/people/2026/6/15/anne-curtis-fyang-smith-kim-chiu-among-seoul-drama-awards-2026-nominees-here-s-how-you-can-vote-1846)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1781793427669-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Shocking Verdict"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Jo Byung-gyu just lost a huge defamation lawsuit, and we're talking billions: 4 billion KRW to be exact.",
+          "The lawsuit was over some serious allegations: school bullying.",
+          "The Seoul Central District Court made the ruling, and it's got everyone talking.",
+          "The accused was a person who claimed Jo Byung-gyu was involved in bullying, and apparently, the court sided with them."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "The Fallout"
+      },
+      {
+        "type": "p",
+        "text": "So, what does this mean for Jo Byung-gyu? Honestly, this is a big deal - his reputation is on the line. But was the court's decision fair? That's what's got fans debating. The fact that the court ruled in favor of the person who made the allegations suggests they found some truth to the claims. But Jo Byung-gyu's fans aren't giving up on him yet - they're still trying to process the verdict."
+      },
+      {
+        "type": "h2",
+        "text": "What's Next for Jo Byung-gyu"
+      },
+      {
+        "type": "p",
+        "text": "This verdict could have serious consequences for Jo Byung-gyu's career. Will he be able to bounce back from this? It's hard to say, but one thing's for sure: this isn't the end of the story. We're likely to see more developments in the coming weeks. But for now, it's clear that Jo Byung-gyu's got a tough road ahead of him."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "So, what does this say about the K-entertainment industry as a whole? It's a reminder that stars aren't above the law, and they'll be held accountable for their actions. That's a good thing, right? But it's also a sobering reality check - even the most beloved stars can fall from grace in an instant. And that's what makes this story so fascinating: it's a cautionary tale about the highs and lows of fame."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by Facebook](https://www.facebook.com/100091857426174/posts/guys-i-feel-so-bad-for-this-guy-actor-jo-byeong-gyuhe-was-accused-of-bullying-an/953720791033160/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1781793429478-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Mind-Blowing Revelations About Your Fave K-Celebs"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Chun Sumi's mixed heritage just made her way more interesting to fans",
+          "She's not the only one - there are 9 other celebs with mixed backgrounds",
+          "The list of top 10 Korean celebrities with mixed heritage is making waves",
+          "It's got everyone talking about what it means to be \"Korean\" in K-entertainment"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "So, you think you know your fave K-celebs inside and out, right? Well, it turns out some of them have secrets - like not being fully Korean. We're talking mixed heritage, international roots, the whole deal. And honestly, it's kind of exciting to learn more about the diverse backgrounds of the stars we love. Chun Sumi, for example, has been making headlines lately, and now we know she's got a unique cultural background that sets her apart."
+      },
+      {
+        "type": "p",
+        "text": "But was Chun Sumi's win on Produce really the only reason she's so well-known? Maybe not - maybe her mixed heritage has played a role in her appeal. After all, K-entertainment is all about standing out from the crowd, and having an international background can definitely give you an edge. And Chun Sumi's not alone - there are 9 other celebs on this list who are redefining what it means to be a Korean star."
+      },
+      {
+        "type": "h2",
+        "text": "The Fascinating World of Mixed Heritage in K-Ent"
+      },
+      {
+        "type": "p",
+        "text": "The fact that there are so many Korean celebs with mixed backgrounds is actually pretty cool. It shows that K-entertainment is more diverse than we thought, and that's something to celebrate. We're curious - what do you think about this list? Are you surprised to learn that some of your fave celebs aren't fully Korean? Let's discuss."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters to Fans"
+      },
+      {
+        "type": "p",
+        "text": "So, what's the big deal about mixed heritage in K-entertainment? For one thing, it challenges our assumptions about what it means to be Korean. It's not just about birthplace or nationality - it's about culture, identity, and how we connect with each other. And honestly, that's what makes this list so fascinating. We can't wait to learn more about these celebs and their unique backgrounds. [originally reported by facebook.com](https://www.facebook.com/100080146298347/videos/top-10-korean-celebrities-who-are-not-fully-korean-or-have-mixed-heritage-%EF%B8%8F/2847854512219873/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1781793432657-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "K-Pop Infiltrates Local Markets"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "A K-Pop star was spotted walking through local markets, and we can't get enough of it",
+          "The star explored the unique vibes of the area, giving fans a glimpse into their daily life",
+          "The appearance was caught on camera, with clips showing the star's raw interactions with the surroundings",
+          "The location of the markets isn't specified, but it's clear the star is embracing the local culture"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "This is huge, folks - we're talking about a K-Pop star, someone who's used to being in the spotlight, just casually strolling through local markets. What's even more interesting is that they're doing it in a place that's not typically associated with K-Pop. But was the star just looking for a unique experience, or is there something more to this appearance? The fact that they're exploring the local vibes and capturing the raw essence of the area suggests they're genuinely interested in the culture."
+      },
+      {
+        "type": "h2",
+        "text": "A Glimpse Into The Star's Life"
+      },
+      {
+        "type": "p",
+        "text": "The clips of the star's appearance are pretty amazing, showing them walking through the markets and taking it all in. It's not every day you see a K-Pop star in this kind of setting, and it's clear they're trying to experience something new. But what's driving this desire to connect with the local culture? Is it just a passing interest, or is there something deeper going on? Honestly, it's a big deal that the star is using their platform to showcase this side of themselves."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "This appearance says a lot about the state of K-Pop right now - it's not just about the music, it's about the culture and the experience. Fans are eating up every bit of content they can get, and this is exactly the kind of thing that gets people talking. So, what does this mean for the future of K-Pop? Will we see more stars exploring local markets and embracing different cultures? Only time... just kidding, we don't know what's next, but it's definitely exciting to think about. [originally reported by instagram.com](https://www.instagram.com/reel/DZuexDTP9lk/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1781793434736-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "They're Back Together"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Kim Yoo-Jung and Park Bo-Gum are reuniting with their 'Love in the Moonlight' co-stars for a special anniversary show.",
+          "The project is bringing back the main cast, including Jung Jinyoung, Chae Soo-Bin, and Kwak Dong-Yeon.",
+          "This reunion is a big deal for fans who've been waiting for years to see the cast together again.",
+          "The show's anniversary is the perfect excuse for the cast to come back and give fans what they've been missing."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "A Blast from the Past"
+      },
+      {
+        "type": "p",
+        "text": "The 'Love in the Moonlight' cast is one of the most beloved in K-drama history, and it's amazing that they're all on board for this special project. But was the decision to reunite inspired by the show's enduring popularity, or is this just a one-time thing? We're hoping it's the former, because honestly, this is a big deal - the cast's chemistry was a huge part of the show's success."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters"
+      },
+      {
+        "type": "p",
+        "text": "Fans of 'Love in the Moonlight' have been holding on to the memories of the show for years, and this reunion is a chance for them to relive those moments. It's not every day that a K-drama cast comes back together like this, so we're expecting something special. But what can we actually expect from this anniversary show - will it be a behind-the-scenes look, a new storyline, or just a chance for the cast to catch up?"
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "This reunion says a lot about the impact 'Love in the Moonlight' had on its fans and the K-drama scene as a whole. The show was a huge success when it first aired, and its influence can still be seen in many modern K-dramas. So, it's no surprise that the cast is coming back together to celebrate its anniversary. We're just hoping that this isn't the last we've seen of these characters - or the cast - together on screen."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by abs-cbn.com](https://www.abs-cbn.com/entertainment/showbiz/movies-series/2026/6/18/-love-in-the-moonlight-cast-to-reunite-for-special-anniversary-show-reports-1145)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1781793436753-5": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Rookie's Back: Lee Jun-young Returns in Reborn Rookie"
+      },
+      {
+        "type": "p",
+        "text": "We're getting a new K-drama starring Lee Jun-young, and that's definitely something to get excited about. But what's even more interesting is that it's called Reborn Rookie - isn't that a great title? The plot and cast are already generating some buzz, and we can't wait to dive in."
+      },
+      {
+        "type": "h2",
+        "text": "What We Know So Far"
+      },
+      {
+        "type": "p",
+        "text": "So, what's Reborn Rookie all about? Unfortunately, we don't have all the details yet, but we do know that Lee Jun-young is starring in it, which is a great start. We're also expecting a trailer soon, which should give us a better idea of what to expect. And the best part? We've got a full episode release schedule to look forward to - no more waiting for subs or wondering when the next episode will drop."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "But was the announcement of Reborn Rookie's release schedule too sudden? We're not complaining, though - it's always great to have something to look forward to. And with Lee Jun-young on board, we're expecting big things from this K-drama. That's all we know for now, but we'll be keeping a close eye on this one. [originally reported by Lifestyle Asia](https://www.lifestyleasia.com/ind/entertainment/streaming/reborn-rookie-k-drama-release-schedule/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1781793438162-6": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Bombshell Casting News: Seo Hyun-jin and Twice's Dahyun Join Forces"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Seo Hyun-jin is set to star in the upcoming South Korean TV series \"Love Me\".",
+          "Twice's Dahyun will also be joining the cast, marking a major milestone in her acting career.",
+          "The full casting for \"Love Me\" was officially announced on January 23, 2026.",
+          "This highly anticipated drama is already generating buzz among K-drama fans."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "We're talking about a dream team here - Seo Hyun-jin, known for her incredible acting chops, and Dahyun, a talented idol from one of K-pop's most popular groups, Twice. But was this casting combination what fans were expecting? Honestly, it's a big deal, and we can't wait to see how these two talents come together on screen. Seo Hyun-jin's proven her acting skills time and time again, but Dahyun's still building her resume - can she hold her own alongside such an experienced co-star?"
+      },
+      {
+        "type": "h2",
+        "text": "The Casting Announcement That's Got Everyone Talking"
+      },
+      {
+        "type": "p",
+        "text": "The fact that the full casting for \"Love Me\" was announced so recently - just on January 23, 2026 - means we're still in the dark about a lot of details. But one thing's for sure: with Seo Hyun-jin and Dahyun on board, this drama's already got our attention. What's the plot going to be like? Will Dahyun's character be a main one, or more of a supporting role? We're dying to know more about this project, and we're not alone - fans are already speculating about what \"Love Me\" might have in store."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters"
+      },
+      {
+        "type": "p",
+        "text": "It's not every day we see a K-drama cast that's this intriguing. Seo Hyun-jin and Dahyun are from different worlds, in a way - one's a seasoned actress, the other's a K-pop idol trying to make it big in acting. But that's what makes this casting so exciting - it's a risk, and it could pay off in a big way. We're rooting for \"Love Me\" to be a hit, and we're not the only ones. With this kind of talent on board, it's hard not to be optimistic about what's to come."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by Wikipedia](https://en.wikipedia.org/wiki/Love_Me_(South_Korean_TV_series))"
       }
     ],
     "takeaways": []
