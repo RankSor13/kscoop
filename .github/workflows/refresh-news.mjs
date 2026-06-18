@@ -1,26 +1,26 @@
 /**
  * Daily news refresh script — runs inside the GitHub Action.
  *
- * This script PRESERVES the curated NEWS array (the 18 hand-picked articles
- * with their auto-generated bodies) and APPENDS fresh web-searched articles
- * on top. It also calls the LLM to generate structured bodies (H2/H3, Key
- * Takeaways, internal links, external source link) for each new article.
- *
- * Uses the ZaiClient (fetch-based, no SDK) — works with your ZAI_API_KEY
- * from https://z.ai/manage-apikey/apikey-list.
+ * Uses Serper.dev for web search + Groq (Llama) for article body generation.
  *
  * Required env:
- *   ZAI_API_KEY   — your Z.ai API key
- *   ZAI_BASE_URL  — (optional) defaults to "https://api.z.ai/api/paas/v4"
+ *   SERPER_API_KEY — your Serper.dev API key (https://serper.dev)
+ *   GROQ_API_KEY   — your Groq API key (https://console.groq.com)
  */
 import { writeFileSync, readFileSync, existsSync } from "node:fs";
-import { ZaiClient } from "../../src/lib/zai-client.ts";
+
+const SERPER_API_KEY = process.env.SERPER_API_KEY;
+const GROQ_API_KEY = process.env.GROQ_API_KEY;
+const GROQ_MODEL = "llama-3.3-70b-versatile";
+
+if (!SERPER_API_KEY) { console.error("✗ Missing SERPER_API_KEY"); process.exit(1); }
+if (!GROQ_API_KEY) { console.error("✗ Missing GROQ_API_KEY"); process.exit(1); }
 
 const QUERIES = [
-  { q: "Korean actor actress gossip scandal news this week", cat: "gossip", recency: 7 },
-  { q: "Korean drama upcoming series 2026 release date Netflix Disney+", cat: "upcoming", recency: 14 },
-  { q: "Korean celebrity trending news today K-pop actor actress", cat: "trending", recency: 3 },
-  { q: "Kdrama new cast announcement 2026", cat: "casting", recency: 14 },
+  { q: "Korean actor actress gossip scandal news this week", cat: "gossip" },
+  { q: "Korean drama upcoming series 2026 release date Netflix Disney+", cat: "upcoming" },
+  { q: "Korean celebrity trending news today K-pop actor actress", cat: "trending" },
+  { q: "Kdrama new cast announcement 2026", cat: "casting" },
 ];
 
 const FALLBACK_IMAGES = [
@@ -58,6 +58,56 @@ RULES:
 - 4-6 body paragraphs total.
 - Return ONLY Markdown.`;
 
+// ---------- Serper.dev Search ----------
+
+async function serpSearch(query) {
+  const res = await fetch("https://google.serper.dev/search", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      "X-API-KEY": SERPER_API_KEY,
+    },
+    body: JSON.stringify({
+      q: query,
+      num: 10,
+      tbs: "qdr:w",
+      gl: "us",
+      hl: "en",
+    }),
+  });
+  if (!res.ok) throw new Error(`Serper error ${res.status}: ${await res.text()}`);
+  const data = await res.json();
+  const results = data.organic || [];
+  return results.map((r) => ({
+    name: r.title || "",
+    snippet: r.snippet || "",
+    url: r.link || "",
+    host_name: new URL(r.link || "https://unknown.com").hostname.replace("www.", ""),
+    date: r.date || null,
+  }));
+}
+
+// ---------- Groq LLM ----------
+
+async function groqChat(messages) {
+  const res = await fetch("https://api.groq.com/openai/v1/chat/completions", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      "Authorization": `Bearer ${GROQ_API_KEY}`,
+    },
+    body: JSON.stringify({
+      model: GROQ_MODEL,
+      messages,
+      max_tokens: 1500,
+      temperature: 0.7,
+    }),
+  });
+  if (!res.ok) throw new Error(`Groq error ${res.status}: ${await res.text()}`);
+  const data = await res.json();
+  return data.choices?.[0]?.message?.content?.trim() || "";
+}
+
 // ---------- Helpers ----------
 
 function buildUserPrompt(item) {
@@ -69,7 +119,6 @@ SOURCE: ${item.host_name}
 SOURCE_URL: ${item.url}`;
 }
 
-/** Parse markdown into BodyBlock[] + takeaways[]. */
 function parseMarkdown(md) {
   const lines = md.split("\n");
   const blocks = [];
@@ -172,17 +221,13 @@ const existingTitles = new Set(
   EXISTING_NEWS.map((n) => n.title.toLowerCase().replace(/[^a-z0-9]/g, ""))
 );
 
-// Initialize ZaiClient (uses ZAI_API_KEY env var)
-const zai = new ZaiClient();
-console.log(`  ✓ ZaiClient initialized (baseUrl: ${process.env.ZAI_BASE_URL || "https://api.z.ai/api/paas/v4"})`);
-
-console.log("\n→ Fetching fresh Korean showbiz news...");
+console.log("\n→ Fetching fresh Korean showbiz news via Serper.dev...");
 const all = [];
 const seen = new Set();
-for (const { q, cat, recency } of QUERIES) {
+for (const { q, cat } of QUERIES) {
   console.log(`  • ${q}`);
   try {
-    const items = await zai.webSearch(q, { num: 10, recency_days: recency });
+    const items = await serpSearch(q);
     for (const it of items) {
       if (!it?.url) continue;
       if (seen.has(it.url)) continue;
@@ -199,7 +244,7 @@ for (const { q, cat, recency } of QUERIES) {
 console.log(`→ Got ${all.length} fresh unique results`);
 
 const top = all.slice(0, 6);
-console.log(`\n→ Generating structured bodies for ${top.length} articles...`);
+console.log(`\n→ Generating structured bodies for ${top.length} articles via Groq (${GROQ_MODEL})...`);
 
 const bodiesPath = "src/data/article-bodies.ts";
 let existingBodies = {};
@@ -229,13 +274,10 @@ for (let i = 0; i < top.length; i++) {
   let body = null;
   let takeaways = [];
   try {
-    const completion = await zai.chatCompletions({
-      messages: [
-        { role: "system", content: SYSTEM_PROMPT },
-        { role: "user", content: buildUserPrompt(it) },
-      ],
-    });
-    const content = completion.choices?.[0]?.message?.content?.trim();
+    const content = await groqChat([
+      { role: "system", content: SYSTEM_PROMPT },
+      { role: "user", content: buildUserPrompt(it) },
+    ]);
     if (content && content.length >= 200) {
       const cleaned = content
         .replace(/^```(?:markdown)?\s*/i, "")
