@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-06-18T15:26:50.482Z
+ * Last updated: 2026-06-18T18:16:57.297Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -2731,6 +2731,204 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       {
         "type": "p",
         "text": "So, which of these new dramas are you most excited to watch? Are you a fan of medical dramas like Doctor on the Edge, or are you looking for something a little more lighthearted? Let's be real, with so many great options coming our way, it's hard not to get a little overwhelmed. But that's a good problem to have, right? [originally reported by instagram.com](https://www.instagram.com/p/DZpqrpvFGqc/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1781806604926-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Get Ready for a K-Drama Explosion"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "2026 is shaping up to be an epic year for K-drama fans, with a slew of new shows to obsess over.",
+          "Romances like Can This Love Be Translated? are already generating buzz.",
+          "A fresh wave of modern K-dramas is on the horizon, promising something for every kind of fan.",
+          "From what we've seen so far, 2026's line-up is all about entertainment, entertainment, entertainment."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "The Romance Factor"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, who doesn't love a good K-drama romance? Can This Love Be Translated? is one of the most anticipated shows of the year, and for good reason - the title alone has fans curious. But was the title enough to get you hooked, or are you waiting for more updates? The fact that it's a romance suggests we're in for some serious feels, and that's exactly what we're here for."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "So, what's driving this new wave of K-dramas? It's not just about the romances - there's a whole range of modern stories waiting to be told. Whether you're into light-hearted fun or something more serious, 2026's got you covered. But what's really exciting is the potential for these shows to push boundaries and try new things - after all, that's what makes K-dramas so addictive in the first place."
+      },
+      {
+        "type": "h2",
+        "text": "What Fans Are Saying"
+      },
+      {
+        "type": "p",
+        "text": "Fans are clearly excited, and who can blame them? With so many new shows to look forward to, it's going to be a wild ride. But what are you most looking forward to - the romances, the modern twists, or something else entirely? Let's be real, we're all just waiting for that one show that'll suck us in and refuse to let go. [originally reported by Tatler Asia](https://www.tatlerasia.com/lifestyle/entertainment/new-korean-dramas-to-watch)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1781806606778-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Get Ready for a K-Drama Summer"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Agent Kim is back, and it's heading to Netflix, which is honestly a big deal.",
+          "So Ji Sub is starring in one of the upcoming dramas, and we can't wait to see what he brings to the table.",
+          "There are 8 Korean dramas lined up for release in June 2026, so it's going to be a wild ride.",
+          "Kdramas Night And Day just dropped the scoop on Facebook, and fans are already freaking out."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "So Ji Sub is back, and that's all the excuse we need to get hyped about the upcoming K-dramas. But what's really interesting here is that Agent Kim, a show we've all been waiting for, is now going to be available on Netflix. That's right, you'll be able to binge-watch it to your heart's content, and we can't blame you if you do. The fact that it's heading to Netflix is a huge deal, and we're wondering what other surprises June has in store for us."
+      },
+      {
+        "type": "h2",
+        "text": "The Lineup Looks Promising"
+      },
+      {
+        "type": "p",
+        "text": "Silvia Marzoli, who shared the news on Facebook, didn't give us too many details, but just knowing that there are 8 new dramas on the way is enough to keep us excited. We're talking new stories, new characters, and new obsessions - what's not to love? But was the announcement a bit too brief? We're still waiting for more info on what these dramas are about, but we're willing to wait if it means we get to see So Ji Sub back on our screens."
+      },
+      {
+        "type": "h2",
+        "text": "Where Things Stand Now"
+      },
+      {
+        "type": "p",
+        "text": "We don't have all the details yet, but one thing's for sure - June is going to be an amazing month for K-drama fans. With 8 new shows on the horizon, we're in for a treat, and we can't wait to dive in. So, which drama are you most looking forward to? Let's be real, it's hard to choose just one, but Agent Kim on Netflix is definitely a highlight. [originally reported by Kdramas Night And Day](https://www.facebook.com/KdramasNightAndDay/videos/8-korean-dramas-releasing-in-june-2026-where-to-watchupcoming-kdramalover/2073055106576914/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1781806610239-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Doctor Is In"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Doctor on the Edge is killing it on Disney+ in South Korea, ranking high on the overall and TV shows charts.",
+          "It's been 9 days since the show topped the TV charts, and it doesn't seem to be slowing down.",
+          "Hoppers is also doing well, sitting at the top of the movie charts for 7 days straight.",
+          "Disney+'s South Korea rankings are giving us a glimpse into what K-drama fans are loving right now."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The fact that Doctor on the Edge is dominating both the overall and TV show charts is honestly a big deal - it's not every day a show can hold its own against other types of content. But was the show's success predictable, or did it come out of nowhere? Given its strong performance, it's clear that fans are hooked."
+      },
+      {
+        "type": "h2",
+        "text": "A Closer Look at the Charts"
+      },
+      {
+        "type": "p",
+        "text": "Doctor on the Edge has been on the TV charts for 9 days, which is impressive considering how quickly trends can change in the K-drama world. But what's really interesting is that Hoppers has been at the top of the movie charts for almost as long - 7 days is a long time for a movie to stay relevant. It's clear that Disney+ is doing something right in terms of catering to K-drama fans' tastes."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "So, what does this mean for the future of K-dramas on Disney+? It's hard to say for sure, but one thing's for certain: fans are hungry for more content like Doctor on the Edge. Will Disney+ deliver, or will fans have to look elsewhere for their K-drama fix? [originally reported by FlixPatrol](https://flixpatrol.com/top10/disney/south-korea/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1781806611939-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "A Whopping $803,000 Compensation - What's Behind This Massive Payout?"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "A Hong Kong court has awarded dancer Li Kai-yin, also known as Mo, a staggering HK$6.29 million in compensation.",
+          "This amount is the maximum allowed under Hong Kong law, which raises questions about the severity of the incident.",
+          "Li Kai-yin, or Mo, is a dancer who's likely to be known in certain circles, but this payout's got everyone talking.",
+          "The fact that the court awarded the maximum compensation suggests that Mo's case was particularly compelling."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "The Dancer's Big Win"
+      },
+      {
+        "type": "p",
+        "text": "Mo just got a huge payout, and we're all wondering what happened to warrant this kind of money. Was the incident particularly devastating, or was it a lengthy and expensive process that led to this point? But one thing's for sure - this compensation is a big deal, and it's likely to have significant implications for Mo's future."
+      },
+      {
+        "type": "h2",
+        "text": "What We Know So Far"
+      },
+      {
+        "type": "p",
+        "text": "The court's decision to award Mo the maximum compensation under Hong Kong law is a significant one. It suggests that the incident was severe enough to warrant the highest possible payout, which is a pretty rare occurrence. But was the comeback too fast, or is Mo still dealing with the aftermath of whatever happened?"
+      },
+      {
+        "type": "h2",
+        "text": "The Verdict Is In"
+      },
+      {
+        "type": "p",
+        "text": "The fact that Mo received the maximum compensation is a clear indication that the court took his case very seriously. Now, we're left wondering what's next for this talented dancer. Will he be able to put this incident behind him and continue his career, or will the effects be long-lasting? [originally reported by instagram.com](https://www.instagram.com/reel/DZriRLhj9Ev/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1781806614219-5": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Grey Hair Don't Care"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "A hilarious TikTok clip shows friends joking about their hair turning grey.",
+          "The video is ridiculously candid and playful, and we're living for it.",
+          "It's just a short exchange, but it's real talk about getting older.",
+          "The tone is lighthearted and frank, making it super relatable."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "So, have you ever had that moment when you're hanging out with friends, and someone casually points out that you're going grey? That's basically what's happening in this clip, and it's honestly kind of amazing. The friends in the video aren't trying to be celebrities or anything - they're just being themselves, grey hair and all. But was the conversation too casual? I mean, who talks about their hair turning grey like it's no big deal?"
+      },
+      {
+        "type": "h2",
+        "text": "The Refreshing Part"
+      },
+      {
+        "type": "p",
+        "text": "The best part about this clip is that it's not trying to sell us anything or promote some fancy hair dye. It's just a genuine conversation between friends, and that's what makes it so funny and charming. We've all been there - looking in the mirror, wondering when our hair started to go grey, and trying to decide whether to dye it or just own it. But these friends are just rolling with it, and that's kind of inspiring. They're not taking themselves too seriously, and that's what makes the video so entertaining."
+      },
+      {
+        "type": "h2",
+        "text": "What Fans Are Saying"
+      },
+      {
+        "type": "p",
+        "text": "Fans are loving the clip, and it's easy to see why. It's a lighthearted, humorous take on getting older, and it's nice to see people being real about it. We're not used to seeing this kind of candid conversation in K-entertainment, so it's a breath of fresh air. That's why this video is gaining so much attention - it's just a fun, playful clip that's making people laugh. [originally reported by TikTok](https://www.tiktok.com/@dimpeystudios/video/7651368936008584461)"
       }
     ],
     "takeaways": []

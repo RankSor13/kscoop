@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1781806604926-1",
+    "slug": "the-most-exciting-new-k-dramas-to-watch-in-2026-tatler-asia",
+    "title": "The most exciting new K-dramas to watch in 2026 - Tatler Asia",
+    "summary": "From romances like Can This Love Be Translated? to a fresh wave of modern K-dramas, 2026 is already promising a line-up that will entertain fans. Whether you ...",
+    "category": "upcoming",
+    "author": "Ji Yeon Park",
+    "source": "tatlerasia.com",
+    "sourceUrl": "https://www.tatlerasia.com/lifestyle/entertainment/new-korean-dramas-to-watch",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781806606778-2",
+    "slug": "8-korean-dramas-releasing-in-june-2026-where-to-watch-upcoming",
+    "title": "8 Korean dramas releasing in June 2026 (+ Where to Watch) - #upcoming",
+    "summary": "5d. Kdramas Night And Day. 󱢏. Agent Kim reactivated will now be available on Netflix to watch! 3d. 1. Profile photo of Silvia. Silvia Marzoli. So ji sub. 4d.",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/KdramasNightAndDay/videos/8-korean-dramas-releasing-in-june-2026-where-to-watchupcoming-kdramalover/2073055106576914/",
+    "date": "6 days ago",
+    "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/722131502_1392199749384981_9170926134244873642_n.jpg?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=CRm7Q4DfbWUQ7kNvwEWCdzZ&amp;_nc_oc=AdoydMvCU6GCBuIJqK0nWRezsFVcLVcUSy2pmWkpD5FFwtGemi1s8Q9GCk79hUW0w5M&amp;_nc_zt=23&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=k-tx2yJpYWnmi4jA76zxHg&amp;_nc_ss=70289&amp;oh=00_Af8JZBG92F2I7iCmDQrEi7U4ARU0-8MBIrqppaT22V5n_Q&amp;oe=6A3A20D4",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781806610239-3",
+    "slug": "top-10-on-disney-in-south-korea-on-june-11-2026-flixpatrol",
+    "title": "TOP 10 on Disney+ in South Korea on June 11, 2026 - FlixPatrol",
+    "summary": "Disney+ TOP 10 in South Korea on June 11, 2026 ; TOP 10 Overall · Doctor on the Edge, 9 d ; TOP 10 Movies · Hoppers, 7 d ; TOP 10 TV Shows · Doctor on the Edge, 9 d.",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "flixpatrol.com",
+    "sourceUrl": "https://flixpatrol.com/top10/disney/south-korea/",
+    "date": "7 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781806611939-4",
+    "slug": "a-hong-kong-court-awarded-dancer-li-kai-yin-also-known-as",
+    "title": "A Hong Kong court awarded dancer Li Kai-yin, also known as ...",
+    "summary": "A Hong Kong court awarded dancer Li Kai-yin, also known as Mo, HK$6.29 million (US$803,000) in compensation — the maximum allowed under city law — after he ...",
+    "category": "trending",
+    "author": "Hana Cho",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DZriRLhj9Ev/",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1781806614219-5",
+    "slug": "hair-turning-grey-funny-real-talk-about-salt-and-pepper",
+    "title": "Hair Turning Grey: Funny Real Talk About Salt-and-Pepper ...",
+    "summary": "This short clip captures a candid, humorous exchange between friends confronting the moment their hair starts to go grey. The tone is playful, frank, ...",
+    "category": "trending",
+    "author": "Mia Kwon",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@dimpeystudios/video/7651368936008584461",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1781806617060-6",
+    "slug": "name-and-information-name-teach-you-a-lesson-year-2026",
+    "title": "Name & Information Name= Teach You a Lesson Year= 2026 ...",
+    "summary": "Korea Release Date: June 5, 2026 Main Cast: Kim Mu-yeol as Na Hwa-jin Lee Sung-min as Choi Gang-seok Jin Ki-joo as Im Han-rim Pyo Ji-hoon (P.O) as Bong Geun- ...",
+    "category": "casting",
+    "author": "Rina Baek",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DZnI7ifomAw/",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "casting",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1781796408224-1",
     "slug": "south-korean-celebrity-tiktok",
     "title": "South Korean Celebrity | TikTok",
@@ -1667,7 +1769,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-06-18T15:26:50.481Z";
+export const LAST_UPDATED = "2026-06-18T18:16:57.297Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
