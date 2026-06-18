@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1781787694308-1",
+    "slug": "oh-shin-haeng-shifts-from-politics-to-pop-facebook",
+    "title": "Oh Shin-haeng shifts from politics to pop. - Facebook",
+    "summary": "Jung Yong-hwa of CNBlue: from rocking busker in Japan to multitalented bandleader taking on K-pop in Korea Jung has spent 10 years in the music industry, ...",
+    "category": "trending",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/malaymaildotcom/posts/oh-shin-haeng-shifts-from-politics-to-pop/1453649146799435/",
+    "date": "13 hours ago",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/K-pop_Music_Fest_2013_in_Sydney_%2810236993453%29.jpg/640px-K-pop_Music_Fest_2013_in_Sydney_%2810236993453%29.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781787696915-2",
+    "slug": "why-do-so-many-korean-actresses-get-plastic-surgery-even-though",
+    "title": "Why do so many Korean actresses get plastic surgery even though ...",
+    "summary": "This is Seorina. She starred in the <b>popular K</b>-drama Business Proposal. Her chin looks slimmer and longer, and her veneers are noticeable too. KPop idols ...",
+    "category": "trending",
+    "author": "Soo Min Lee",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/kdramas/comments/1u7f2vg/why_do_so_many_korean_actresses_get_plastic/",
+    "date": "2 days ago",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Seoul_Skyline_%28cropped%29.jpg/640px-Seoul_Skyline_%28cropped%29.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781787699143-3",
+    "slug": "global-statistics-on-instagram-from-k-drama-stars-to-k-pop",
+    "title": "Global Statistics on Instagram: \" From K-drama stars to K-pop ...",
+    "summary": "From Lee Min-ho and Kim Soo-hyun to Gong Yoo and Ma Dong-seok, these stars have helped shape the worldwide Korean Wave (Hallyu). ✨ Who is your favorite South ...",
+    "category": "trending",
+    "author": "Dana Kim",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DZew8NBSZbC/",
+    "date": "6 days ago",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Korean_Drama_-_My_Love_from_the_Star_poster.jpg/427px-Korean_Drama_-_My_Love_from_the_Star_poster.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781787701133-4",
+    "slug": "korean-celebrity-crushes-videos-snapchat",
+    "title": "Korean Celebrity Crushes Videos - Snapchat",
+    "summary": "This quick-cut video reveals a list of popular Korean actors and which fellow celebrities they have publicly admitted to having a crush on.",
+    "category": "trending",
+    "author": "Hana Cho",
+    "source": "snapchat.com",
+    "sourceUrl": "https://www.snapchat.com/topic/korean-celebrity-crushes",
+    "date": "1 day ago",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Seoul_at_night.jpg/640px-Seoul_at_night.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1781787702757-5",
+    "slug": "lee-hye-ri-wikipedia",
+    "title": "Lee Hye-ri - Wikipedia",
+    "summary": "Lee Hye-ri (Korean: 이혜리 ; born June 9, 1994), better known mononymously as Hyeri, is a South Korean actress, singer, and television personality.",
+    "category": "trending",
+    "author": "Mia Kwon",
+    "source": "en.wikipedia.org",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Lee_Hye-ri",
+    "date": "4 days ago",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Lotte_World_Tower_and_Mall_from_the_Seokchon_Lake_%2820190717%29.jpg/640px-Lotte_World_Tower_and_Mall_from_the_Seokchon_Lake_%2820190717%29.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1781787702820-6",
+    "slug": "positively-yours-2026-full-cast-and-crew",
+    "title": "Positively Yours (2026) Full Cast & Crew",
+    "summary": "Zhang Linghe and Tian Xiwei are bringing an exciting lineup of Chinese dramas Chae Won Bin, Kang Hoon and more confirmed for new historical K-drama News",
+    "category": "casting",
+    "author": "Rina Baek",
+    "source": "mydramalist.com",
+    "sourceUrl": "https://mydramalist.com/794566-positively-yours/cast",
+    "date": "13 hours ago",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/640px-Flag_of_South_Korea.svg.png",
+    "tags": [
+      "casting",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1781786850654-1",
     "slug": "kim-ji-won-is-a-south-korean-actress-she-entered-the",
     "title": "Kim Ji Won is a South Korean actress. She entered the ...",
@@ -948,7 +1050,7 @@ export const HERO_FEATURES = [
   },
 ];
 
-export const LAST_UPDATED = "2026-06-18T12:47:44.616Z";
+export const LAST_UPDATED = "2026-06-18T13:01:42.901Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES

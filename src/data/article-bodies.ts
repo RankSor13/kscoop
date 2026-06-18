@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-06-18T12:47:44.617Z
+ * Last updated: 2026-06-18T13:01:42.903Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -1540,5 +1540,169 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       "The post has been making the rounds on social media, with many users sharing their own thoughts and experiences with judgment and negativity.",
       "The hashtag #trending is being used to track the conversation and connect with others who are sharing their own stories."
     ]
+  },
+  "live-1781787694308-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Wait, What's This? A Politician's Sudden Career Shift"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Oh Shin-haeng is ditching politics for a pop career, and we're still trying to wrap our heads around it",
+          "This move is coming out of left field, and honestly, it's a big deal",
+          "Jung Yong-hwa of CNBlue has already made a name for himself in the music industry, but this is a different story altogether",
+          "We're not sure what to expect from Oh Shin-haeng's music, but we're definitely curious"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "The Background Check"
+      },
+      {
+        "type": "p",
+        "text": "Oh Shin-haeng's career shift is surprising, to say the least. But let's take a step back and look at someone who's already navigated a similar path - Jung Yong-hwa of CNBlue. He went from being a rocking busker in Japan to a multitalented bandleader in Korea, and that's no easy feat. Jung's spent 10 years in the music industry, so he's got some serious experience under his belt."
+      },
+      {
+        "type": "h2",
+        "text": "But What About Oh Shin-haeng?"
+      },
+      {
+        "type": "p",
+        "text": "So, what makes Oh Shin-haeng think he can make it in the pop world? We don't have all the details yet, but it's clear that he's looking for a change. And who knows, maybe this career shift will be just what he needs to shake things up. But was the decision to leave politics for pop a sudden one, or has he been considering it for a while?"
+      },
+      {
+        "type": "h2",
+        "text": "The Plot Thickens"
+      },
+      {
+        "type": "p",
+        "text": "We're not sure what's driving Oh Shin-haeng's decision, but we can't help but wonder - what kind of music will he make? Will he draw from his political background, or will he start from scratch? The possibilities are endless, and we're excited to see what he comes up with. But will he be able to make a name for himself in the competitive world of K-pop?"
+      },
+      {
+        "type": "h2",
+        "text": "Why We're Watching"
+      },
+      {
+        "type": "p",
+        "text": "Oh Shin-haeng's career shift is definitely a story we'll be keeping an eye on. It's not every day that a politician tries to make it in the pop world, and we're curious to see how it all plays out. Will he be able to pull it off, or will he fizzle out? [originally reported by Malay Mail](https://www.facebook.com/malaymaildotcom/posts/oh-shin-haeng-shifts-from-politics-to-pop/1453649146799435/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1781787696915-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Plastic Surgery Conundrum in K-Dramas"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Seorina, star of the popular K-drama Business Proposal, has sparked conversation about plastic surgery in the K-entertainment industry.",
+          "Her noticeable transformation, including a slimmer and longer chin, has fans talking.",
+          "The use of veneers is also apparent, leaving many to wonder about the pressure to conform to certain beauty standards.",
+          "KPop idols aren't exempt from this trend either, with many opting for surgical enhancements."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The K-drama world is no stranger to plastic surgery, but it's still surprising to see just how common it is. Take Seorina, for example - she's barely recognizable after her recent transformations. But was the decision to go under the knife really hers to make, or is there more pressure from the industry? That's the question on everyone's mind."
+      },
+      {
+        "type": "h2",
+        "text": "A Deeper Look at Beauty Standards"
+      },
+      {
+        "type": "p",
+        "text": "Seorina's transformation is just one example of the many K-drama stars who've opted for plastic surgery. And let's be real, it's not just about looking good - it's about fitting into the narrow beauty standards that dominate the K-entertainment industry. But what's driving this trend, and is it fair to expect these stars to conform? It's a complex issue, and one that fans are grappling with."
+      },
+      {
+        "type": "h2",
+        "text": "The Impact on Fans"
+      },
+      {
+        "type": "p",
+        "text": "So, what do fans think about all this? Honestly, it's a mixed bag. Some are understanding, recognizing that the pressure to look a certain way is intense. Others are disappointed, feeling like their favorite stars are losing their unique look. But one thing's for sure - the conversation around plastic surgery in K-dramas is far from over. [originally reported by reddit.com](https://www.reddit.com/r/kdramas/comments/1u7f2vg/why_do_so_many_korean_actresses_get_plastic/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1781787699143-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "K-Drama Stars Take Over Instagram"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Lee Min-ho and Kim Soo-hyun are among the top K-drama stars on Instagram, but that's not a surprise, right?",
+          "They're joined by Gong Yoo and Ma Dong-seok, who aren't exactly new to the global scene either.",
+          "These stars have been instrumental in shaping the Korean Wave, or Hallyu, worldwide.",
+          "They've got a huge following, and it's easy to see why - their dramas are addictive, and we can't get enough of them."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "So, who's your favorite K-drama star? Honestly, it's hard to choose just one. Lee Min-ho's got his swoon-worthy roles in dramas like Boys Over Flowers, while Kim Soo-hyun's proven his acting chops in everything from Dream High to It's Okay to Not Be Okay. And let's not forget Gong Yoo, who's stolen hearts in Goblin and Train to Busan. Ma Dong-seok's not far behind, with his tough-guy image and lovable personality."
+      },
+      {
+        "type": "h2",
+        "text": "The Power of Hallyu"
+      },
+      {
+        "type": "p",
+        "text": "But what's really interesting here is how these stars have contributed to the global Korean Wave. They've helped introduce K-drama to a whole new audience, and their influence can't be overstated. We're talking sold-out fan meetings, record-breaking drama viewership, and a whole lot of love for all things Korean. It's a big deal, and we're not wrong to be excited about it."
+      },
+      {
+        "type": "h2",
+        "text": "What's Next for These Stars?"
+      },
+      {
+        "type": "p",
+        "text": "So, what's next for these K-drama stars? Will they continue to break barriers and push the boundaries of Hallyu? We're hoping so, because honestly, we can't get enough of them. But for now, let's just enjoy the fact that they're killing the game on Instagram - and everywhere else, for that matter. [originally reported by instagram.com](https://www.instagram.com/reel/DZew8NBSZbC/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1781787701133-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Crush Alert: Korean Celebs Spill Their Secrets"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Korean actors are revealing their celebrity crushes, and it's getting juicy",
+          "The list includes popular Korean actors and the fellow celebrities they can't help but admire",
+          "These crushes are public knowledge, and fans are eating it up",
+          "The video is a quick-cut reveal of who's crushing on who"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "So, who's got a crush on who? Honestly, this is a big deal - we're talking about our favorite K-drama stars spilling their secrets. The video's got all the tea, and it's a wild ride. But was it always this easy for these celebs to admit their feelings? That's what's got everyone talking."
+      },
+      {
+        "type": "h2",
+        "text": "The Crush List"
+      },
+      {
+        "type": "p",
+        "text": "The list itself is what's making headlines, with some unexpected pairings that are leaving fans intrigued. It's not every day you get to see your favorite actors being so candid about their feelings. But what's really interesting is how these crushes might affect the K-drama world - will we see any of these pairs team up for a project soon?"
+      },
+      {
+        "type": "h2",
+        "text": "Fan Reaction"
+      },
+      {
+        "type": "p",
+        "text": "Fans are having a field day with this news, and it's easy to see why. Who doesn't love a good crush story? The speculation's already started, with fans shipping their favorite celeb pairs and imagining what could be. But what do you think - are these crushes the start of something beautiful, or just a fun distraction from our favorite K-dramas? [originally reported by Snapchat](https://www.snapchat.com/topic/korean-celebrity-crushes)"
+      }
+    ],
+    "takeaways": []
   }
 };
