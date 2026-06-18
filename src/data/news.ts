@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1781786850654-1",
+    "slug": "kim-ji-won-is-a-south-korean-actress-she-entered-the",
+    "title": "Kim Ji Won is a South Korean actress. She entered the ...",
+    "summary": "Kim Ji Won is a South Korean actress. She entered the entertainment industry in 2010 through commercials, earning recognition as the “Oran C Girl” and ...",
+    "category": "trending",
+    "author": "Ji Yeon Park",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DZmyD9VypI6/",
+    "date": "3 days ago",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/K-pop_Music_Fest_2013_in_Sydney_%2810236993453%29.jpg/640px-K-pop_Music_Fest_2013_in_Sydney_%2810236993453%29.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781786852962-2",
+    "slug": "do-celebrities-get-special-treatment-public-outrage-over",
+    "title": "\"Do celebrities get special treatment?\"… Public outrage over ...",
+    "summary": "[앵커] 그룹 아이브의 멤버 장원영 씨가 마스크를 살짝 내리며 공항 신분 확인 절차에 응한 영상이 연예인 특혜로 논란이 번졌습니다. 한국공항공사는 앞으로 여객 ...",
+    "category": "trending",
+    "author": "Soo Min Lee",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=rIvm9b20eso",
+    "date": "1 day ago",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Seoul_Skyline_%28cropped%29.jpg/640px-Seoul_Skyline_%28cropped%29.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781786855318-3",
+    "slug": "seoyeon-doing-whatever-it-takes-to-win-rtriples",
+    "title": "Seoyeon doing whatever it takes to win : r/triples",
+    "summary": "Shades of the infamous Mina Sue-Seungil-Sunghun attempt at this game from Singles Inferno 5 (NSFWish for beachwear). Everyone is having a good time except ...",
+    "category": "trending",
+    "author": "Dana Kim",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/triples/comments/1u46od8/seoyeon_doing_whatever_it_takes_to_win/",
+    "date": "5 days ago",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Korean_Drama_-_My_Love_from_the_Star_poster.jpg/427px-Korean_Drama_-_My_Love_from_the_Star_poster.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781786857536-4",
+    "slug": "david-beckham-gets-hollywood-walk-of-fame-star-tom",
+    "title": "David Beckham gets Hollywood Walk of Fame star; Tom ...",
+    "summary": "David Beckham gets Hollywood Walk of Fame star; Tom Cruise's tribute leaves fans emotional. TOI.in / Jun 13, 2026, 02:28PM IST.",
+    "category": "trending",
+    "author": "Hana Cho",
+    "source": "timesofindia.indiatimes.com",
+    "sourceUrl": "https://timesofindia.indiatimes.com/videos/etimes/bollywood/david-beckham-gets-hollywood-walk-of-fame-star-tom-cruises-tribute-leaves-fans-emotional/videoshow/131700973.cms",
+    "date": "5 days ago",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Seoul_at_night.jpg/640px-Seoul_at_night.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1781786859993-5",
+    "slug": "never-seen-this-man-so-happy-kevinlove-lilkev-kevin",
+    "title": "Never seen this man so happy 😂😂 #kevinlove #lilkev @Kevin ...",
+    "summary": "Kevin Crawford's song 'Love You're So Beautiful' is an emotional celebration of beauty and admiration. The lyrics express a deep longing and appreciation, with ...",
+    "category": "trending",
+    "author": "Mia Kwon",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@richardajefferson/video/7652401749008944415",
+    "date": "20 hours ago",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Lotte_World_Tower_and_Mall_from_the_Seokchon_Lake_%2820190717%29.jpg/640px-Lotte_World_Tower_and_Mall_from_the_Seokchon_Lake_%2820190717%29.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1781786862218-6",
+    "slug": "pov-they-judge-you-because-they-could-never-there-are",
+    "title": "POV: they judge you because they could never 💅🏼 There are ...",
+    "summary": "POV: they judge you because they could never There are still good people out there @KATSEYE @ILLIT @LE SSERAFIM #trending #katseye #illit #lesserafim.",
+    "category": "trending",
+    "author": "Rina Baek",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@paco_rayane/video/7651261591056354592",
+    "date": "3 days ago",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/640px-Flag_of_South_Korea.svg.png",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1781785349265-1",
     "slug": "the-anomalies-in-kbiz-wherein-these-2-korean-stars-who",
     "title": "The Anomalies in Kbiz, wherein these 2 KOREAN STARS who ...",
@@ -846,7 +948,7 @@ export const HERO_FEATURES = [
   },
 ];
 
-export const LAST_UPDATED = "2026-06-18T12:22:45.651Z";
+export const LAST_UPDATED = "2026-06-18T12:47:44.616Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
