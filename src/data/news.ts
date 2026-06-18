@@ -4,7 +4,7 @@
  * and image-search results (image-search via z-ai SDK).
  *
  * Last refreshed: 2026-06-17
- * Refresh policy: daily (see /api/refresh and GitHub Action).
+ * Refresh policy: daily (see /api/refresh and GitHub Action)
  */
 
 import { ARTICLE_BODIES } from "./article-bodies";
@@ -214,7 +214,7 @@ export const NEWS: NewsItem[] = [
     "source": "en.wikipedia.org",
     "sourceUrl": "https://en.wikipedia.org/wiki/Oh_Jung-se",
     "date": "5 days ago",
-    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Oh_Jung-se_in_November_2024.png",
     "tags": [
       "gossip",
       "korean-entertainment"
@@ -248,7 +248,7 @@ export const NEWS: NewsItem[] = [
     "source": "koreajoongangdaily.com",
     "sourceUrl": "https://www.koreajoongangdaily.com/",
     "date": "6 days ago",
-    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "image": "https://image.koreajoongangdaily.com/12626953.webp?width=1200&height=630",
     "tags": [
       "gossip",
       "korean-entertainment"
@@ -384,7 +384,7 @@ export const NEWS: NewsItem[] = [
     "source": "iq.com",
     "sourceUrl": "https://www.iq.com/album/never-ending-summer-2026-14mg4loc341?lang=en_us",
     "date": "2 days ago",
-    "image": "https://images.unsplash.com/photo-1538669715315-155098f0fb1d?w=800&q=80",
+    "image": "https://pic6.iqiyipic.com/image/20260616/3c/ea/a_100838730_m_601_en_1080_608.jpg",
     "tags": [
       "casting",
       "korean-entertainment"
@@ -469,7 +469,7 @@ export const NEWS: NewsItem[] = [
     "source": "snapchat.com",
     "sourceUrl": "https://www.snapchat.com/topic/korean-celebrity-crushes",
     "date": "1 day ago",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Seoul_at_night.jpg/640px-Seoul_at_night.jpg",
+    "image": "https://www.snapchat.com/web-capture/www.snapchat.com/topic/korean-celebrity-crushes/preview/facebook.png",
     "tags": [
       "trending",
       "korean-entertainment"
@@ -486,7 +486,7 @@ export const NEWS: NewsItem[] = [
     "source": "en.wikipedia.org",
     "sourceUrl": "https://en.wikipedia.org/wiki/Lee_Hye-ri",
     "date": "4 days ago",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Lotte_World_Tower_and_Mall_from_the_Seokchon_Lake_%2820190717%29.jpg/640px-Lotte_World_Tower_and_Mall_from_the_Seokchon_Lake_%2820190717%29.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Hyeri_in_July_2025.png",
     "tags": [
       "trending",
       "korean-entertainment"
@@ -571,7 +571,7 @@ export const NEWS: NewsItem[] = [
     "source": "timesofindia.indiatimes.com",
     "sourceUrl": "https://timesofindia.indiatimes.com/videos/etimes/bollywood/david-beckham-gets-hollywood-walk-of-fame-star-tom-cruises-tribute-leaves-fans-emotional/videoshow/131700973.cms",
     "date": "5 days ago",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Seoul_at_night.jpg/640px-Seoul_at_night.jpg",
+    "image": "https://static.toiimg.com/thumb/msid-131700973,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "tags": [
       "trending",
       "korean-entertainment"
@@ -621,7 +621,7 @@ export const NEWS: NewsItem[] = [
     "source": "facebook.com",
     "sourceUrl": "https://www.facebook.com/chingunatics/videos/the-anomalies-in-kbiz-wherein-these-2-korean-stars-who-never-take-new-works-yet-/2026230604650414/",
     "date": "2 days ago",
-    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/725474621_1525686869093538_2242699359329052992_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=qnswu0tilG8Q7kNvwGZ3Klt&amp;_nc_oc=AdrAVLWvnyuy3mlS8h5HL11QJ9--YG8mV5Q_sl_-Uw1Vw0AxW9m4weofYZNAclBA2vA&amp;_nc_zt=23&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=gy3ZvshIvWT2Glk22jNqsQ&amp;_nc_ss=70289&amp;oh=00_Af-06ke24Dj8AXCN8tmogqBPFe90_Sj1XYZYwIIuiawaqQ&amp;oe=6A39D1E2",
     "tags": [
       "auto",
       "live",
@@ -824,7 +824,7 @@ export const NEWS: NewsItem[] = [
     "source": "The Straits Times",
     "sourceUrl": "https://www.straitstimes.com/life/entertainment/s-korean-star-kim-soo-hyun-returns-to-work-with-fashion-brand-tie-up-aft",
     "date": "2026-06-09",
-    "image": "https://sfile.chatglm.cn/images-ppt/5eb965d0a16d.jpg",
+    "image": "https://static1.straitstimes.com.sg/s3fs-public/articles/2025/06/05/ST-bg.jpg",
     "tags": [
       "Kim Soo-hyun",
       "comeback",
@@ -841,7 +841,7 @@ export const NEWS: NewsItem[] = [
     "source": "BBC News",
     "sourceUrl": "https://www.bbc.com/news/articles/c0r2j18k2vxo",
     "date": "2026-06-05",
-    "image": "https://sfile.chatglm.cn/images-ppt/ef8859b912a1.jpeg",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e6ec/live/37559f30-55f6-11f1-89a3-d1f559421220.jpg",
     "tags": [
       "Kim Soo-hyun",
       "AI",
@@ -1024,7 +1024,7 @@ export const NEWS: NewsItem[] = [
     "source": "NoSleep4Dramas",
     "sourceUrl": "https://nosleep4dramas.com/2026/01/28/anticipated-kdramas-of-2026",
     "date": "2026-01-28",
-    "image": "https://sfile.chatglm.cn/images-ppt/e0889b4a1796.jpg",
+    "image": "https://i0.wp.com/nosleep4dramas.com/wp-content/uploads/2026/05/7a553b_d9ebce015721498d8a16004a93fe2d1amv2-1.jpg?fit=828%2C1172&#038;ssl=1",
     "tags": [
       "Climax",
       "Reverse",
@@ -1041,7 +1041,7 @@ export const NEWS: NewsItem[] = [
     "source": "TIME",
     "sourceUrl": "https://time.com/7345886/korean-dramas-2026",
     "date": "2026-02-10",
-    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt4d3390e85e9c469b/6998ccda66d4e3adeacbd29e/kdrama-2026.jpg?branch=production&amp;width=3840&amp;quality=75&amp;auto=webp&amp;crop=16:9",
     "tags": [
       "TIME",
       "2026 preview",
@@ -1356,7 +1356,7 @@ export const HERO_FEATURES = [
   },
 ];
 
-export const LAST_UPDATED = "2026-06-18T13:58:45.035Z";
+export const LAST_UPDATED = "2026-06-18T14:50:43.282Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
