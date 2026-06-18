@@ -103,6 +103,210 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1781795378473-1",
+    "slug": "5-must-watch-k-dramas-releasing-in-june-2026-youtube",
+    "title": "5 Must watch K-dramas Releasing in June 2026 - YouTube",
+    "summary": "Doctor on the Edge (June 1 • Disney+) 01:35 – Teach You a Lesson (June 5 • Netflix) 02:35 – See You at Work Tomorrow! (June. Notes from the Last Row (June 26 • ...",
+    "category": "upcoming",
+    "author": "Ji Yeon Park",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=o2-WfK8lQ4c",
+    "date": "2 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781795379389-2",
+    "slug": "teach-you-a-lesson-outperforms-major-korean-dramas-on-netflix",
+    "title": "Teach You a Lesson outperforms major Korean dramas on Netflix",
+    "summary": "Kim Mu Yeol's new Netflix series “Teach You a Lesson” Release & Streaming: • Premiere Date: June 5, 2026 on Netflix • Episodes: 10 • Streaming: Netflix (Global)",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/groups/3453547904961059/posts/4414431118872728/",
+    "date": "22 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781795379550-3",
+    "slug": "10-perfect-k-dramas-you-should-watch-in-2026-collider",
+    "title": "10 Perfect K-Dramas You Should Watch in 2026 - Collider",
+    "summary": "Discover the top K-dramas to watch in 2026, featuring new shows that will keep you hooked, from The Scarecrow to We Are All Trying Here.",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "collider.com",
+    "sourceUrl": "https://collider.com/perfect-k-drama-shows-to-watch-2026/",
+    "date": "4 days ago",
+    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/06/the-legend-of-kitchen-soldier1.jpg?w=1600&amp;h=900&amp;fit=crop",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781795379913-4",
+    "slug": "gilmore-girls-is-leaving-netflix-us-after-12-years-june-30-2026",
+    "title": "'Gilmore Girls' is leaving Netflix US after 12 years (June 30, 2026)",
+    "summary": "It's already on Hulu/Disney+ in the US. Gilmore Girls: The Complete Series coming to Blu-ray on May 5 in 28-disc box. Korean SciFi show on Netflix?",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/television/comments/1u6yznl/pour_one_cup_of_coffee_out_gilmore_girls_is/",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1781795380045-5",
+    "slug": "best-korean-drama-to-watch-on-netflix-disney-viki-youtube",
+    "title": "Best Korean Drama To Watch on Netflix, Disney+, Viki - YouTube",
+    "summary": "Top 10 Best Crime Korean Dramas of 2026 | Best Korean Drama To Watch on Netflix, Disney+, Viki · Comments.",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=r7Wb_sOsyV0",
+    "date": "5 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1781795380879-6",
+    "slug": "1-doctor-on-the-edge-june-1-2-teach-you-a-lesson-instagram",
+    "title": "1. Doctor on the Edge - June 1 2. Teach you a Lesson - Instagram",
+    "summary": "These are the five dramas releasing this month so what are you most excited to watch? OCR. Upcoming KDramas June 2026 Doctor's on Edge Disney+ ONLY ON NETFLIX ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/DZpqrpvFGqc/",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1781795014631-1",
+    "slug": "guys-i-feel-so-bad-for-this-guy-actor-jo-byeong-gyu-he-facebook",
+    "title": "Guys, I feel so bad for this guy, Actor Jo Byeong Gyu He ... - Facebook",
+    "summary": "KOREA | Jo Byung-gyu has lost his 4 billion KRW defamation lawsuit against a person who accused him for school bullying. The Seoul Central District Court ruled ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/100091857426174/posts/guys-i-feel-so-bad-for-this-guy-actor-jo-byeong-gyuhe-was-accused-of-bullying-an/953720791033160/",
+    "date": "2 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781795015035-2",
+    "slug": "who-was-sanchita-ugale-kumkum-bhagya-and-chhaava",
+    "title": "Who Was Sanchita Ugale? Kumkum Bhagya And Chhaava ...",
+    "summary": "Television actress and Chhaava star Sanchita Ugale has died at her residence in Maharashtra's Nalasopara, just hours after sharing a cheerful Instagram reel ...",
+    "category": "trending",
+    "author": "Soo Min Lee",
+    "source": "timesofindia.indiatimes.com",
+    "sourceUrl": "https://timesofindia.indiatimes.com/videos/etimes/bollywood/who-was-sanchita-ugale-kumkum-bhagya-and-chhaava-actress-dies-by-suicide-at-22/videoshow/131748913.cms",
+    "date": "2 days ago",
+    "image": "https://static.toiimg.com/thumb/msid-131748913,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781795015670-3",
+    "slug": "batwara-1947-official-teaser-shabana-azmi-sunny-deol",
+    "title": "Batwara 1947 | Official Teaser | Shabana Azmi | Sunny Deol ...",
+    "summary": "When batwara drew lines between people, he chose courage over fear. Watch #Batwara1947 in cinemas on 14th August. Starring: Sunny Deol, Preity G. Zinta, ...",
+    "category": "trending",
+    "author": "Dana Kim",
+    "source": "bollywoodhungama.com",
+    "sourceUrl": "https://www.bollywoodhungama.com/videos/movie-promos/batwara-1947-official-teaser-shabana-azmi-sunny-deol-aamir-khan-productions-14th-aug-2026/",
+    "date": "6 hours ago",
+    "image": "https://www.bollywoodhungama.com/videos/movie-promos/batwara-1947-official-teaser-shabana-azmi-sunny-deol-aamir-khan-productions-14th-aug-2026",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781795016272-4",
+    "slug": "chicken-shop-date-out-friday-zara-larsson",
+    "title": "@Chicken Shop Date OUT FRIDAY !! | Zara Larsson",
+    "summary": "With notable names like Amelia Dimz and Rose Byrne among those recognized, the anticipation for the ceremony only grows stronger. What thoughts do you have ...",
+    "category": "trending",
+    "author": "Hana Cho",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@ameliadimz/video/7652409989713251606",
+    "date": "22 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1781795016807-5",
+    "slug": "alpha-official-trailer-alia-bhatt-sharvari-anil-kapoor",
+    "title": "Alpha | Official Trailer | Alia Bhatt, Sharvari, Anil Kapoor ...",
+    "summary": "You saw the FIRST KILL. Now get ready to witness THE HUNT. Presenting the Official Trailer of “ALPHA” Welcome to the newest chapter of the YRF Spy Universe ...",
+    "category": "trending",
+    "author": "Mia Kwon",
+    "source": "bollywoodhungama.com",
+    "sourceUrl": "https://www.bollywoodhungama.com/videos/movie-promos/alpha-official-trailer-alia-bhatt-sharvari-anil-kapoor-bobby-deol-shiv-rawail-yrf-spy-universe/",
+    "date": "1 day ago",
+    "image": "https://www.bollywoodhungama.com/videos/movie-promos/alpha-official-trailer-alia-bhatt-sharvari-anil-kapoor-bobby-deol-shiv-rawail-yrf-spy-universe",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1781795017031-6",
+    "slug": "new-korean-dramas-in-2026-netflix",
+    "title": "New Korean Dramas in 2026 Netflix",
+    "summary": "Gong Yoo and Song Hye-kyo are set to share the screen in Netflix's highly anticipated historical drama 'Tantara,' officially confirmed for a 2026 release. Cast ...",
+    "category": "casting",
+    "author": "Rina Baek",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/discover/new-korean-dramas-in-2026-netflix",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "casting",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1781791114496-1",
     "slug": "hyeri-speaks-out-on-beauty-standards-facebook",
     "title": "HYERI SPEAKS OUT ON BEAUTY STANDARDS - Facebook",
@@ -1361,7 +1565,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-06-18T14:50:43.282Z";
+export const LAST_UPDATED = "2026-06-18T15:09:41.139Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
