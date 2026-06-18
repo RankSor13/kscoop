@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1781788138776-1",
+    "slug": "a-bold-new-chapter-former-le-sserafim-member-kim-ga-ram",
+    "title": "\"A Bold New Chapter: Former Le Sserafim Member Kim Ga-ram ...",
+    "summary": "\"A Bold New Chapter: Former Le Sserafim Member Kim Ga-ram Signs Exclusive Acting Contract.\" Four years after vanishing from the K-pop spotlight, one of the ...",
+    "category": "trending",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/KoreadailyUS/posts/a-bold-new-chapter-former-le-sserafim-member-kim-ga-ram-signs-exclusive-acting-c/1332611182294600/",
+    "date": "12 hours ago",
+    "image": "https://images.unsplash.com/photo-1517760444937-f6397edcbbcd?w=800&q=80",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781788140915-2",
+    "slug": "10-famous-korean-stars-and-their-expensive-hobbies",
+    "title": "10 FAMOUS KOREAN STARS and THEIR EXPENSIVE HOBBIES ...",
+    "summary": "IU (Lee Ji-Eun) – $25 Million IU is considered one of the most popular K-pop stars in Korea. She debuted at the young age of 15 as a singer- songwriter. IU ...",
+    "category": "trending",
+    "author": "Soo Min Lee",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/chingunatics/posts/10-famous-korean-stars-and-their-expensive-hobbies-fblifestyle-koreanstars/1038468598957586/",
+    "date": "3 days ago",
+    "image": "https://images.unsplash.com/photo-1533929736458-ca588d08c8be?w=800&q=80",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781788143356-3",
+    "slug": "song-hye-kyo-continues-to-define-elegance-talent",
+    "title": "SONG HYE KYO CONTINUES TO DEFINE ELEGANCE, TALENT ...",
+    "summary": "Beyond acting, SONG HYE KYO is a global fashion and beauty icon. Whether attending international fashion events, appearing in luxury campaigns, gracing magazine ...",
+    "category": "trending",
+    "author": "Dana Kim",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/DZqCWMtyqvI/?hl=fa",
+    "date": "2 days ago",
+    "image": "https://images.unsplash.com/photo-1601042879364-f3947d3f9c16?w=800&q=80",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781788145830-4",
+    "slug": "taught-us-a-lesson-in-aura-farming-teach-you-a-lesson-kim-mu-yeol-kdrama-introdu",
+    "title": "Taught us a lesson in aura farming. : Teach You a Lesson [Kim Mu-yeol, KDrama, Introduction, Aura, Simp]",
+    "summary": "Release Date: June 5, 2026. Main Cast: Kim Mu-yeol as Na Hwa-jin. Lee Sung-min as Choi Gang-seok. Jin Ki-joo ...",
+    "category": "casting",
+    "author": "Hana Cho",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DZrbjl_DLv8/",
+    "date": "4 hours ago",
+    "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=800&q=80",
+    "tags": [
+      "casting",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1781788149039-5",
+    "slug": "never-ending-summer",
+    "title": "Never-Ending Summer",
+    "summary": ": \"Never-Ending Summer\" is a romance drama series starring Bao Shang'en (\"Whispers of Fate\") and Daniel Zhou (\"A Moment but Forever\"), along with Zhao Yingbo, ...",
+    "category": "casting",
+    "author": "Mia Kwon",
+    "source": "iq.com",
+    "sourceUrl": "https://www.iq.com/album/never-ending-summer-2026-14mg4loc341?lang=en_us",
+    "date": "2 days ago",
+    "image": "https://images.unsplash.com/photo-1538669715315-155098f0fb1d?w=800&q=80",
+    "tags": [
+      "casting",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1781788152868-6",
+    "slug": "netflix-the-east-palace-official-teaser-premieres-july-17-rkdrama",
+    "title": "Netflix 'The East Palace' Official Teaser (Premieres July 17) : r/KDRAMA",
+    "summary": "Cho Seungwoo, Roh Yoonseo, and Nam Joohyuk's upcoming Horror drama \"The East Palace\" is scheduled for release on Netflix on July 17th.",
+    "category": "casting",
+    "author": "Rina Baek",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/KDRAMA/comments/1u8qyjr/netflix_the_east_palace_official_teaser_premieres/",
+    "date": "13 hours ago",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80",
+    "tags": [
+      "casting",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1781787694308-1",
     "slug": "oh-shin-haeng-shifts-from-politics-to-pop-facebook",
     "title": "Oh Shin-haeng shifts from politics to pop. - Facebook",
@@ -1050,7 +1152,7 @@ export const HERO_FEATURES = [
   },
 ];
 
-export const LAST_UPDATED = "2026-06-18T13:01:42.901Z";
+export const LAST_UPDATED = "2026-06-18T13:09:15.247Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES

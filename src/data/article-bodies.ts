@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-06-18T13:01:42.903Z
+ * Last updated: 2026-06-18T13:09:15.248Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -1701,6 +1701,266 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       {
         "type": "p",
         "text": "Fans are having a field day with this news, and it's easy to see why. Who doesn't love a good crush story? The speculation's already started, with fans shipping their favorite celeb pairs and imagining what could be. But what do you think - are these crushes the start of something beautiful, or just a fun distraction from our favorite K-dramas? [originally reported by Snapchat](https://www.snapchat.com/topic/korean-celebrity-crushes)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1781788138776-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Ultimate Plot Twist"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Kim Ga-ram, a former member of Le Sserafim, just signed an exclusive acting contract, and we're still reeling from the news.",
+          "It's been four years since she vanished from the K-pop scene, leaving fans wondering what she'd do next.",
+          "This move marks a bold new chapter in her career, and honestly, it's a big deal.",
+          "The fact that she's choosing to focus on acting is a surprise, but it's also kind of exciting - what can she bring to the table?"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Diving Into The Unknown"
+      },
+      {
+        "type": "p",
+        "text": "Kim Ga-ram's decision to leave Le Sserafim was sudden, and it left a lot of questions unanswered. But now, it seems like she's ready to take on a new challenge. Acting is a whole different ball game compared to singing and performing, so it'll be interesting to see how she navigates this new world. Can she make a name for herself as an actress, or will she always be known as a former K-pop idol? But was the break from the spotlight just what she needed to find her true calling?"
+      },
+      {
+        "type": "h2",
+        "text": "What's Next For Kim Ga-ram"
+      },
+      {
+        "type": "p",
+        "text": "It's not every day that a K-pop idol makes a comeback - or a debut, in this case - in the acting world. We're curious to see what kind of roles she'll take on and how she'll make the transition. Will she stick to dramas, or will she try her hand at movies too? There are so many possibilities, and we can't wait to see what she does next. But for now, we're just happy to see her back in the spotlight, doing something she loves."
+      },
+      {
+        "type": "h2",
+        "text": "The Big Question"
+      },
+      {
+        "type": "p",
+        "text": "So, what made Kim Ga-ram choose acting over singing? Was it a passion she's always had, or did she just want to try something new? We might not have all the answers yet, but one thing's for sure - this is a fresh start for her, and we're rooting for her all the way. [originally reported by KoreadailyUS](https://www.facebook.com/KoreadailyUS/posts/a-bold-new-chapter-former-le-sserafim-member-kim-ga-ram-signs-exclusive-acting-c/1332611182294600/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1781788140915-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Mind-Blowing Price Tag: IU's Net Worth Revealed"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "IU's net worth is a staggering $25 million, and she's still going strong in the K-pop scene.",
+          "She debuted at just 15 years old as a singer-songwriter, which is honestly a big deal.",
+          "IU is considered one of the most popular K-pop stars in Korea, and it's easy to see why.",
+          "Her massive net worth isn't surprising, given her huge success in the industry."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "The Rise of a K-Pop Icon"
+      },
+      {
+        "type": "p",
+        "text": "IU's career is a remarkable one - she's been in the spotlight for years, and she's still only in her 20s. But was her rise to fame too fast? It's hard to say, but one thing's for sure: she's talented, and she's got the bank account to prove it. With a net worth of $25 million, IU is living the dream, and fans can't help but be a little jealous."
+      },
+      {
+        "type": "h2",
+        "text": "What Drives IU's Success"
+      },
+      {
+        "type": "p",
+        "text": "So, what's behind IU's massive net worth? It's likely a combination of things - her successful music career, endorsement deals, and maybe even some savvy investments. Whatever it is, it's clear that IU is doing something right. She's an inspiration to young K-pop fans everywhere, and her success is a testament to her hard work and dedication."
+      },
+      {
+        "type": "h2",
+        "text": "The K-Pop Wealth Gap"
+      },
+      {
+        "type": "p",
+        "text": "But IU's net worth also raises some interesting questions about the K-pop wealth gap. Are other idols earning similar amounts, or is IU an outlier? It's hard to say, but one thing's for sure: IU is one of the most successful K-pop stars out there, and she's got the bank account to prove it. [originally reported by facebook.com](https://www.facebook.com/chingunatics/posts/10-famous-korean-stars-and-their-expensive-hobbies-fblifestyle-koreanstars/1038468598957586/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1781788143356-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "SONG HYE KYO Slays the Fashion Game"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "She's a global fashion and beauty icon, and honestly, it's not hard to see why",
+          "SONG HYE KYO attends international fashion events, and she always turns heads",
+          "She's been in luxury campaigns, and her face is basically everywhere",
+          "The actress graces magazine covers, because who wouldn't want her on their cover?"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "SONG HYE KYO isn't just an amazing actress - she's also a total style icon. Whether she's walking the red carpet or just posting a selfie on Instagram, she's always serving looks. And let's be real, who can pull off attending international fashion events and still manage to outshine everyone else? It's not like we're surprised or anything, but still, it's impressive."
+      },
+      {
+        "type": "p",
+        "text": "But what really sets SONG HYE KYO apart is her ability to balance high-end fashion with a more down-to-earth personality. She's not afraid to show her fans what she's working on, whether it's a new campaign or just a behind-the-scenes peek at her latest project. And that's part of why we love her - she's talented, she's beautiful, and she's also kind of... normal. Well, as normal as you can be when you're a famous actress, that is."
+      },
+      {
+        "type": "h2",
+        "text": "The SONG HYE KYO Effect"
+      },
+      {
+        "type": "p",
+        "text": "She's got this effortless elegance thing down, and it's inspiring to see. We mean, who wouldn't want to be a global fashion and beauty icon? It's not like it's an easy feat to achieve, but SONG HYE KYO makes it look like a breeze. But was it always this way? Did she just wake up one day and decide to become a style icon? Probably not, but it's fun to imagine."
+      },
+      {
+        "type": "h2",
+        "text": "Why We Can't Get Enough"
+      },
+      {
+        "type": "p",
+        "text": "So what's next for SONG HYE KYO? Will she keep slaying the fashion game, or will she surprise us with a new project? Either way, we're here for it. Because let's face it, SONG HYE KYO is a talented actress and a stunning beauty - and we can't get enough of her. [originally reported by instagram.com](https://www.instagram.com/p/DZqCWMtyqvI/?hl=fa)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1781788145830-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "You Won't Believe Who's Back with a New K-Drama"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Kim Mu-yeol is starring as Na Hwa-jin in the upcoming K-drama \"Teach You a Lesson\".",
+          "The release date is set for June 5, 2026, so mark your calendars.",
+          "Lee Sung-min and Jin Ki-joo are also part of the main cast, alongside Kim Mu-yeol.",
+          "The K-drama's introduction is already making waves on social media, particularly on Instagram."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "So, what's the big deal about \"Teach You a Lesson\"? Honestly, it's the cast that's got everyone talking. Kim Mu-yeol, Lee Sung-min, and Jin Ki-joo - that's a powerhouse lineup right there. And let's be real, Kim Mu-yeol's character, Na Hwa-jin, is already giving off some serious aura. But was the teaser too short? We're not getting much info about the plot just yet, but that's what's making this K-drama so intriguing."
+      },
+      {
+        "type": "h2",
+        "text": "The Cast We've Been Waiting For"
+      },
+      {
+        "type": "p",
+        "text": "The combination of Kim Mu-yeol and Lee Sung-min is a dream come true for K-drama fans. They're both known for their incredible acting skills, and we can't wait to see them bring their characters to life. Jin Ki-joo is also an amazing addition to the cast - her chemistry with the other actors is going to be everything. But what's the story behind \"Teach You a Lesson\"? We're still waiting for more details, but one thing's for sure - this K-drama is going to be a wild ride."
+      },
+      {
+        "type": "h2",
+        "text": "Aura Farming at Its Finest"
+      },
+      {
+        "type": "p",
+        "text": "Kim Mu-yeol's character is already teaching us a lesson in aura farming. That's all we can say for now, but trust us when we say you won't want to miss this. With a release date set for June 5, 2026, we're counting down the days until we can finally watch \"Teach You a Lesson\". Will it live up to our expectations? Only time will... just kidding, we're not going to say that. Let's just say we're hyped, and you should be too."
+      },
+      {
+        "type": "h2",
+        "text": "The Countdown Begins"
+      },
+      {
+        "type": "p",
+        "text": "So, what are you waiting for? Get ready to obsess over \"Teach You a Lesson\" with the rest of us. With an incredible cast and a mysterious plot, this K-drama is going to be the talk of the town. [originally reported by instagram.com](https://www.instagram.com/reel/DZrbjl_DLv8/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1781788149039-5": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Never-Ending Summer Heats Up with Dreamy Cast"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Bao Shang'en and Daniel Zhou are starring in the new romance drama series \"Never-Ending Summer\".",
+          "The series also features Zhao Yingbo in a key role.",
+          "\"Never-Ending Summer\" is a highly anticipated project with a talented young cast.",
+          "The drama's cast is made up of actors from popular series like \"Whispers of Fate\" and \"A Moment but Forever\"."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "What We Know So Far"
+      },
+      {
+        "type": "p",
+        "text": "The upcoming series \"Never-Ending Summer\" has got everyone talking, and it's not just because of its catchy title. Honestly, this is a big deal - we're getting Bao Shang'en and Daniel Zhou in one drama, and that's a dream come true for fans of \"Whispers of Fate\" and \"A Moment but Forever\". But was the announcement too quiet? We're only just finding out about this amazing cast, and that's leaving fans wanting more info."
+      },
+      {
+        "type": "h2",
+        "text": "The Cast We Love"
+      },
+      {
+        "type": "p",
+        "text": "Bao Shang'en and Daniel Zhou are teaming up with Zhao Yingbo to bring this romance drama to life, and we can't wait to see what they do. That's a lot of talent in one series, and it's raising expectations. Can they deliver a story that's as compelling as their individual projects? We're about to find out. But for now, let's just enjoy the excitement of a new series on the horizon."
+      },
+      {
+        "type": "h2",
+        "text": "Where Things Stand Now"
+      },
+      {
+        "type": "p",
+        "text": "We don't have a lot of details about \"Never-Ending Summer\" just yet, but that's not stopping fans from speculating about the plot and the characters. It's going to be a romance drama, so we can expect some swoon-worthy moments and heart-wrenching plot twists. That's what we love about K-dramas, right? The wait is on for more news about this series, and we're hoping it won't be too long before we get our first glimpse of Bao Shang'en and Daniel Zhou in action."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "This new series is just one of many exciting projects in the works, but it's definitely one to watch. With its talented cast and promising premise, \"Never-Ending Summer\" has the potential to be a game-changer. We're keeping our fingers crossed that it'll live up to our expectations and bring us the kind of romantic drama we love. [originally reported by iq.com](https://www.iq.com/album/never-ending-summer-2026-14mg4loc341?lang=en_us)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1781788152868-6": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "That Summer Just Got a Whole Lot Scarier"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Netflix is dropping a new horror drama called \"The East Palace\" on July 17th, and honestly, it's about time we got some spooky K-content.",
+          "The show stars Cho Seungwoo, Roh Yoonseo, and Nam Joohyuk - that's a pretty solid lineup if you ask me.",
+          "\"The East Palace\" is a horror drama, which is already intriguing, but adding these talented actors to the mix has piqued my interest even more.",
+          "We don't have to wait too long to see what it's all about, thanks to the July premiere date."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The fact that \"The East Palace\" is premiering in just a couple of months is a big deal - are we ready for a haunting summer? But was the wait worth it? We're about to find out. Cho Seungwoo, Roh Yoonseo, and Nam Joohyuk are all talented in their own right, so it's not like they need a big concept to draw us in. That being said, horror's a tough genre to nail, especially in K-dramas."
+      },
+      {
+        "type": "h2",
+        "text": "What We Know So Far"
+      },
+      {
+        "type": "p",
+        "text": "Netflix hasn't given us a ton of details about the plot, but I'm guessing that's on purpose - they want to keep us guessing. We do know the release date, though, and that's what matters most right now. July 17th can't come soon enough for fans of these actors or the horror genre in general."
+      },
+      {
+        "type": "h2",
+        "text": "The Summer of K-Drama"
+      },
+      {
+        "type": "p",
+        "text": "It's shaping up to be a great summer for K-drama fans, that's for sure. With \"The East Palace\" on the horizon, we've got something to look forward to. But what's the story behind this show, and how will it stack up against other horror dramas? We'll just have to wait and see. [originally reported by r/KDRAMA](https://www.reddit.com/r/KDRAMA/comments/1u8qyjr/netflix_the_east_palace_official_teaser_premieres/)"
       }
     ],
     "takeaways": []
