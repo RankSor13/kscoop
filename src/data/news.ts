@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1781785213863-1",
+    "slug": "soompi-latest-k-pop-k-drama-korean-entertainment-news-2024",
+    "title": "Soompi: Latest K-Pop, K-Drama, Korean Entertainment News (2024)",
+    "summary": "Uncover breaking K-pop news, BTS updates, exclusive Korean celebrity ... 'My Royal Nemesis' Actress Hong Yi Seol Denies Dating Rumors With Heo Nam Jun.",
+    "category": "gossip",
+    "source": "soompi.com",
+    "sourceUrl": "https://www.soompi.com/",
+    "date": "5 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "auto",
+      "live",
+      "gossip"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781785216717-2",
+    "slug": "modelactress-hong-yiseol-who-played-heo-namjuns-secretary-in",
+    "title": "Model‑actress Hong Yi‑seol, who played Heo Nam‑jun's secretary in ...",
+    "summary": "Hong Yi‑seol emphasized that both the dating claims and drama‑related gossip currently spreading online are false, asking fans to stop fueling baseless stories.",
+    "category": "gossip",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/kdramaloveph/posts/modelactress-hong-yiseol-who-played-heo-namjuns-secretary-in-my-royal-nemesis-ha/975600218574308/",
+    "date": "4 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "auto",
+      "live",
+      "gossip"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781785218883-3",
+    "slug": "weekly-headlines-top-5-bts-v-breaks-silence-jangkeunsuk",
+    "title": "Weekly Headlines Top 5: #BTS V breaks silence, #JangKeunSuk ...",
+    "summary": "'The Glory' star Cha Joo Young is facing criticism after sharing social media posts that appeared to show her riding in the back seat of a moving vehicle ...",
+    "category": "gossip",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DZhByX5lOtv/",
+    "date": "5 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "auto",
+      "live",
+      "gossip"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781785221091-4",
+    "slug": "kim-soo-hyuns-comeback-is-closer-than-ever-public-sentiment-has",
+    "title": "Kim Soo-hyun's comeback is closer than ever. Public sentiment has ...",
+    "summary": "Kim Soo-hyun's comeback is closer than ever. Public sentiment has shifted significantly following Kim Se-ui's arrest and the ongoing investigations into...",
+    "category": "gossip",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/KimSooHyunShiPhilippines/posts/kim-soo-hyuns-comeback-is-closer-than-everpublic-sentiment-has-shifted-significa/1609851490805107/",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "auto",
+      "live",
+      "gossip"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1781785223014-5",
+    "slug": "prosecution-seeks-3-year-prison-sentence-for-investigator-who",
+    "title": "Prosecution seeks 3-year prison sentence for investigator who ...",
+    "summary": "'A' was indicted for allegedly passing internal police investigative information regarding drug-related suspicions involving Lee Sun Kyun to a local newspaper ...",
+    "category": "gossip",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/kdramas/comments/1u4ngxx/prosecution_seeks_3year_prison_sentence_for/",
+    "date": "5 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "auto",
+      "live",
+      "gossip"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1781785225149-6",
+    "slug": "mokshiri-instagram",
+    "title": "mok.shiri - Instagram",
+    "summary": "Actor Kim Soo-hyun has been officially cleared of all allegations claiming he dated late actress Kim Sae-ron while she was a minor, following a comprehensive ...",
+    "category": "gossip",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DZmNVQ9ANfF/",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "auto",
+      "live",
+      "gossip"
+    ],
+    "hot": false
+  },
+  {
     "id": "n1",
     "title": "Kim Soo-hyun Returns to Work with Fashion Brand Tie-Up After Dating Controversy",
     "summary": "South Korean star Kim Soo-hyun is officially resuming activities, signing a new deal with a global fashion house after months out of the spotlight. The move comes after police concluded their investigation into rumors linking him to the late actress Kim Sae-ron, finding that a YouTuber had used AI to fabricate the damaging evidence. Industry watchers say the comeback marks one of the fastest scandal recoveries in recent K-entertainment history.",
@@ -642,7 +744,7 @@ export const HERO_FEATURES = [
   },
 ];
 
-export const LAST_UPDATED = "2026-06-17T17:56:14.727Z";
+export const LAST_UPDATED = "2026-06-18T12:20:27.050Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
