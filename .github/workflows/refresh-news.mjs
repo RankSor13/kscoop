@@ -26,12 +26,12 @@ const QUERIES = [
 // ✅ FIX 1 — Replaced ChatGLM AI image URLs with neutral, royalty-free K-entertainment images
 // ✅ FIX — Replaced broken Wikipedia thumbnail URLs with reliable Unsplash images
 const FALLBACK_IMAGES = [
-  "https://images.unsplash.com/photo-1517760444937-f6397edcbbcd?w=800&q=80", // Seoul city
-  "https://images.unsplash.com/photo-1533929736458-ca588d08c8be?w=800&q=80", // Seoul night
-  "https://images.unsplash.com/photo-1601042879364-f3947d3f9c16?w=800&q=80", // Korea street
-  "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=800&q=80", // Korea culture
-  "https://images.unsplash.com/photo-1538669715315-155098f0fb1d?w=800&q=80", // Seoul skyline
-  "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80",    // Korea fashion
+  "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+  "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+  "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+  "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+  "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+  "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
 ];
 
 // ✅ FIX 2 — Human-sounding SYSTEM_PROMPT, matching route.ts
