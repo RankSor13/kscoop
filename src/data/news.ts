@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1781796408224-1",
+    "slug": "south-korean-celebrity-tiktok",
+    "title": "South Korean Celebrity | TikTok",
+    "summary": "Discover the latest insights on popular South Korean celebrities, their marriages, and top actors captivating fans worldwide. South Korean celebrity ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/discover/south-korean-celebrity",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781796408659-2",
+    "slug": "not-sure-what-to-watch-on-netflix-these-days-here-are-5-korean",
+    "title": "Not sure what to watch on Netflix these days? Here are 5 Korean ...",
+    "summary": "In June 2026, many great new shows are coming to Netflix for K-drama fans. First up is 'Teach You A Lesson', a story about a doctor who is sent to a remote ...",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/DZtwWtOmiYX/",
+    "date": "10 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781796409036-3",
+    "slug": "kim-soo-hyuns-latest-series-release-in-2026-watch-now",
+    "title": "KIM SOO HYUN's Latest Series Release in 2026: Watch Now",
+    "summary": "Upcoming kdrama 'Show Business' Release date: 2026 Q2 Runtime: 22 episodes Where to Watch: Netflix Cast: Song Hye Kyo Gong Yoo Kim Seol Hyun Cha Seung Won Lee ...",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/groups/735989114114131/posts/1676187650094268/",
+    "date": "5 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781796409261-4",
+    "slug": "2026-tv-premiere-dates-new-and-returning-series-on-broadcast",
+    "title": "2026 TV Premiere Dates: New & Returning Series On Broadcast ...",
+    "summary": "Doctor on the Edge (Disney+, Season 1 of South Korean drama series) Ariel: The Little Mermaid (Disney Jr, Season 2) Battle on the Beach (HGTV, Season 5)",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "deadline.com",
+    "sourceUrl": "https://deadline.com/feature/2026-tv-premiere-dates-1236391902/",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1781796409446-5",
+    "slug": "serving-looks-longing-and-royal-level-drama-perfectcrown",
+    "title": "Serving looks, longing, and royal-level drama. #PerfectCrown ...",
+    "summary": "Perfect Crown (2026) is a South Korean romantic comedy 230 drama on Disney+ starring IU and Byeon Woo-seok. It follows a chaebol heiress, Seong Huiju, who ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DZh4xbZuvJB/",
+    "date": "5 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1781796409698-6",
+    "slug": "new-beginnings-youngest-ever-south-korean-election",
+    "title": "New beginnings: Youngest-ever South Korean election ...",
+    "summary": "New beginnings: Youngest-ever South Korean election candidate to debut as J-pop idol, Le Sserafim's ex-member Kim Ga-ram now an actress · homepage.",
+    "category": "trending",
+    "author": "Rina Baek",
+    "source": "asiaone.com",
+    "sourceUrl": "https://www.asiaone.com/entertainment/youngest-south-korean-election-candidate-oh-shinhaeng-jpop-ko1keyz-kpop-lesserafim-kim-garam",
+    "date": "6 days ago",
+    "image": "https://media.asiaone.com/sites/default/files/styles/article_top_image/public/original_images/Jun2026/260617_oh_shinhaeng_j-pop_ko1keyz_produce_101_kim_garam_actress_weverse.jpg?itok=XBTg03CV",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1781795378473-1",
     "slug": "5-must-watch-k-dramas-releasing-in-june-2026-youtube",
     "title": "5 Must watch K-dramas Releasing in June 2026 - YouTube",
@@ -1565,7 +1667,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-06-18T15:09:41.139Z";
+export const LAST_UPDATED = "2026-06-18T15:26:50.481Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
