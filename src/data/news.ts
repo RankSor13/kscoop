@@ -103,108 +103,6 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
-    "id": "live-1781793427669-1",
-    "slug": "guys-i-feel-so-bad-for-this-guy-actor-jo-byeong-gyu-he-facebook",
-    "title": "Guys, I feel so bad for this guy, Actor Jo Byeong Gyu He ... - Facebook",
-    "summary": "KOREA | Jo Byung-gyu has lost his 4 billion KRW defamation lawsuit against a person who accused him for school bullying. The Seoul Central District Court ruled ...",
-    "category": "gossip",
-    "author": "Ji Yeon Park",
-    "source": "facebook.com",
-    "sourceUrl": "https://www.facebook.com/100091857426174/posts/guys-i-feel-so-bad-for-this-guy-actor-jo-byeong-gyuhe-was-accused-of-bullying-an/953720791033160/",
-    "date": "1 hour ago",
-    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
-    "tags": [
-      "gossip",
-      "korean-entertainment"
-    ],
-    "hot": true
-  },
-  {
-    "id": "live-1781793429478-2",
-    "slug": "top-10-korean-celebrities-who-are-not-fully-korean-or-have-mixed",
-    "title": "Top 10 Korean Celebrities Who Are Not Fully Korean or Have Mixed ...",
-    "summary": "Top 10 South Korean celebrities who are not fully Korean or have mixed heritage. Number one, Chun Sumi. Chun Sumi became a household name after winning produce ...",
-    "category": "trending",
-    "author": "Soo Min Lee",
-    "source": "facebook.com",
-    "sourceUrl": "https://www.facebook.com/100080146298347/videos/top-10-korean-celebrities-who-are-not-fully-korean-or-have-mixed-heritage-%EF%B8%8F/2847854512219873/",
-    "date": "5 hours ago",
-    "image": "https://scontent-sin2-1.xx.fbcdn.net/v/t15.5256-10/725361094_889763457509840_5838098960282675352_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=mAOPM6g9JOcQ7kNvwFOVLM7&amp;_nc_oc=AdodqywhXOWkeLxOuJzKGUMogPQtR2mjFz_pIjYaSNI0svN-S7q24GHgUWgnvfbqI2w&amp;_nc_zt=23&amp;_nc_ht=scontent-sin2-1.xx&amp;_nc_gid=drpVH3Ihx0q8cqdB1zFX6w&amp;_nc_ss=70289&amp;oh=00_Af9vuNSq8Hj6XyURpf1U-gQhBg7KWIsL4VL60BTmWXdosw&amp;oe=6A39D3CF",
-    "tags": [
-      "trending",
-      "korean-entertainment"
-    ],
-    "hot": true
-  },
-  {
-    "id": "live-1781793432657-3",
-    "slug": "who-wants-a-desi-kpop-concert-kpop-korea-bihari-instagram",
-    "title": "Who wants a Desi Kpop concert?? #kpop #korea #bihari ... - Instagram",
-    "summary": "​The Shocking Appearance: We show you the exact clips of the K-Pop star walking through local markets, exploring the unique vibes, and capturing the raw essence ...",
-    "category": "trending",
-    "author": "Dana Kim",
-    "source": "instagram.com",
-    "sourceUrl": "https://www.instagram.com/reel/DZuexDTP9lk/",
-    "date": "3 hours ago",
-    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
-    "tags": [
-      "trending",
-      "korean-entertainment"
-    ],
-    "hot": true
-  },
-  {
-    "id": "live-1781793434736-4",
-    "slug": "love-in-the-moonlight-cast-to-reunite-for-special-anniversary-show",
-    "title": "'Love in the Moonlight' cast to reunite for special anniversary show",
-    "summary": "Kim Yoo-Jung, Park Bo-Gum, Jung Jinyoung, Chae Soo-Bin, and Kwak Dong-Yeon are coming back together for a special anniversary project.",
-    "category": "casting",
-    "author": "Hana Cho",
-    "source": "abs-cbn.com",
-    "sourceUrl": "https://www.abs-cbn.com/entertainment/showbiz/movies-series/2026/6/18/-love-in-the-moonlight-cast-to-reunite-for-special-anniversary-show-reports-1145",
-    "date": "11 hours ago",
-    "image": "https://od2-image-api.abs-cbn.com/prod/20260618040644/dd0ac437718c3aaafd1736034a4a36d065f4971ef179e7a58e1cf9424773cad7.jpg?w=1200&amp;h=800",
-    "tags": [
-      "casting",
-      "korean-entertainment"
-    ],
-    "hot": false
-  },
-  {
-    "id": "live-1781793436753-5",
-    "slug": "reborn-rookie-k-drama-starring-lee-jun-young-full-release-schedule",
-    "title": "Reborn rookie K-drama starring Lee Jun-young: Full release schedule",
-    "summary": "Discover all the details about the K-drama Reborn Rookie, including its plot, cast, trailer and complete episode release schedule.",
-    "category": "casting",
-    "author": "Mia Kwon",
-    "source": "lifestyleasia.com",
-    "sourceUrl": "https://www.lifestyleasia.com/ind/entertainment/streaming/reborn-rookie-k-drama-release-schedule/",
-    "date": "3 days ago",
-    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
-    "tags": [
-      "casting",
-      "korean-entertainment"
-    ],
-    "hot": false
-  },
-  {
-    "id": "live-1781793438162-6",
-    "slug": "love-me-south-korean-tv-series-wikipedia",
-    "title": "Love Me (South Korean TV series) - Wikipedia",
-    "summary": "January 23, 2026 (2026-01-23) ... 서현진→트와이스 다현, '러브 미' 완전체 캐스팅 첫 발표 [공식] [Seo Hyun-jin → Twice Dahyun, 'Love Me' Full Casting First ...",
-    "category": "casting",
-    "author": "Rina Baek",
-    "source": "en.wikipedia.org",
-    "sourceUrl": "https://en.wikipedia.org/wiki/Love_Me_(South_Korean_TV_series)",
-    "date": "4 days ago",
-    "image": "https://upload.wikimedia.org/wikipedia/en/5/5f/Love_Me_%28TV_series%29-poster.png",
-    "tags": [
-      "casting",
-      "korean-entertainment"
-    ],
-    "hot": false
-  },
-  {
     "id": "live-1781791114496-1",
     "slug": "hyeri-speaks-out-on-beauty-standards-facebook",
     "title": "HYERI SPEAKS OUT ON BEAUTY STANDARDS - Facebook",
@@ -299,7 +197,7 @@ export const NEWS: NewsItem[] = [
     "source": "metro.style",
     "sourceUrl": "https://metro.style/people/2026/6/15/anne-curtis-fyang-smith-kim-chiu-among-seoul-drama-awards-2026-nominees-here-s-how-you-can-vote-1846",
     "date": "3 days ago",
-    "image": "https://od2-image-api.abs-cbn.com/prod/20260615110612/7cf14663638f09b8bace79a5ab5dac561939a563f929b3dfed93eb4072ce653f.png?w=1200&amp;h=800",
+    "image": "https://od2-image-api.abs-cbn.com/prod/20260615110612/7cf14663638f09b8bace79a5ab5dac561939a563f929b3dfed93eb4072ce653f.png?w=1200&h=800",
     "tags": [
       "casting",
       "korean-entertainment"
@@ -571,7 +469,7 @@ export const NEWS: NewsItem[] = [
     "source": "snapchat.com",
     "sourceUrl": "https://www.snapchat.com/topic/korean-celebrity-crushes",
     "date": "1 day ago",
-    "image": "https://www.snapchat.com/web-capture/www.snapchat.com/topic/korean-celebrity-crushes/preview/facebook.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Seoul_at_night.jpg/640px-Seoul_at_night.jpg",
     "tags": [
       "trending",
       "korean-entertainment"
@@ -723,7 +621,7 @@ export const NEWS: NewsItem[] = [
     "source": "facebook.com",
     "sourceUrl": "https://www.facebook.com/chingunatics/videos/the-anomalies-in-kbiz-wherein-these-2-korean-stars-who-never-take-new-works-yet-/2026230604650414/",
     "date": "2 days ago",
-    "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/725474621_1525686869093538_2242699359329052992_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=qnswu0tilG8Q7kNvwGZ3Klt&amp;_nc_oc=AdrAVLWvnyuy3mlS8h5HL11QJ9--YG8mV5Q_sl_-Uw1Vw0AxW9m4weofYZNAclBA2vA&amp;_nc_zt=23&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=gy3ZvshIvWT2Glk22jNqsQ&amp;_nc_ss=70289&amp;oh=00_Af-06ke24Dj8AXCN8tmogqBPFe90_Sj1XYZYwIIuiawaqQ&amp;oe=6A39D1E2",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
     "tags": [
       "auto",
       "live",
@@ -1143,7 +1041,7 @@ export const NEWS: NewsItem[] = [
     "source": "TIME",
     "sourceUrl": "https://time.com/7345886/korean-dramas-2026",
     "date": "2026-02-10",
-    "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt4d3390e85e9c469b/6998ccda66d4e3adeacbd29e/kdrama-2026.jpg?branch=production&amp;width=3840&amp;quality=75&amp;auto=webp&amp;crop=16:9",
+    "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt4d3390e85e9c469b/6998ccda66d4e3adeacbd29e/kdrama-2026.jpg?branch=production&width=3840&quality=75&auto=webp&crop=16:9",
     "tags": [
       "TIME",
       "2026 preview",
@@ -1458,11 +1356,7 @@ export const HERO_FEATURES = [
   },
 ];
 
-<<<<<<< HEAD
 export const LAST_UPDATED = "2026-06-18T14:50:43.282Z";
-=======
-export const LAST_UPDATED = "2026-06-18T14:37:20.407Z";
->>>>>>> 93c9def1ff255f9058017b021669ed88ff641dbf
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
