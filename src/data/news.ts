@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1781795378473-1",
+    "slug": "5-must-watch-k-dramas-releasing-in-june-2026-youtube",
+    "title": "5 Must watch K-dramas Releasing in June 2026 - YouTube",
+    "summary": "Doctor on the Edge (June 1 • Disney+) 01:35 – Teach You a Lesson (June 5 • Netflix) 02:35 – See You at Work Tomorrow! (June. Notes from the Last Row (June 26 • ...",
+    "category": "upcoming",
+    "author": "Ji Yeon Park",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=o2-WfK8lQ4c",
+    "date": "2 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781795379389-2",
+    "slug": "teach-you-a-lesson-outperforms-major-korean-dramas-on-netflix",
+    "title": "Teach You a Lesson outperforms major Korean dramas on Netflix",
+    "summary": "Kim Mu Yeol's new Netflix series “Teach You a Lesson” Release & Streaming: • Premiere Date: June 5, 2026 on Netflix • Episodes: 10 • Streaming: Netflix (Global)",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/groups/3453547904961059/posts/4414431118872728/",
+    "date": "22 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781795379550-3",
+    "slug": "10-perfect-k-dramas-you-should-watch-in-2026-collider",
+    "title": "10 Perfect K-Dramas You Should Watch in 2026 - Collider",
+    "summary": "Discover the top K-dramas to watch in 2026, featuring new shows that will keep you hooked, from The Scarecrow to We Are All Trying Here.",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "collider.com",
+    "sourceUrl": "https://collider.com/perfect-k-drama-shows-to-watch-2026/",
+    "date": "4 days ago",
+    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/06/the-legend-of-kitchen-soldier1.jpg?w=1600&amp;h=900&amp;fit=crop",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781795379913-4",
+    "slug": "gilmore-girls-is-leaving-netflix-us-after-12-years-june-30-2026",
+    "title": "'Gilmore Girls' is leaving Netflix US after 12 years (June 30, 2026)",
+    "summary": "It's already on Hulu/Disney+ in the US. Gilmore Girls: The Complete Series coming to Blu-ray on May 5 in 28-disc box. Korean SciFi show on Netflix?",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/television/comments/1u6yznl/pour_one_cup_of_coffee_out_gilmore_girls_is/",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1781795380045-5",
+    "slug": "best-korean-drama-to-watch-on-netflix-disney-viki-youtube",
+    "title": "Best Korean Drama To Watch on Netflix, Disney+, Viki - YouTube",
+    "summary": "Top 10 Best Crime Korean Dramas of 2026 | Best Korean Drama To Watch on Netflix, Disney+, Viki · Comments.",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=r7Wb_sOsyV0",
+    "date": "5 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1781795380879-6",
+    "slug": "1-doctor-on-the-edge-june-1-2-teach-you-a-lesson-instagram",
+    "title": "1. Doctor on the Edge - June 1 2. Teach you a Lesson - Instagram",
+    "summary": "These are the five dramas releasing this month so what are you most excited to watch? OCR. Upcoming KDramas June 2026 Doctor's on Edge Disney+ ONLY ON NETFLIX ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/DZpqrpvFGqc/",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1781795014631-1",
     "slug": "guys-i-feel-so-bad-for-this-guy-actor-jo-byeong-gyu-he-facebook",
     "title": "Guys, I feel so bad for this guy, Actor Jo Byeong Gyu He ... - Facebook",
@@ -1458,7 +1560,7 @@ export const HERO_FEATURES = [
   },
 ];
 
-export const LAST_UPDATED = "2026-06-18T15:03:37.481Z";
+export const LAST_UPDATED = "2026-06-18T15:09:41.139Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
