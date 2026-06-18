@@ -4,7 +4,7 @@
  * and image-search results (image-search via z-ai SDK).
  *
  * Last refreshed: 2026-06-17
- * Refresh policy: daily (see /api/refresh and GitHub Action)
+ * Refresh policy: daily (see /api/refresh and GitHub Action).
  */
 
 import { ARTICLE_BODIES } from "./article-bodies";
