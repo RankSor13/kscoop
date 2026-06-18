@@ -14,7 +14,7 @@
  * What counts as a "bad" image that needs replacing:
  *   • chatglm.cn  (AI stock pool — not related to the article)
  *   • upload.wikimedia.org  (generic Wikipedia thumbnails)
- *   • images.unsplash.com  (generic stock photos)
+ *   • images.unsplash.com  (generic stock photos).
  */
 import { readFileSync, writeFileSync } from "node:fs";
 
