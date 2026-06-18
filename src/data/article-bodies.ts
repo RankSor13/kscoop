@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-06-18T14:37:20.407Z
+ * Last updated: 2026-06-18T14:55:07.031Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -2570,6 +2570,167 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       {
         "type": "p",
         "text": "[originally reported by Wikipedia](https://en.wikipedia.org/wiki/Love_Me_(South_Korean_TV_series))"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1781794493878-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "K-Drama Frenzy: What's Hot in 2026"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Collider just dropped their list of top K-dramas to watch this year, and honestly, it's a big deal.",
+          "The list features a mix of new shows that are supposed to keep us hooked, which is exactly what we're looking for.",
+          "From what we can tell, \"The Scarecrow\" is one of the highlights, but we're not sure what it's about yet.",
+          "\"We Are All Trying Here\" is another one that caught our attention - that title alone sounds intriguing."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "So, what makes these K-dramas so special? That's the million-dollar question. Are they really that different from what we've seen before, or is it just the same old formula with new faces? But was the selection process too narrow? We don't have all the answers yet, but it's exciting to think about what these new shows could bring to the table."
+      },
+      {
+        "type": "h2",
+        "text": "The New Crop of K-Dramas"
+      },
+      {
+        "type": "p",
+        "text": "We're always on the lookout for the next big thing in K-drama land, and it looks like 2026 is shaping up to be a great year. With shows like \"The Scarecrow\" and \"We Are All Trying Here\" leading the charge, we can't help but wonder what they're all about. What are the plots, who are the stars, and what makes them so special? We need more info, stat!"
+      },
+      {
+        "type": "h2",
+        "text": "Why We're Excited"
+      },
+      {
+        "type": "p",
+        "text": "Let's be real, K-drama fans are always excited about new shows, but there's something about this list that's got us particularly hyped. Maybe it's the promise of fresh storylines or the introduction of new talent. Whatever it is, we're here for it. And who knows, maybe 2026 will be the year that K-dramas really take over the world - or at least our screens."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by Collider](https://collider.com/perfect-k-drama-shows-to-watch-2026/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1781794496579-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "A New Contender for Best K-Drama List"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Someone just dropped a YouTube video ranking the top 10 best action Korean dramas of 2026",
+          "It's already getting views, with 28 people tuning in just 4 hours after it went live",
+          "The video's got a pretty straightforward title, highlighting the best K-dramas to watch on Netflix, Disney+, and Viki",
+          "We're not sure what makes these dramas the \"best,\" but we're curious to find out"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Honestly, it's not every day you see a video about K-dramas getting attention this fast. But was the timing of this video just right, or is there something more to it? The fact that it's focusing on action series specifically is pretty interesting - are fans craving more action-packed storylines in their K-dramas?"
+      },
+      {
+        "type": "h2",
+        "text": "The Video's Got People Talking"
+      },
+      {
+        "type": "p",
+        "text": "The video's description is short and sweet, with hashtags like #bestkdramas2026 and #actionseries that suggest the creator is trying to get in on the conversation about the latest and greatest K-dramas. But what's really driving the interest in this video? Is it the fact that it's covering multiple streaming platforms, or something else entirely?"
+      },
+      {
+        "type": "h2",
+        "text": "What's Behind the Hype"
+      },
+      {
+        "type": "p",
+        "text": "It's hard to say what's behind the hype around this video, but one thing's for sure - K-drama fans are always on the lookout for new shows to obsess over. And with the rise of streaming platforms like Netflix and Disney+, there are more ways than ever to watch your favorite K-dramas. But what sets this video apart from all the other \"best of\" lists out there? We're not sure yet, but we're excited to find out. [originally reported by YouTube](https://www.youtube.com/watch?v=weLK-DSHS_c&vl=ja)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1781794499077-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Queen of K-Drama is Back"
+      },
+      {
+        "type": "p",
+        "text": "Kim Soo Hyun isn't the star of this show, but we're getting an even better lineup: Song Hye Kyo, Gong Yoo, and Kim Seol Hyun are teaming up for 'Show Business', a 22-episode series that's set to drop on Netflix in Q2 of 2026. That's right, we've got a few months to wait, but with a cast like this, it's gonna be worth it."
+      },
+      {
+        "type": "p",
+        "text": "The fact that we're getting not one, not two, but three K-drama legends in one show is honestly a big deal - what's the likelihood of all these stars aligning? But was the announcement too quiet? We're not getting a lot of details, but that's kind of making us even more excited. What can we expect from 'Show Business'? Will it be a romantic drama, a thriller, or something entirely new?"
+      },
+      {
+        "type": "h2",
+        "text": "The Cast is Everything"
+      },
+      {
+        "type": "p",
+        "text": "Gong Yoo and Song Hye Kyo are no strangers to K-drama fans - they've both been in some of the most iconic shows of the past few decades. And Kim Seol Hyun, well, she's been making waves with her recent roles. But Cha Seung Won is also joining the cast, and that's a great sign - he's got a knack for playing complex characters. With a cast like this, 'Show Business' is shaping up to be one of the most anticipated shows of 2026."
+      },
+      {
+        "type": "h2",
+        "text": "Get Ready for the Hype"
+      },
+      {
+        "type": "p",
+        "text": "We're still a few months away from the release, but we're already getting hyped - 'Show Business' has all the makings of a classic K-drama. With this cast, we're expecting big things, and we can't wait to see what they bring to the table. [originally reported by facebook.com](https://www.facebook.com/groups/735989114114131/posts/1676187650094268/)"
+      }
+    ],
+    "takeaways": [
+      "'Show Business' is set to release on Netflix in Q2 of 2026",
+      "The show will have 22 episodes",
+      "The cast includes Song Hye Kyo, Gong Yoo, Kim Seol Hyun, and Cha Seung Won",
+      "We don't have a lot of details about the plot yet, but the cast is definitely intriguing"
+    ]
+  },
+  "live-1781794501117-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Get Ready for a Dramatic June"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "We've got five new K-dramas dropping this month, and honestly, it's hard to choose which one to watch first.",
+          "Doctor on the Edge is coming to Disney+, which is a big deal for K-drama fans.",
+          "Another drama, Teach you a Lesson, is also on the horizon, but we don't know much about it yet.",
+          "The list of upcoming dramas includes a mix of streaming platforms, with some only on Netflix.",
+          "June 2026 is shaping up to be an exciting month for K-drama enthusiasts, with a wide range of options to look forward to."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "New Dramas to Obsess Over"
+      },
+      {
+        "type": "p",
+        "text": "K-drama fans are in for a treat this month, with not one, not two, but five new dramas to sink their teeth into. But was the announcement too vague? We're not getting a lot of details about these new shows, which is making it tough to decide which ones to prioritize. Doctor on the Edge is definitely on our radar, though - a Disney+ exclusive is a big deal, and we're curious to see what it's all about."
+      },
+      {
+        "type": "h2",
+        "text": "The Streaming Wars Heat Up"
+      },
+      {
+        "type": "p",
+        "text": "It's interesting to see the different streaming platforms getting in on the K-drama action. With some dramas only on Netflix, and others on Disney+, it's clear that these platforms are competing for our attention. But what does this mean for fans? Will we have to subscribe to multiple services just to keep up with our favorite shows? It's a lot to think about, but one thing's for sure: June is going to be a wild ride for K-drama enthusiasts."
+      },
+      {
+        "type": "h2",
+        "text": "What's Got You Excited?"
+      },
+      {
+        "type": "p",
+        "text": "So, which of these new dramas are you most excited to watch? Are you a fan of medical dramas like Doctor on the Edge, or are you looking for something a little more lighthearted? Let's be real, with so many great options coming our way, it's hard not to get a little overwhelmed. But that's a good problem to have, right? [originally reported by instagram.com](https://www.instagram.com/p/DZpqrpvFGqc/)"
       }
     ],
     "takeaways": []
