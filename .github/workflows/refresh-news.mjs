@@ -24,13 +24,14 @@ const QUERIES = [
 ];
 
 // ✅ FIX 1 — Replaced ChatGLM AI image URLs with neutral, royalty-free K-entertainment images
+// ✅ FIX — Replaced broken Wikipedia thumbnail URLs with reliable Unsplash images
 const FALLBACK_IMAGES = [
-  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/K-pop_Music_Fest_2013_in_Sydney_%2810236993453%29.jpg/640px-K-pop_Music_Fest_2013_in_Sydney_%2810236993453%29.jpg",
-  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Seoul_Skyline_%28cropped%29.jpg/640px-Seoul_Skyline_%28cropped%29.jpg",
-  "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Korean_Drama_-_My_Love_from_the_Star_poster.jpg/427px-Korean_Drama_-_My_Love_from_the_Star_poster.jpg",
-  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Seoul_at_night.jpg/640px-Seoul_at_night.jpg",
-  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Lotte_World_Tower_and_Mall_from_the_Seokchon_Lake_%2820190717%29.jpg/640px-Lotte_World_Tower_and_Mall_from_the_Seokchon_Lake_%2820190717%29.jpg",
-  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/640px-Flag_of_South_Korea.svg.png",
+  "https://images.unsplash.com/photo-1517760444937-f6397edcbbcd?w=800&q=80", // Seoul city
+  "https://images.unsplash.com/photo-1533929736458-ca588d08c8be?w=800&q=80", // Seoul night
+  "https://images.unsplash.com/photo-1601042879364-f3947d3f9c16?w=800&q=80", // Korea street
+  "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=800&q=80", // Korea culture
+  "https://images.unsplash.com/photo-1538669715315-155098f0fb1d?w=800&q=80", // Seoul skyline
+  "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80",    // Korea fashion
 ];
 
 // ✅ FIX 2 — Human-sounding SYSTEM_PROMPT, matching route.ts
@@ -124,6 +125,8 @@ async function serpSearch(query) {
     url: r.link || "",
     host_name: new URL(r.link || "https://unknown.com").hostname.replace("www.", ""),
     date: r.date || null,
+    // ✅ FIX — capture image from Serper result when available
+    imageUrl: r.imageUrl || null,
   }));
 }
 
@@ -346,7 +349,8 @@ for (let i = 0; i < top.length; i++) {
     source: it.host_name || "Web",
     sourceUrl: it.url,
     date: it.date || todayISO(),
-    image: FALLBACK_IMAGES[i % FALLBACK_IMAGES.length],
+    // ✅ FIX — prefer image from search result, fall back to curated K-drama images
+    image: it.imageUrl || FALLBACK_IMAGES[i % FALLBACK_IMAGES.length],
     // ✅ FIX 5 — Removed "auto" and "live" tags that exposed AI generation
     tags: [it.category, "korean-entertainment"],
     hot: i < 3,
