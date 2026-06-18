@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1781793427669-1",
+    "slug": "guys-i-feel-so-bad-for-this-guy-actor-jo-byeong-gyu-he-facebook",
+    "title": "Guys, I feel so bad for this guy, Actor Jo Byeong Gyu He ... - Facebook",
+    "summary": "KOREA | Jo Byung-gyu has lost his 4 billion KRW defamation lawsuit against a person who accused him for school bullying. The Seoul Central District Court ruled ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/100091857426174/posts/guys-i-feel-so-bad-for-this-guy-actor-jo-byeong-gyuhe-was-accused-of-bullying-an/953720791033160/",
+    "date": "1 hour ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781793429478-2",
+    "slug": "top-10-korean-celebrities-who-are-not-fully-korean-or-have-mixed",
+    "title": "Top 10 Korean Celebrities Who Are Not Fully Korean or Have Mixed ...",
+    "summary": "Top 10 South Korean celebrities who are not fully Korean or have mixed heritage. Number one, Chun Sumi. Chun Sumi became a household name after winning produce ...",
+    "category": "trending",
+    "author": "Soo Min Lee",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/100080146298347/videos/top-10-korean-celebrities-who-are-not-fully-korean-or-have-mixed-heritage-%EF%B8%8F/2847854512219873/",
+    "date": "5 hours ago",
+    "image": "https://scontent-sin2-1.xx.fbcdn.net/v/t15.5256-10/725361094_889763457509840_5838098960282675352_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=mAOPM6g9JOcQ7kNvwFOVLM7&amp;_nc_oc=AdodqywhXOWkeLxOuJzKGUMogPQtR2mjFz_pIjYaSNI0svN-S7q24GHgUWgnvfbqI2w&amp;_nc_zt=23&amp;_nc_ht=scontent-sin2-1.xx&amp;_nc_gid=drpVH3Ihx0q8cqdB1zFX6w&amp;_nc_ss=70289&amp;oh=00_Af9vuNSq8Hj6XyURpf1U-gQhBg7KWIsL4VL60BTmWXdosw&amp;oe=6A39D3CF",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781793432657-3",
+    "slug": "who-wants-a-desi-kpop-concert-kpop-korea-bihari-instagram",
+    "title": "Who wants a Desi Kpop concert?? #kpop #korea #bihari ... - Instagram",
+    "summary": "​The Shocking Appearance: We show you the exact clips of the K-Pop star walking through local markets, exploring the unique vibes, and capturing the raw essence ...",
+    "category": "trending",
+    "author": "Dana Kim",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DZuexDTP9lk/",
+    "date": "3 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781793434736-4",
+    "slug": "love-in-the-moonlight-cast-to-reunite-for-special-anniversary-show",
+    "title": "'Love in the Moonlight' cast to reunite for special anniversary show",
+    "summary": "Kim Yoo-Jung, Park Bo-Gum, Jung Jinyoung, Chae Soo-Bin, and Kwak Dong-Yeon are coming back together for a special anniversary project.",
+    "category": "casting",
+    "author": "Hana Cho",
+    "source": "abs-cbn.com",
+    "sourceUrl": "https://www.abs-cbn.com/entertainment/showbiz/movies-series/2026/6/18/-love-in-the-moonlight-cast-to-reunite-for-special-anniversary-show-reports-1145",
+    "date": "11 hours ago",
+    "image": "https://od2-image-api.abs-cbn.com/prod/20260618040644/dd0ac437718c3aaafd1736034a4a36d065f4971ef179e7a58e1cf9424773cad7.jpg?w=1200&amp;h=800",
+    "tags": [
+      "casting",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1781793436753-5",
+    "slug": "reborn-rookie-k-drama-starring-lee-jun-young-full-release-schedule",
+    "title": "Reborn rookie K-drama starring Lee Jun-young: Full release schedule",
+    "summary": "Discover all the details about the K-drama Reborn Rookie, including its plot, cast, trailer and complete episode release schedule.",
+    "category": "casting",
+    "author": "Mia Kwon",
+    "source": "lifestyleasia.com",
+    "sourceUrl": "https://www.lifestyleasia.com/ind/entertainment/streaming/reborn-rookie-k-drama-release-schedule/",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "casting",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1781793438162-6",
+    "slug": "love-me-south-korean-tv-series-wikipedia",
+    "title": "Love Me (South Korean TV series) - Wikipedia",
+    "summary": "January 23, 2026 (2026-01-23) ... 서현진→트와이스 다현, '러브 미' 완전체 캐스팅 첫 발표 [공식] [Seo Hyun-jin → Twice Dahyun, 'Love Me' Full Casting First ...",
+    "category": "casting",
+    "author": "Rina Baek",
+    "source": "en.wikipedia.org",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Love_Me_(South_Korean_TV_series)",
+    "date": "4 days ago",
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/5f/Love_Me_%28TV_series%29-poster.png",
+    "tags": [
+      "casting",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1781791114496-1",
     "slug": "hyeri-speaks-out-on-beauty-standards-facebook",
     "title": "HYERI SPEAKS OUT ON BEAUTY STANDARDS - Facebook",
@@ -1356,7 +1458,7 @@ export const HERO_FEATURES = [
   },
 ];
 
-export const LAST_UPDATED = "2026-06-18T13:58:45.035Z";
+export const LAST_UPDATED = "2026-06-18T14:37:20.407Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
