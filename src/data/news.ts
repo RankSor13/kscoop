@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1781794493878-1",
+    "slug": "10-perfect-k-dramas-you-should-watch-in-2026-collider",
+    "title": "10 Perfect K-Dramas You Should Watch in 2026 - Collider",
+    "summary": "Discover the top K-dramas to watch in 2026, featuring new shows that will keep you hooked, from The Scarecrow to We Are All Trying Here.",
+    "category": "upcoming",
+    "author": "Ji Yeon Park",
+    "source": "collider.com",
+    "sourceUrl": "https://collider.com/perfect-k-drama-shows-to-watch-2026/",
+    "date": "4 days ago",
+    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/06/the-legend-of-kitchen-soldier1.jpg?w=1600&amp;h=900&amp;fit=crop",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781794496579-2",
+    "slug": "best-korean-drama-to-watch-on-netflix-disney-viki-youtube",
+    "title": "Best Korean Drama To Watch on Netflix, Disney+, Viki - YouTube",
+    "summary": "Top 10 Best Action Korean Dramas of 2026 | Best Korean Drama To Watch on Netflix, Disney+, Viki. 28 views · 4 hours ago. #bestkdramas2026 #actionseries # ...",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=weLK-DSHS_c&vl=ja",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781794499077-3",
+    "slug": "kim-soo-hyuns-latest-series-release-in-2026-watch-now",
+    "title": "KIM SOO HYUN's Latest Series Release in 2026: Watch Now",
+    "summary": "Upcoming kdrama 'Show Business' Release date: 2026 Q2 Runtime: 22 episodes Where to Watch: Netflix Cast: Song Hye Kyo Gong Yoo Kim Seol Hyun Cha Seung Won Lee ...",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/groups/735989114114131/posts/1676187650094268/",
+    "date": "5 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781794501117-4",
+    "slug": "1-doctor-on-the-edge-june-1-2-teach-you-a-lesson-instagram",
+    "title": "1. Doctor on the Edge - June 1 2. Teach you a Lesson - Instagram",
+    "summary": "These are the five dramas releasing this month so what are you most excited to watch? OCR. Upcoming KDramas June 2026 Doctor's on Edge Disney+ ONLY ON NETFLIX ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/DZpqrpvFGqc/",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1781794504315-5",
+    "slug": "best-korean-drama-to-watch-on-netflix-disney-viki-youtube",
+    "title": "Best Korean Drama To Watch on Netflix, Disney+, Viki - YouTube",
+    "summary": "Top 10 Best Crime Korean Dramas of 2026 | Best Korean Drama To Watch on Netflix, Disney+, Viki · Comments.",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=r7Wb_sOsyV0",
+    "date": "5 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1781794505367-6",
+    "slug": "8-korean-dramas-releasing-in-june-2026-where-to-watch",
+    "title": "8 Korean dramas releasing in June 2026 (+ Where to Watch)",
+    "summary": "8 Korean dramas releasing in June 2026 (+ Where to Watch) #upcoming #kdramalover.",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/KdramasNightAndDay/videos/8-korean-dramas-releasing-in-june-2026-where-to-watchupcoming-kdramalover/2073055106576914/",
+    "date": "6 days ago",
+    "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/722131502_1392199749384981_9170926134244873642_n.jpg?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=CRm7Q4DfbWUQ7kNvwHCTMmU&amp;_nc_oc=Adr8FgCCvQ6mXQ-Dt1NsGOHvjPYyjjcp0wBsNdc8sUj7JKPKv7ytVE2oRWx9IuioH_8&amp;_nc_zt=23&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=mWqreYHSkhRZUuVNWhTq1A&amp;_nc_ss=70289&amp;oh=00_Af96FpeL5qJUHA1xqvfpa-alK3xg9pv3Cb-ghm4B5xQt6g&amp;oe=6A39E894",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1781793427669-1",
     "slug": "guys-i-feel-so-bad-for-this-guy-actor-jo-byeong-gyu-he-facebook",
     "title": "Guys, I feel so bad for this guy, Actor Jo Byeong Gyu He ... - Facebook",
@@ -1459,7 +1561,7 @@ export const HERO_FEATURES = [
 ];
 
 <<<<<<< HEAD
-export const LAST_UPDATED = "2026-06-18T14:50:43.282Z";
+export const LAST_UPDATED = "2026-06-18T14:55:07.030Z";
 =======
 export const LAST_UPDATED = "2026-06-18T14:37:20.407Z";
 >>>>>>> 93c9def1ff255f9058017b021669ed88ff641dbf
