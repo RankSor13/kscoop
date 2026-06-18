@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1781795014631-1",
+    "slug": "guys-i-feel-so-bad-for-this-guy-actor-jo-byeong-gyu-he-facebook",
+    "title": "Guys, I feel so bad for this guy, Actor Jo Byeong Gyu He ... - Facebook",
+    "summary": "KOREA | Jo Byung-gyu has lost his 4 billion KRW defamation lawsuit against a person who accused him for school bullying. The Seoul Central District Court ruled ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/100091857426174/posts/guys-i-feel-so-bad-for-this-guy-actor-jo-byeong-gyuhe-was-accused-of-bullying-an/953720791033160/",
+    "date": "2 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781795015035-2",
+    "slug": "who-was-sanchita-ugale-kumkum-bhagya-and-chhaava",
+    "title": "Who Was Sanchita Ugale? Kumkum Bhagya And Chhaava ...",
+    "summary": "Television actress and Chhaava star Sanchita Ugale has died at her residence in Maharashtra's Nalasopara, just hours after sharing a cheerful Instagram reel ...",
+    "category": "trending",
+    "author": "Soo Min Lee",
+    "source": "timesofindia.indiatimes.com",
+    "sourceUrl": "https://timesofindia.indiatimes.com/videos/etimes/bollywood/who-was-sanchita-ugale-kumkum-bhagya-and-chhaava-actress-dies-by-suicide-at-22/videoshow/131748913.cms",
+    "date": "2 days ago",
+    "image": "https://static.toiimg.com/thumb/msid-131748913,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781795015670-3",
+    "slug": "batwara-1947-official-teaser-shabana-azmi-sunny-deol",
+    "title": "Batwara 1947 | Official Teaser | Shabana Azmi | Sunny Deol ...",
+    "summary": "When batwara drew lines between people, he chose courage over fear. Watch #Batwara1947 in cinemas on 14th August. Starring: Sunny Deol, Preity G. Zinta, ...",
+    "category": "trending",
+    "author": "Dana Kim",
+    "source": "bollywoodhungama.com",
+    "sourceUrl": "https://www.bollywoodhungama.com/videos/movie-promos/batwara-1947-official-teaser-shabana-azmi-sunny-deol-aamir-khan-productions-14th-aug-2026/",
+    "date": "6 hours ago",
+    "image": "https://www.bollywoodhungama.com/videos/movie-promos/batwara-1947-official-teaser-shabana-azmi-sunny-deol-aamir-khan-productions-14th-aug-2026",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781795016272-4",
+    "slug": "chicken-shop-date-out-friday-zara-larsson",
+    "title": "@Chicken Shop Date OUT FRIDAY !! | Zara Larsson",
+    "summary": "With notable names like Amelia Dimz and Rose Byrne among those recognized, the anticipation for the ceremony only grows stronger. What thoughts do you have ...",
+    "category": "trending",
+    "author": "Hana Cho",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@ameliadimz/video/7652409989713251606",
+    "date": "22 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1781795016807-5",
+    "slug": "alpha-official-trailer-alia-bhatt-sharvari-anil-kapoor",
+    "title": "Alpha | Official Trailer | Alia Bhatt, Sharvari, Anil Kapoor ...",
+    "summary": "You saw the FIRST KILL. Now get ready to witness THE HUNT. Presenting the Official Trailer of “ALPHA” Welcome to the newest chapter of the YRF Spy Universe ...",
+    "category": "trending",
+    "author": "Mia Kwon",
+    "source": "bollywoodhungama.com",
+    "sourceUrl": "https://www.bollywoodhungama.com/videos/movie-promos/alpha-official-trailer-alia-bhatt-sharvari-anil-kapoor-bobby-deol-shiv-rawail-yrf-spy-universe/",
+    "date": "1 day ago",
+    "image": "https://www.bollywoodhungama.com/videos/movie-promos/alpha-official-trailer-alia-bhatt-sharvari-anil-kapoor-bobby-deol-shiv-rawail-yrf-spy-universe",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1781795017031-6",
+    "slug": "new-korean-dramas-in-2026-netflix",
+    "title": "New Korean Dramas in 2026 Netflix",
+    "summary": "Gong Yoo and Song Hye-kyo are set to share the screen in Netflix's highly anticipated historical drama 'Tantara,' officially confirmed for a 2026 release. Cast ...",
+    "category": "casting",
+    "author": "Rina Baek",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/discover/new-korean-dramas-in-2026-netflix",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "casting",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1781791114496-1",
     "slug": "hyeri-speaks-out-on-beauty-standards-facebook",
     "title": "HYERI SPEAKS OUT ON BEAUTY STANDARDS - Facebook",
@@ -1356,7 +1458,7 @@ export const HERO_FEATURES = [
   },
 ];
 
-export const LAST_UPDATED = "2026-06-18T14:50:43.282Z";
+export const LAST_UPDATED = "2026-06-18T15:03:37.481Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
