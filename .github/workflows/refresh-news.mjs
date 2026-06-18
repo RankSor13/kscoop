@@ -151,6 +151,62 @@ async function groqChat(messages) {
   return data.choices?.[0]?.message?.content?.trim() || "";
 }
 
+// ---------- Real per-article image (scraped from the source page) ----------
+
+/**
+ * Fetch the article's own source page and pull its og:image / twitter:image
+ * meta tag — the actual photo the publisher chose for THAT story, instead of
+ * a generic stock photo picked by round-robin index.
+ * Returns null on any failure so the caller can fall back gracefully.
+ */
+async function fetchArticleImage(url) {
+  if (!url) return null;
+  try {
+    const res = await fetch(url, {
+      redirect: "follow",
+      signal: AbortSignal.timeout(8000),
+      headers: {
+        // Some publishers block default fetch UAs; pretend to be a normal browser.
+        "User-Agent":
+          "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+        Accept: "text/html,application/xhtml+xml",
+      },
+    });
+    if (!res.ok) return null;
+    const contentType = res.headers.get("content-type") || "";
+    if (!contentType.includes("text/html")) return null;
+
+    // Only read the <head> — og/twitter tags always live there, no need to
+    // download the whole page body.
+    const html = await res.text();
+    const head = html.slice(0, 80000);
+
+    const metaRegex =
+      /<meta\s+[^>]*(?:property|name)\s*=\s*["'](og:image|og:image:secure_url|twitter:image|twitter:image:src)["'][^>]*>/gi;
+    const contentRegex = /content\s*=\s*["']([^"']+)["']/i;
+
+    let best = null;
+    let m;
+    while ((m = metaRegex.exec(head))) {
+      const tag = m[0];
+      const cm = tag.match(contentRegex);
+      if (cm && cm[1]) {
+        best = cm[1];
+        // Prefer plain og:image if we find it; otherwise keep first match.
+        if (/^og:image$/i.test(m[1])) break;
+      }
+    }
+    if (!best) return null;
+
+    // Resolve relative/protocol-relative URLs against the article URL.
+    const resolved = new URL(best, url).toString();
+    if (!/^https?:\/\//i.test(resolved)) return null;
+    return resolved;
+  } catch {
+    return null; // timeout, network error, blocked, etc. — fall back upstream
+  }
+}
+
 // ---------- Helpers ----------
 
 function buildUserPrompt(item) {
@@ -316,6 +372,17 @@ for (let i = 0; i < top.length; i++) {
   console.log(`  [${i + 1}/${top.length}] ${it.name.slice(0, 60)}...`);
 
   const slug = slugify(it.name) || `article-${newId}`;
+
+  // ✅ FIX — pull the real photo from the article's own source page first.
+  // Only fall back to the generic stock pool if scraping genuinely fails
+  // (paywall, bot-block, timeout, no og:image tag, etc).
+  const scrapedImage = await fetchArticleImage(it.url);
+  if (scrapedImage) {
+    console.log(`    🖼  real image: ${scrapedImage.slice(0, 70)}...`);
+  } else {
+    console.log(`    🖼  no scrapeable image, using fallback pool`);
+  }
+
   let body = null;
   let takeaways = [];
   try {
@@ -349,8 +416,10 @@ for (let i = 0; i < top.length; i++) {
     source: it.host_name || "Web",
     sourceUrl: it.url,
     date: it.date || todayISO(),
-    // ✅ FIX — prefer image from search result, fall back to curated K-drama images
-    image: it.imageUrl || FALLBACK_IMAGES[i % FALLBACK_IMAGES.length],
+    // ✅ FIX — prefer the real scraped photo; Serper's imageUrl is almost
+    // never populated on organic results, so it's now just a secondary
+    // check before falling back to the curated stock pool.
+    image: scrapedImage || it.imageUrl || FALLBACK_IMAGES[i % FALLBACK_IMAGES.length],
     // ✅ FIX 5 — Removed "auto" and "live" tags that exposed AI generation
     tags: [it.category, "korean-entertainment"],
     hot: i < 3,
