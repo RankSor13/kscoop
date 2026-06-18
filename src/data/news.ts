@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1781785349265-1",
+    "slug": "the-anomalies-in-kbiz-wherein-these-2-korean-stars-who",
+    "title": "The Anomalies in Kbiz, wherein these 2 KOREAN STARS who ...",
+    "summary": "One Bin is considered as one of the most selective actors in the Korean entertainment industry. His last movie was actually from 2010 and this was also his last ...",
+    "category": "trending",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/chingunatics/videos/the-anomalies-in-kbiz-wherein-these-2-korean-stars-who-never-take-new-works-yet-/2026230604650414/",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "auto",
+      "live",
+      "trending"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781785352128-2",
+    "slug": "the-famous-south-korean-actors-facebook",
+    "title": "The famous South Korean Actors - Facebook",
+    "summary": "Kim Soo-hyun Acclaimed for his roles in 'My Love from the Star,' 'Moon Embracing the Sun,' and 'It's Okay to Not Be Okay.' 9. Lee Joon-gi Known for 'Moon Lovers ...",
+    "category": "trending",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/bird.han.488458/posts/the-famous-south-korean-actors-/1039038132104908/",
+    "date": "11 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "auto",
+      "live",
+      "trending"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781785355092-3",
+    "slug": "korean-pop-star-jeon-somi-tells-daniel-dae-kim-how-she-turned",
+    "title": "Korean pop star Jeon Somi tells Daniel Dae Kim how she turned ...",
+    "summary": "Korean pop star Jeon Somi tells Daniel Dae Kim how she turned being bullied as a teenager into a strength. K-Everything streams in the U.S. on the CNN app ...",
+    "category": "trending",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DZs4jDBjfhv/",
+    "date": "15 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "auto",
+      "live",
+      "trending"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781785357752-4",
+    "slug": "congratulations-to-the-family-four-years-after-their",
+    "title": "CONGRATULATIONS TO THE FAMILY Four years after their ...",
+    "summary": "Four years after their wedding, actor Namkoong Min and Jin Ah Reum are expanding their family. According to an official statement from 935 Entertainment on June ...",
+    "category": "trending",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/DZtqWaiPiWZ/",
+    "date": "8 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "auto",
+      "live",
+      "trending"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1781785359864-5",
+    "slug": "7-famous-korean-stars-whose-career-was-saved",
+    "title": "7 FAMOUS KOREAN STARS WHOSE CAREER WAS SAVED ...",
+    "summary": "#SonYeJin - a renowned south korean actress known for her roles in dramas like, \" Personal Taste\", \"A moment to remember\", \"Something in the rain\", and Crash ...",
+    "category": "trending",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/chingunatics/posts/7-famous-korean-stars-whose-career-was-saved-because-of-this-role-koreanstars-fb/1038503075620805/",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "auto",
+      "live",
+      "trending"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1781785363605-6",
+    "slug": "the-5-most-respected-celebrities-in-korea-fame-is-one-instagram",
+    "title": "The 5 Most Respected Celebrities in Korea Fame is one ... - Instagram",
+    "summary": "One of Korea's biggest solo artists and actresses, admired for her talent and frequent donations. Third, Faker. The legendary mid-laner of T1. A six-time world ...",
+    "category": "trending",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DZmxPFRgeNv/",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "auto",
+      "live",
+      "trending"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1781785213863-1",
     "slug": "soompi-latest-k-pop-k-drama-korean-entertainment-news-2024",
     "title": "Soompi: Latest K-Pop, K-Drama, Korean Entertainment News (2024)",
@@ -744,7 +846,7 @@ export const HERO_FEATURES = [
   },
 ];
 
-export const LAST_UPDATED = "2026-06-18T12:20:27.050Z";
+export const LAST_UPDATED = "2026-06-18T12:22:45.651Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
