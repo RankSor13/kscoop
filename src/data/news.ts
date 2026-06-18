@@ -1327,34 +1327,39 @@ export const UPCOMING_SERIES: UpcomingSeries[] = [
 ];
 
 // ---------------------------------------------------------------------------
-// HERO FEATURE  (top story for hero carousel)
+// HERO FEATURES  (top stories for hero carousel)
 // ---------------------------------------------------------------------------
-export const HERO_FEATURES = [
-  {
-    id: "h1",
-    kicker: "Scandal & Comeback",
-    title: "Kim Soo-hyun Returns as AI-Fabricated Evidence Exposed",
-    body: "Police confirmed the recordings used to defame the 'Queen of Tears' star were AI-generated. The actor resumes activities with a new fashion brand tie-up.",
-    image: IMG.kimsoohyun,
-    link: "n1",
-  },
-  {
-    id: "h2",
-    kicker: "Most-Anticipated 2026",
-    title: "Suzy & Kim Seon-ho Lead 'Delusion' — A 1930s Fantasy Mystery",
-    body: "Adapted from a hit Naver webtoon, 'Delusion' is being positioned as one of the most-anticipated K-dramas of 2026 by international fan communities.",
-    image: IMG.suzy,
-    link: "n6",
-  },
-  {
-    id: "h3",
-    kicker: "Casting News",
-    title: "IU & Byeon Woo-seok to Star in Disney+ 'Perfect Crown'",
-    body: "A modern Korea under constitutional monarchy — a chaebol heiress and a crown prince whose public rivalry masks a deeper connection.",
-    image: IMG.couple2,
-    link: "n7",
-  },
-];
+// DERIVED from NEWS at module load, so it always reflects the newest "hot"
+// articles — no manual edits needed.
+const HERO_KICKER: Record<NewsCategory, string> = {
+  gossip: "Scandal & Gossip",
+  upcoming: "Most-Anticipated 2026",
+  trending: "Trending Now",
+  casting: "Casting News",
+};
+
+function buildHeroFeatures(items: NewsItem[], count = 3) {
+  const hot = items.filter((n) => n.hot);
+  const pool = hot.length >= count ? hot : items;
+
+  const picked: NewsItem[] = [];
+  for (const n of pool) {
+    if (picked.length >= count) break;
+    if (picked.some((p) => p.id === n.id)) continue;
+    picked.push(n);
+  }
+
+  return picked.map((n) => ({
+    id: `h-${n.id}`,
+    kicker: HERO_KICKER[n.category] ?? "Trending Now",
+    title: n.title,
+    body: n.summary,
+    image: n.image,
+    link: n.id,
+  }));
+}
+
+export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
 export const LAST_UPDATED = "2026-06-18T14:50:43.282Z";
 
