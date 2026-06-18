@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-06-18T13:09:15.248Z
+ * Last updated: 2026-06-18T13:18:33.166Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -1961,6 +1961,166 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       {
         "type": "p",
         "text": "It's shaping up to be a great summer for K-drama fans, that's for sure. With \"The East Palace\" on the horizon, we've got something to look forward to. But what's the story behind this show, and how will it stack up against other horror dramas? We'll just have to wait and see. [originally reported by r/KDRAMA](https://www.reddit.com/r/KDRAMA/comments/1u8qyjr/netflix_the_east_palace_official_teaser_premieres/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1781788706698-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Oh Jung-se Effect"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Oh Jung-se is a South Korean actor, and honestly, he's a big deal.",
+          "He's born on February 26, 1977, which makes him a seasoned veteran in the K-drama scene.",
+          "Oh Jung-se is best known for his lead roles, particularly in the TV series It's Okay to Not Be Okay.",
+          "He's got a Wikipedia page, which isn't surprising given his popularity."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Taking the Lead"
+      },
+      {
+        "type": "p",
+        "text": "Oh Jung-se has been making waves with his lead roles, and it's not hard to see why - the guy's got talent. Born on February 26, 1977, he's been around for a while, and that experience shows in his acting. But what really puts him on the map is his work in It's Okay to Not Be Okay, a drama that's captured the hearts of many K-drama fans."
+      },
+      {
+        "type": "h2",
+        "text": "What We Know"
+      },
+      {
+        "type": "p",
+        "text": "So, what do we know about Oh Jung-se? Well, for starters, he's a South Korean actor with a birthday on February 26, 1977. That's about it, as far as the basics go. But if you're a K-drama fan, you know that sometimes it's the actors with the least flashy bios who end up delivering the most memorable performances. And Oh Jung-se is definitely one of them."
+      },
+      {
+        "type": "h2",
+        "text": "The It Factor"
+      },
+      {
+        "type": "p",
+        "text": "But was Oh Jung-se always destined for stardom? It's hard to say, but one thing's for sure - he's got that special something that sets him apart from other actors. Maybe it's his versatility, or maybe it's just his charm on screen. Whatever it is, it's working, and fans can't get enough of him. [originally reported by Wikipedia](https://en.wikipedia.org/wiki/Oh_Jung-se)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1781788708352-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Shocking Loss: Kim Sae-ron's Sudden Passing"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Kim Sae-ron, a talented South Korean actress, passed away on February 16, 2025, at just 24 years old.",
+          "Her death has left fans and the K-drama community reeling.",
+          "There were no signs of foul play, which doesn't make this tragedy any easier to process.",
+          "Serious allegations surrounded her before her passing, but that's all we know for now."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "A Rising Star Cut Short"
+      },
+      {
+        "type": "p",
+        "text": "Kim Sae-ron's career was really taking off, and it's devastating to think about what could've been. She was a former child actress who had already made a name for herself in the K-drama world. But was 24 really her time to go? That's what's got everyone shaken - she was so young, with her whole life ahead of her."
+      },
+      {
+        "type": "h2",
+        "text": "The Outpouring of Grief"
+      },
+      {
+        "type": "p",
+        "text": "Fans are still trying to wrap their heads around this news, and it's clear that Kim Sae-ron touched a lot of hearts. Her passing is a stark reminder that life's unpredictable, and we should appreciate our favorite stars while we can. What's next for her fans, though? How do you move on from losing someone who brought so much joy to your screen?"
+      },
+      {
+        "type": "h2",
+        "text": "Remembering Kim Sae-ron"
+      },
+      {
+        "type": "p",
+        "text": "We're not gonna sugarcoat it - Kim Sae-ron's death is a tough pill to swallow. But let's take a moment to remember her incredible talent and the roles she brought to life. She might be gone, but her legacy will live on through her work. [originally reported by instagram.com](https://www.instagram.com/reel/DZd2lD3yVCn/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1781788709866-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Bombshell Scam Alert"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Actor Lee Joo-been just revealed her ID photo was used in multiple criminal scams, and we're talking major shock factor here.",
+          "This isn't your run-of-the-mill celebrity news - it's a serious scam that's got everyone talking.",
+          "Lee Joo-been's case is a wake-up call for all of us, honestly, because who wouldn't be freaked out by their ID being used like that?",
+          "The fact that her personal info was exploited like this raises so many questions - like, how did this even happen?"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "The Scam Exploitation"
+      },
+      {
+        "type": "p",
+        "text": "Lee Joo-been's ID photo being used for scams is a huge deal, and it's not just because she's a celebrity. It's because this could happen to anyone, and that's what's so scary. But was the exploitation of her ID a one-time thing, or is this part of a bigger issue? We're talking about a situation where someone's personal info is being used for who-knows-what, and it's not okay."
+      },
+      {
+        "type": "h2",
+        "text": "What's At Stake"
+      },
+      {
+        "type": "p",
+        "text": "The fact that Lee Joo-been's ID was used for multiple scams is a major red flag - it shows that there are some serious loopholes in the system. And let's be real, if it can happen to her, it can happen to anyone. So, what's being done to prevent this kind of thing from happening again? That's the million-dollar question, and we're waiting for some answers."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "Lee Joo-been's case is just the tip of the iceberg - it highlights a much bigger issue with identity theft and scamming in Korea. It's not just about one person's ID being used; it's about a system that allows this kind of thing to happen. And honestly, it's time for a change. [originally reported by Korea JoongAng Daily](https://www.koreajoongangdaily.com/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1781788711620-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Wait, What's Going On Here?"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "The Hollywood Reporter's got a lot going on, and it's not just about movies.",
+          "They're covering TV news, awards news, and even lifestyle news.",
+          "Business news is also on the table, because let's be real, that's a big part of the industry.",
+          "They're giving us more than just the basics, and that's pretty cool."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Diving Deeper Into The Hollywood Reporter"
+      },
+      {
+        "type": "p",
+        "text": "The Hollywood Reporter's website is a treasure trove of information, and honestly, it's a big deal. They're not just focusing on one area, they're covering it all - from the latest movie releases to what's happening in the world of TV. But was the decision to cover so many areas a good one? It's definitely giving them a lot of content to work with, and fans aren't wrong to be excited about it."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "So, what does this mean for fans of entertainment news? It means they've got a one-stop shop for all their needs. They can get the latest on their favorite movies, TV shows, and even awards ceremonies. But it also raises the question - can The Hollywood Reporter really cover all these areas effectively? Only time won't tell us, but their track record might. [originally reported by The Hollywood Reporter](https://www.hollywoodreporter.com/)"
       }
     ],
     "takeaways": []

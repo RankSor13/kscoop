@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1781788706698-1",
+    "slug": "oh-jung-se-wikipedia",
+    "title": "Oh Jung-se - Wikipedia",
+    "summary": "Oh Jung-se (Korean: 오정세 ; born February 26, 1977) is a South Korean actor. He is best known for his lead roles in the television series It's Okay to Not ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "en.wikipedia.org",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Oh_Jung-se",
+    "date": "5 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781788708352-2",
+    "slug": "the-devastating-passing-of-former-child-actress-kim-saeron-has-sent",
+    "title": "The devastating passing of former child actress Kim Saeron has sent ...",
+    "summary": "Kim Sae-ron, a well-known South Korean actress, sadly passed away on February 16, 2025, at the age of 24. there were no signs of foul play. serious allegations ...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DZd2lD3yVCn/",
+    "date": "7 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781788709866-3",
+    "slug": "korea-joongang-daily-korean-news-in-english",
+    "title": "Korea JoongAng Daily | Korean news in English",
+    "summary": "Raft and relaxation · Firefighters spring into action · Actor Lee Joo-been reveals her ID photo was exploited for multiple criminal scams · Korea · Ex-chief of ...",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "koreajoongangdaily.com",
+    "sourceUrl": "https://www.koreajoongangdaily.com/",
+    "date": "6 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781788711620-4",
+    "slug": "the-hollywood-reporter-movie-news-tv-news-awards-news",
+    "title": "The Hollywood Reporter – Movie news, TV news, awards news ...",
+    "summary": "Movie news, TV news, awards news, lifestyle news, business news and more from The Hollywood Reporter.",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "hollywoodreporter.com",
+    "sourceUrl": "https://www.hollywoodreporter.com/",
+    "date": "8 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1781788713062-5",
+    "slug": "every-k-drama-coming-to-netflix-viki-and-more-in-may-2026",
+    "title": "Every K-Drama Coming to Netflix, Viki, and More in May 2026",
+    "summary": "- *Tastefully Yours*: premiering on Netflix on May 12 1. *Nine Puzzles*: A psychological thriller premiering on Disney+ on May 21 1. Netflix, Disney+, and JTBC.",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/adultswholovecartoons/posts/every-k-drama-coming-to-netflix-viki-and-more-in-may-2026-read-more-/1469028958604120/",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1781788713107-6",
+    "slug": "korean-drama-perfect-crown-heading-to-disney-in-2026-imdb",
+    "title": "Korean Drama 'Perfect Crown' Heading to Disney+ in 2026 ... - IMDb",
+    "summary": "Disney+ revealed that the much-talked about Mbc drama Perfect Crown, starring the in-demand pair of Iu and Byeon Woo-seok, will hit the streamer in 2026 for ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "imdb.com",
+    "sourceUrl": "https://www.imdb.com/es/news/ni65570282/",
+    "date": "19 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1781788138776-1",
     "slug": "a-bold-new-chapter-former-le-sserafim-member-kim-ga-ram",
     "title": "\"A Bold New Chapter: Former Le Sserafim Member Kim Ga-ram ...",
@@ -1152,7 +1254,7 @@ export const HERO_FEATURES = [
   },
 ];
 
-export const LAST_UPDATED = "2026-06-18T13:09:15.247Z";
+export const LAST_UPDATED = "2026-06-18T13:18:33.165Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
