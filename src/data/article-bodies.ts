@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-06-18T13:18:33.166Z
+ * Last updated: 2026-06-18T13:58:45.035Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -2121,6 +2121,212 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       {
         "type": "p",
         "text": "So, what does this mean for fans of entertainment news? It means they've got a one-stop shop for all their needs. They can get the latest on their favorite movies, TV shows, and even awards ceremonies. But it also raises the question - can The Hollywood Reporter really cover all these areas effectively? Only time won't tell us, but their track record might. [originally reported by The Hollywood Reporter](https://www.hollywoodreporter.com/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1781791114496-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Shocking Weight Loss: HyunA Hits 49kg"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "HyunA just revealed she's down to 49kg, a major milestone after shedding nearly 10kg.",
+          "This news is huge, especially since it's coming from a K-pop star who's always in the spotlight.",
+          "Honestly, it's not every day you see a celebrity being so open about their weight loss journey.",
+          "But what's even more surprising is that HyunA's not the one making headlines for speaking out on beauty standards - it's actually Hyeri who's using her voice."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "The Real Story Here"
+      },
+      {
+        "type": "p",
+        "text": "Hyeri's speaking out on beauty standards, and it's about time someone did. We're talking about an industry where idols are constantly scrutinized for their looks, and it can get pretty brutal. But was Hyeri's message lost in the news about HyunA's weight loss? It's like, we get it, weight loss is a big deal, but what about the bigger picture? What about the fact that these idols are human beings, too, and they deserve to be treated with respect, not just admired for their physical appearance?"
+      },
+      {
+        "type": "h2",
+        "text": "Beauty Standards in K-Pop"
+      },
+      {
+        "type": "p",
+        "text": "Let's be real, K-pop is all about the visuals - the flashy music videos, the stunning choreography, the gorgeous idols. But sometimes it feels like that's all that matters. Idols are expected to conform to certain beauty standards, and if they don't, they're criticized. It's not fair, and it's not healthy. That's why it's so important for idols like Hyeri to speak out against these unrealistic standards. They have a platform, and they should use it to make a difference."
+      },
+      {
+        "type": "h2",
+        "text": "Health Over Size"
+      },
+      {
+        "type": "p",
+        "text": "Hyeri's message is simple: health matters more than size. And that's something we can all get behind. It's not about being a certain weight or looking a certain way; it's about being healthy and happy. So, let's focus on that, rather than scrutinizing every little detail about an idol's appearance. It's time for a change, and it's time for us to start valuing these idols as people, not just pretty faces."
+      },
+      {
+        "type": "h2",
+        "text": "The Bottom Line"
+      },
+      {
+        "type": "p",
+        "text": "It's great that HyunA is feeling confident about her weight loss, and we're happy for her. But let's not forget about the real issue at hand: beauty standards in K-pop. It's time for us to start talking about this, and it's time for us to start making some changes. [originally reported by Facebook](https://www.facebook.com/100065275819551/posts/hyeri-speaks-out-on-beauty-standards-health-matters-more-than-sizeactress-and-si/1387041406815040/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1781791117228-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Stealing the Show"
+      },
+      {
+        "type": "p",
+        "text": "Yoona's awards show appearance is still getting major buzz, and honestly, it's no surprise - she's always been a star. But what's really interesting is how Korean celebrities are using TikTok to connect with fans and show off their personalities. It's not just about promoting their latest dramas or movies; it's about giving fans a glimpse into their everyday lives."
+      },
+      {
+        "type": "h2",
+        "text": "The Charm of K-Celebs"
+      },
+      {
+        "type": "p",
+        "text": "From analyzing actor personalities to getting the latest updates on your favorite stars, TikTok is the place to be for K-drama fans. And let's be real, who doesn't love a good behind-the-scenes look at what makes these celebrities tick? It's like getting a sneak peek into a whole different world, and we're here for it. But was the rise of Korean celebrities on TikTok inevitable, or is this a game-changer for the K-entertainment industry?"
+      },
+      {
+        "type": "h2",
+        "text": "Where to Get Your Fix"
+      },
+      {
+        "type": "p",
+        "text": "If you're looking for the latest updates on Korean celebrities, look no further than TikTok. With its short-form videos and addictive algorithm, it's the perfect platform for fans to get their fix of K-drama news and gossip. And who knows, you might just discover your new favorite celebrity or drama. [originally reported by tiktok.com](https://www.tiktok.com/discover/korean-celebrities)"
+      }
+    ],
+    "takeaways": [
+      "Korean celebrities are killing it on TikTok, and we're obsessed",
+      "Yoona's awards show appearance is still shining bright",
+      "You can analyze actor personalities on the platform, because why not?",
+      "The latest updates are just a click away on TikTok"
+    ]
+  },
+  "live-1781791119046-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "June's K-Drama Lineup Is Here"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Doctor On The Edge is coming out on June 1, 2026, and it's airing every Monday and Tuesday.",
+          "The cast includes Lee Jae-wook and Shin, which is definitely something to look forward to.",
+          "That's not the only drama we're getting in June, though - there are four more on the way.",
+          "We don't have all the details on the other four yet, but we know Doctor On The Edge is a great place to start."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal - a new Lee Jae-wook drama is always exciting news. But was the wait worth it? We'll have to tune in to find out. Doctor On The Edge is just the beginning, and we can't wait to see what the rest of June has in store for us. With a Monday and Tuesday airtime, it's going to be a wild ride."
+      },
+      {
+        "type": "h2",
+        "text": "What We Know So Far"
+      },
+      {
+        "type": "p",
+        "text": "The cast of Doctor On The Edge is pretty promising, with Lee Jae-wook and Shin leading the way. We don't have much info on the plot yet, but with a title like that, it's bound to be interesting. June 1 can't come soon enough - we're ready to dive in and see what this drama has to offer."
+      },
+      {
+        "type": "h2",
+        "text": "The Month Ahead"
+      },
+      {
+        "type": "p",
+        "text": "But Doctor On The Edge isn't the only K-drama we're looking forward to - there are four more on the horizon. We don't have all the details yet, but it's shaping up to be a great month for K-drama fans. With so many new shows on the way, it's going to be tough to keep up - but we're definitely up for the challenge."
+      },
+      {
+        "type": "h2",
+        "text": "Where Things Stand Now"
+      },
+      {
+        "type": "p",
+        "text": "We're just a few weeks away from the premiere of Doctor On The Edge, and the anticipation is building. We're excited to see what Lee Jae-wook and the rest of the cast bring to the table. It's going to be a fun month, that's for sure. [originally reported by imdb.com](https://www.imdb.com/news/ni65862550/?ref_=nm_nwr_2)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1781791121054-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Get Ready for a Thrilling July"
+      },
+      {
+        "type": "p",
+        "text": "The K-drama scene is about to heat up, and we're not just talking about the summer weather - Namkoong Min's new series, The Husband, is premiering on July 4, 2026, on KBS2. Honestly, this is a big deal, especially since it's a romance-thriller, which is always a great combo. But what can we expect from this series, and why should you tune in? For starters, the cast is pretty impressive, with Lee Seol and Kim Dae-myung joining Namkoong Min."
+      },
+      {
+        "type": "h2",
+        "text": "Romance and Thrills Ahead"
+      },
+      {
+        "type": "p",
+        "text": "So, what's The Husband all about? Unfortunately, we don't have too many details just yet, but we do know it's a romance-thriller, which usually means plenty of twists and turns to keep us on the edge of our seats. We're also excited to see Namkoong Min in action - he's always brought a certain level of intensity to his roles, and we're guessing this one will be no exception. But was the casting process a deliberate attempt to bring together some of the best talents in the industry? That's a question we'll have to wait and see."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "As we count down the days to The Husband's premiere, one thing's for sure - July is shaping up to be an exciting month for K-drama fans. With new series like this one hitting the airwaves, we're in for a treat. So, mark your calendars for July 4, and get ready to binge-watch The Husband on KBS2. [originally reported by legit.ng](https://www.legit.ng/entertainment/tv-shows/1713237-park-eun-bin-seo-hyun-jin-upcoming-k-drama-july-watch/)"
+      }
+    ],
+    "takeaways": [
+      "Namkoong Min is starring in a new K-drama called The Husband, which premieres on July 4, 2026.",
+      "The series will air on KBS2.",
+      "Lee Seol and Kim Dae-myung are also part of the cast.",
+      "The Husband is a romance-thriller series."
+    ]
+  },
+  "live-1781791123187-6": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Filipino Stars Take Seoul By Storm"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Anne Curtis, Fyang Smith, and Kim Chiu are among the big names nominated at the 2026 Seoul International Drama Awards.",
+          "A total of 23 Filipino stars have secured nominations, proving that local talent is making waves on the international stage.",
+          "The Seoul International Drama Awards is a prestigious event that recognizes excellence in drama.",
+          "Fans can vote for their favorite stars, giving them a say in who takes home the awards."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "The Rise of Filipino Talent"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal - 23 nominations is no small feat, and it's clear that Filipino stars are killing the game right now. But what's behind this surge in international recognition? Is it the talented actors themselves, or are there other factors at play? One thing's for sure, though: we're loving the representation."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters"
+      },
+      {
+        "type": "p",
+        "text": "It's not every day you see so many Filipino stars getting recognized on such a big stage. But was this always the case? It seems like just yesterday we were waiting for any sign of Filipino talent breaking into the international scene. Now, with stars like Anne Curtis, Fyang Smith, and Kim Chiu leading the charge, it's exciting to think about what's next. The fact that fans can vote for their favorite stars just adds to the excitement - it's a chance for them to show their support and make their voices heard."
+      },
+      {
+        "type": "h2",
+        "text": "Fan Power"
+      },
+      {
+        "type": "p",
+        "text": "So, what are fans saying about these nominations? They're pretty thrilled, that's what. And who can blame them? It's not every day you get to see your favorite stars up for a major award. But the real question is, will they be able to take home the win? That's up to the fans to decide. [originally reported by metro.style](https://metro.style/people/2026/6/15/anne-curtis-fyang-smith-kim-chiu-among-seoul-drama-awards-2026-nominees-here-s-how-you-can-vote-1846)"
       }
     ],
     "takeaways": []

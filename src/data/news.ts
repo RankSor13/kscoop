@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1781791114496-1",
+    "slug": "hyeri-speaks-out-on-beauty-standards-facebook",
+    "title": "HYERI SPEAKS OUT ON BEAUTY STANDARDS - Facebook",
+    "summary": "K-pop star HyunA recently revealed on social media that she has reached 49kg, marking a significant milestone after losing nearly 10kg.",
+    "category": "trending",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/100065275819551/posts/hyeri-speaks-out-on-beauty-standards-health-matters-more-than-sizeactress-and-si/1387041406815040/",
+    "date": "14 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781791117228-2",
+    "slug": "korean-celebrities-tiktok",
+    "title": "Korean Celebrities - TikTok",
+    "summary": "Discover the charming behavior of Korean celebrities, from Yoona's shine at the awards to analyzing actor personalities. Click for the latest updates!",
+    "category": "trending",
+    "author": "Soo Min Lee",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/discover/korean-celebrities",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781791119046-3",
+    "slug": "5-korean-dramas-releasing-in-june-2026-from-doctor-on",
+    "title": "5 Korean Dramas Releasing In June 2026: From Doctor On ...",
+    "summary": "Let's take a look! 1. Doctor On The Edge Release Date: June 1, 2026 (Airs every Monday & Tuesday) Cast: Lee Jae-wook, Shin ...",
+    "category": "casting",
+    "author": "Dana Kim",
+    "source": "imdb.com",
+    "sourceUrl": "https://www.imdb.com/news/ni65862550/?ref_=nm_nwr_2",
+    "date": "4 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "casting",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781791121054-4",
+    "slug": "every-upcoming-k-drama-in-july-2026-and-where-to-watch",
+    "title": "every upcoming K-drama in July 2026 and where to watch",
+    "summary": "The Husband is a romance-thriller series that premieres on KBS2 on 4 July 2026. South Korean actor Namkoong Min stars alongside Lee Seol and Kim Dae-myung. Kang ...",
+    "category": "casting",
+    "author": "Hana Cho",
+    "source": "legit.ng",
+    "sourceUrl": "https://www.legit.ng/entertainment/tv-shows/1713237-park-eun-bin-seo-hyun-jin-upcoming-k-drama-july-watch/",
+    "date": "6 days ago",
+    "image": "https://cdn.legit.ng/images/1200x675/6f16f326963a46a1.jpeg?v=1",
+    "tags": [
+      "casting",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1781791123076-5",
+    "slug": "upcoming-k-dramas-to-watch-in-july-2026",
+    "title": "Upcoming K-dramas to Watch in July 2026",
+    "summary": "July 2026 has K-dramas from dark fantasy to Lee Dong-wook and Ahn Bo-hyun returning with sequels. Here are all the details from release date to plot:",
+    "category": "casting",
+    "author": "Mia Kwon",
+    "source": "thereviewgeek.com",
+    "sourceUrl": "https://www.thereviewgeek.com/upcoming-kdramas-july2026/",
+    "date": "7 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "casting",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1781791123187-6",
+    "slug": "anne-curtis-fyang-smith-and-kim-chiu-among-seoul",
+    "title": "Anne Curtis, Fyang Smith, and Kim Chiu Among Seoul ...",
+    "summary": "Filipino talent continues to shine on the international stage, with 23 local stars securing nominations at the prestigious 2026 Seoul International Drama ...",
+    "category": "casting",
+    "author": "Rina Baek",
+    "source": "metro.style",
+    "sourceUrl": "https://metro.style/people/2026/6/15/anne-curtis-fyang-smith-kim-chiu-among-seoul-drama-awards-2026-nominees-here-s-how-you-can-vote-1846",
+    "date": "3 days ago",
+    "image": "https://od2-image-api.abs-cbn.com/prod/20260615110612/7cf14663638f09b8bace79a5ab5dac561939a563f929b3dfed93eb4072ce653f.png?w=1200&amp;h=800",
+    "tags": [
+      "casting",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1781788706698-1",
     "slug": "oh-jung-se-wikipedia",
     "title": "Oh Jung-se - Wikipedia",
@@ -1254,7 +1356,7 @@ export const HERO_FEATURES = [
   },
 ];
 
-export const LAST_UPDATED = "2026-06-18T13:18:33.165Z";
+export const LAST_UPDATED = "2026-06-18T13:58:45.035Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
