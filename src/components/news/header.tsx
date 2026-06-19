@@ -26,6 +26,7 @@ interface HeaderProps {
 
 const CATEGORIES = [
   { id: "all", label: "All News" },
+  { id: "new", label: "🆕 New Today" },
   { id: "gossip", label: "Gossip" },
   { id: "upcoming", label: "Upcoming Series" },
   { id: "trending", label: "Trending" },

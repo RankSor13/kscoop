@@ -123,8 +123,17 @@ export default function HomePage() {
   // ----- Filtered feed -----
   const filtered = React.useMemo(() => {
     let list = allItems;
-    if (activeCategory !== "all")
+    if (activeCategory === "new") {
+      // Article IDs contain a Unix timestamp e.g. "live-1781889015798-1"
+      // Show only articles added in the last 24 hours
+      const cutoff = Date.now() - 24 * 60 * 60 * 1000;
+      list = list.filter((n) => {
+        const match = n.id.match(/live-(\d+)-/);
+        return match ? parseInt(match[1]) >= cutoff : false;
+      });
+    } else if (activeCategory !== "all") {
       list = list.filter((n) => n.category === activeCategory);
+    }
     if (search.trim()) {
       const q = search.toLowerCase();
       list = list.filter(
@@ -185,6 +194,8 @@ export default function HomePage() {
               <h2 className="text-2xl sm:text-3xl font-black tracking-tight">
                 {activeCategory === "all"
                   ? "All Korean Showbiz News"
+                  : activeCategory === "new"
+                  ? "🆕 Newly Added Today"
                   : activeCategory === "gossip"
                   ? "Celebrity Gossip & Scandals"
                   : activeCategory === "upcoming"
