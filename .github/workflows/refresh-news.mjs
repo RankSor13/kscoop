@@ -201,9 +201,68 @@ async function fetchArticleImage(url) {
     // Resolve relative/protocol-relative URLs against the article URL.
     const resolved = new URL(best, url).toString();
     if (!/^https?:\/\//i.test(resolved)) return null;
+
+    // ✅ FIX — verify the scraped URL actually serves an image before we
+    // commit to it. Catches three real failure modes seen in production:
+    //   1. og:image points at an unrelated page (Wikipedia disambig pages,
+    //      category pages) — wrong photo, not a missing one.
+    //   2. og:image meta content is malformed and we grabbed a non-image
+    //      URL (e.g. a video/article page, like Bollywood Hungama).
+    //   3. The image host hotlink-blocks requests with a foreign Referer
+    //      (e.g. some Korean news sites) — works when scraped server-side
+    //      with no Referer, but 403s when the browser loads it from our
+    //      site with Referer: https://ranksor13.github.io.
+    const isValid = await verifyImageUrl(resolved, url);
+    if (!isValid) return null;
+
     return resolved;
   } catch {
     return null; // timeout, network error, blocked, etc. — fall back upstream
+  }
+}
+
+/**
+ * HEAD/ranged-GET check that a candidate image URL (a) returns 200/OK,
+ * (b) has an image/* content-type, and (c) still works when requested with
+ * a foreign Referer header — simulating how a browser will actually load it
+ * from the deployed site, so we catch hotlink-protected images at build
+ * time instead of shipping a broken <img>.
+ */
+async function verifyImageUrl(imageUrl, refererPage) {
+  const commonHeaders = {
+    "User-Agent":
+      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    Accept: "image/avif,image/webp,image/apng,image/*,*/*;q=0.8",
+    // Simulate the real-world request: our deployed site as referer, NOT
+    // the source article. This is what actually happens in production.
+    Referer: "https://ranksor13.github.io/",
+  };
+
+  try {
+    let res = await fetch(imageUrl, {
+      method: "HEAD",
+      redirect: "follow",
+      signal: AbortSignal.timeout(6000),
+      headers: commonHeaders,
+    });
+
+    // Some CDNs don't support HEAD properly (405/403 even though GET works).
+    // Retry with a ranged GET so we don't download the whole file.
+    if (!res.ok || res.status === 405) {
+      res = await fetch(imageUrl, {
+        method: "GET",
+        redirect: "follow",
+        signal: AbortSignal.timeout(6000),
+        headers: { ...commonHeaders, Range: "bytes=0-2048" },
+      });
+    }
+
+    if (!res.ok) return false;
+    const contentType = res.headers.get("content-type") || "";
+    if (!contentType.startsWith("image/")) return false;
+    return true;
+  } catch {
+    return false;
   }
 }
 
