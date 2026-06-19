@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-06-19T17:25:16.223Z
+ * Last updated: 2026-06-19T17:41:14.152Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -3643,5 +3643,161 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       }
     ],
     "takeaways": []
+  },
+  "live-1781890864642-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "A K-Pop Idol Takes The Lead"
+      },
+      {
+        "type": "p",
+        "text": "Yuna from ITZY isn't wasting any time - she's just been cast as the female lead in the upcoming Netflix Original K-Drama Do Not Cross The Wall. That's right, a K-pop idol is taking center stage in a drama that's already generating buzz. But what's really got fans excited is that she won't be alone - Nam Joohyuk and Lee Yidam are also on board."
+      },
+      {
+        "type": "p",
+        "text": "The fact that it's a Netflix Original is a big deal, too. It means the show will have a huge potential audience, and that's great news for K-Drama fans everywhere. We're talking global reach, here - not just Korea. So, what can we expect from Do Not Cross The Wall? Honestly, we don't know much yet, but with Yuna, Nam Joohyuk, and Lee Yidam on the cast list, it's already looking promising."
+      },
+      {
+        "type": "h2",
+        "text": "Casting Choices"
+      },
+      {
+        "type": "p",
+        "text": "But was this casting choice a surprise? Not really - Yuna's been making waves in the K-pop scene with ITZY, and it was only a matter of time before she branched out into acting. And let's be real, she's got the talent and charisma to pull it off. The question is, how will she balance her music career with this new role? We're guessing she'll handle it just fine - after all, she's already proven herself to be a talented performer."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "So, what does this mean for the future of K-Dramas on Netflix? It's a good sign, that's for sure. The platform's already shown a commitment to producing high-quality K-Dramas, and with Do Not Cross The Wall, they're continuing that trend. We're excited to see how this one turns out - and with Yuna on board, we're hoping for great things. [originally reported by reddit.com](https://www.reddit.com/r/kpop/comments/1u8apev/itzy_yuna_has_been_cast_as_the_female_lead_in_the/)"
+      }
+    ],
+    "takeaways": [
+      "ITZY Yuna is set to star as the female lead in a new K-Drama.",
+      "The drama, titled Do Not Cross The Wall, will be a Netflix Original.",
+      "Nam Joohyuk and Lee Yidam are also part of the cast.",
+      "The show will be available on Netflix."
+    ]
+  },
+  "live-1781890866783-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Ultimate K-Pop Destination"
+      },
+      {
+        "type": "p",
+        "text": "KpopAngel is taking the Korean entertainment scene by storm, and honestly, it's about time we had a one-stop shop for all our K-Pop and K-Drama needs. This global platform is covering everything from K-Pop news to K-Drama updates, and we're not just talking about your run-of-the-mill recaps - they're also dishing out the latest on idol comebacks."
+      },
+      {
+        "type": "h2",
+        "text": "What's On Offer"
+      },
+      {
+        "type": "p",
+        "text": "So, what can you expect from KpopAngel? For starters, they've got the latest news on BTS and BLACKPINK, two of the biggest K-Pop groups out there. But that's not all - they're also serving up editor-written stories that give you a deeper dive into the world of Korean entertainment. Whether you're a die-hard fan or just discovering the magic of K-Pop, KpopAngel's got you covered."
+      },
+      {
+        "type": "h2",
+        "text": "The Bottom Line"
+      },
+      {
+        "type": "p",
+        "text": "If you're as obsessed with K-Pop and K-Dramas as we are, then KpopAngel is definitely worth checking out. With its comprehensive coverage of all things Korean entertainment, it's the perfect destination for fans who want to stay up-to-date on the latest news and trends. [originally reported by KpopAngel](https://www.kpopangel.com/)"
+      }
+    ],
+    "takeaways": [
+      "KpopAngel is a global Korean entertainment platform",
+      "They cover K-Pop news, K-Drama updates, and idol comebacks",
+      "You can find the latest news on BTS and BLACKPINK on the platform",
+      "KpopAngel features editor-written stories for a more in-depth look at Korean entertainment"
+    ]
+  },
+  "live-1781890867946-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Backlash Mode Activated"
+      },
+      {
+        "type": "p",
+        "text": "So, JTBC just got themselves into a bit of a mess. They posted some audio that didn't exactly sit well with... well, pretty much everyone. And honestly, it's not like they didn't see this coming. But here's the kicker: the remarks that caused all the fuss weren't even from their own reporters. You'd think they'd fact-check something like that before posting, right?"
+      },
+      {
+        "type": "p",
+        "text": "The fact that JTBC didn't notice the issue at first is pretty surprising. I mean, you'd expect a major broadcaster like them to have some kind of quality control in place. But I guess that's not always the case. Anyway, they eventually clarified things on social media, which is where we first heard about this whole ordeal. It's interesting that they chose Instagram to address the backlash - maybe they're trying to reach a younger audience or something."
+      },
+      {
+        "type": "h2",
+        "text": "Damage Control"
+      },
+      {
+        "type": "p",
+        "text": "So, what does this mean for JTBC? They've already taken steps to clarify the situation, which is a good start. But was the apology enough? That's a tough one. On the one hand, they owned up to their mistake and explained what happened. On the other hand, it's not like they can just erase the backlash from people's memories. It'll be interesting to see how this affects their reputation in the long run."
+      },
+      {
+        "type": "h2",
+        "text": "Moving Forward"
+      },
+      {
+        "type": "p",
+        "text": "For now, it seems like JTBC is trying to move on from this whole thing. They've posted their clarification, and that's that. But we're still left wondering - what's going to happen next? Will they change their fact-checking process to avoid something like this in the future? Only time will... just kidding, we won't say that. Let's just wait and see what JTBC does next. [originally reported by instagram.com](https://www.instagram.com/reel/DZwXJw8MLGi/)"
+      }
+    ],
+    "takeaways": [
+      "JTBC posted some audio that sparked backlash",
+      "The broadcaster later clarified the remarks weren't from their own reporters",
+      "The controversial remarks were not noticed initially",
+      "JTBC had to respond to the backlash on social media"
+    ]
+  },
+  "live-1781890870992-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "That HYORISOO Collab We've All Been Waiting For?"
+      },
+      {
+        "type": "p",
+        "text": "Yu Jae Seok just asked for a HYORISOO collaboration, and honestly, this is a big deal. It's not every day you see a K-variety legend like Yu Jae Seok making a public ask for a collab with one of the most beloved variety show duos out there."
+      },
+      {
+        "type": "h2",
+        "text": "The Moment We're Talking About"
+      },
+      {
+        "type": "p",
+        "text": "The clip that's got everyone buzzing is a standout K-variety moment, and it's easy to see why - Yu Jae Seok straight up asking for a HYORISOO collab is the kind of thing that'll get any K-variety fan excited. But was this a spontaneous ask, or has Yu Jae Seok been planning this for a while? Either way, we're here for it."
+      },
+      {
+        "type": "h2",
+        "text": "What's Next for HYORISOO?"
+      },
+      {
+        "type": "p",
+        "text": "So, what does this mean for HYORISOO? Will we actually see a collab with Yu Jae Seok in the near future? That's the million-dollar question, and one that's got fans eagerly speculating. One thing's for sure, though - if this collab happens, it'll be a K-variety moment for the ages."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "This ask is more than just a fun K-variety moment, though - it's also a testament to the enduring power of HYORISOO. The duo has been making waves in the K-variety scene for a while now, and it's clear that they've got a lot of love and respect from their peers. But will we see more collabs like this in the future? Only time will... just kidding, we won't say that - let's just say we're excited to see what's next."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by tiktok.com](https://www.tiktok.com/@kocowa.official/video/7652101070562331918)"
+      }
+    ],
+    "takeaways": [
+      "Yu Jae Seok asked for a HYORISOO collaboration in a recent clip",
+      "The clip is a standout K-variety moment that's got fans buzzing",
+      "HYORISOO is a beloved variety show duo with a lot of love and respect from their peers",
+      "We're still waiting to see if this collab will actually happen"
+    ]
   }
 };

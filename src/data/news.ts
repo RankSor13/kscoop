@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1781890864642-1",
+    "slug": "itzy-yuna-has-been-cast-as-the-female-lead-in-the-upcoming-netflix",
+    "title": "ITZY Yuna has been cast as the female lead in the upcoming Netflix ...",
+    "summary": "ITZY Yuna has been cast as the female lead in the upcoming Netflix Original K-Drama Do Not Cross The Wall. Also it's on Netflix too! Nam Joohyuk & Lee Yidam to ...",
+    "category": "upcoming",
+    "author": "Ji Yeon Park",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/kpop/comments/1u8apev/itzy_yuna_has_been_cast_as_the_female_lead_in_the/",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781890866783-2",
+    "slug": "kpopangel-k-pop-news-k-drama-updates-idol-comebacks",
+    "title": "KpopAngel | K-Pop News, K-Drama Updates, Idol Comebacks ...",
+    "summary": "KpopAngel is a global Korean entertainment platform covering K-Pop news, K-Drama updates, idol comebacks, BTS news, BLACKPINK news, editor-written stories, ...",
+    "category": "trending",
+    "author": "Soo Min Lee",
+    "source": "kpopangel.com",
+    "sourceUrl": "https://www.kpopangel.com/",
+    "date": "6 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781890867946-3",
+    "slug": "after-the-backlash-jtbc-the-korean-broadcaster-that-posted",
+    "title": "After the backlash, JTBC, the Korean broadcaster that posted ...",
+    "summary": "After the backlash, JTBC, the Korean broadcaster that posted the audio, clarified that the remarks were not from their own reporters, and were not noticed ...",
+    "category": "trending",
+    "author": "Dana Kim",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DZwXJw8MLGi/",
+    "date": "12 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781890870992-4",
+    "slug": "yu-jae-seok-asks-for-hyorisoo-collab-iconic-k-variety",
+    "title": "Yu Jae Seok Asks for HYORISOO Collab: Iconic K-Variety ...",
+    "summary": "Yu Jae Seok Asks for HYORISOO Collab: Iconic K-Variety Moment. The clip captures a standout K-variety moment: Yu Jae Seok asking for a HYORISOO collaboration.",
+    "category": "trending",
+    "author": "Hana Cho",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@kocowa.official/video/7652101070562331918",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1781890873158-5",
+    "slug": "latest-k-pop-news-k-drama-headlines-and-idol-comebacks",
+    "title": "Latest K-Pop News, K-Drama Headlines & Idol Comebacks",
+    "summary": "fresh K-pop headlines, BTS. Anitta and Rema team up. In Talks To Star. Actor Ha Jung Woo may star in the prequel film trilogy of “Inside Men”!On. Kang Mina ...",
+    "category": "trending",
+    "author": "Mia Kwon",
+    "source": "kpopangel.com",
+    "sourceUrl": "https://www.kpopangel.com/news",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1781890873232-6",
+    "slug": "korea-shocked-when-raul-rangel-saved-goal-in-90th-minute",
+    "title": "Korea Shocked When Raul Rangel Saved Goal in 90th Minute ...",
+    "summary": "Korea Shocked When Raul Rangel Saved Goal in 90th Minute | Mexico vs South Korea Highlights, Fifa WC · Comments.",
+    "category": "trending",
+    "author": "Rina Baek",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=f2ZfuDHtj20",
+    "date": "14 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1781889900545-1",
     "slug": "entertainment-news-radarkpop",
     "title": "Entertainment News - Radarkpop",
@@ -2075,7 +2177,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-06-19T17:25:16.223Z";
+export const LAST_UPDATED = "2026-06-19T17:41:14.151Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
