@@ -37,11 +37,15 @@ const FALLBACK_IMAGES = [
 // ✅ FIX 2 — Human-sounding SYSTEM_PROMPT, matching route.ts
 const SYSTEM_PROMPT = `You are a passionate K-entertainment writer for K-Scoop — you grew up watching K-dramas, you care about this stuff, and you write like it. Think Allkpop or Soompi at their best: opinionated, punchy, and real.
 
+SOURCE RULES:
+- When ARTICLE CONTENT is provided in the user message, use it as your PRIMARY source of facts. Pull specific details, names, dates, and context directly from it.
+- When only a SUMMARY is available, write only from what's stated there — never invent details, quotes, or statistics.
+
 OUTPUT FORMAT — return ONLY valid Markdown. Structure:
 
 ## Key Takeaways
-- Bullet 1 (one tight sentence, a real fact)
-- Bullet 2
+- Bullet 1 (a DIFFERENT fact from your opening line — not a repeat of it)
+- Bullet 2 (another distinct fact or angle)
 - Bullet 3
 - Bullet 4
 
@@ -66,11 +70,13 @@ VOICE & TONE:
 - Vary your sentence length. Short sentences hit hard. Longer ones let you build context and nuance before landing the point.
 - Some paragraphs can be 2 sentences. Others can be 4. Don't be uniform.
 - Use rhetorical questions occasionally — "But was the comeback too fast?"
+- Start the article body with a punchy, specific hook — not a generic scene-setter
 
 STRUCTURAL VARIETY:
 - Do NOT always end with a "What Comes Next" section. Mix it up — use "The Bigger Picture", "Why This Matters", "Fan Reaction", "Where Things Stand Now", "What Fans Are Saying", etc.
 - Do NOT always start H2 headings with the same pattern
 - Lead with the most interesting or surprising angle first, not a dry summary
+- Key Takeaways bullets must each be a DIFFERENT piece of information — they should NOT restate the opening line of your article
 
 AVOID THESE AI GIVEAWAYS (never use these phrases):
 - "it is worth noting", "it is important to mention", "it's important to note"
@@ -82,6 +88,7 @@ AVOID THESE AI GIVEAWAYS (never use these phrases):
 - Starting two consecutive paragraphs with "The [noun]..."
 - Filler transitions like "Furthermore,", "Moreover,", "Additionally,"
 - Re-summarizing what you just said at the end of a section
+- Generic closers like "we're rooting for both of them" or "we wish them all the best"
 
 CONTENT RULES:
 - NEVER fabricate quotes, dates, or specific numbers not in the source material
@@ -149,6 +156,71 @@ async function groqChat(messages) {
   if (!res.ok) throw new Error(`Groq error ${res.status}: ${await res.text()}`);
   const data = await res.json();
   return data.choices?.[0]?.message?.content?.trim() || "";
+}
+
+// ---------- Real per-article content (scraped from the source page) ----------
+
+/**
+ * Fetch the article's own source page and extract the main article text.
+ * This gives the LLM real, specific facts to work with instead of
+ * hallucinating filler from a 1-sentence snippet.
+ * Returns null on any failure so the caller falls back to snippet-only mode.
+ */
+async function fetchArticleContent(url) {
+  if (!url) return null;
+  try {
+    const res = await fetch(url, {
+      redirect: "follow",
+      signal: AbortSignal.timeout(10000),
+      headers: {
+        "User-Agent":
+          "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+        Accept: "text/html,application/xhtml+xml",
+      },
+    });
+    if (!res.ok) return null;
+    const contentType = res.headers.get("content-type") || "";
+    if (!contentType.includes("text/html")) return null;
+
+    const html = await res.text();
+
+    // Priority: look inside <article>, then <main>, then fall back to full body
+    let searchZone = html;
+    const articleMatch = html.match(/<article[^>]*>([\s\S]*?)<\/article>/i);
+    if (articleMatch) {
+      searchZone = articleMatch[1];
+    } else {
+      const mainMatch = html.match(/<main[^>]*>([\s\S]*?)<\/main>/i);
+      if (mainMatch) searchZone = mainMatch[1];
+    }
+
+    // Extract text from <p> tags, strip inline HTML, decode entities
+    const paragraphs = [];
+    const pRegex = /<p[^>]*>([\s\S]*?)<\/p>/gi;
+    let m;
+    while ((m = pRegex.exec(searchZone))) {
+      const clean = m[1]
+        .replace(/<[^>]+>/g, " ")
+        .replace(/&nbsp;/g, " ")
+        .replace(/&amp;/g, "&")
+        .replace(/&lt;/g, "<")
+        .replace(/&gt;/g, ">")
+        .replace(/&quot;/g, '"')
+        .replace(/&#39;/g, "'")
+        .replace(/\s+/g, " ")
+        .trim();
+      // Skip very short fragments — likely nav labels, captions, ads
+      if (clean.length > 50) paragraphs.push(clean);
+    }
+
+    if (paragraphs.length === 0) return null;
+
+    // Cap at ~3 000 chars so we don't blow the token budget
+    const combined = paragraphs.join("\n\n");
+    return combined.slice(0, 3000);
+  } catch {
+    return null; // timeout, network error, paywall — fall back upstream
+  }
 }
 
 // ---------- Real per-article image (scraped from the source page) ----------
@@ -268,15 +340,23 @@ async function verifyImageUrl(imageUrl, refererPage) {
 
 // ---------- Helpers ----------
 
-function buildUserPrompt(item) {
+function buildUserPrompt(item, articleContent = null) {
+  const contentSection = articleContent
+    ? `\nARTICLE CONTENT (use this as your primary source of facts):\n${articleContent}\n`
+    : "";
+
+  const factRule = articleContent
+    ? "Use the ARTICLE CONTENT above as your primary source. Pull specific facts, names, and details from it. Do not fabricate anything not found there."
+    : "Only use facts from the SUMMARY above. Do not fabricate quotes, statistics, or details not present there.";
+
   return `Write a K-Scoop article about this news story. Lead with what's most interesting or surprising about it — don't bury the hook.
 
 TITLE: ${item.name}
 SUMMARY: ${item.snippet}
 SOURCE: ${item.host_name}
-SOURCE_URL: ${item.url}
+SOURCE_URL: ${item.url}${contentSection}
 
-Write like a real person who actually follows K-drama news. Use contractions. Vary sentence length. Keep the tone fun and direct — not a press release, not a Wikipedia entry. Only use facts from the summary above.`;
+Write like a real person who actually follows K-drama news. Use contractions. Vary sentence length. Keep the tone fun and direct — not a press release, not a Wikipedia entry. ${factRule}`;
 }
 
 function parseMarkdown(md) {
@@ -432,14 +512,23 @@ for (let i = 0; i < top.length; i++) {
 
   const slug = slugify(it.name) || `article-${newId}`;
 
-  // ✅ FIX — pull the real photo from the article's own source page first.
-  // Only fall back to the generic stock pool if scraping genuinely fails
-  // (paywall, bot-block, timeout, no og:image tag, etc).
-  const scrapedImage = await fetchArticleImage(it.url);
+  // ✅ FIX — pull real photo AND real article text in parallel.
+  // Running both fetches at once saves ~5-8s per article vs sequential.
+  const [scrapedImage, articleContent] = await Promise.all([
+    fetchArticleImage(it.url),
+    fetchArticleContent(it.url),
+  ]);
+
   if (scrapedImage) {
     console.log(`    🖼  real image: ${scrapedImage.slice(0, 70)}...`);
   } else {
     console.log(`    🖼  no scrapeable image, using fallback pool`);
+  }
+
+  if (articleContent) {
+    console.log(`    📄  scraped ${articleContent.length} chars of article content`);
+  } else {
+    console.log(`    📄  no article content scraped — using snippet only`);
   }
 
   let body = null;
@@ -447,7 +536,7 @@ for (let i = 0; i < top.length; i++) {
   try {
     const content = await groqChat([
       { role: "system", content: SYSTEM_PROMPT },
-      { role: "user", content: buildUserPrompt(it) },
+      { role: "user", content: buildUserPrompt(it, articleContent) },
     ]);
     if (content && content.length >= 200) {
       const cleaned = content
