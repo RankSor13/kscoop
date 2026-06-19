@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-06-18T18:16:57.297Z
+ * Last updated: 2026-06-19T17:03:38.040Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -2929,6 +2929,242 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       {
         "type": "p",
         "text": "Fans are loving the clip, and it's easy to see why. It's a lighthearted, humorous take on getting older, and it's nice to see people being real about it. We're not used to seeing this kind of candid conversation in K-entertainment, so it's a breath of fresh air. That's why this video is gaining so much attention - it's just a fun, playful clip that's making people laugh. [originally reported by TikTok](https://www.tiktok.com/@dimpeystudios/video/7651368936008584461)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1781888603512-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The K-Drama Invasion Continues"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Doctor on the Edge is coming to Disney+ and Hulu, because who doesn't love a medical romance thriller?",
+          "It's a South Korean drama, and we're low-key excited to see what they bring to the table.",
+          "The show is listed as one of the new releases for June 2026, so mark your calendars.",
+          "We don't have a lot of details yet, but that's what makes it so intriguing - what's the edge they're talking about?"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "If you're anything like us, you're always on the lookout for the next big K-drama obsession. And honestly, this one sounds like it's got all the right ingredients. A medical romance thriller is basically the perfect storm of emotions, and the fact that it's South Korean just adds to the excitement. But was the decision to release it on Disney+ and Hulu a strategic move, or just a coincidence?"
+      },
+      {
+        "type": "h2",
+        "text": "The Streaming Wars"
+      },
+      {
+        "type": "p",
+        "text": "The fact that Doctor on the Edge is being released on not one, but two major streaming platforms is a big deal. It's not every day you see a K-drama getting this kind of love, and we're curious to see how it'll play out. Will it bring in a new wave of viewers, or will it get lost in the sea of other releases?"
+      },
+      {
+        "type": "h2",
+        "text": "What's Next for K-Dramas"
+      },
+      {
+        "type": "p",
+        "text": "We're not gonna lie, the lack of information about Doctor on the Edge is kind of frustrating. But at the same time, it's got us even more hyped to see what's in store. Will it live up to our expectations, or will it fizzle out? Only time will... just kidding, we're not gonna say that. We're just gonna have to wait and see. [originally reported by Disney+](https://www.disneyplus.com/explore/articles/new-to-disney-plus)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1781888605863-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Ultimate K-Drama Guide Has Dropped"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "YouTube's got a new video that's a must-watch for K-drama fans, and it's all about the best Korean movies and dramas to watch on Netflix, Disney+, and Viki.",
+          "We're talking a top 10 countdown of the best crime Korean dramas of 2026 - yes, you read that right, 2026, so it's looking ahead to what's coming next.",
+          "The video also promises to deliver an ASMR addictive fast-tapping collection for deep sleep and anxiety, because who doesn't need that?",
+          "It's hosted on YouTube, so you can bet it's going to be a fun, laid-back watch."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal - who doesn't love a good K-drama guide to help navigate the endless options on streaming platforms? The fact that it's looking ahead to 2026 is especially intriguing - are they predicting what's going to be huge next year? But was the inclusion of ASMR content a surprise move, or a genius way to appeal to a wider audience?"
+      },
+      {
+        "type": "h2",
+        "text": "Diving Deeper Into the Video"
+      },
+      {
+        "type": "p",
+        "text": "The video's description is pretty vague, but that just adds to the excitement - what can we expect from this top 10 countdown? Are they going to be highlighting familiar favorites, or introducing us to some hidden gems? And what's the criteria for making it onto the list - is it based on popularity, critical acclaim, or something else entirely?"
+      },
+      {
+        "type": "h2",
+        "text": "Why We're Hyped"
+      },
+      {
+        "type": "p",
+        "text": "Let's be real, K-drama fans are always on the lookout for their next obsession, and a guide like this could be just the thing to help us discover new favorites. The fact that it's covering multiple streaming platforms is also a bonus - whether you're a Netflix, Disney+, or Viki fan, there's something for everyone. So, what are you waiting for - head on over to YouTube and check out the video for yourself. [originally reported by YouTube](https://www.youtube.com/watch?v=YR0fsA8CeBg)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1781888608443-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Unexpected Path to Stardom"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "She was training to be a K-pop star, but that's not how things panned out.",
+          "Instead, she's now one of Korea's most successful actresses.",
+          "She took singing, dancing, and Japanese lessons to prep for debut.",
+          "But somehow, acting became her true calling."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "So, what happened here? Was she discovered by a talent scout while pursuing music? That's not entirely clear, but it's obvious that her skills were transferable. She must've had some serious charm and charisma to make the leap from wannabe K-pop star to leading lady. But was the transition easy? Honestly, it's hard to imagine it was - the competition in both the music and acting worlds is fierce."
+      },
+      {
+        "type": "h2",
+        "text": "From K-Pop Aspirations to Silver Screen Success"
+      },
+      {
+        "type": "p",
+        "text": "She's definitely proven herself, though - becoming one of Korea's most successful actresses isn't a small feat. You have to wonder, did she ever think she'd end up here? Did she envision herself as a movie star while she was taking those singing and dancing lessons? It's a pretty cool twist, and it just goes to show that sometimes, the best things in life are the ones we don't plan for."
+      },
+      {
+        "type": "h2",
+        "text": "Why It Matters"
+      },
+      {
+        "type": "p",
+        "text": "But what's really interesting about her story is that it shows how versatile these K-entertainment trainees can be. They're not just one-trick ponies - they're talented, dedicated, and willing to put in the work to succeed. So, even if they don't make it in their original field of choice, they can still achieve greatness in another area. That's pretty inspiring, if you ask me. [originally reported by instagram.com](https://www.instagram.com/reel/DZvrSrBylMt/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1781888610620-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "She's Back and Better Than Ever"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Yoon Eun-hye is still killing the game as a singer, actress, and creator.",
+          "She's best known for her roles in Princess Hours and Coffee Prince - who can forget those iconic characters?",
+          "Yoon Eun-hye's been able to stay active in the entertainment industry, which is no easy feat.",
+          "She's clearly still got a ton of talent and passion, and fans are loving it."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "A True K-Drama Legend"
+      },
+      {
+        "type": "p",
+        "text": "Yoon Eun-hye's been a household name for years, and for good reason - the woman can act. But what's really impressive is that she's not just sticking to one thing. She's singing, acting, and creating, which is honestly a big deal. Not many people can pull off that kind of versatility. But was the key to her success just her talent, or is there something more to it?"
+      },
+      {
+        "type": "h2",
+        "text": "Staying Relevant in a Changing Industry"
+      },
+      {
+        "type": "p",
+        "text": "It's not easy to stay relevant in the entertainment industry, especially when it's changing as fast as K-entertainment is. But Yoon Eun-hye's managed to do just that. She's still got a huge following, and fans are eager to see what she does next. That's a testament to her skill and dedication - she's clearly not just phoning it in. So what's next for this talented star?"
+      },
+      {
+        "type": "h2",
+        "text": "Why We Love Yoon Eun-hye"
+      },
+      {
+        "type": "p",
+        "text": "So why are fans still so obsessed with Yoon Eun-hye? It's probably because she's just so talented and charismatic. She's got a spark that's hard to ignore, and her passion for her work is infectious. Whatever she's doing, it's working - she's still one of the most beloved figures in K-entertainment. [originally reported by AllKoreanCelebrities](https://www.facebook.com/AllKoreanCelebrities/posts/yoon-eun-hye-remains-active-in-the-entertainment-industry-as-a-singer-actress-an/1645440140915443/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1781888612478-5": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Game-Changing Roles"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "5 Korean stars' lives were forever changed thanks to their supporting roles in popular K-dramas",
+          "These roles weren't just minor appearances - they launched entire careers",
+          "We're talking total life makeovers, from relative unknowns to household names",
+          "It just goes to show that sometimes it's not about being the lead, but about being in the right project"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "The Power of K-Drama"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal - supporting roles can often be overlooked, but for these 5 stars, they were the catalyst for something amazing. But what makes a supporting role so impactful? Is it the writing, the acting, or just being part of a cultural phenomenon? Whatever it is, it's clear that these 5 stars made the most of their opportunities."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters"
+      },
+      {
+        "type": "p",
+        "text": "It's not every day you see someone's life change overnight, but that's exactly what happened for these 5 Korean stars. But was it just luck, or was there something more to it? We're not just talking about a minor boost in popularity - we're talking about a complete career turnaround. That's what makes this story so fascinating."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "So, what can we learn from these 5 stars' experiences? For one, it's that sometimes it's not about being the center of attention, but about being part of something bigger than yourself. And two, it's that with hard work and determination, anything is possible. But let's be real - we're all still waiting to find out who these 5 mystery stars are. [originally reported by facebook.com](https://www.facebook.com/chingunatics/videos/5-korean-stars-whi-change-their-lives-thanks-to-their-supporting-roles-in-popula/993688916968440/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1781888615752-6": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Shock Retirement: Kwon Eunbin's Sudden Exit"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Kwon Eunbin just announced her retirement from the entertainment industry, and we're still trying to process it.",
+          "The news came out of nowhere, leaving fans stunned and wondering what's next.",
+          "Kwon Eunbin was a member of the K-pop group CLC, and her departure is a big deal for the K-pop world.",
+          "Honestly, this is a huge loss for the industry, and we're not sure how CLC will move forward without her."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Kwon Eunbin's decision to retire and leave the entertainment industry is a surprise to everyone, and it's got us all talking. But was this really out of the blue? We're still trying to figure out what led to this choice, but one thing's for sure: Kwon Eunbin will be missed. She was a talented artist and an important part of CLC, and her absence will be felt."
+      },
+      {
+        "type": "h2",
+        "text": "What Happened?"
+      },
+      {
+        "type": "p",
+        "text": "Kwon Eunbin made the announcement on Instagram, and it's been blowing up with comments and messages from fans. It's clear that she has a lot of support, but that doesn't make this decision any less shocking. We're all wondering what's next for her, and what this means for CLC's future. But for now, we're just trying to wrap our heads around the fact that Kwon Eunbin is really leaving the entertainment industry."
+      },
+      {
+        "type": "h2",
+        "text": "The Impact"
+      },
+      {
+        "type": "p",
+        "text": "This news is a big deal, and it's not just because Kwon Eunbin is a talented artist. It's because she's part of a generation of K-pop idols who are redefining what it means to be a star. They're not just singers and dancers; they're role models and inspirations. And when someone like Kwon Eunbin leaves the industry, it's a loss for all of us. We're going to miss her, and we're not sure who's going to fill the void she's leaving behind. [originally reported by Kwon Eunbin](https://www.instagram.com/p/DZuwz59jmeN/)"
       }
     ],
     "takeaways": []

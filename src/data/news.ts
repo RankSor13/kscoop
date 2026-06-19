@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1781888603512-1",
+    "slug": "new-releases-on-disney-hulu-and-espn-in-june-2026",
+    "title": "New Releases On Disney+, Hulu & ESPN In June 2026",
+    "summary": "Doctor on the Edge, Disney+ & Hulu. This image is a teaser poster for the upcoming South Korean medical romance thriller drama \" Doctor on the Edge, Disney+ & ...",
+    "category": "upcoming",
+    "author": "Ji Yeon Park",
+    "source": "disneyplus.com",
+    "sourceUrl": "https://www.disneyplus.com/explore/articles/new-to-disney-plus",
+    "date": "2 days ago",
+    "image": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/4A8A2149432616128293AE7CAC7BBC4EF6A39239381188CA7B5BAD53DAAF7F6A/scale?format=webp&amp;width=1200",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781888605863-2",
+    "slug": "best-korean-movie-to-watch-on-netflix-disney-viki-youtube",
+    "title": "Best Korean Movie To Watch on Netflix, Disney+, Viki - YouTube",
+    "summary": "Top 10 Best Crime Korean Dramas of 2026 | Best Korean Drama To Watch on Netflix, Disney+, Viki · ASMR Addictive Fast Tapping Collection For Deep Sleep & Anxiety ...",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=YR0fsA8CeBg",
+    "date": "3 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781888608443-3",
+    "slug": "k-celebs-who-cut-ties-with-their-parents-instagram",
+    "title": "K-Celebs Who Cut Ties With Their Parents - Instagram",
+    "summary": "She took singing, dancing, Japanese lessons, preparing for debut. But instead of becoming a K-pop star, she became one of the Korea's most successful actresses.",
+    "category": "trending",
+    "author": "Dana Kim",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DZvrSrBylMt/",
+    "date": "17 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781888610620-4",
+    "slug": "yoon-eun-hye-remains-active-in-the-entertainment-industry-as-a",
+    "title": "Yoon Eun-hye remains active in the entertainment industry as a ...",
+    "summary": "Yoon Eun-hye remains active in the entertainment industry as a singer, actress, and creator. Best known for her iconic roles in Princess Hours and Coffee Prince ...",
+    "category": "trending",
+    "author": "Hana Cho",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/AllKoreanCelebrities/posts/yoon-eun-hye-remains-active-in-the-entertainment-industry-as-a-singer-actress-an/1645440140915443/",
+    "date": "20 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1781888612478-5",
+    "slug": "5-korean-stars-whi-change-their-lives-thanks-to-their",
+    "title": "5 KOREAN STARS WHI CHANGE THEIR LIVES THANKS TO THEIR ...",
+    "summary": "5 KOREAN STARS WHI CHANGE THEIR LIVES THANKS TO THEIR SUPPORTING ROLES IN POPULAR KDRAMA #koreanstars.",
+    "category": "trending",
+    "author": "Mia Kwon",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/chingunatics/videos/5-korean-stars-whi-change-their-lives-thanks-to-their-supporting-roles-in-popula/993688916968440/",
+    "date": "12 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1781888615752-6",
+    "slug": "trending-news-did-this-shock-you-instagram",
+    "title": "TRENDING NEWS: did this shock you? - Instagram",
+    "summary": "Kwon Eunbin Announces Retirement and Departure from the Entertainment Industry #kpop #kpopnews #clc #kwoneunbin #spillthektea · 1 day ago. Transcript.",
+    "category": "trending",
+    "author": "Rina Baek",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/DZuwz59jmeN/",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1781806604926-1",
     "slug": "the-most-exciting-new-k-dramas-to-watch-in-2026-tatler-asia",
     "title": "The most exciting new K-dramas to watch in 2026 - Tatler Asia",
@@ -1769,7 +1871,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-06-18T18:16:57.297Z";
+export const LAST_UPDATED = "2026-06-19T17:03:38.038Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
