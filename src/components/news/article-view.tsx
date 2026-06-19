@@ -43,6 +43,20 @@ const CATEGORY_LABEL: Record<NewsItem["category"], string> = {
   casting: "Casting News",
 };
 
+// ✅ Safety net — if a scraped/source image 404s, gets hotlink-blocked, or
+// was a malformed URL that slipped past the build-time check in
+// refresh-news.mjs, swap in a known-good placeholder instead of showing a
+// broken <img> icon. The `data-fallback` guard stops an infinite loop if
+// the fallback itself ever fails to load.
+const FALLBACK_IMAGE = "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg";
+
+function handleImgError(e: React.SyntheticEvent<HTMLImageElement>) {
+  const img = e.currentTarget;
+  if (img.dataset.fallback === "1") return;
+  img.dataset.fallback = "1";
+  img.src = FALLBACK_IMAGE;
+}
+
 function readTime(item: NewsItem): string {
   const blocks = item.body ?? [];
   if (blocks.length === 0) return "1 min read";
@@ -190,6 +204,7 @@ export function ArticleView({
                 src={item.image}
                 alt={item.title}
                 className="h-full w-full object-cover"
+                onError={handleImgError}
               />
               <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/60 to-transparent p-3">
                 <p className="text-[11px] text-white/80">
@@ -350,6 +365,7 @@ export function ArticleView({
                           alt={r.title}
                           className="h-full w-full object-cover transition group-hover:scale-105"
                           loading="lazy"
+                          onError={handleImgError}
                         />
                         <div className="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent" />
                         <span className="absolute left-2 top-2 rounded bg-crimson/90 px-1.5 py-0.5 text-[9px] font-bold uppercase tracking-wider text-primary-foreground backdrop-blur">
