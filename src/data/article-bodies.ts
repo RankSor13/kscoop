@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-06-19T17:10:30.993Z
+ * Last updated: 2026-06-19T17:25:16.223Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -3400,6 +3400,246 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       {
         "type": "p",
         "text": "It's hard to say what's next for Jin Ki-joo, but one thing's for sure: she's got our attention. Will this newfound viral fame propel her to even greater heights, or is this just a fun little blip on the radar? Only time will... just kidding, we're not going there. For now, let's just enjoy the ride and see where Jin Ki-joo takes us next [originally reported by instagram.com](https://www.instagram.com/p/DZpaQOaFKlV/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1781889900545-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Major Scandal Hits K-Entertainment"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "A Korean actor and YouTuber has been caught drink-driving, that's not the half of it",
+          "The incident happened after a dine-and-dash report, because you can't make this up",
+          "This isn't just about one celebrity's bad behavior, it's about accountability in the industry",
+          "Fans are already calling for consequences, and honestly, it's hard to blame them"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "So, what's going on here? It seems like this actor and YouTuber thought they could get away with skipping out on a bill, but that's not even the worst part. After the dine-and-dash report, they got behind the wheel and drove drunk - that's a whole new level of reckless. But was the comeback too fast, or was this just a matter of time?"
+      },
+      {
+        "type": "h2",
+        "text": "A Deeper Look at Celebrity Culture"
+      },
+      {
+        "type": "p",
+        "text": "The fact that someone in the public eye would engage in this kind of behavior is, sadly, not that surprising. We've seen it before, and it's always disappointing. But it's also a reminder that these stars are human, and they're not above the law. That's what makes this story so frustrating - it's not just about one person's mistakes, it's about the message it sends to fans."
+      },
+      {
+        "type": "h2",
+        "text": "What Fans Are Saying"
+      },
+      {
+        "type": "p",
+        "text": "Fans are, understandably, upset about the whole thing. They're calling for the actor and YouTuber to face consequences for their actions, and it's hard to argue with that. When you're in the public eye, you've got a responsibility to set a good example, and this is definitely not that. But will anything actually happen, or will this just get swept under the rug? [originally reported by Radarkpop](https://www.radarkpop.com/tag/entertainment-news/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1781889904004-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "June's Hottest K-Drama Drop"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Doctor on the Edge (닥터 섬보이) is premiering on June 1, and we're low-key excited.",
+          "It's a medical romance drama, because who doesn't love a good doctor storyline?",
+          "The show is airing on ENA, Genie Tv, and Disney+, so you've got plenty of options to catch it.",
+          "There aren't a lot of details out yet, but the release date is just around the corner, so we're expecting more teasers soon."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Honestly, it's about time we got some new K-drama content - May was a bit of a dry spell. But was the wait worth it? We're hoping Doctor on the Edge brings the heat. The medical genre can be hit or miss, but when it's done right, it's basically unstoppable. Think about all the classic K-dramas that started with a doctor or hospital setting - they're some of the most iconic shows out there."
+      },
+      {
+        "type": "h2",
+        "text": "What We Know So Far"
+      },
+      {
+        "type": "p",
+        "text": "The fact that Doctor on the Edge is dropping on three different platforms is kind of a big deal. It means the producers are clearly confident about the show's appeal, and they're trying to make it as accessible as possible. But what's the actual storyline? We're still waiting on more info, but the title suggests it might be a bit darker or edgier than your average medical romance."
+      },
+      {
+        "type": "h2",
+        "text": "The Waiting Game"
+      },
+      {
+        "type": "p",
+        "text": "So, are you guys as hyped as we are for Doctor on the Edge? It's not every day we get a new K-drama that checks all the right boxes. Let's be real, the medical romance genre is a staple for a reason - it's just so compelling. But was the comeback too fast? We're not complaining or anything, but it feels like just yesterday we were wrapping up the last big K-drama release. [originally reported by instagram.com](https://www.instagram.com/reel/DZxcC91zaso/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1781889906405-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Wait is Over: Nam Joo-hyuk's Back"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Nam Joo-hyuk is making his comeback after 3 years in the upcoming horror drama \"The East Palace\".",
+          "The drama also stars Cho Seungwoo and Roh Yoonseo, making it a highly anticipated release.",
+          "\"The East Palace\" is scheduled to drop on Netflix on July 17th.",
+          "This is Nam Joo-hyuk's first project since his hiatus, and fans are eagerly waiting to see him on screen again."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "A Dream Cast for a Chilling Drama"
+      },
+      {
+        "type": "p",
+        "text": "Nam Joo-hyuk's comeback is huge news for K-drama fans, and the fact that he's teaming up with Cho Seungwoo and Roh Yoonseo makes it even more exciting. But was the choice of a horror drama the right move for his comeback? Honestly, it's a big deal - horror's a tough genre to nail, but with this cast, we're hoping for something amazing."
+      },
+      {
+        "type": "h2",
+        "text": "The Release Date's Set"
+      },
+      {
+        "type": "p",
+        "text": "So, when can we finally see Nam Joo-hyuk back on our screens? Mark your calendars for July 17th, because that's when \"The East Palace\" hits Netflix. It's been a long wait, but it looks like it's going to be worth it. With a talented cast and a intriguing genre, this drama's shaping up to be a must-watch."
+      },
+      {
+        "type": "h2",
+        "text": "The Countdown Begins"
+      },
+      {
+        "type": "p",
+        "text": "Now that we know the release date, the countdown's officially on. Will \"The East Palace\" live up to our expectations? That's the million-dollar question. But one thing's for sure - with Nam Joo-hyuk, Cho Seungwoo, and Roh Yoonseo on board, we're in for a wild ride. [originally reported by reddit.com](https://www.reddit.com/r/kdramas/comments/1u4x3i9/who_else_is_excited_for_nam_joohyuks_comeback/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1781889907903-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The 40-Something Club is Killing It"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "South Korean actresses in their 40s are dominating the global entertainment industry, and honestly, it's about time.",
+          "Park Shin Hye is considered one of Korea's most beautiful actresses, but what's really interesting is that she's not the only one in her 40s making waves.",
+          "The global entertainment industry is taking notice of these talented women, and we're here for it.",
+          "This list of the 10 most beautiful actresses in South Korea is a must-see, but let's be real, it's not just about looks - it's about talent, dedication, and a whole lot of hard work."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Breaking Down the List"
+      },
+      {
+        "type": "p",
+        "text": "Park Shin Hye is just one of the many talented actresses in their 40s who are killing the game right now. But was this always the case? It seems like just a few years ago, the focus was on younger actresses, and now we're seeing a shift towards more mature, experienced women taking center stage. And we're not complaining - these women have paid their dues and are bringing a level of depth and nuance to their roles that's just incredible."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "So, what does this mean for the future of K-drama? Are we going to see more leading ladies in their 40s? We sure hope so. It's not just about representation, it's about telling stories that resonate with women of all ages. And let's be real, who doesn't love a good story about strong, independent women who are still slaying the game in their 40s? It's a great time to be a K-drama fan, that's for sure."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters"
+      },
+      {
+        "type": "p",
+        "text": "We're not just talking about a list of beautiful actresses here - we're talking about a cultural shift. A shift towards valuing experience, talent, and dedication over youth and looks. And that's something to get excited about. So, who's on this list, you ask? Well, we're not going to spoil it for you, but let's just say it's a who's who of talented women who are dominating the K-drama scene right now."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by bird.han.488458](https://www.facebook.com/bird.han.488458/posts/south-korean-actresses-in-their-40s-dominate-the-global-entertainment-industry-w/1040073518668036/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1781889909993-5": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "14 Years Down the Drain"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Sooyoung and Jung Kyung Ho just broke up after an insane 14-year relationship.",
+          "They're one of K-ent's longest-running couples, and it's crazy to think they're done.",
+          "The reason for the split's pretty classic: they apparently grew apart.",
+          "That's all we know so far, but honestly, it's a big deal - they've been together for over a decade."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Sooyoung and Jung Kyung Ho were basically K-ent's power couple - they'd been dating since 2012, and that's a long time, especially in the entertainment industry. But was the relationship just too long-lived? Did they change too much over the years? It's not like they were married or anything, but 14 years is a huge commitment, and it's sad to see it end like this."
+      },
+      {
+        "type": "h2",
+        "text": "What Happened?"
+      },
+      {
+        "type": "p",
+        "text": "They didn't release a statement or anything, but from what we know, it's just one of those things where people grow apart. It's not like there was a huge scandal or anything - it's just that sometimes, things don't work out, no matter how much you want them to. But still, it's hard not to wonder what could've been if they'd made it work."
+      },
+      {
+        "type": "h2",
+        "text": "Moving On"
+      },
+      {
+        "type": "p",
+        "text": "It's gonna be weird seeing Sooyoung and Jung Kyung Ho as singles again, but that's just the way it goes sometimes. We're rooting for both of them, though - they're talented, and they deserve to be happy, whether that's together or apart. [originally reported by allkpop](https://www.instagram.com/p/DZw3XM2gQB6/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1781889913153-6": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Breaking Down Barriers in K-Pop"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "She's one of K-pop's most successful solo artists, and that's no small feat.",
+          "This star didn't let her experiences hold her back - instead, she used them to fuel her confidence.",
+          "Today, she's a household name, and her Mixed Heritage is a part of what makes her story so compelling.",
+          "We're talking about a true icon in the making, someone who's redefining what it means to be a K-pop star."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal - we're not just talking about any celebrity, we're talking about someone who's paved her own way in a highly competitive industry. But was her journey always easy? Probably not - we can only imagine the challenges she faced as a non-traditional K-pop star. That's what makes her success all the more impressive, right?"
+      },
+      {
+        "type": "h2",
+        "text": "The Power of Embracing Your Roots"
+      },
+      {
+        "type": "p",
+        "text": "She's turned what could've been obstacles into a source of confidence, and that's something we can all learn from. It's not every day you see someone thrive in an industry that's often criticized for its strict standards. But she's proving that with hard work and determination, anything is possible - regardless of your background."
+      },
+      {
+        "type": "h2",
+        "text": "What's Next for This Trailblazing Star?"
+      },
+      {
+        "type": "p",
+        "text": "We can't wait to see what she does next - will she continue to break down barriers in the K-pop world, or will she take on new challenges in other areas of the entertainment industry? One thing's for sure: she's got the talent, the confidence, and the dedication to succeed at whatever she sets her mind to. [originally reported by Facebook](https://www.facebook.com/100080146298347/videos/top-10-korean-celebrities-who-are-not-fully-korean-or-have-mixed-heritage-%EF%B8%8F/2847854512219873/)"
       }
     ],
     "takeaways": []

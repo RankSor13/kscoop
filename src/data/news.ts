@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1781889900545-1",
+    "slug": "entertainment-news-radarkpop",
+    "title": "Entertainment News - Radarkpop",
+    "summary": "Entertainment News. Korean Actor and YouTuber Caught Drink-Driving After Dine-and-Dash Report Sparks Fresh Concerns Over Celebrity Accountability.",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "radarkpop.com",
+    "sourceUrl": "https://www.radarkpop.com/tag/entertainment-news/",
+    "date": "1 day ago",
+    "image": "https://storage.ghost.io/c/00/56/005678f5-e650-4ea7-8a5b-5f70aca0f930/content/images/size/w1200/2026/06/publication-cover.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781889904004-2",
+    "slug": "are-there-any-other-upcoming-kdramas-that-you-guys-are-excited-for",
+    "title": "Are there any other upcoming kdramas that you guys are excited for ...",
+    "summary": "June 2026 K-DRAMA WATCHLIST Doctor on the Edge (닥터 섬보이) Release Date: June 1 Genre: Medical, Romance Network: ENA / Genie Tv / Disney+ Teach You A ...",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DZxcC91zaso/",
+    "date": "2 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781889906405-3",
+    "slug": "who-else-is-excited-for-nam-joo-hyuks-comeback-after-3-years",
+    "title": "Who else is excited for Nam Joo-hyuk's comeback after 3 years ...",
+    "summary": "Cho Seungwoo, Roh Yoonseo, and Nam Joohyuk's upcoming Horror drama \"The East Palace\" is scheduled for release on Netflix on July 17th.",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/kdramas/comments/1u4x3i9/who_else_is_excited_for_nam_joohyuks_comeback/",
+    "date": "6 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781889907903-4",
+    "slug": "south-korean-actresses-in-their-40s-dominate-the-global-facebook",
+    "title": "South Korean actresses in their 40s dominate the global ... - Facebook",
+    "summary": "Today, we present you with the list of the 10 most beautiful actresses in South Korea. 1. Park Shin Hye Park Shin Hye is considered one of Korea's most ...",
+    "category": "trending",
+    "author": "Hana Cho",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/bird.han.488458/posts/south-korean-actresses-in-their-40s-dominate-the-global-entertainment-industry-w/1040073518668036/",
+    "date": "3 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1781889909993-5",
+    "slug": "photos-by-allkpop-allkpop-june-19-2026-instagram",
+    "title": "Photos by allkpop (@allkpop) · June 19, 2026 - Instagram",
+    "summary": "Today's K-pop updates. Girls' Generation's Sooyoung just broke up with her boyfriend Jung Kyung Ho after dating for 14 years. They apparently grew apart due to ...",
+    "category": "trending",
+    "author": "Mia Kwon",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/DZw3XM2gQB6/",
+    "date": "7 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1781889913153-6",
+    "slug": "top-10-korean-celebrities-who-are-not-fully-korean-or-have-mixed",
+    "title": "Top 10 Korean Celebrities Who Are Not Fully Korean or Have Mixed ...",
+    "summary": "Instead of letting those experiences hold her back, she turned them into a source of confidence Today, she is one of K-pop's most successful solo artist and a ...",
+    "category": "trending",
+    "author": "Rina Baek",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/100080146298347/videos/top-10-korean-celebrities-who-are-not-fully-korean-or-have-mixed-heritage-%EF%B8%8F/2847854512219873/",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1781889015798-1",
     "slug": "love-kim-soo-hyun-facebook",
     "title": "Love Kim Soo Hyun - Facebook",
@@ -1973,7 +2075,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-06-19T17:10:30.992Z";
+export const LAST_UPDATED = "2026-06-19T17:25:16.223Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
