@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1781889015798-1",
+    "slug": "love-kim-soo-hyun-facebook",
+    "title": "Love Kim Soo Hyun - Facebook",
+    "summary": "Investigators concluded that the rumors raised against the actor completely lacked credibility, finding that AI voice manipulation and forged KakaoTalk chat ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/LoveSoohyunshii/posts/%F0%9D%97%9E%F0%9D%97%9C%F0%9D%97%A0-%F0%9D%97%A6%F0%9D%97%A2%F0%9D%97%A2%F0%9D%97%9B%F0%9D%97%AC%F0%9D%97%A8%F0%9D%97%A1-%F0%9D%97%9A%F0%9D%97%98%F0%9D%97%94%F0%9D%97%A5%F0%9D%97%A6-%F0%9D%97%A8%F0%9D%97%A3-%F0%9D%97%99%F0%9D%97%A2%F0%9D%97%A5-%F0%9D%97%96%F0%9D%97%A2%F0%9D%97%A0%F0%9D%97%98%F0%9D%97%95%F0%9D%97%94%F0%9D%97%96%F0%9D%97%9Eactor-kim-soo-hyun-is-preparing-to-return-to-th/1603558875106741/",
+    "date": "7 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781889018583-2",
+    "slug": "breaking-celebrity-news-entertainment-news-and-celeb",
+    "title": "Breaking Celebrity News, Entertainment News and Celeb ...",
+    "summary": "Get the latest news on celebrity scandals, engagements, and divorces! Check out our breaking stories on Hollywood's hottest stars!",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "eonline.com",
+    "sourceUrl": "https://www.eonline.com/ca/news",
+    "date": "3 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781889020121-3",
+    "slug": "moon-ga-young-choi-woo-shik-and-heo-nam-jun-in-one-k-drama",
+    "title": "Moon Ga Young, Choi Woo Shik and Heo Nam Jun in one K-Drama ...",
+    "summary": "A star-studded cast is coming together for a brand-new romance drama! Choi Woo Shik, Mun Ka Young, Heo Nam Jun, Yoo Jae Myung, Kang Han Na, Kim Yeo Jin, ...",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DZxAm6BOMBy/",
+    "date": "6 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781889022598-4",
+    "slug": "south-korean-actress-jin-ki-joo-is-gaining-renewed-online-attention",
+    "title": "South Korean actress Jin Ki-joo is gaining renewed online attention ...",
+    "summary": "South Korean actress Jin Ki-joo is gaining renewed online attention after an old farewell letter she wrote during her early office career resurfaced on social ...",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/ManilaBulletin/posts/south-korean-actress-jin-ki-joo-is-gaining-renewed-online-attention-after-an-old/1490185329816335/",
+    "date": "21 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1781889024994-5",
+    "slug": "leaked-remarks-about-son-heung-mins-military-exemption",
+    "title": "Leaked remarks about Son Heung-min's military exemption ...",
+    "summary": "Korean media has a habit of treating their stars badly. 1d. 30. Hannah Trivass ... #celebrity #actress #actor #usa (91). Mar 15, 2026 · 105 views. See more.",
+    "category": "gossip",
+    "author": "Mia Kwon",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/NBCBayArea/videos/leaked-remarks-about-son-heung-mins-military-exemption-sparked-backlash-canceled/2199436910803312/",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1781889028793-6",
+    "slug": "netflixs-teach-you-a-lesson-actress-jin-ki-joo-is-going",
+    "title": "Netflix's Teach You a Lesson actress Jin Ki-joo is going ...",
+    "summary": "Netflix's Teach You a Lesson actress Jin Ki-joo is going viral in Korea for an old goodbye letter from her office days. When she left her first job, ...",
+    "category": "trending",
+    "author": "Rina Baek",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/DZpaQOaFKlV/",
+    "date": "2026-06-19",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1781888603512-1",
     "slug": "new-releases-on-disney-hulu-and-espn-in-june-2026",
     "title": "New Releases On Disney+, Hulu & ESPN In June 2026",
@@ -1871,7 +1973,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-06-19T17:03:38.038Z";
+export const LAST_UPDATED = "2026-06-19T17:10:30.992Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES

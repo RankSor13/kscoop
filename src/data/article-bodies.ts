@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-06-19T17:03:38.040Z
+ * Last updated: 2026-06-19T17:10:30.993Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -3165,6 +3165,241 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       {
         "type": "p",
         "text": "This news is a big deal, and it's not just because Kwon Eunbin is a talented artist. It's because she's part of a generation of K-pop idols who are redefining what it means to be a star. They're not just singers and dancers; they're role models and inspirations. And when someone like Kwon Eunbin leaves the industry, it's a loss for all of us. We're going to miss her, and we're not sure who's going to fill the void she's leaving behind. [originally reported by Kwon Eunbin](https://www.instagram.com/p/DZuwz59jmeN/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1781889015798-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Bombshell: Kim Soo Hyun's Rumors Debunked"
+      },
+      {
+        "type": "p",
+        "text": "Investigations just wrapped up, and it's official: those rumors against Kim Soo Hyun were totally fabricated. We're talking zero credibility - the whole thing was a mess of AI voice manipulation and forged KakaoTalk chats."
+      },
+      {
+        "type": "p",
+        "text": "The fact that someone went to such great lengths to smear Kim Soo Hyun's name is pretty shocking. But what's even more surprising is that the rumors were so thoroughly debunked. It's not every day you see a scandal get shut down this convincingly. So, what was behind these fake rumors? And was the goal just to tarnish Kim Soo Hyun's reputation, or was there something more at play?"
+      },
+      {
+        "type": "h2",
+        "text": "Getting to the Bottom of It"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal - Kim Soo Hyun's fans have been waiting for him to return to the screen, and these rumors could've seriously derailed that. But thankfully, it looks like the investigators did their due diligence and separated fact from fiction. The use of AI voice manipulation is especially noteworthy - it's a pretty sophisticated tactic, and it's a little unsettling to think about how easily it could be used to deceive people."
+      },
+      {
+        "type": "h2",
+        "text": "The Actor's Next Move"
+      },
+      {
+        "type": "p",
+        "text": "Now that his name's been cleared, Kim Soo Hyun is apparently preparing to make his return to acting. But was the comeback too fast? Should he've taken more time to address the rumors, or is it better that he's just moving forward? Either way, fans are probably just excited to see him back on screen. [originally reported by Love Kim Soo Hyun - Facebook](https://www.facebook.com/LoveSoohyunshii/posts/%F0%9D%97%9E%F0%9D%97%9C%F0%9D%97%A0-%F0%9D%97%A6%F0%9D%97%A2%F0%9D%97%A2%F0%9D%97%9B%F0%9D%97%AC%F0%9D%97%A8%F0%9D%97%A1-%F0%9D%97%9A%F0%9D%97%98%F0%9D%97%94%F0%9D%97%A5%F0%9D%97%A6-%F0%9D%97%A8%F0%9D%97%A3-%F0%9D%97%99%F0%9D%97%A2%F0%9D%97%A5-%F0%9D%97%96%F0%9D%97%A2%F0%9D%97%A0%F0%9D%97%98%F0%9D%97%95%F0%9D%97%94%F0%9D%97%96%F0%9D%97%9Eactor-kim-soo-hyun-is-preparing-to-return-to-th/1603558875106741/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1781889018583-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "You Won't Believe What's Going Down in Hollywood"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Celebrity scandals are exploding everywhere, and we're here for the tea",
+          "Engagements and divorces are happening left and right - it's hard to keep up",
+          "Hollywood's hottest stars are making headlines, and we can't look away",
+          "The latest news is dropping daily, so you've got to stay on your toes"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal - who doesn't love a good celebrity scoop? We're talking A-listers, red carpet events, and all the drama that comes with them. But was the latest news cycle too much to handle? It's like, every day there's a new scandal or engagement or divorce - it's exhausting just trying to keep up."
+      },
+      {
+        "type": "h2",
+        "text": "The Juice on Hollywood's Hottest Stars"
+      },
+      {
+        "type": "p",
+        "text": "The thing is, we can't get enough of this stuff. We're talking about the biggest names in the business, and they're always up to something interesting. Whether it's a secret romance or a very public feud, these stars know how to make headlines. And let's be real, we're all just along for the ride, trying to stay current on the latest news and trends."
+      },
+      {
+        "type": "h2",
+        "text": "What's Behind Our Obsession"
+      },
+      {
+        "type": "p",
+        "text": "So, what's behind our fascination with celebrity news? Is it the glamour and glitz of Hollywood, or is it something more? Maybe it's just that we love a good story, and celebrities always seem to be at the center of the most interesting ones. Whatever the reason, one thing's for sure: we can't get enough of this stuff. [originally reported by eonline.com](https://www.eonline.com/ca/news)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1781889020121-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Talk About a Dream Team"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Moon Ga Young, Choi Woo Shik, and Heo Nam Jun are all set to star in a new romance drama, and honestly, this is a big deal.",
+          "They're not the only talented actors on board - Yoo Jae Myung, Kang Han Na, and Kim Yeo Jin are also joining the cast.",
+          "This star-studded lineup is already generating a lot of buzz, and it's easy to see why.",
+          "With so much talent in one place, expectations are high - but was this cast always the plan, or did things just fall into place?"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Casting Magic"
+      },
+      {
+        "type": "p",
+        "text": "The combination of Moon Ga Young and Choi Woo Shik is what's really getting fans excited - they're both known for their incredible chemistry on screen. But Heo Nam Jun's addition takes things to a whole new level. He's proven his acting chops in a range of roles, and it's going to be interesting to see how he fits into this romance drama. What's the story behind this dream cast - did the actors actively seek out the project, or were they wooed by the script or director?"
+      },
+      {
+        "type": "h2",
+        "text": "Bringing It All Together"
+      },
+      {
+        "type": "p",
+        "text": "With a cast this talented, the pressure's on to deliver a compelling story. Yoo Jae Myung, Kang Han Na, and Kim Yeo Jin are all seasoned actors who can bring depth and nuance to their roles. But was the decision to bring so many big names on board a strategic one, or did the story just happen to call for a large, talented ensemble? Either way, it's going to be fun to watch this all come together."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "This new drama is shaping up to be one of the most anticipated releases of the year, and it's not hard to see why. With a cast that's this talented and a genre that's always popular, the potential for greatness is huge. But will it live up to the hype? Only time will... no, scratch that - we can't wait to find out. [originally reported by instagram.com](https://www.instagram.com/reel/DZxAm6BOMBy/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1781889022598-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Actress's Past Exposed"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Jin Ki-joo's old farewell letter from her office career days has resurfaced online, and it's getting a lot of attention.",
+          "The letter's contents aren't specified, but it's enough to make fans curious about her life before acting.",
+          "Jin Ki-joo is a South Korean actress, and it's not every day we see a glimpse into their lives before they were famous.",
+          "The fact that this letter is from her early office career days is pretty interesting, don't you think - what was she like back then?"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "A Glimpse into Jin Ki-joo's Past"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal - we don't often get to see what our favorite K-drama stars were like before they made it big. But was the letter meant to be private, or is Jin Ki-joo okay with it being out there? The fact that it's resurfaced on social media says a lot about how much people care about what she has to say, even if it's from a while back. It's not like she's a new face in the K-drama scene, but this letter's got people talking."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters"
+      },
+      {
+        "type": "p",
+        "text": "So, what's the big deal about an old letter? Well, for one, it humanizes Jin Ki-joo - she's not just an actress, she's someone who had a regular job at some point. And two, it's a reminder that these stars we love were once just like us, trying to figure things out. But now that the letter's out there, fans are probably wondering what else they don't know about her."
+      },
+      {
+        "type": "h2",
+        "text": "Fan Reaction"
+      },
+      {
+        "type": "p",
+        "text": "Fans are likely searching for more info about Jin Ki-joo's past, and this letter's just the start. It's not every day you see a K-drama star's personal life laid out like this, so people are naturally curious. That's what makes this so interesting - we're getting a peek into Jin Ki-joo's life before she was famous, and it's got everyone talking."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by Manila Bulletin](https://www.facebook.com/ManilaBulletin/posts/south-korean-actress-jin-ki-joo-is-gaining-renewed-online-attention-after-an-old/1490185329816335/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1781889024994-5": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "You Won't Believe What Leaked About Son Heung-min"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Leaked remarks about Son Heung-min's military exemption sparked a major backlash.",
+          "The controversy is the latest example of Korean media treating their stars badly.",
+          "The news broke on Facebook, with a video posted by NBC Bay Area.",
+          "The video has gotten 105 views, but that's probably just the tip of the iceberg."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Honestly, it's not like we're surprised that Korean media is being harsh on one of their own stars - it's happened before, and it'll probably happen again. But what's really got everyone upset is that these remarks were leaked, and now Son Heung-min's military exemption is under scrutiny. But was the leak really that unexpected, given how intense the media spotlight is in Korea?"
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "Korean stars are already under so much pressure to perform, and to conform to certain standards - and when you add in the military exemption controversy, it's a whole other level of stress. We're talking about a country where stars are often expected to be perfect, and where one misstep can mean career disaster. So, when someone like Son Heung-min gets his military exemption questioned, it's a big deal - and it's not just about him, it's about the whole system."
+      },
+      {
+        "type": "h2",
+        "text": "What Fans Are Saying"
+      },
+      {
+        "type": "p",
+        "text": "It's clear that fans are upset about the whole thing, and they're not wrong to be. I mean, who likes it when their favorite star is getting slammed by the media? But at the same time, there are also fans who are questioning whether Son Heung-min's exemption was fair in the first place. It's a tough spot, and we're not sure what's going to happen next. [originally reported by NBC Bay Area](https://www.facebook.com/NBCBayArea/videos/leaked-remarks-about-son-heung-mins-military-exemption-sparked-backlash-canceled/2199436910803312/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1781889028793-6": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "You Won't Believe What Jin Ki-joo Wrote"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Jin Ki-joo, the actress from Netflix's Teach You a Lesson, is going viral in Korea for a pretty surprising reason: an old goodbye letter from her office days.",
+          "The letter's been making the rounds on social media, and honestly, it's a big deal.",
+          "When she left her first job, Jin Ki-joo wrote this heartfelt letter, and it's clear she's always had a way with words.",
+          "The letter's got everyone talking, from fans to non-fans, and it's easy to see why: it's a genuine, sweet goodbye that's hard to come by these days."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Jin Ki-joo's fans are eating this up, and who can blame them? It's not every day you get to see a different side of your favorite actress. But was the comeback too fast? Or is this letter just what we needed to remind us of Jin Ki-joo's talent? Either way, it's working - she's all over Korean social media right now."
+      },
+      {
+        "type": "h2",
+        "text": "The Power of a Goodbye Letter"
+      },
+      {
+        "type": "p",
+        "text": "The fact that an old letter can make such waves says a lot about Jin Ki-joo's dedication to her craft, and her fans' dedication to her. What's it about this letter that's resonating with people? Is it the sincerity, or the fact that it's just so... human? Whatever it is, it's clear that Jin Ki-joo's fans are here for it."
+      },
+      {
+        "type": "h2",
+        "text": "What's Next for Jin Ki-joo?"
+      },
+      {
+        "type": "p",
+        "text": "It's hard to say what's next for Jin Ki-joo, but one thing's for sure: she's got our attention. Will this newfound viral fame propel her to even greater heights, or is this just a fun little blip on the radar? Only time will... just kidding, we're not going there. For now, let's just enjoy the ride and see where Jin Ki-joo takes us next [originally reported by instagram.com](https://www.instagram.com/p/DZpaQOaFKlV/)"
       }
     ],
     "takeaways": []
