@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1781961404539-1",
+    "slug": "comment-your-favorite-kdrama-koreandrama-instagram",
+    "title": "comment your favorite #kdrama #koreandrama ... - Instagram",
+    "summary": "Korean Dramas coming in June 2026 Doctor On The Edge Cast: Lee Jae Wook, Shin Ye Eun Genre: Medical, Romance Episodes: 12 [Disney+] Date: June 1, 2026 Teach ...",
+    "category": "upcoming",
+    "author": "Ji Yeon Park",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DZxdkxhSw1y/",
+    "date": "22 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781961406781-2",
+    "slug": "from-2016-now-2026-the-most-popular-k-dramas-kdrama",
+    "title": "From 2016 Το Now 2026: The Most Popular K-Dramas #kdrama ...",
+    "summary": "Perfect Crown: Releasing 2026 on Disney+; stars IU & Byeon Woo-seok The Remarried Empress: Expected H2 2026; will be released on Netflix.",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/DZuYOQflP0Z/",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781961408482-3",
+    "slug": "trishapaytas-trishlikefish88s-video-of-george-glass",
+    "title": "trishapaytas (@trishlikefish88)’s video of george glass",
+    "summary": "As a Korean American who loves KPOP seeing Trisha Paytas come out with a KPOP song was not on my 2026 bingo card | also please enjoy my legit first reaction ...",
+    "category": "trending",
+    "author": "Dana Kim",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@trishlikefish88/video/7652396804478160142",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1781961410439-4",
+    "slug": "on-jun-17-actress-joanne-peh-took-to-tiktok-live-to-speak",
+    "title": "On Jun. 17, actress Joanne Peh took to TikTok live to speak ...",
+    "summary": "On Jun. 17, actress Joanne Peh took to TikTok live to speak out about an allegedly disrespectful encounter with a Chinese merchant she was supposed to host ...",
+    "category": "trending",
+    "author": "Hana Cho",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@mothershipsg/video/7653016606406184210",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1781961410785-5",
+    "slug": "thais-ramone-domestic-battery-arrest-bodycam-footage",
+    "title": "Thais Ramone Domestic Battery Arrest: Bodycam Footage ...",
+    "summary": "TMZ obtained police bodycam video of Thais Ramone's domestic battery arrest involving estranged husband Patrick Mendes.",
+    "category": "trending",
+    "author": "Mia Kwon",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@tmz/video/7652536463514488078",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1781961411130-6",
+    "slug": "indie-horror-hit-obsession-has-surged-past-the-300-million",
+    "title": "Indie horror hit Obsession has surged past the $300 million ...",
+    "summary": "Directed by Curry Barker and starring Inde Navarrette and Michael Johnston, the Focus Features release has continued to outperform expectations with unusually ...",
+    "category": "trending",
+    "author": "Rina Baek",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@dailymail/video/7653038857637711117",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1781890864642-1",
     "slug": "itzy-yuna-has-been-cast-as-the-female-lead-in-the-upcoming-netflix",
     "title": "ITZY Yuna has been cast as the female lead in the upcoming Netflix ...",
@@ -2177,7 +2279,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-06-19T17:41:14.151Z";
+export const LAST_UPDATED = "2026-06-20T13:16:52.777Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES

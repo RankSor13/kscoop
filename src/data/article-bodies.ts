@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-06-19T17:41:14.152Z
+ * Last updated: 2026-06-20T13:16:52.779Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -3799,5 +3799,174 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       "HYORISOO is a beloved variety show duo with a lot of love and respect from their peers",
       "We're still waiting to see if this collab will actually happen"
     ]
+  },
+  "live-1781961404539-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "June's Hottest K-Drama Alert"
+      },
+      {
+        "type": "p",
+        "text": "We're just days into May, but June's already looking like a great month for K-drama fans - Lee Jae Wook and Shin Ye Eun are teaming up for a new medical romance series, and it's coming sooner than you think. Honestly, this is a big deal, especially since it's got a relatively short episode count of 12, which usually means tighter writing and less filler."
+      },
+      {
+        "type": "h2",
+        "text": "What We Know So Far"
+      },
+      {
+        "type": "p",
+        "text": "So, what's the series about? Unfortunately, the teaser doesn't give away too much, but we do know it's called \"Doctor On The Edge\", it's a medical romance, and it stars Lee Jae Wook and Shin Ye Eun - a pretty great combo if you ask me. The fact that it's got a focused episode count and a clear genre suggests we might be in for a treat. But was the decision to keep it short a strategic move, or just a result of the story they wanted to tell?"
+      },
+      {
+        "type": "h2",
+        "text": "The Cast and Crew"
+      },
+      {
+        "type": "p",
+        "text": "Lee Jae Wook and Shin Ye Eun aren't strangers to the K-drama scene, and their involvement instantly makes \"Doctor On The Edge\" a must-watch for many fans. But what about the rest of the cast and crew? We're still waiting on more details, but with these two on board, it's hard not to be excited. That's all we know for now, but it's definitely enough to get the hype train rolling."
+      },
+      {
+        "type": "h2",
+        "text": "Why You Should Care"
+      },
+      {
+        "type": "p",
+        "text": "\"Doctor On The Edge\" might just be the perfect summer watch - a short, sweet, and potentially addictive series to get us through the warmer months. And let's be real, who doesn't love a good medical romance? It's a classic genre combination that never gets old, and with the right cast and writing, it can be absolutely compelling. [originally reported by instagram.com](https://www.instagram.com/reel/DZxdkxhSw1y/)"
+      }
+    ],
+    "takeaways": [
+      "\"Doctor On The Edge\" premieres on June 1, 2026, exclusively on Disney+",
+      "The series boasts a talented lead cast, including Lee Jae Wook and Shin Ye Eun",
+      "It's categorized as a medical romance, which is always a compelling genre combination",
+      "The episode count is set at 12, which could mean a more streamlined narrative"
+    ]
+  },
+  "live-1781961406781-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The K-Drama Slate Just Got Real"
+      },
+      {
+        "type": "p",
+        "text": "IU and Byeon Woo-seok are teaming up for a new Disney+ series, Perfect Crown, and it's dropping in 2026 - that's right, we've got a whole year to wait. But honestly, this is a big deal, and we're already stoked. IU's proven her acting chops in hits like Crash Landing on You, and Byeon Woo-seok's shown his range in dramas like Record of Youth."
+      },
+      {
+        "type": "h2",
+        "text": "What We Know So Far"
+      },
+      {
+        "type": "p",
+        "text": "The details are scarce, but we do know Perfect Crown is set to release on Disney+ in 2026. That's not all, though - Netflix is also getting in on the action with The Remarried Empress, which is expected to drop in the second half of 2026. It's gonna be a wild ride, and we're here for it. But was the announcement too quiet? We're not getting much info, and that's leaving us with more questions than answers."
+      },
+      {
+        "type": "h2",
+        "text": "The Wait Begins"
+      },
+      {
+        "type": "p",
+        "text": "We're not getting much, but what we do know has us hyped. IU and Byeon Woo-seok are a dream team, and their chemistry on screen is gonna be everything. The Remarried Empress, on the other hand, is shrouded in mystery - but that's not stopping us from counting down the days till its release. What's gonna happen in these dramas? We've got a year to speculate, and that's gonna be a long year."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by instagram.com](https://www.instagram.com/p/DZuYOQflP0Z/)"
+      }
+    ],
+    "takeaways": [
+      "Perfect Crown stars IU and Byeon Woo-seok and will release on Disney+ in 2026",
+      "The Remarried Empress is coming to Netflix in the second half of 2026",
+      "Both dramas were announced with minimal details, leaving fans wanting more",
+      "The wait for both series is roughly a year, giving fans plenty of time to speculate"
+    ]
+  },
+  "live-1781961408482-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "KPOP's Newest Drop: Trisha Paytas?"
+      },
+      {
+        "type": "p",
+        "text": "Trisha Paytas just did the unexpected - she released a KPOP song, and honestly, this is a big deal. It's not every day you see a non-Korean artist dive into the world of KPOP, so when it happens, it's kind of a shock."
+      },
+      {
+        "type": "h2",
+        "text": "The Surprise Factor"
+      },
+      {
+        "type": "p",
+        "text": "That's exactly what happened when Trisha Paytas, known as @trishlikefish88, dropped a video featuring George Glass, and it's safe to say it caught fans off guard. The fact that she's a Korean American who loves KPOP makes this move even more intriguing. But was this a long time coming, or just a spontaneous collaboration?"
+      },
+      {
+        "type": "h2",
+        "text": "The Reaction"
+      },
+      {
+        "type": "p",
+        "text": "The TikTok video showcasing Trisha's KPOP endeavors has garnered attention, with the creator sharing their \"legit first reaction\" to the song. It's interesting to see how fans are responding to this unexpected turn of events. Are they welcoming Trisha into the KPOP scene, or are they skeptical about her involvement?"
+      },
+      {
+        "type": "h2",
+        "text": "What's Got Everyone Talking"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Trisha Paytas, a Korean American, has released a KPOP song, which wasn't on anyone's radar for 2026.",
+          "The song features George Glass, adding another layer of surprise to the collaboration.",
+          "The creator of the TikTok video shared their genuine, unfiltered reaction to the song.",
+          "This move by Trisha Paytas has sparked a mix of curiosity and skepticism among KPOP fans.",
+          "The video is available on Trisha's TikTok account, @trishlikefish88, for all to see and react to."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by trishapaytas](https://www.tiktok.com/@trishlikefish88/video/7652396804478160142)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1781961411130-6": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "That's a Wrap: Obsession Smashes Box Office Expectations"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Obsession, the indie horror hit, has blown past the $300 million mark, and we're still trying to wrap our heads around it.",
+          "The film's director, Curry Barker, is likely thrilled with the outcome, given the movie's unlikely success.",
+          "Starring Inde Navarrette and Michael Johnston, Obsession has clearly struck a chord with audiences.",
+          "Focus Features, the studio behind the release, is probably ecstatic about the film's performance."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "The Unlikely Horror Hit"
+      },
+      {
+        "type": "p",
+        "text": "The fact that Obsession has surged past $300 million is honestly a big deal - it's not every day you see an indie horror film perform this well. But what's behind its success? Is it the talented cast, including Inde Navarrette and Michael Johnston, or the skilled direction of Curry Barker? Whatever the reason, it's clear that Obsession has tapped into something special."
+      },
+      {
+        "type": "h2",
+        "text": "A Star is Born"
+      },
+      {
+        "type": "p",
+        "text": "But was the comeback - or rather, the breakout - of Obsession too fast? We're not complaining, though - it's always exciting to see a new horror hit take the world by storm. And with its talented cast and crew, it's no wonder Obsession has outperformed expectations. So, what's next for this indie horror sensation?"
+      },
+      {
+        "type": "h2",
+        "text": "The Box Office Champion"
+      },
+      {
+        "type": "p",
+        "text": "So, how did Obsession manage to pull off this impressive feat? That's a question for another time, but for now, let's just bask in the glory of this horror hit's success. With its impressive box office numbers, Obsession is undoubtedly the champion of indie horror films - at least, for now. [originally reported by Daily Mail](https://www.tiktok.com/@dailymail/video/7653038857637711117)"
+      }
+    ],
+    "takeaways": []
   }
 };
