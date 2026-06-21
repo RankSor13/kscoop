@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-06-20T13:16:52.779Z
+ * Last updated: 2026-06-21T15:20:19.597Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -3965,6 +3965,196 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       {
         "type": "p",
         "text": "So, how did Obsession manage to pull off this impressive feat? That's a question for another time, but for now, let's just bask in the glory of this horror hit's success. With its impressive box office numbers, Obsession is undoubtedly the champion of indie horror films - at least, for now. [originally reported by Daily Mail](https://www.tiktok.com/@dailymail/video/7653038857637711117)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1782055209113-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Lee Jae-wook Is Back"
+      },
+      {
+        "type": "p",
+        "text": "Lee Jae-wook's making a comeback, and honestly, this is a big deal - he's starring in a medical slice-of-life drama that's got all the makings of a hit. It's been a while since we've seen him on screen, so it's exciting to think about what he'll bring to this new role. But what's the drama about, exactly?"
+      },
+      {
+        "type": "h2",
+        "text": "New Dramas To Watch"
+      },
+      {
+        "type": "p",
+        "text": "We don't have a lot of details, but we do know that June 2026 is shaping up to be a great month for K-drama fans - there are five new dramas releasing, including Lee Jae-wook's. That's a lot to look forward to, and it's going to be interesting to see which ones stand out from the pack. Will Lee Jae-wook's drama be the one to beat, or will one of the other four releases steal the show?"
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "So, what can we expect from these new dramas? Well, for now, we just know that Lee Jae-wook's drama is a medical slice-of-life, which could be really compelling if done right. We're talking character-driven storylines, relatable everyday struggles, and maybe even some humor thrown in for good measure. But was the comeback too fast - are we ready for another Lee Jae-wook drama already?"
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by imdb.com](https://www.imdb.com/news/ni65862550/)"
+      }
+    ],
+    "takeaways": [
+      "Lee Jae-wook is making a comeback in a medical slice-of-life drama",
+      "The drama is one of five K-dramas releasing in June 2026",
+      "We don't have a lot of details about the drama's plot or cast",
+      "June 2026 is going to be a great month for K-drama fans",
+      "Lee Jae-wook's drama releases on June 1, 2026, as \"Doctor On The Edge\""
+    ]
+  },
+  "live-1782055211163-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The 2026 K-Drama Lineup: What We Know So Far"
+      },
+      {
+        "type": "p",
+        "text": "It's that time of the year again - drama fans are eagerly scanning the web for the latest on what's coming up in the world of K-dramas. And, honestly, this year's lineup is shaping up to be pretty interesting. But what's really got us talking is the sheer number of dramas that are set to air in 2026. We're not just talking about a handful of shows here - we're looking at a full-blown, network-wide slate of new and exciting dramas."
+      },
+      {
+        "type": "h2",
+        "text": "Getting Down to Business"
+      },
+      {
+        "type": "p",
+        "text": "So, what can we expect from the 2026 K-drama lineup? Well, for starters, it's worth checking out the list of dramas aired or airing in Korea by network in 2026. It's a pretty comprehensive rundown of what's coming up, and it's definitely got us hyped. But, let's get real - the real question on everyone's mind is: what's going to be the standout drama of the year? Is it going to be a tried-and-true rom-com, or will something entirely new and unexpected take the top spot?"
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "As we take a step back and look at the bigger picture, it's clear that 2026 is shaping up to be a big year for K-dramas. With so many new shows on the horizon, it's going to be exciting to see which ones rise to the top. But, we've got to ask: are we ready for the drama overload that's about to hit us? Can our poor hearts handle the ups and downs of so many new storylines? Only time will... just kidding, we're totally ready for this."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by wiki.d-addicts.com](https://wiki.d-addicts.com/List_of_Dramas_aired_in_Korea_by_Network_in_2026)"
+      }
+    ],
+    "takeaways": [
+      "The list of dramas aired or airing in Korea by network in 2026 is now available.",
+      "We can expect a wide range of new and exciting dramas to hit the airwaves in 2026.",
+      "The lineup includes a mix of genres, from rom-coms to more serious fare.",
+      "Fans are eagerly anticipating the release of the new dramas."
+    ]
+  },
+  "live-1782055213089-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Sweet Sound of Gwi-Ma"
+      },
+      {
+        "type": "p",
+        "text": "Lee Byung-hun, aka Gwi-Ma, isn't exactly the first name that comes to mind when you think \"sweet sound\" - but apparently, he's got a softer side. What's going on here? Is Gwi-Ma singing, or is this some other kind of project? We're not entirely sure, but it's definitely got our attention. Lee Jun-young, also known as Jun, is the one who's been making headlines lately, and it seems like he's the one who's bringing out Gwi-Ma's sweet side."
+      },
+      {
+        "type": "h2",
+        "text": "Jun's Rising Star"
+      },
+      {
+        "type": "p",
+        "text": "Jun's been killing it in the entertainment scene, and it's no surprise - he's talented, charming, and isn't afraid to take on new challenges. But what's really interesting is how he's bringing other stars into the spotlight with him. Case in point: Gwi-Ma. We can't help but wonder what kind of project these two are working on together. Is it a drama, a variety show, or something entirely different? The fact that it's been shared on Instagram suggests it might be something a little more low-key, but we're still intrigued."
+      },
+      {
+        "type": "h2",
+        "text": "What's Next for Jun and Gwi-Ma?"
+      },
+      {
+        "type": "p",
+        "text": "But was this little teaser just a one-off, or is there more to come from these two? Honestly, we're hoping for more - the combination of Jun's energy and Gwi-Ma's... well, let's say \"sweet sound\" is pretty compelling. We'll have to keep an eye on their Instagram accounts to see what's next, but for now, we're just enjoying the surprise of it all. [originally reported by instagram.com](https://www.instagram.com/reel/DZzDsUNnKV5/)"
+      }
+    ],
+    "takeaways": [
+      "Lee Jun-young, also known as Jun, is solidifying his status as a versatile entertainer",
+      "He's been making waves in South Korea's entertainment scene",
+      "Gwi-Ma, aka Lee Byung-hun, is involved in this story somehow",
+      "The news was shared on Instagram"
+    ]
+  },
+  "live-1782055215344-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Weird and Wonderful"
+      },
+      {
+        "type": "p",
+        "text": "Asian game shows are taking it to a whole new level - they're turning the weirdest ideas imaginable into primetime entertainment, and honestly, it's a big deal. Japan and South Korea are leading the charge, and we can't help but wonder what's next. But was the bar for weird ever too low to begin with?"
+      },
+      {
+        "type": "h2",
+        "text": "The Weirdness Factor"
+      },
+      {
+        "type": "p",
+        "text": "We're talking about game shows that don't just push boundaries, they blow them up. It's not your average, run-of-the-mill quiz show or competition. These shows are all about embracing the bizarre and having a blast with it. They're not afraid to get weird, and that's what's making them so popular."
+      },
+      {
+        "type": "h2",
+        "text": "Why It Works"
+      },
+      {
+        "type": "p",
+        "text": "So, what's behind the success of these weird and wacky game shows? Is it the fact that they're unapologetically themselves, or is it something more? One thing's for sure - they're entertaining, and that's what counts. But can they keep pushing the envelope without crossing a line?"
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "It's interesting to see how these game shows reflect the cultures they're from. Japan and South Korea have always been known for their unique approach to entertainment, and these game shows are no exception. They're a testament to the creativity and willingness to take risks that define these countries' entertainment industries. [originally reported by instagram.com](https://www.instagram.com/reel/DZyE2DxuUTY/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1782055216882-5": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Lowdown on Haiden Henderson"
+      },
+      {
+        "type": "p",
+        "text": "Haiden Henderson just dropped a new song, and we're not getting much info about it - but that's what's got us intrigued. What's the story behind this new music, and how's it connected to his celeb links? Honestly, it's a bit of a mystery right now."
+      },
+      {
+        "type": "h2",
+        "text": "Diving into Haiden's World"
+      },
+      {
+        "type": "p",
+        "text": "We don't know a lot about Haiden's age or birthday, but it's clear he's making waves with his music. The fact that he's got a new song out is big news, and fans are probably eager to learn more about his creative process and inspirations. But was the release too quiet, or is this all part of a bigger plan?"
+      },
+      {
+        "type": "h2",
+        "text": "What We Know So Far"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Haiden Henderson has a new song out, with details scarce",
+          "His age and birthday aren't publicly known, adding to the enigma",
+          "He's got connections to other celebrities, which might hint at future collaborations",
+          "The song was announced on TikTok, a platform he's clearly comfortable using"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "It's not every day we see an artist drop new music without a lot of fanfare, so it's possible Haiden's taking a different approach to promotion. Are we going to see more of him on TikTok, or will he start performing live soon? The lack of info is actually making us more curious about what he's working on. [originally reported by tiktok.com](https://www.tiktok.com/@haidenhenderson/video/7652764838699093279)"
       }
     ],
     "takeaways": []

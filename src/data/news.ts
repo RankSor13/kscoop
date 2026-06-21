@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1782055209113-1",
+    "slug": "5-korean-dramas-releasing-in-june-2026-from-doctor-on-the-imdb",
+    "title": "5 Korean Dramas Releasing In June 2026: From Doctor On The ... - IMDb",
+    "summary": "The month also marks Lee Jae-wook's comeback in a delightful medical slice-of-life drama. Let's take a look! 1. Doctor On The Edge Release Date: June 1, 2026 ( ...",
+    "category": "upcoming",
+    "author": "Ji Yeon Park",
+    "source": "imdb.com",
+    "sourceUrl": "https://www.imdb.com/news/ni65862550/",
+    "date": "15 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1782055211163-2",
+    "slug": "list-of-dramas-aired-in-korea-by-network-in-2026-dramawiki",
+    "title": "List of Dramas aired in Korea by Network in 2026 - DramaWiki",
+    "summary": "List of Dramas aired or airing in Korea by Network in 2026. Only drama time-slots that are usually used to air first-time airing locally produced dramas are ...",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "wiki.d-addicts.com",
+    "sourceUrl": "https://wiki.d-addicts.com/List_of_Dramas_aired_in_Korea_by_Network_in_2026",
+    "date": "6 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1782055213089-3",
+    "slug": "who-knew-gwi-ma-could-sound-so-sweet-thank-you-lee",
+    "title": "Who knew Gwi-Ma could sound so sweet?! Thank you Lee ...",
+    "summary": "Gwi-Ma, Lee Byung-hun. Lee Jun-young also known as Jun has solidified his status as one of South Korea's most versatile all-rounder entertainers. Korean ...",
+    "category": "trending",
+    "author": "Dana Kim",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DZzDsUNnKV5/",
+    "date": "7 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1782055215344-4",
+    "slug": "asian-game-shows-particularly-in-japan-and-south-korea",
+    "title": "Asian game shows, particularly in Japan and South Korea ...",
+    "summary": "Asian game shows, particularly in Japan and South Korea, have become famous for turning the weirdest ideas imaginable into primetime entertainment.",
+    "category": "trending",
+    "author": "Hana Cho",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DZyE2DxuUTY/",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1782055216882-5",
+    "slug": "haiden-henderson-age-birthday-music-and-celeb-connections",
+    "title": "Haiden Henderson: age, birthday, music & celeb connections",
+    "summary": "Quick guide to Haiden Henderson — age, birthday, new song news, and links.",
+    "category": "trending",
+    "author": "Mia Kwon",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@haidenhenderson/video/7652764838699093279",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1782055219257-6",
+    "slug": "bts-said-20-and-i-took-it-personally",
+    "title": "BTS said 2.0 and I took it personally",
+    "summary": "57K likes, 510 comments - themermaidscales on June 18, 2026: \"BTS said 2.0 and I took it personally✨\".",
+    "category": "trending",
+    "author": "Rina Baek",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DZufr5goXNL/",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1781961404539-1",
     "slug": "comment-your-favorite-kdrama-koreandrama-instagram",
     "title": "comment your favorite #kdrama #koreandrama ... - Instagram",
@@ -2279,7 +2381,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-06-20T13:16:52.777Z";
+export const LAST_UPDATED = "2026-06-21T15:20:19.596Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
