@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-06-21T15:20:19.597Z
+ * Last updated: 2026-06-22T19:59:04.288Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -4158,5 +4158,169 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       }
     ],
     "takeaways": []
+  },
+  "live-1782158334916-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Bombshell in K-Drama Land"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Kim Sae-ron's scandal is getting uglier by the minute",
+          "Prosecutors are going after the head of Garosero for allegedly spreading false claims",
+          "The use of AI-forged audio is a whole new level of low",
+          "An arrest warrant has been requested - this isn't just a slap on the wrist"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "The Latest Twist"
+      },
+      {
+        "type": "p",
+        "text": "Kim Soo-hyun's been dealing with some pretty wild false allegations, but this Kim Sae-ron scandal takes the cake. We're talking about prosecutors requesting an arrest warrant for the head of Garosero - that's some serious business. What's even crazier is that they're accused of using AI-forged audio to spread their false claims. That's like something out of a K-drama plot, but sadly, it's real life."
+      },
+      {
+        "type": "h2",
+        "text": "Getting Real"
+      },
+      {
+        "type": "p",
+        "text": "But was this whole ordeal just a big misunderstanding, or was it a deliberate attempt to sabotage someone's reputation? The fact that AI-forged audio was allegedly used makes it seem like a pretty calculating move. And what about Kim Sae-ron - what's her role in all of this? We're still waiting for more details to come out, but one thing's for sure: this scandal's got everyone talking."
+      },
+      {
+        "type": "h2",
+        "text": "The Fallout"
+      },
+      {
+        "type": "p",
+        "text": "So, what's next for Garosero's head and the people involved in this mess? If that arrest warrant gets approved, things are about to get real serious. And let's not forget about the impact on Kim Soo-hyun and Kim Sae-ron's careers - this kind of drama can be hard to bounce back from. Honestly, this is a big deal, and we're all just waiting to see how it all plays out."
+      },
+      {
+        "type": "h2",
+        "text": "Where Things Stand Now"
+      },
+      {
+        "type": "p",
+        "text": "We'll just have to wait and see what happens next, but for now, it's clear that prosecutors are taking this very seriously. The use of AI-forged audio is a game-changer - it's not just about spreading rumors anymore, it's about using technology to manipulate people. That's some scary stuff, and we're hoping that justice gets served. [originally reported by instagram.com](https://www.instagram.com/p/DZ4yul6gcXe/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1782158337162-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Dark Side of K-Drama"
+      },
+      {
+        "type": "p",
+        "text": "Song Ha Yoon's alleged involvement in group violence and bullying during her high school days has left fans reeling - it's not every day you see a beloved actor's reputation take such a hit. Honestly, this is a big deal - we're talking about someone who's been a part of some amazing dramas. But was she really a bully back in the day? That's what's been alleged, and it's not looking good for her."
+      },
+      {
+        "type": "h2",
+        "text": "When Allegations Surface"
+      },
+      {
+        "type": "p",
+        "text": "It's never easy to see an actor you love get canceled, but it's even harder when it's due to something as serious as bullying. Song Ha Yoon's not the only one, though - there are a few other K-drama actors who've faced similar allegations. But what really gets you thinking is: how did we not know about this sooner? Were there warning signs that we missed?"
+      },
+      {
+        "type": "h2",
+        "text": "The Fallout"
+      },
+      {
+        "type": "p",
+        "text": "So, what's next for Song Ha Yoon? Will she be able to recover from this, or is her career basically over? It's tough to say, but one thing's for sure: fans are going to be watching her every move from now on. And that's not all - this whole situation raises questions about the K-drama industry as a whole. Are there more actors out there with secrets like this? It's scary to think about."
+      },
+      {
+        "type": "h2",
+        "text": "Where Things Stand Now"
+      },
+      {
+        "type": "p",
+        "text": "For now, we're just waiting to see how things play out. It's not like we haven't seen actors bounce back from controversy before, but this is different. Bullying's a serious issue, and it's not something you can just brush off. So, we'll be keeping an eye on this - and honestly, we're a little nervous about what we might find out. [originally reported by facebook.com](https://www.facebook.com/yeppeungudeul/posts/4-kdrama-actors-who-were-canceled-after-school-bullying-allegations-some-of-them/1588485749548944/)"
+      }
+    ],
+    "takeaways": [
+      "Song Ha Yoon's alleged bullying incident happened during her high school days",
+      "She's not the only K-drama actor to face allegations like this",
+      "The allegations claim she participated in group violence",
+      "This controversy has likely changed the way fans see her"
+    ]
+  },
+  "live-1782158339280-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Drama's Getting Real"
+      },
+      {
+        "type": "p",
+        "text": "Kim Soo Hyun's just filed a defamation lawsuit - and honestly, this is a big deal. He's going after YouTuber Kim Se-ui and the family of late actress Kim Sae-ron, which is already making waves in the K-drama world."
+      },
+      {
+        "type": "h2",
+        "text": "What's Behind the Lawsuit"
+      },
+      {
+        "type": "p",
+        "text": "It looks like Kim Soo Hyun's recent scandal is at the center of all this. That's all we know for now, but it's clear he's not taking things lying down. The fact that he's taking on a YouTuber and a late actress's family is pretty surprising - it's not every day you see a high-profile star like Kim Soo Hyun taking such bold action."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "But was the comeback too fast? We're talking about a star who's been through a lot lately, and now he's taking a stand. It's not clear what the outcome will be, but one thing's for sure - this drama's far from over. [originally reported by KimSooHyunShiPhilippines](https://www.facebook.com/KimSooHyunShiPhilippines/posts/the-next-victim-could-be-anyone-a-powerful-statement-by-attorney-khosangrock-exp/1614969456959977/)"
+      }
+    ],
+    "takeaways": [
+      "Kim Soo Hyun's filed a defamation lawsuit against two parties",
+      "YouTuber Kim Se-ui is one of the defendants",
+      "The family of late actress Kim Sae-ron is also being sued",
+      "The lawsuit's connected to Kim Soo Hyun's recent scandal"
+    ]
+  },
+  "live-1782158341070-5": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Dark Side of Endorsements"
+      },
+      {
+        "type": "p",
+        "text": "Kim Soo-hyun, the powerhouse actor who's stolen our hearts in countless K-dramas, is now at the center of a legal battle that's shedding light on the not-so-glamorous side of celebrity endorsements. It's not every day we see our favorite stars embroiled in legal drama, but when we do, it's a stark reminder that even the most beloved celebrities aren't immune to the risks that come with their fame. But what's really surprising here is how this case is bringing to light the precariousness of celebrity endorsements - it's not all fun and games, folks."
+      },
+      {
+        "type": "p",
+        "text": "The fact that Kim Soo-hyun's case is sparking a conversation about the potential risks of protracted investigations for celebrities is pretty telling. We're used to seeing our favorite stars smiling and waving in commercials, but behind the scenes, there are a lot of moving parts that can sometimes lead to trouble. And let's be real, when you're as big of a deal as Kim Soo-hyun, every move you make is under a microscope - which can be both a blessing and a curse."
+      },
+      {
+        "type": "h2",
+        "text": "The Endorsement Game"
+      },
+      {
+        "type": "p",
+        "text": "Celebrity endorsements are a huge part of K-drama culture, but they're not without their risks. When a star endorses a product, they're not just lending their face to a brand - they're also putting their reputation on the line. And if things go sour, it can be a real mess. But was the risk worth it for Kim Soo-hyun? Honestly, that's a tough call - we don't have all the details, but it's clear that this legal battle is going to be a wild ride."
+      },
+      {
+        "type": "h2",
+        "text": "Where Things Stand Now"
+      },
+      {
+        "type": "p",
+        "text": "So, what's next for Kim Soo-hyun? That's the million-dollar question. One thing's for sure, though - this legal battle is going to be closely watched by fans and industry insiders alike. Will it change the way celebrities approach endorsements? Maybe. But for now, we're just going to have to wait and see how it all plays out. [originally reported by koreannatic](https://www.tiktok.com/@koreannatic/video/7652788617403698454)"
+      }
+    ],
+    "takeaways": [
+      "Kim Soo-hyun's involved in a legal battle that's putting celebrity endorsements under scrutiny",
+      "The case highlights the risks of protracted investigations for celebrities",
+      "Celebrity endorsements are a huge part of K-drama culture, but they're not without risks",
+      "The legal battle surrounding Kim Soo-hyun is bringing attention to the precariousness of these endorsements"
+    ]
   }
 };

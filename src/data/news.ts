@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1782158334916-1",
+    "slug": "of-the-several-false-allegations-made-against-actor-kim-soo-hyun-the",
+    "title": "Of the several false allegations made against actor Kim Soo-hyun, the ...",
+    "summary": "Kim Sae-ron scandal. Prosecutors have requested an arrest warrant for the Garosero head for allegedly spreading false claims and using AI forged audio to ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/DZ4yul6gcXe/",
+    "date": "5 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1782158337162-2",
+    "slug": "4-kdrama-actors-who-were-canceled-after-school-bullying-allegations",
+    "title": "4 KDrama Actors Who Were Canceled After School Bullying Allegations ...",
+    "summary": "Song Ha Yoon became embroiled in controversy after allegations surfaced claiming she had participated in group violence and bullying during her high school ...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/yeppeungudeul/posts/4-kdrama-actors-who-were-canceled-after-school-bullying-allegations-some-of-them/1588485749548944/",
+    "date": "11 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1782158339280-3",
+    "slug": "the-next-victim-could-be-anyone-a-powerful-facebook",
+    "title": "\"THE NEXT VICTIM COULD BE ANYONE.\" A powerful ... - Facebook",
+    "summary": "Kim Soo Hyun filed a defamation lawsuit against YouTuber Kim Se-ui and the family of late actress Kim Sae-ron, actor Kim Soo- hyun's recent scandal as a case ...",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/KimSooHyunShiPhilippines/posts/the-next-victim-could-be-anyone-a-powerful-statement-by-attorney-khosangrock-exp/1614969456959977/",
+    "date": "20 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1782158340833-4",
+    "slug": "in-entertainment-news-is-news-it-all-depends-on-how-you-spin-the-news",
+    "title": "In entertainment news is news, it all depends on how you spin the news ...",
+    "summary": "In entertainment news is news, it all depends on how you spin the news, some scandals might help you blow. Jmaier actor/ Director.",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/EpicRadio99.3fm/posts/in-entertainment-news-is-news-it-all-depends-on-how-you-spin-the-news-some-scand/1520663806739653/",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1782158341070-5",
+    "slug": "an-absolute-powerhouse-of-an-actor-after-completely-stealing-our",
+    "title": "An absolute powerhouse of an actor. After completely stealing our...",
+    "summary": "The legal battle surrounding Korean actor Kim Soo-hyun brings to light the precariousness of celebrity endorsements ences of protracted investigations. media ...",
+    "category": "gossip",
+    "author": "Mia Kwon",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@koreannatic/video/7652788617403698454",
+    "date": "11 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1782158343831-6",
+    "slug": "korean-actress-who-are-dating-tiktok",
+    "title": "Korean Actress Who Are Dating | TikTok",
+    "summary": "South Korean actress Han So Hee has addressed her alleged “pathetic” Instagram story to Girl's Day Hyeri amid the dating rumors between her and Hyeri's ex- ...",
+    "category": "gossip",
+    "author": "Rina Baek",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/discover/korean-actress-who-are-dating",
+    "date": "4 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1782055209113-1",
     "slug": "5-korean-dramas-releasing-in-june-2026-from-doctor-on-the-imdb",
     "title": "5 Korean Dramas Releasing In June 2026: From Doctor On The ... - IMDb",
@@ -2381,7 +2483,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-06-21T15:20:19.596Z";
+export const LAST_UPDATED = "2026-06-22T19:59:04.287Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
