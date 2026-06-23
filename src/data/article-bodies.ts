@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-06-22T19:59:04.288Z
+ * Last updated: 2026-06-23T17:03:44.201Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -4321,6 +4321,180 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       "The case highlights the risks of protracted investigations for celebrities",
       "Celebrity endorsements are a huge part of K-drama culture, but they're not without risks",
       "The legal battle surrounding Kim Soo-hyun is bringing attention to the precariousness of these endorsements"
+    ]
+  },
+  "live-1782234213030-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Bombshell Denial"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Kim Soo-hyun's tearful response to allegations is making headlines",
+          "The allegations claim he dated Kim Sae-ron when she was underage",
+          "Kim Soo-hyun denied the allegations, saying he couldn't \"admit\" to them",
+          "The news is shocking fans of the South Korean actor"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "A Tearful Response"
+      },
+      {
+        "type": "p",
+        "text": "Kim Soo-hyun's denial of the allegations against him is a dramatic turn of events. He's a beloved actor in South Korea, and this news is rocking his fan base. It's not every day you see a celebrity break down in tears over allegations like this. But was the emotional response enough to convince fans of his innocence? That's the question on everyone's mind right now."
+      },
+      {
+        "type": "h2",
+        "text": "Allegations and Denials"
+      },
+      {
+        "type": "p",
+        "text": "The allegations themselves are pretty serious - they claim Kim Soo-hyun dated Kim Sae-ron when she was underage. That's a huge deal, and it's no wonder he's denying it. But the fact that he's denying it in tears makes this whole situation even more dramatic. It's clear that Kim Soo-hyun is really upset about these allegations, but is it enough to clear his name?"
+      },
+      {
+        "type": "h2",
+        "text": "The Fallout"
+      },
+      {
+        "type": "p",
+        "text": "It's hard to say what's going to happen next, but one thing's for sure - this news is going to have some serious fallout. Fans are already divided, with some believing Kim Soo-hyun and others not so much. It's a tough spot for the actor, and it'll be interesting to see how he navigates this situation. Honestly, this is a big deal, and it's not going away anytime soon. [originally reported by tiktok.com](https://www.tiktok.com/discover/south-korean-actor-cheating-news)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1782234215932-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Shocking Sentence for Son Heung-min Blackmailer"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "A South Korean woman, Yang, has been sentenced to four years in prison for blackmailing England club football star Son Heung-min.",
+          "The case involved Yang and her accomplices targeting the football star.",
+          "The woman is in her 20s, which might come as a surprise to some fans.",
+          "The sentence is a significant one, considering the severity of the crime."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "The Story Behind the Sentence"
+      },
+      {
+        "type": "p",
+        "text": "Yang, along with her accomplices, has been found guilty of blackmailing Son Heung-min. That's right, the England club football star was a victim of blackmail, and it's honestly a big deal. The fact that the perpetrator is a young woman might raise some eyebrows, but the court's decision sends a clear message: blackmail won't be taken lightly."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "But was the sentence enough? That's a question fans are probably asking themselves right now. On one hand, four years is a significant sentence, especially considering Yang's age. On the other hand, some might argue that the punishment should be even harsher, given the severity of the crime. What do you think - is justice being served?"
+      },
+      {
+        "type": "h2",
+        "text": "What's Next for Son Heung-min"
+      },
+      {
+        "type": "p",
+        "text": "The football star can finally put this ordeal behind him, but the incident might still have some lingering effects. Will it affect his performance on the field? Only time will... no, scratch that - we don't know what the future holds, but for now, it's a relief that the case is closed. [originally reported by facebook.com](https://www.facebook.com/upsoclthecracks/posts/a-south-korean-woman-named-yang-has-been-sentenced-to-four-years-in-prison-for-a/1050116667680653/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1782234218192-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Get Ready for a K-Drama Explosion"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "The Wonderfools is coming to Netflix in 2026",
+          "Bloodhounds is getting a second season",
+          "East Palace is one of the most anticipated adaptations",
+          "Boyfriend On Demand sounds like a unique watch",
+          "The Art Of Sarah is also joining the lineup",
+          "Show Business is another title to look out for"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "K-Drama Frenzy on Netflix"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal - Netflix is bringing us not one, not two, but six K-drama manhwa adaptations in 2026. We're talking about a range of genres and stories, from the intriguingly titled The Wonderfools to the highly anticipated second season of Bloodhounds. But what's really got fans excited is the variety - we've got Show Business, East Palace, Boyfriend On Demand, and The Art Of Sarah all lined up. That's a lot of K-drama goodness to look forward to."
+      },
+      {
+        "type": "p",
+        "text": "The fact that all these shows are based on manhwas is also worth highlighting. It's a testament to the rich storytelling and vibrant characters that these Korean comics have to offer. But was the decision to adapt so many manhwas at once a strategic move by Netflix, or just a coincidence? Whatever the reason, fans aren't complaining - we're getting a slew of new shows to obsess over."
+      },
+      {
+        "type": "h2",
+        "text": "The Anticipation Builds"
+      },
+      {
+        "type": "p",
+        "text": "So, what can we expect from these upcoming shows? Well, for starters, Bloodhounds season 2 is likely to pick up where the first season left off, with more thrills and spills. East Palace, on the other hand, has an air of mystery surrounding it - will it live up to the hype? And then there's Boyfriend On Demand, which sounds like a fun, lighthearted watch. The Art Of Sarah is also shrouded in mystery, but we're hoping it'll be a beautiful, emotional ride."
+      },
+      {
+        "type": "h2",
+        "text": "What Fans Are Saying"
+      },
+      {
+        "type": "p",
+        "text": "Fans are already buzzing with excitement on social media, speculating about the plots, characters, and casting of these upcoming shows. It's clear that the K-drama community is hungry for more, and Netflix is delivering. With so many great shows to look forward to, 2026 is shaping up to be an amazing year for K-drama fans."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by facebook.com](https://www.facebook.com/adultswholovecartoons/posts/every-k-drama-manhwa-adaptation-coming-in-2026-where-to-watch-read-more-/1474285754745107/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1782234220437-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The K-Drama Factor"
+      },
+      {
+        "type": "p",
+        "text": "Disney+'s Perfect Crown is a game-changer - it's the platform's biggest Korean series premiere to date, with over 43 million watch hours. That's a big deal, and it's clear that Disney's investments in K-drama are paying off. But what's behind this success? For one, the company's decision to poach Tony Zameczkowski from Netflix was a genius move. As one of the architects of Netflix's success in the Asia-Pacific region, Zameczkowski knows what works. And with his background in building YouTube's business in Asia, he's got the expertise to take Disney+ to the next level."
+      },
+      {
+        "type": "p",
+        "text": "Zameczkowski's strategy is all about running Disney's \"own race\" - not trying to compete directly with Netflix, but instead focusing on what sets Disney+ apart. And what sets it apart is its unique content, including K-dramas like Perfect Crown. The show's alternate-reality romantic comedy vibe is a winner, and it's clear that Disney+ is on to something. But was the comeback too fast? Not according to Zameczkowski, who's been instrumental in building Disney+'s content slate in the region."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "So what does this mean for the future of Disney+ in Asia? For one, it means more K-dramas - and not just any K-dramas, but high-quality, engaging shows that viewers will love. It also means more investment in local content, particularly in places like Korea and Japan. According to Josh D'Amaro, Disney's CEO, there's a \"meaningful opportunity\" abroad, and the company is willing to spend more aggressively to capture it. With Zameczkowski at the helm, it's clear that Disney+ is serious about taking on the competition and becoming a major player in the Asia-Pacific region."
+      },
+      {
+        "type": "h2",
+        "text": "Where Things Stand Now"
+      },
+      {
+        "type": "p",
+        "text": "As Disney+ continues to grow and expand its content slate, it's clear that the company is on the right track. With Perfect Crown and other K-dramas leading the charge, Disney+ is poised to become a major player in the Asia-Pacific region. And with Tony Zameczkowski's expertise guiding the way, it's likely that we'll see even more exciting developments in the future. So what's next for Disney+? Only time will tell, but one thing's for sure - it's going to be a wild ride. [originally reported by hollywoodreporter.com](https://www.hollywoodreporter.com/business/business-news/disney-new-asia-streaming-boss-korean-drama-sports-japan-1236627088/)"
+      }
+    ],
+    "takeaways": [
+      "Disney+'s growing investments in K-drama have yielded some of its most welcome surprises of 2026, including the hit series Perfect Crown.",
+      "Tony Zameczkowski, the new Asia streaming boss, is a veteran of Netflix and YouTube, and he's bringing his expertise to Disney+.",
+      "Disney+ has recently passed Prime Video as the second-largest investor in original content in Asia-Pacific, according to Media Partners Asia.",
+      "The company is planning to spend more aggressively on content in Japan, a market it's been slow to scale."
     ]
   }
 };

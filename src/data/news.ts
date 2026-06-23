@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1782234213030-1",
+    "slug": "south-korean-actor-cheating-news-tiktok",
+    "title": "South Korean Actor Cheating News | TikTok",
+    "summary": "South Korean actor Kim Soo-hyun denied allegations that he dated deceased actress Kim Sae-ron when she was underage, saying in tears that he could not \"admit ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/discover/south-korean-actor-cheating-news",
+    "date": "22 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1782234215932-2",
+    "slug": "a-south-korean-woman-named-yang-has-been-sentenced-to-four",
+    "title": "A South Korean woman named Yang has been sentenced to four ...",
+    "summary": "A South Korean court has sentenced a woman in her 20s to four years in prison for blackmailing England club football star Son Heung-min. She, along with her ...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/upsoclthecracks/posts/a-south-korean-woman-named-yang-has-been-sentenced-to-four-years-in-prison-for-a/1050116667680653/",
+    "date": "3 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1782234218192-3",
+    "slug": "every-k-drama-manhwa-adaptation-coming-in-2026-facebook",
+    "title": "Every K-Drama Manhwa Adaptation Coming in 2026 ... - Facebook",
+    "summary": "Upcoming K-Dramas Premiering on Netflix in 2026: 1. The Wonderfools 2. Bloodhounds S2 3. Show Business 4. East Palace 5. Boyfriend On Demand 6. The Art Of Sarah ...",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/adultswholovecartoons/posts/every-k-drama-manhwa-adaptation-coming-in-2026-where-to-watch-read-more-/1474285754745107/",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1782234220437-4",
+    "slug": "disneys-new-asia-streaming-boss-on-k-drama-sports-and-the",
+    "title": "Disney's New Asia Streaming Boss on K-Drama, Sports and the ...",
+    "summary": "Its growing investments in K-drama have yielded some of Disney+'s most welcome surprises of 2026: Perfect Crown, an alternate-reality romantic comedy, became ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "hollywoodreporter.com",
+    "sourceUrl": "https://www.hollywoodreporter.com/business/business-news/disney-new-asia-streaming-boss-korean-drama-sports-japan-1236627088/",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1782234223093-5",
+    "slug": "the-east-palace-official-teaser-netflix-eng-sub-youtube",
+    "title": "The East Palace | Official Teaser | Netflix [ENG SUB] - YouTube",
+    "summary": "Comments ; Top 9 Korean Series on Disney+ That Are Driving Everyone CRAZY | K-Dramas. WWS ASIAN · 50K views ; Top 10 Best NEW Anime of Spring 2026. ANIME SCAN ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=Lyy9Ev-d9Lk",
+    "date": "6 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1782234223992-6",
+    "slug": "new-k-drama-releases-of-the-week-june-22-28-gq-india",
+    "title": "New K-drama releases of the week (June 22-28) - GQ India",
+    "summary": "Notes from the Last Row, See You at Work Tomorrow!, Agent Kim Reactivated and Doctor on the Edge are new K-drama releases of the week (June 22-28, 2026) on ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "gqindia.com",
+    "sourceUrl": "https://www.gqindia.com/content/new-k-drama-releases-of-the-week-june-22-28-12-new-korean-dramas-streaming-on-netflix-and-other-ott-platforms",
+    "date": "1 day ago",
+    "image": "https://assets.gqindia.com/photos/6a38e4a1e8014a3c2b0f60da/16:9/w_1280,c_limit/New-K-drama-releases-of-the-week-June-22-28-2026.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1782158334916-1",
     "slug": "of-the-several-false-allegations-made-against-actor-kim-soo-hyun-the",
     "title": "Of the several false allegations made against actor Kim Soo-hyun, the ...",
@@ -2483,7 +2585,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-06-22T19:59:04.287Z";
+export const LAST_UPDATED = "2026-06-23T17:03:44.200Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
