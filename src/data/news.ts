@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1782318907915-1",
+    "slug": "in-hollywood-a-scandal-starts-after-an-arrest-but-in-korea-a-facebook",
+    "title": "in Hollywood, a scandal starts after an arrest, but in Korea, a ... - Facebook",
+    "summary": "Among them is the recent scandal surrounding actor Kim Soo-hyun and the late actress Kim Sae-ron. ... Actor Cho Jin Woong immediately quit acting after news broke ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/TheBrideofWaterGod/posts/in-hollywood-a-scandal-starts-after-an-arrest-but-in-korea-a-scandal-starts-when/1033571575684575/",
+    "date": "18 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1782318910315-2",
+    "slug": "south-korean-actor-kim-soo-hyun-has-been-officially-cleared-by-police-of",
+    "title": "South Korean actor Kim Soo-hyun has been officially cleared by police of ...",
+    "summary": "South Korean actor Kim Soo-hyun has been officially cleared by police of allegations that he was romantically involved with the late actress Kim Sae-ron while ...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/KimSooHyunShiPhilippines/posts/south-korean-actor-kim-soo-hyun-has-been-officially-cleared-by-police-of-allegat/1616337533489836/",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1782318912361-3",
+    "slug": "breaking-gaseyeon-head-kim-se-ui-indicted-and-arrested",
+    "title": "BREAKING GASEYEON HEAD Kim Se-ui INDICTED & ARRESTED ...",
+    "summary": "South Korean actor Kim Soo-hyun has been officially cleared by police of allegations that he was romantically involved with the late actress Kim Sae-ron ...",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DZ7r02oprCi/",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1782318914820-4",
+    "slug": "park-min-young-wikipedia",
+    "title": "Park Min-young - Wikipedia",
+    "summary": "Park Min-young (Korean: 박민영 ; born March 4, 1986), also known as Rachel Park, is a South Korean actress. She rose to fame in the historical coming-of-age ...",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "en.wikipedia.org",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Park_Min-young",
+    "date": "2 days ago",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/20250625_Park_Min-young_TAG_Heuer_PhotoCall.jpg/960px-20250625_Park_Min-young_TAG_Heuer_PhotoCall.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1782318917588-5",
+    "slug": "entertainment-and-arts-latest-news-and-updates-bbc",
+    "title": "Entertainment & Arts | Latest News & Updates - BBC",
+    "summary": "Get all the latest news, live updates and content about Entertainment & Arts from across the BBC.",
+    "category": "gossip",
+    "author": "Mia Kwon",
+    "source": "bbc.com",
+    "sourceUrl": "https://www.bbc.com/culture/entertainment-news",
+    "date": "17 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1782318917809-6",
+    "slug": "celebrity-antics-often-blur-the-lines-of-public-and-private-life-as-seen-with",
+    "title": "Celebrity antics often blur the lines of public and private life, as seen with ...",
+    "summary": "In a hilarious turn of events, a popular Korean actress found herself needing a lift from her husband after a night of heavy drinking. This amusing incident has ...",
+    "category": "gossip",
+    "author": "Rina Baek",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/DZ1XKMQGVxn/",
+    "date": "4 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1782234213030-1",
     "slug": "south-korean-actor-cheating-news-tiktok",
     "title": "South Korean Actor Cheating News | TikTok",
@@ -2585,7 +2687,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-06-23T17:03:44.200Z";
+export const LAST_UPDATED = "2026-06-24T16:35:18.275Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES

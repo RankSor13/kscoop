@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-06-23T17:03:44.201Z
+ * Last updated: 2026-06-24T16:35:18.276Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -4495,6 +4495,166 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       "Tony Zameczkowski, the new Asia streaming boss, is a veteran of Netflix and YouTube, and he's bringing his expertise to Disney+.",
       "Disney+ has recently passed Prime Video as the second-largest investor in original content in Asia-Pacific, according to Media Partners Asia.",
       "The company is planning to spend more aggressively on content in Japan, a market it's been slow to scale."
+    ]
+  },
+  "live-1782318907915-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Scandal Hits K-Drama World"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Actor Kim Soo-hyun is involved in a scandal, though details are scarce",
+          "The late actress Kim Sae-ron is also mentioned in the scandal",
+          "Actor Cho Jin Woong quit acting immediately after the news broke",
+          "The nature of the scandal itself isn't fully explained in the available info"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "K-Drama's Zero-Tolerance Policy"
+      },
+      {
+        "type": "p",
+        "text": "Cho Jin Woong's decision to quit acting right away is pretty shocking - it shows just how seriously K-drama takes its scandals. But was the comeback too fast for some stars in the past? Honestly, this is a big deal, and we're seeing a pattern where actors are held to a high standard. If they're involved in a scandal, their careers can be over in an instant."
+      },
+      {
+        "type": "h2",
+        "text": "How Scandals Unfold"
+      },
+      {
+        "type": "p",
+        "text": "It's interesting to see how scandals unfold in K-drama compared to other industries. In Hollywood, a scandal usually starts after someone gets arrested or a big investigation happens. But in Korea, it seems like just being involved in a scandal can be enough to end your career. That's a pretty big difference, and it makes you wonder what's behind these differing attitudes towards scandal."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "What's really surprising here is how quickly Cho Jin Woong quit acting - it's like he knew his career was over the moment the scandal broke. We don't know all the details, but it's clear that K-drama doesn't mess around when it comes to scandals. That's a pretty intense standard to hold people to, but it's also kind of refreshing to see a industry that takes its scandals so seriously. [originally reported by The Bride of Water God](https://www.facebook.com/TheBrideofWaterGod/posts/in-hollywood-a-scandal-starts-after-an-arrest-but-in-korea-a-scandal-starts-when/1033571575684575/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1782318910315-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Bombshell: Kim Soo-hyun Cleared of Romance Allegations"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "The allegations against Kim Soo-hyun were related to his involvement with the late actress Kim Sae-ron",
+          "Kim Soo-hyun has been officially cleared by police of these allegations",
+          "The news is a significant development in the case, which has been widely followed by K-drama fans",
+          "The police investigation has concluded, and Kim Soo-hyun's name has been cleared"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "What Really Happened"
+      },
+      {
+        "type": "p",
+        "text": "Kim Soo-hyun's been through a tough time lately, with allegations flying around that he was romantically involved with the late Kim Sae-ron. But it looks like he can finally breathe a sigh of relief - police have officially cleared him of all allegations. That's right, it's official: Kim Soo-hyun is in the clear. But was it a long time coming? Honestly, this is a big deal, and fans weren't wrong to be upset about the whole situation."
+      },
+      {
+        "type": "h2",
+        "text": "The Allegations"
+      },
+      {
+        "type": "p",
+        "text": "The allegations against Kim Soo-hyun were pretty serious, and it's no surprise that fans were worried about what might happen next. But now that police have weighed in, it seems like we can all put this behind us. The question is, what's next for Kim Soo-hyun? Will he be able to put this experience behind him and get back to doing what he does best - acting?"
+      },
+      {
+        "type": "h2",
+        "text": "Closure at Last"
+      },
+      {
+        "type": "p",
+        "text": "It's not every day that we see a celebrity's name cleared like this, so it's definitely a significant development. And let's be real, it's about time - Kim Soo-hyun's fans have been waiting for this news for a while now. But was the investigation thorough enough? That's a question for another time. For now, it's just good to see Kim Soo-hyun's name in the clear. [originally reported by KimSooHyunShiPhilippines](https://www.facebook.com/KimSooHyunShiPhilippines/posts/south-korean-actor-kim-soo-hyun-has-been-officially-cleared-by-police-of-allegat/1616337533489836/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1782318912361-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Big News for Kim Soo-hyun"
+      },
+      {
+        "type": "p",
+        "text": "Kim Soo-hyun's officially in the clear - he's been cleared by police of those allegations that he was romantically involved with the late actress Kim Sae-ron. That's a huge deal, especially since those rumors were circulating for a while. But it looks like they're totally baseless, and Kim Soo-hyun can finally put this behind him."
+      },
+      {
+        "type": "p",
+        "text": "It's not like we're surprised or anything - most fans didn't buy into those rumors from the start. But still, it's good to have official confirmation that Kim Soo-hyun's name is cleared. Now we can all just focus on his upcoming projects, right? But was this whole ordeal a big distraction for him?"
+      },
+      {
+        "type": "h2",
+        "text": "What's Next for Kim Soo-hyun"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal - it's not every day that an actor gets falsely accused of something like this. So, what's next for Kim Soo-hyun? Will he make a statement about this whole thing, or just let his work speak for itself? We're guessing he'll just keep on doing what he's doing, and that's making great K-dramas for all of us to enjoy."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "We're just glad that Kim Soo-hyun's been cleared, and we can all move on from this. It's not fun to see anyone's name dragged through the mud, especially when it's not deserved. So, let's all just take a deep breath and be happy that this is over. [originally reported by instagram.com](https://www.instagram.com/reel/DZ7r02oprCi/)"
+      }
+    ],
+    "takeaways": [
+      "Kim Soo-hyun's been cleared of those rumors",
+      "The allegations were about a romantic involvement with Kim Sae-ron",
+      "This news just broke, and fans are reacting",
+      "Kim Soo-hyun's team hasn't made a statement yet"
+    ]
+  },
+  "live-1782318914820-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Rising to Fame"
+      },
+      {
+        "type": "p",
+        "text": "Park Min-young's rise to stardom wasn't overnight, but it's clear she was destined for greatness. She started out in a SK Telecom commercial back in 2005, and just a year later, she landed a role in the hit sitcom High Kick!. But it was her role in the 2010 drama Sungkyunkwan Scandal that really put her on the map. Playing an intelligent and resourceful young woman who disguises herself as a boy to enter a prestigious learning institution in Joseon, Park's talent and charisma shone through. And let's not forget her role in City Hunter, opposite Lee Min-ho, which solidified her status as a leading lady in K-dramas."
+      },
+      {
+        "type": "p",
+        "text": "Park's early life is pretty interesting too - she studied abroad in the United States as an international exchange student during high school. And in 2013, she graduated from Dongguk University in Seoul with a degree in Theatre. But it's her acting career that's really taken off. She's had a string of successful dramas, including Glory Jane, Healer, and What's Wrong with Secretary Kim. And who can forget her big screen debut in the horror film The Cat? Park's proven she's not just a one-trick pony, and she's got the range to take on a variety of roles."
+      },
+      {
+        "type": "h2",
+        "text": "From Dramas to Films"
+      },
+      {
+        "type": "p",
+        "text": "Park's success in dramas has led to more opportunities in film. She's appeared in movies like The Cat and Dr. Jin, showcasing her versatility as an actress. And it's not just her acting skills that have gotten attention - she's also been featured in music videos, like BigBang's hit song Haru Haru. Playing the girlfriend of G-Dragon, Park showed she's got the charm and talent to pull off any role. But was her breakthrough in Sungkyunkwan Scandal the turning point in her career? It's hard to say, but one thing's for sure - Park Min-young's here to stay."
+      },
+      {
+        "type": "h2",
+        "text": "What's Next for Park Min-young"
+      },
+      {
+        "type": "p",
+        "text": "So, what's next for this talented actress? With a string of successful dramas and films under her belt, Park's got a lot to look forward to. She's already appeared in the 2022 drama Forecasting Love and Weather, and the 2024 drama Marry My Husband. And with her talent and dedication, we can't wait to see what she takes on next. Honestly, this is a big deal - Park Min-young's become a household name in K-drama fandom, and we're excited to see where her career goes from here. [originally reported by Wikipedia](https://en.wikipedia.org/wiki/Park_Min-young)"
+      }
+    ],
+    "takeaways": [
+      "Park Min-young's breakthrough role came in the 2010 drama Sungkyunkwan Scandal, where she played a young woman disguised as a boy.",
+      "She made her entertainment debut in a SK Telecom commercial in 2005, before launching her acting career in the hit sitcom High Kick! in 2006.",
+      "Park studied abroad in the United States as an international exchange student during high school.",
+      "She graduated from Dongguk University in Seoul with a degree in Theatre in February 2013."
     ]
   }
 };
