@@ -103,6 +103,74 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1782405567976-1",
+    "slug": "breaking-celebrity-news-entertainment-news-and-celeb-gossip",
+    "title": "Breaking Celebrity News, Entertainment News and Celeb Gossip",
+    "summary": "Get the latest news on celebrity scandals, engagements, and divorces! Check out our breaking stories on Hollywood's hottest stars!",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "eonline.com",
+    "sourceUrl": "https://www.eonline.com/news",
+    "date": "3 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1782405570200-2",
+    "slug": "police-clears-kimsoohyun-from-kimsaerons-death-instagram",
+    "title": "Police clears #KimSooHyun from #KimSaeRon's death - Instagram",
+    "summary": "Kim Se-eui, the representative of HoverLab (Gaseyeon), was arrested on charges of defaming actor Kim Soo-hyun by using AI to manipulate the voice of the late ...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DZ9kjfvCE0J/",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1782405572127-3",
+    "slug": "after-hyeri-its-rare-to-see-korean-celebrities-publicly-call-things-out",
+    "title": "After Hyeri, it's rare to see Korean celebrities publicly call things out ...",
+    "summary": "Seo Hyun Jin Is A Victim of 2.6 Billion KRW Rental Fraud Actress Seo Hyun Jin has reportedly fallen victim to a jeonse (rental) scam. According to the ...",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/61551933150668/posts/after-hyeri-its-rare-to-see-korean-celebrities-publicly-call-things-out-on-insta/122316434786064438/",
+    "date": "4 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1782405574504-4",
+    "slug": "mailbag-for-june-19-2026-by-laineygossip-the-squawk",
+    "title": "Mailbag for June 19, 2026 - by LaineyGossip - The Squawk",
+    "summary": "This week there's been a huge media scandal that intersects athletes and idols from South Korea. I am obsessed with this story, and not just because I love ...",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "thesquawk.substack.com",
+    "sourceUrl": "https://thesquawk.substack.com/p/mailbag-for-june-19-2026",
+    "date": "6 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1782318907915-1",
     "slug": "in-hollywood-a-scandal-starts-after-an-arrest-but-in-korea-a-facebook",
     "title": "in Hollywood, a scandal starts after an arrest, but in Korea, a ... - Facebook",
@@ -2687,7 +2755,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-06-24T16:35:18.275Z";
+export const LAST_UPDATED = "2026-06-25T16:39:34.653Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES

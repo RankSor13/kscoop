@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-06-24T16:35:18.276Z
+ * Last updated: 2026-06-25T16:39:34.654Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -4656,5 +4656,123 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       "Park studied abroad in the United States as an international exchange student during high school.",
       "She graduated from Dongguk University in Seoul with a degree in Theatre in February 2013."
     ]
+  },
+  "live-1782405567976-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Scoop on Celebrity Romances"
+      },
+      {
+        "type": "p",
+        "text": "Taylor Swift's upcoming wedding to Travis Kelce is all anyone can talk about, and we're getting some insight from the groom's brother, Jason Kelce. He's excited for the big day, but don't expect him to dish out any specifics - he's keeping mum on the details. Meanwhile, Logan Lerman and Ana Corrigan are newlyweds, having just tied the knot after six years together. It's clear that love is in the air for these celeb couples."
+      },
+      {
+        "type": "p",
+        "text": "But it's not all smooth sailing - Joe Manganiello is facing some serious health issues, and he's being pretty candid about it. He's talking about the \"brutal\" side effects of his \"deadly mystery illness,\" and it's clear that this journey has been tough on him. We're sending all our best to Joe as he navigates this challenging time."
+      },
+      {
+        "type": "h2",
+        "text": "What's Cooking in Hollywood"
+      },
+      {
+        "type": "p",
+        "text": "The cast of The Bear is saying goodbye to their show as it wraps up its fifth and final season. Jeremy Allen White and Liza Colón-Zayas are just a couple of the stars who are opening up about how hard it is to close this chapter. They're sharing their favorite recipes for romance, and it's clear that this show has been a labor of love for everyone involved. But was the decision to end the show too soon, or is it better to go out on a high note?"
+      },
+      {
+        "type": "h2",
+        "text": "The Latest on Reality TV"
+      },
+      {
+        "type": "p",
+        "text": "West Wilson from Summer House is finally addressing his departure from the show, and it's all about his bombshell romance with Amanda Batula. He's also talking about his falling out with ex Ciara Miller and other cast members - it's clear that there's been some major drama going down. And in other reality TV news, Dean Bell from Bachelor Nation is getting real about his fertility journey with wife Caelynn Bell. It's not always easy, but they're being super honest about what they're going through. [originally reported by eonline.com](https://www.eonline.com/news)"
+      }
+    ],
+    "takeaways": [
+      "Jason Kelce is looking forward to his brother Travis Kelce's wedding to Taylor Swift, but he's not spilling any details",
+      "Joe Manganiello opened up about his \"deadly mystery illness\" and the tough side effects he's dealing with",
+      "West Wilson from Summer House finally addressed his departure from the show and his romance with Amanda Batula",
+      "Logan Lerman and Ana Corrigan just tied the knot after six years of dating"
+    ]
+  },
+  "live-1782405570200-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Bombshell: Kim Soo-hyun Cleared in Kim Sae-ron Death Defamation Case"
+      },
+      {
+        "type": "p",
+        "text": "Kim Soo-hyun's been cleared of all charges related to Kim Sae-ron's death - and it's all thanks to a pretty wild case of AI manipulation. We're talking someone used AI to fake Kim Soo-hyun's voice, and that's what led to the whole defamation mess."
+      },
+      {
+        "type": "h2",
+        "text": "The Twisted Truth"
+      },
+      {
+        "type": "p",
+        "text": "So, here's what we know: Kim Se-eui, the rep from HoverLab (also known as Gaseyeon), got arrested for using AI to manipulate Kim Soo-hyun's voice. That's right, folks - AI was used to make it sound like Kim Soo-hyun was saying something he never actually said. It's crazy to think about how far this tech has come, and how it can be used for good or evil. In this case, it was definitely the latter."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "But was the damage already done? We're talking about a guy's reputation here - Kim Soo-hyun's built a career on being one of Korea's most beloved actors. Luckily, it seems like the truth's come out, and he's been cleared. Still, it's a good reminder to be careful what we believe online - especially when it comes to sensitive topics like this."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by instagram.com](https://www.instagram.com/reel/DZ9kjfvCE0J/)"
+      }
+    ],
+    "takeaways": [
+      "Kim Soo-hyun's been cleared of all charges",
+      "AI was used to manipulate his voice",
+      "Kim Se-eui from HoverLab was arrested for defamation",
+      "The case is related to the late Kim Sae-ron's death"
+    ]
+  },
+  "live-1782405572127-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Shocking Scam Alert"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Seo Hyun Jin's been scammed out of a whopping 2.6 billion KRW in a jeonse rental fraud",
+          "This isn't your average scam - we're talking billions of won here",
+          "The fact that Seo Hyun Jin's speaking out is huge, given how rare it is for Korean celebs to call out issues publicly",
+          "It's not every day you see a high-profile victim like Seo Hyun Jin being so open about their experience"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "The Scam That's Got Everyone Talking"
+      },
+      {
+        "type": "p",
+        "text": "Seo Hyun Jin's reportedly fallen victim to a jeonse scam - that's right, the same actress we love from our favorite K-dramas. But what's even more surprising is that she's not staying quiet about it. In an industry where celebs often keep their personal struggles under wraps, Seo Hyun Jin's willingness to speak out is a big deal. But was the scam itself a surprise? Sadly, jeonse scams aren't unheard of in Korea, but the amount involved - 2.6 billion KRW - is staggering."
+      },
+      {
+        "type": "h2",
+        "text": "What We Know So Far"
+      },
+      {
+        "type": "p",
+        "text": "So, what exactly happened? According to reports, Seo Hyun Jin was scammed out of a massive 2.6 billion KRW in a rental fraud. That's a lot of money, and it's not like she can just shrug it off. The fact that she's talking about it publicly, though, suggests she's not going to let the scammers get away with it. But will speaking out make a difference? Honestly, this is a big deal - if Seo Hyun Jin's experience can raise awareness about these scams, maybe it'll help prevent others from falling victim."
+      },
+      {
+        "type": "h2",
+        "text": "Where Things Stand Now"
+      },
+      {
+        "type": "p",
+        "text": "It's not clear what's next for Seo Hyun Jin, but one thing's for sure - she's not alone in this. With her speaking out, hopefully, we'll see some real change. Will other celebs follow her lead and start talking about their own experiences? That'd be a game-changer. For now, though, we're just hoping Seo Hyun Jin gets the justice she deserves. [originally reported by facebook.com](https://www.facebook.com/61551933150668/posts/after-hyeri-its-rare-to-see-korean-celebrities-publicly-call-things-out-on-insta/122316434786064438/)"
+      }
+    ],
+    "takeaways": []
   }
 };
