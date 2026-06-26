@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1782491311651-1",
+    "slug": "farah-khan-and-riteish-deshmukh-spill-the-beans-on-the-show",
+    "title": "Farah Khan & Riteish Deshmukh SPILL the beans on the show!",
+    "summary": "... news channel that provides the audience with the latest Bollywood updates, breaking news, celebrity and television gossip. It features a vibrant mix of ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=eBiVm4Sy8XA",
+    "date": "4 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1782491314659-2",
+    "slug": "july-2026-is-stacked-with-new-tv-shows-heres-what-to-watch",
+    "title": "July 2026 Is STACKED With New TV Shows — Here's What to Watch!",
+    "summary": "AVATAR: THE LAST AIRBENDER (2024) S2 PREMIERE (ON NETFLIX) JUNE 25, 2026 IMDb- 7.2 #14. ELLE (2026) PREMIERE (ON PRIME VIDEO) JULY 1, 2026 NOT RATED #13. X-MEN ...",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=9rlV8qH8ZQI",
+    "date": "4 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1782491317727-3",
+    "slug": "upcoming-2026-series-releases-on-netflix-prime-video-hbo-max",
+    "title": "Upcoming 2026 Series Releases on Netflix, Prime Video, HBO Max ...",
+    "summary": "Se surpreenda com os próximos lançamentos de séries em 2026 na Netflix, Amazon Prime Video, HBO Max, Disney+, Apple TV, Paramount+ e Globoplay.",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=LkKdDJvlQcQ&vl=en-US",
+    "date": "4 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1782491320096-4",
+    "slug": "psst-we-have-a-special-announcement-ahead-instagram",
+    "title": "Psst... we have a special announcement. Ahead ... - Instagram",
+    "summary": "129K likes, 590 comments - blizzard on June 25, 2026: \"Psst... we have a special announcement. Ahead of their upcoming U.S. tour, it's going to be a ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DaA8U6ptPOF/",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1782491322536-5",
+    "slug": "miraculous-secrets-trailer-new-digital-series-youtube",
+    "title": "MIRACULOUS SECRETS TRAILER | New Digital Series - YouTube",
+    "summary": "... on Netflix, Disney Channel & Disney+ MIRACULOUS - TALES OF LADYBUG & CAT NOIR OFFICIAL YOUTUBE CHANNEL Two high-school students, Marinette and Adrien, are ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=YOIT7Q8vQuA",
+    "date": "1 hour ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1782491325360-6",
+    "slug": "teach-you-a-lesson-genre-youth-romance-drama",
+    "title": "Teach You a Lesson (가르쳐 줄게) Genre: Youth, Romance, Drama ...",
+    "summary": "Genres: Action, Thriller, Comedy, Country: South Korea Type: Drama Episodes: 10. Aired: Jun 5, 2026. Aired On: Friday Original Network: Netflix",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DZ5hMcuhJJe/",
+    "date": "4 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1782405567976-1",
     "slug": "breaking-celebrity-news-entertainment-news-and-celeb-gossip",
     "title": "Breaking Celebrity News, Entertainment News and Celeb Gossip",
@@ -2755,7 +2857,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-06-25T16:39:34.653Z";
+export const LAST_UPDATED = "2026-06-26T16:28:45.954Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES

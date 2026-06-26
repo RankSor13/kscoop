@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-06-25T16:39:34.654Z
+ * Last updated: 2026-06-26T16:28:45.955Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -4774,5 +4774,211 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       }
     ],
     "takeaways": []
+  },
+  "live-1782491311651-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Tea Has Been Spilled"
+      },
+      {
+        "type": "p",
+        "text": "Farah Khan and Riteish Deshmukh are giving us the scoop, and honestly, this is a big deal. They're dishing out the dirt on a show, and we're not sure what to expect. But was the decision to spill the beans a surprise move? Not entirely, given that they're talking to a news channel that's all about Bollywood gossip and updates."
+      },
+      {
+        "type": "p",
+        "text": "The channel itself is a go-to destination for fans who want to stay in the loop about the latest celebrity and television news. With a vibrant mix of content, it's the perfect place for Farah and Riteish to share their secrets. But what's really interesting here is that we don't know what show they're talking about - is it a new project, or something that's already out?"
+      },
+      {
+        "type": "h2",
+        "text": "Getting the Lowdown"
+      },
+      {
+        "type": "p",
+        "text": "Given that Farah and Riteish are industry insiders, their insights are bound to be valuable. They're not just any celebrities - they've got experience and knowledge to share. So, when they decide to spill the beans, we listen. But what's driving their decision to open up now? Is it a promotional tactic, or a genuine attempt to connect with their fans?"
+      },
+      {
+        "type": "h2",
+        "text": "What's Next for Farah and Riteish"
+      },
+      {
+        "type": "p",
+        "text": "One thing's for sure - we're going to be keeping a close eye on Farah and Riteish to see what they're up to next. Will they share more secrets, or is this a one-time thing? Only time they share more will we know for sure. [originally reported by youtube.com](https://www.youtube.com/watch?v=eBiVm4Sy8XA)"
+      }
+    ],
+    "takeaways": [
+      "Farah Khan and Riteish Deshmukh are making waves with their latest revelations",
+      "They're spilling the beans on a show, and we can't wait to know more",
+      "The news is coming from a channel that specializes in Bollywood updates and gossip",
+      "It's not clear what show they're talking about, but it's got our attention"
+    ]
+  },
+  "live-1782491314659-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Get Ready for a TV Takeover"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "AVATAR: THE LAST AIRBENDER's second season is premiering on June 25, 2026, on Netflix, with an impressive IMDb rating of 7.2.",
+          "ELLE is making its debut on Prime Video on July 1, 2026, and it's already generating buzz.",
+          "The X-MEN series is also on the horizon, although we don't have a specific premiere date yet.",
+          "July 2026 is shaping up to be an epic month for TV, with multiple highly anticipated shows dropping."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Summer Just Got a Whole Lot Hotter"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal - we're talking about some major franchises and new shows all hitting our screens in the same month. But was the decision to stack July with so many premieres a strategic move, or are we just getting lucky? Either way, fans aren't complaining. With AVATAR: THE LAST AIRBENDER's second season just around the corner, it's clear that June is going to lead right into a summer of intense TV watching."
+      },
+      {
+        "type": "p",
+        "text": "The fact that ELLE is premiering on July 1 gives us barely any time to catch our breath after AVATAR's return. And let's not forget about the X-MEN series - although we don't know exactly when it's dropping, the anticipation is building. It's going to be a wild ride, and we're here for it."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "So, what does this mean for our viewing schedules? It's safe to say that our summers just got a whole lot busier. With so many great shows to choose from, we're going to have to prioritize - or just embracing the binge-watching life. Either way, it's a great problem to have. We're excited to see how these shows play out, and which ones will rise to the top."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters"
+      },
+      {
+        "type": "p",
+        "text": "We're not just talking about any old TV shows here - we're talking about franchises with dedicated fan bases and a whole lot of hype surrounding them. The fact that they're all premiering in the same month is a testament to the power of modern TV. We're living in a time where we have more great content at our fingertips than ever before, and it's up to us to make the most of it. So, which shows are you most excited about? Let's get ready to dive in and see what all the fuss is about [originally reported by youtube.com](https://www.youtube.com/watch?v=9rlV8qH8ZQI)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1782491317727-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Get Ready for a Dramatic Year"
+      },
+      {
+        "type": "p",
+        "text": "The 2026 series lineup is looking fire, with Netflix, Amazon Prime Video, HBO Max, Disney+, Apple TV, Paramount+, and Globoplay all set to release new content. But what's really got us hyped is the sheer number of platforms involved - it's not just the usual suspects, but a whole slew of streaming services that are bringing their A-game."
+      },
+      {
+        "type": "h2",
+        "text": "Streaming Wars Heat Up"
+      },
+      {
+        "type": "p",
+        "text": "We're talking about a year that's shaping up to be all about choice, with each platform trying to outdo the others in terms of drama offerings. That's great news for fans, who won't have to stick to just one or two platforms to get their K-drama fix. But was the announcement too vague? We're still waiting for more specifics on what exactly we can expect from each platform."
+      },
+      {
+        "type": "h2",
+        "text": "What's Next for K-Drama Fans"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal - the fact that so many platforms are investing in K-drama content is a testament to the genre's growing popularity. But what does it mean for fans? Will we see more collaborations between platforms, or will they be competing directly with each other? One thing's for sure, though: 2026 is shaping up to be an exciting year for K-drama enthusiasts."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by youtube.com](https://www.youtube.com/watch?v=LkKdDJvlQcQ&vl=en-US)"
+      }
+    ],
+    "takeaways": [
+      "Multiple streaming platforms are releasing new series in 2026",
+      "The lineup includes Netflix, Amazon Prime Video, HBO Max, Disney+, Apple TV, Paramount+, and Globoplay",
+      "Fans can expect a wide range of choices across different platforms",
+      "The announcement has generated buzz, but details are still scarce"
+    ]
+  },
+  "live-1782491320096-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Tea is Brewing"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "A mysterious post from blizzard has K-fans buzzing with 129K likes and 590 comments.",
+          "The announcement is tied to an upcoming U.S. tour, but details are scarce.",
+          "The post itself is short and sweet, with a \"psst\" that's got everyone's attention.",
+          "It's clear that blizzard is building hype, but what's the big reveal?"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "What's Behind the Hint"
+      },
+      {
+        "type": "p",
+        "text": "Blizzard's Instagram post on June 25, 2026, has set the K-entertainment scene abuzz. With a simple \"Psst... we have a special announcement\" ahead of their U.S. tour, it's no wonder fans are speculating wildly. But what could this announcement possibly be? Is it a new collaboration, a surprise guest, or something entirely different? The short post hasn't given much away, but it's clear that blizzard is building up to something big."
+      },
+      {
+        "type": "h2",
+        "text": "The Fandom's on High Alert"
+      },
+      {
+        "type": "p",
+        "text": "Given the excitement around the upcoming tour, it's no surprise that fans are hanging onto every word from blizzard. The 590 comments on the post show just how eager fans are for any scrap of information. But was the teaser too vague? Honestly, it's a bit frustrating not to have more details. Still, you can't deny the excitement that's building. It's going to be a long wait until the announcement, but for now, the anticipation is part of the fun."
+      },
+      {
+        "type": "h2",
+        "text": "Where Things Stand Now"
+      },
+      {
+        "type": "p",
+        "text": "For now, we're left with more questions than answers. But one thing's for sure - blizzard knows how to build hype. With the U.S. tour just around the corner, it's likely we won't have to wait too long for the big reveal. Until then, fans will just have to keep speculating. [originally reported by instagram.com](https://www.instagram.com/reel/DaA8U6ptPO/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1782491322536-5": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Ladybug Buzz is Back"
+      },
+      {
+        "type": "p",
+        "text": "MIRACULOUS fans, we've got a treat for you - a brand new digital series is coming, and it's going to be huge. But here's the thing: it's not just on one platform. That's right, you'll be able to catch it on Netflix, Disney Channel, and Disney+ - talk about a wide reach."
+      },
+      {
+        "type": "h2",
+        "text": "What We Know So Far"
+      },
+      {
+        "type": "p",
+        "text": "The series, called MIRACULOUS - TALES OF LADYBUG & CAT NOIR, follows two high-school students, Marinette and Adrien. That's all we know for now, but honestly, it's enough to get us excited. The fact that it's a digital series is pretty cool, and the fact that it's on multiple platforms is even cooler. But what does this mean for the story? Will it be a continuation of the original, or something entirely new?"
+      },
+      {
+        "type": "h2",
+        "text": "The Future of MIRACULOUS"
+      },
+      {
+        "type": "p",
+        "text": "So, what's next for this beloved series? We don't have all the answers yet, but we can't wait to find out. The teaser trailer has got us hooked, and we're sure it's got you hooked too. But was this move to multiple platforms a surprise? Not really - we've seen it before with other popular shows. Still, it's always exciting to see where a new series will take us."
+      },
+      {
+        "type": "h2",
+        "text": "Where to Watch"
+      },
+      {
+        "type": "p",
+        "text": "If you're as excited as we are, you're probably wondering where to catch the new series. Well, you've got options - Netflix, Disney Channel, and Disney+ have all got you covered. So, which one will you be using to watch MIRACULOUS - TALES OF LADYBUG & CAT NOIR? Let's be real, it's not like we have to choose just one. We can't wait to dive in and see what this new series has in store. [originally reported by youtube.com](https://www.youtube.com/watch?v=YOIT7Q8vQuA)"
+      }
+    ],
+    "takeaways": [
+      "The new digital series is called MIRACULOUS - TALES OF LADYBUG & CAT NOIR",
+      "It's available on Netflix, Disney Channel, and Disney+",
+      "The series follows two high-school students, Marinette and Adrien",
+      "It's a part of the official MIRACULOUS YouTube channel"
+    ]
   }
 };
