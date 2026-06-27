@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-06-26T16:28:45.955Z
+ * Last updated: 2026-06-27T12:14:49.265Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -4979,6 +4979,200 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       "It's available on Netflix, Disney Channel, and Disney+",
       "The series follows two high-school students, Marinette and Adrien",
       "It's a part of the official MIRACULOUS YouTube channel"
+    ]
+  },
+  "live-1782562476059-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Frank Edoho's Shocking Career Twist"
+      },
+      {
+        "type": "p",
+        "text": "We're talking Frank Edoho, and he's not doing what you'd expect - the guy's turned rapper, and it's all after that drama with Chike and Sandra. But was this career pivot really sparked by heartbreak, or is there more to it?"
+      },
+      {
+        "type": "h2",
+        "text": "The Backstory"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal, 'cause Frank Edoho isn't exactly the first name that comes to mind when you think of rappers. So, what prompted this change? We don't have all the details, but it's clear that Frank's got a new passion project, and we're kinda here for it. But what about Chike and Sandra - are they even relevant to this story, or were they just casualties of Frank's journey to rap stardom?"
+      },
+      {
+        "type": "h2",
+        "text": "The Naija Drama Connection"
+      },
+      {
+        "type": "p",
+        "text": "It's interesting that this news is coming out of the Naija drama scene, which we usually associate with, well, drama - not rap music. So, is Frank Edoho's career change a sign of things to come in Naija entertainment? We're not sure, but we're definitely watching to see how this plays out. And who knows, maybe Frank's rap skills will surprise us all."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by youtube.com](https://www.youtube.com/watch?v=RdCzBzdGi58)"
+      }
+    ],
+    "takeaways": [
+      "Frank Edoho has started a rap career after his drama with Chike and Sandra",
+      "This career change is unexpected, given Frank's background",
+      "The Naija drama scene is where this story is coming from, which is unusual for rap music",
+      "We don't have all the details on what sparked this change, but it's definitely got people talking"
+    ]
+  },
+  "live-1782562478910-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "July's K-Drama Lineup Is Looking Fire"
+      },
+      {
+        "type": "p",
+        "text": "Get ready, K-drama fans, because July 2026 is packed with exciting new releases. Disney+ is kicking things off with not one, but two promising shows on July 4: \"The Husband\" and \"Love in Sync\". \"The Husband\" sounds like a real thrill ride, with a neurosurgeon becoming a fugitive and investigator after his wife's kidnapping. But \"Love in Sync\" has its own unique charm, exploring what happens when a woman who refuses empathy and a man overwhelmed by it start experiencing each other's feelings."
+      },
+      {
+        "type": "p",
+        "text": "\"The Husband\" and \"Love in Sync\" aren't the only ones making waves, though. MBC's \"Family Register\" is a family melodrama that tackles some heavy themes, like societal prejudice and hidden family wounds. It's about a woman fighting to reclaim control over her fate, and it's definitely on our radar. Then there's the comedy-drama about a former gangster running for president of an apartment residents' association - because who doesn't love a good underdog story?"
+      },
+      {
+        "type": "h2",
+        "text": "What's Cooking On Netflix"
+      },
+      {
+        "type": "p",
+        "text": "Netflix is bringing its A-game with a couple of releases that are sure to intrigue. There's a dark fantasy series about a ghost-slaying swordsman and a court lady investigating a sinister curse in the palace. And if that's not enough, there's another show that blends horror, romance, and comedy, following a wealthy hotel heiress who sees ghosts and an ace prosecutor as they team up to solve unsolved murder cases. It's going to be a wild ride, and we're here for it."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "But was July always looking this good? Honestly, this is a big deal - we're getting a diverse range of genres and themes, from romantic thrillers to family melodramas and dark fantasy series. So, what are you most excited about? Are you Team Disney+ or Team Netflix? Let's discuss. [originally reported by koreaboo.com](https://www.koreaboo.com/lists/new-k-dramas-july-korean-shows-release-dates-netflix/)"
+      }
+    ],
+    "takeaways": [
+      "Disney+ is bringing us a romantic thriller called \"The Husband\" on July 4, where a neurosurgeon's life is turned upside down after his wife gets kidnapped.",
+      "\"Love in Sync\", another Disney+ release, combines fantasy and romance with a unique \"emotional transference\" phenomenon, also launching on July 4.",
+      "MBC's \"Family Register\" tackles harsh societal prejudice and hidden family wounds, starting on July 6.",
+      "Netflix isn't holding back either, with a dark fantasy series about a ghost-slaying swordsman and a court lady investigating a dark curse in the palace."
+    ]
+  },
+  "live-1782562481673-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Disney's Not Backing Down"
+      },
+      {
+        "type": "p",
+        "text": "The K-drama landscape just got a whole lot more interesting, as Disney+ is set to launch 'Perfect Crown' in 2026 - but that's not all, folks. We're also seeing Netflix go big with a whopping 33-series Korean slate for the same year. That's a serious commitment to K-drama, and it's clear these streaming giants aren't backing down."
+      },
+      {
+        "type": "h2",
+        "text": "The Battle for K-Drama Supremacy"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Disney+ is bringing 'Perfect Crown' to its platform, marking a significant move in the K-drama space",
+          "Netflix is countering with an impressive 33 Korean series in 2026, doubling down on its investment in Korean content",
+          "The move signals a significant escalation in the battle for K-drama dominance between Disney+ and Netflix",
+          "The 2026 lineup is shaping up to be one of the most competitive years for K-drama streaming yet"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The fact that Netflix is unveiling such a massive slate of Korean series is honestly a big deal - it shows they're serious about capturing a chunk of the K-drama market. But was the decision to go so big, so fast, the right call? We're talking 33 series here - that's a lot of content to produce and promote. And what about Disney+? Can 'Perfect Crown' make a dent in Netflix's plans?"
+      },
+      {
+        "type": "h2",
+        "text": "What This Means for Fans"
+      },
+      {
+        "type": "p",
+        "text": "It's a great time to be a K-drama fan, that's for sure. With so much content on the horizon, we're spoiled for choice. But it also raises questions about quality control - can these streaming giants maintain the high standards we've come to expect from K-dramas? Only time will... well, you know. For now, let's just say we're excited to see what's in store."
+      },
+      {
+        "type": "h2",
+        "text": "The K-Drama Frenzy Continues"
+      },
+      {
+        "type": "p",
+        "text": "One thing's for sure - the K-drama landscape is about to get a whole lot more crowded. And honestly, we can't wait to dive in and see what all the fuss is about. With Disney+ and Netflix going head-to-head, it's going to be a wild ride. [originally reported by kentertechhub.com](https://www.kentertechhub.com/disney-escalates-k-drama-push-as-netflix-doubles-down-on-korea/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1782562484824-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The K-Drama Boom Continues"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal - June 2026 is looking like it's going to be an amazing month for K-drama fans. With the world more into Korean dramas than ever, it's no surprise that we're getting a slew of fresh premieres. But what's really interesting is that these premieres are going to be released globally, which is a huge win for international fans."
+      },
+      {
+        "type": "p",
+        "text": "The fact that K-dramas are being released worldwide at the same time is a testament to their growing popularity. It's not just Korea that's obsessed - people all over the globe are tuning in to get their fix of romance, drama, and excitement. But was the decision to go global a strategic move, or just a natural next step? Either way, fans are definitely winning here."
+      },
+      {
+        "type": "h2",
+        "text": "What's Driving the Frenzy"
+      },
+      {
+        "type": "p",
+        "text": "So, what's behind the enduring appeal of K-dramas? Is it the unique blend of style, music, and storytelling, or something more? Whatever the reason, it's clear that the genre's popularity isn't slowing down anytime soon. With June 2026 promising a exciting slate of new shows, we can't help but wonder - what's next for K-drama, and how will it continue to evolve?"
+      },
+      {
+        "type": "h2",
+        "text": "The Future of K-Drama"
+      },
+      {
+        "type": "p",
+        "text": "As we look to the future of K-drama, one thing's for sure - it's going to be exciting. With global releases becoming the norm, fans everywhere can stay up-to-date with the latest shows and storylines. But will this increased accessibility lead to even more growth and innovation in the genre? We're eager to find out. [originally reported by instagram.com](https://www.instagram.com/p/DZ6-1itkVh2/)"
+      }
+    ],
+    "takeaways": [
+      "June 2026 is shaping up to be a big month for K-drama fans",
+      "The world's fascination with Korean dramas is still on the rise",
+      "Fresh K-drama premieres are coming, and they're going to be global",
+      "K-drama's global reach is getting a major boost this year"
+    ]
+  },
+  "live-1782562486840-5": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Disney+ Drop We've Been Waiting For"
+      },
+      {
+        "type": "p",
+        "text": "Get ready, K-drama fans - Disney+ is bringing the heat with its latest premiere: Doctor On The Edge, a romantic medical comedy series that's about to take over your screens. It's officially landing on June 1, and we can't wait to dive in. The fact that it's a 12-episode series is just the cherry on top - we're talking a perfectly paced, bite-sized K-drama schedule that'll keep us hooked from start to finish."
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal - we're talking a major platform like Disney+ investing in K-drama content, and it's about time. But was the anticipation worth it? We're about to find out. With its unique blend of medicine and romance, Doctor On The Edge is poised to capture our hearts and become the latest K-drama obsession."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "So, what does this mean for K-drama fans? For starters, it's a sign that our favorite genre is continuing to gain traction globally. We're seeing more and more K-dramas pop up on major streaming platforms, and it's a testament to the power of Korean storytelling. But let's be real - we're mostly just excited to have a new series to binge, and Doctor On The Edge is looking like it's going to be a wild ride."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by tiktok.com](https://www.tiktok.com/discover/korean-drama-trending-2026-in-disney)"
+      }
+    ],
+    "takeaways": [
+      "Doctor On The Edge is premiering on Disney+ on June 1",
+      "It's a romantic medical comedy series, because who doesn't love a good romance?",
+      "The series will have 12 episodes, airing on Mondays and Tuesdays",
+      "This is just the latest in a string of exciting K-drama releases on Disney+"
     ]
   }
 };

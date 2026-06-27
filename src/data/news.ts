@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1782562476059-1",
+    "slug": "frank-edoho-turns-upcoming-rapper-after-chike-and-sandra-heartbreak",
+    "title": "Frank Edoho Turns Upcoming Rapper After Chike & Sandra Heartbreak",
+    "summary": "... Korea! Subscribe for more on Naija dramas, celebrity scandals, and inspiring comeback stories. #FrankEdoho, #ChikeSandra, #FrankRapper, #NaijaDrama ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=RdCzBzdGi58",
+    "date": "6 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1782562478910-2",
+    "slug": "new-k-drama-releases-to-watch-in-july-2026-on-netflix-disney",
+    "title": "New K-Drama Releases To Watch In July 2026 On Netflix, Disney+ ...",
+    "summary": "New K-Drama Releases To Watch In July 2026 On Netflix, Disney+, And More · 1. The Husband – July 4 · 2. Love in Sync – July 4 · 3. Family Register – July 6 · 4. The ...",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "koreaboo.com",
+    "sourceUrl": "https://www.koreaboo.com/lists/new-k-dramas-july-korean-shows-release-dates-netflix/",
+    "date": "2 days ago",
+    "image": "https://image.koreaboo.com/2026/06/new-k-dramas-july-2026.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1782562481673-3",
+    "slug": "disney-escalates-k-drama-push-as-netflix-doubles-down-on-korea",
+    "title": "Disney Escalates K-Drama Push as Netflix Doubles Down on Korea",
+    "summary": "The Hollywood Reporter also reports that Netflix unveiled a 2026 Korean slate spanning 33 series ... Korean Drama 'Perfect Crown' Heading to Disney+ in 2026, ' ...",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "kentertechhub.com",
+    "sourceUrl": "https://www.kentertechhub.com/disney-escalates-k-drama-push-as-netflix-doubles-down-on-korea/",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1782562484824-4",
+    "slug": "k-content-fact-why-are-korean-dramas-released-globally-on",
+    "title": "K-CONTENT FACT Why are Korean dramas released globally on ...",
+    "summary": "As the world's fascination with Korean dramas continues to soar, June 2026 promises an enticing slate of fresh K-drama premieres that cater to the genre's ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/DZ6-1itkVh2/",
+    "date": "4 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1782562486840-5",
+    "slug": "korean-drama-trending-2026-in-disney-tiktok",
+    "title": "Korean Drama Trending 2026 in Disney | TikTok",
+    "summary": "Doctor On The Edge Disney+ premiere, romantic medical comedy series 2026, Korean drama new release June 1, 12 episode K-drama schedule, Monday Tuesday K-drama ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/discover/korean-drama-trending-2026-in-disney",
+    "date": "5 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1782562488822-6",
+    "slug": "seung-yeon-tiktok",
+    "title": "장승연 seung yeon 님 - TikTok",
+    "summary": "K-Pop idols married actresses, celebrity couples, Korean celebrity marriages, K-Pop stars, drama actors, famous Korean couples, idol-actress relationships ...",
+    "category": "trending",
+    "author": "Rina Baek",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@seung_monkey/video/7655344443666697492",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1782491311651-1",
     "slug": "farah-khan-and-riteish-deshmukh-spill-the-beans-on-the-show",
     "title": "Farah Khan & Riteish Deshmukh SPILL the beans on the show!",
@@ -2857,7 +2959,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-06-26T16:28:45.954Z";
+export const LAST_UPDATED = "2026-06-27T12:14:49.264Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
