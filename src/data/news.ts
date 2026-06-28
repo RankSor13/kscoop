@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1782649211516-1",
+    "slug": "bring-the-child-chiefpriest-agrees-to-do-dna-on-national-tv-only",
+    "title": "Bring The Child! Chiefpriest Agrees To Do DNA On National Tv Only",
+    "summary": "... scandal; it's a high-stakes drama involving money, fame, denial, and a ... news, paternity drama, Cubana Chiefpriest updates, or viral socialite beefs, this is a",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=M4LOFlbDLHQ",
+    "date": "4 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1782649213992-2",
+    "slug": "youre-welcome-jeo-ong-firstdayhigh-dance-trend-tiktok",
+    "title": "You're welcome @Jeo Ong #FirstDayHigh | dance trend | TikTok",
+    "summary": "Keywords: Arron Villaflor scandal investigation, viral video controversy, actor politician controversy, Filipina celebrity news, Arron Villaflor latest news ...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@esnyrrr/video/7654922916051799316",
+    "date": "4 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1782649216236-3",
+    "slug": "july-2026-is-packed-10-new-tv-series-you-cant-miss-youtube",
+    "title": "July 2026 Is Packed! 10 New TV Series You Can't Miss - YouTube",
+    "summary": "... on the Prairie 06:38 - Silo Season 3 Hello and welcome to Select10. If your watchlist is starting to feel stale, July 2026 is about to fix that. Netflix ...",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=dLKXTrWTEPg",
+    "date": "21 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1782649218347-4",
+    "slug": "sharon-horgans-heartbreaking-true-crime-drama-lands-new-uk",
+    "title": "Sharon Horgan's \"heartbreaking\" true-crime drama lands new UK ...",
+    "summary": "The Twisted Tale of Amanda Knox starring Sharon with a specific release date yet to be announced. The series is also available to stream on Disney+ in the UK ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "digitalspy.com",
+    "sourceUrl": "https://www.digitalspy.com/tv/ustv/a71692236/twisted-tale-of-amanda-knox-itv/",
+    "date": "4 days ago",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/796d9016-5c24-4c9d-9b81-a695acd70166.jpg?crop=0.630xw:0.476xh;0.216xw,0.113xh&amp;resize=1200:*",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1782649219178-5",
+    "slug": "the-2nd-rule-of-fightclub-instagram",
+    "title": "The 2nd rule of #fightclub - Instagram",
+    "summary": "And the second rule of Fight Club is... English Transcript. OCR. New Movie Trailer – FROM DIRECTOR TAYLOR CHIEN USA FIFA WORLD CUP 2026 FIGHT CLUB ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DaG6iHdPSQ5/",
+    "date": "13 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1782649221766-6",
+    "slug": "furious-official-trailer-premieres-july-27-on-disney-youtube",
+    "title": "Furious | Official Trailer | Premieres July 27 on Disney+ - YouTube",
+    "summary": "FURIOUS. A new drama from Liz Meriwether, starring Emmy Rossum, Lola Petticrew, Scoot McNairy, and Quincy Tyler Bernstine. Furious premieres July 27 on ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=KlsfuIlfzmA",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1782562476059-1",
     "slug": "frank-edoho-turns-upcoming-rapper-after-chike-and-sandra-heartbreak",
     "title": "Frank Edoho Turns Upcoming Rapper After Chike & Sandra Heartbreak",
@@ -2959,7 +3061,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-06-27T12:14:49.264Z";
+export const LAST_UPDATED = "2026-06-28T12:20:27.072Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES

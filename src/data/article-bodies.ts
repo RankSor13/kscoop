@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-06-27T12:14:49.265Z
+ * Last updated: 2026-06-28T12:20:27.073Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -5173,6 +5173,214 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       "It's a romantic medical comedy series, because who doesn't love a good romance?",
       "The series will have 12 episodes, airing on Mondays and Tuesdays",
       "This is just the latest in a string of exciting K-drama releases on Disney+"
+    ]
+  },
+  "live-1782649211516-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Paternity Drama Just Got Real"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Cubana Chiefpriest is involved in a scandal that's all about money, fame, and denial",
+          "The story's got a paternity twist that's making headlines",
+          "It's not just about the drama; it's about how it's all going down on national TV",
+          "Chiefpriest's agreed to do a DNA test, and it's going to be a wild ride"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Cubana Chiefpriest's scandal is the latest in a long line of paternity dramas that are gripping fans. But what's got everyone talking isn't just the drama itself - it's that Chiefpriest's agreed to do a DNA test on national TV. That's right, folks, this is about to get real. But was the decision to go public with the DNA test a smart move, or is it just a cry for attention?"
+      },
+      {
+        "type": "h2",
+        "text": "The Drama Unfolds"
+      },
+      {
+        "type": "p",
+        "text": "The scandal's got all the ingredients of a K-drama: money, fame, denial, and a whole lot of drama. And now, with the DNA test on the horizon, things are about to get even more intense. But what's really at stake here? Is it just about proving paternity, or is there more to it? Honestly, this is a big deal - we're talking national TV, after all. That's a lot of pressure, and a lot of eyes are going to be on Chiefpriest."
+      },
+      {
+        "type": "h2",
+        "text": "Where Things Stand Now"
+      },
+      {
+        "type": "p",
+        "text": "So, what's next? Well, for starters, we've got the DNA test to look forward to. And let's be real, that's going to be a wild ride. But beyond that, it's hard to say what's going to happen. Will Chiefpriest come out on top, or will this scandal be his downfall? One thing's for sure, though: we're all going to be watching. [originally reported by youtube.com](https://www.youtube.com/watch?v=M4LOFlbDLHQ)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1782649213992-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Tea is Hot"
+      },
+      {
+        "type": "p",
+        "text": "Arron Villaflor's got himself in a bit of a mess, and honestly, it's a big deal - a scandal investigation is underway, all thanks to a viral video controversy. That's right, the actor and politician is facing some heat, and it's not just his fans who are talking about it."
+      },
+      {
+        "type": "h2",
+        "text": "What We Know So Far"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Arron Villaflor is at the center of a scandal investigation",
+          "A viral video is the cause of all the controversy",
+          "The actor is also a politician, which isn't helping his case",
+          "This is the latest news in Filipina celebrity news",
+          "Arron Villaflor's latest news is all about this scandal"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The fact that he's a politician too doesn't help - it's like, can't they just keep their personal lives out of the spotlight for one second? But was the comeback too fast, or is this scandal going to be the one that sticks? We're not sure yet, but one thing's for sure - this viral video has got everyone talking."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "It's not like we haven't seen this before - celebrities getting caught up in controversy, that is. But there's something about this one that's got our attention. Maybe it's the fact that it's not just about his career as an actor, but also as a politician. That's a whole other level of scrutiny, and we're curious to see how he'll come out of this."
+      },
+      {
+        "type": "h2",
+        "text": "Fan Reaction"
+      },
+      {
+        "type": "p",
+        "text": "Fans are divided, as per usual - some are defending him, saying that everyone makes mistakes, while others are calling for him to step down. But what do you think - should he be given a second chance, or is this scandal too much to bounce back from? [originally reported by tiktok.com](https://www.tiktok.com/@esnyrrr/video/7654922916051799316)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1782649216236-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Get Ready for a Drama Overload"
+      },
+      {
+        "type": "p",
+        "text": "July 2026 is shaping up to be a wild ride for K-drama fans, with a whopping 10 new TV series hitting our screens. That's right, 10! If your watchlist was starting to feel a little stale, it's about to get a whole lot more interesting."
+      },
+      {
+        "type": "h2",
+        "text": "What's Coming Our Way"
+      },
+      {
+        "type": "p",
+        "text": "We're not getting a lot of details just yet, but we do know that Netflix is bringing some exciting new content. And let's be real, who isn't excited about that? With so many new shows on the horizon, it's going to be tough to keep up - but honestly, this is a big deal. We're talking a serious drama overload, and we can't wait to dive in."
+      },
+      {
+        "type": "h2",
+        "text": "The Highlights"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "On the Prairie is one of the shows we can look forward to, with a timestamp of 06:38 in the video.",
+          "Silo Season 3 is also on the list, because who doesn't love a good sequel?",
+          "The video's from a channel called Select10, which is Hello-ing us and welcoming us to their content.",
+          "Netflix is involved, because of course they are - they're always bringing the goods."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by youtube.com](https://www.youtube.com/watch?v=dLKXTrWTEPg)"
+      }
+    ],
+    "takeaways": [
+      "We've got 10 new TV series to look forward to in July 2026.",
+      "On the Prairie is one of the highlighted shows.",
+      "Silo Season 3 is coming, and we're not mad about it.",
+      "The news is coming from a YouTube video on the Select10 channel."
+    ]
+  },
+  "live-1782649219178-5": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Fight Club Tease That's Got Everyone Talking"
+      },
+      {
+        "type": "p",
+        "text": "The second rule of Fight Club is out, and it's not what you think - it's an English transcript, available via OCR, and it comes with a new movie trailer, all courtesy of Director Taylor Chien. But what's really caught our attention is the unexpected tie-in with the USA FIFA World Cup 2026."
+      },
+      {
+        "type": "h2",
+        "text": "A Surprising Collab"
+      },
+      {
+        "type": "p",
+        "text": "So, what does a classic like Fight Club have to do with soccer? That's the million-dollar question. Honestly, this is a big deal - we're talking about a film that's become a cultural phenomenon, and now it's being tied to a major sporting event. But was the choice of Fight Club for this collab too random, or is there something more to it?"
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters"
+      },
+      {
+        "type": "p",
+        "text": "The fact that Director Taylor Chien is behind this new trailer and the FIFA World Cup 2026 tie-in is significant. It suggests that there's more to this partnership than just a publicity stunt. We're seeing a blending of worlds here - film, sports, and social media - all coming together in a way that's sure to generate buzz. But what does it mean for fans of Fight Club, and for the FIFA World Cup?"
+      },
+      {
+        "type": "p",
+        "text": "The Bigger Picture This unexpected move has left us wondering - what's next for this unlikely pairing? Will we see more crossovers like this in the future, where sports and entertainment collide? One thing's for sure - with Director Taylor Chien at the helm, it's going to be interesting. [originally reported by instagram.com](https://www.instagram.com/reel/DaG6iHdPSQ5/)"
+      }
+    ],
+    "takeaways": [
+      "The second rule of Fight Club is now out, with an English transcript available via OCR.",
+      "A new movie trailer has been released, courtesy of Director Taylor Chien.",
+      "There's a surprising tie-in with the USA FIFA World Cup 2026.",
+      "The collab is being promoted on Instagram."
+    ]
+  },
+  "live-1782649221766-6": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "That's Not a K-Drama"
+      },
+      {
+        "type": "p",
+        "text": "Furious is coming to Disney+ on July 27, and it's not a K-drama - it's a new drama from Liz Meriwether, starring some big names like Emmy Rossum and Scoot McNairy. But what's really got our attention is that it's premiering on Disney+, which is slowly but surely becoming a major player in the drama game."
+      },
+      {
+        "type": "h2",
+        "text": "What We Know So Far"
+      },
+      {
+        "type": "p",
+        "text": "The official trailer for Furious just dropped on YouTube, and while it doesn't give away too much, it does give us a glimpse of the talented cast, including Lola Petticrew and Quincy Tyler Bernstine. Honestly, this is a big deal - with Disney+'s reach and Liz Meriwether's credentials, Furious could be a game-changer. But was the decision to premiere on Disney+ a strategic move, or just a coincidence?"
+      },
+      {
+        "type": "h2",
+        "text": "The Cast"
+      },
+      {
+        "type": "p",
+        "text": "Emmy Rossum is no stranger to drama, and her involvement in Furious has definitely piqued our interest. But what about the rest of the cast - what can we expect from them? Lola Petticrew and Scoot McNairy are both talented actors in their own right, and Quincy Tyler Bernstine is sure to bring some excitement to the table. We're not sure what the plot of Furious is just yet, but with this cast, we're hoping for big things."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "So, what does this mean for the future of drama on Disney+? Are we going to see more big-name stars and creators flocking to the platform? Only time will... just kidding, we're not going to say that. Seriously though, Furious could be a major turning point for Disney+, and we're excited to see how it all plays out. [originally reported by youtube.com](https://www.youtube.com/watch?v=KlsfuIlfzmA)"
+      }
+    ],
+    "takeaways": [
+      "Furious premieres on July 27 on Disney+",
+      "The drama stars Emmy Rossum, Lola Petticrew, Scoot McNairy, and Quincy Tyler Bernstine",
+      "It's created by Liz Meriwether",
+      "The official trailer is now available on YouTube"
     ]
   }
 };
