@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-06-28T12:20:27.073Z
+ * Last updated: 2026-06-29T17:49:05.349Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -5382,5 +5382,205 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       "It's created by Liz Meriwether",
       "The official trailer is now available on YouTube"
     ]
+  },
+  "live-1782755333724-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Bombshell Scandals in K-Drama"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Kim Soo-hyun's career is under scrutiny due to a recent scandal",
+          "Allegations have surfaced, but details are still emerging",
+          "The scandal involves the late actress Kim Sae-ron",
+          "Kim Seon-ho is also among the top 4 Korean actors affected by major controversies"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "When Scandals Hit"
+      },
+      {
+        "type": "p",
+        "text": "Kim Soo-hyun's scandal is the most surprising, given his massive popularity. But was his reputation really built to last? The allegations surrounding him and the late Kim Sae-ron are still unfolding, and it's hard not to wonder what's going on behind the scenes. Honestly, this is a big deal - Kim Soo-hyun's one of the most beloved actors in K-drama, and this scandal could change everything."
+      },
+      {
+        "type": "h2",
+        "text": "The Fallout"
+      },
+      {
+        "type": "p",
+        "text": "The fact that Kim Seon-ho is also on the list of actors whose careers were rocked by major controversies isn't entirely surprising, given his past scandals. But it's still interesting to see how these controversies can affect an actor's career. What's next for these actors? Will they be able to bounce back, or are their careers doomed? But let's be real, the K-drama world is all about comebacks and second chances - so you never know what might happen."
+      },
+      {
+        "type": "h2",
+        "text": "The Impact"
+      },
+      {
+        "type": "p",
+        "text": "It's not just the actors who are affected by these scandals - their fans are too. Fans are often left feeling shocked, confused, and even betrayed. So, what do you do when your favorite actor is caught up in a scandal? Do you stand by them, or do you distance yourself? It's a tough question, and one that many fans are grappling with right now. [originally reported by facebook.com](https://www.facebook.com/100064867832914/posts/top-4-korean-actors-whose-careers-were-rocked-by-major-controversieskim-seon-ho-/1464809549024626/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1782755336122-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "What's Got Everyone Talking"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Kim Min-hee's controversy is back in the spotlight",
+          "A viral X thread is fueling the conversation",
+          "Public fascination with the actress hasn't died down",
+          "The thread's gone viral, capturing the essence of the debate"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "The Viral Thread That's Got Everyone Talking"
+      },
+      {
+        "type": "p",
+        "text": "Kim Min-hee's in the news again, and honestly, it's not surprising. The ongoing controversy surrounding the South Korean actress has been a hot topic for a while now. But what's got everyone talking this time? A viral X thread that perfectly captures the public's fascination and frustration with her. It's a pretty wild read, and it's clear why it's blown up online."
+      },
+      {
+        "type": "p",
+        "text": "The thread doesn't hold back, and that's what's making it so popular. It's a raw, unfiltered look at how people are feeling about Kim Min-hee, and it's sparking some serious debate. But was it really necessary to bring all this up again? That's the question on everyone's mind."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Thread Matters"
+      },
+      {
+        "type": "p",
+        "text": "The fact that this thread has gone viral says a lot about the ongoing interest in Kim Min-hee's career. It's clear that people are still invested in what she's doing, even if they don't always agree with her. But what does this mean for her future projects? Will the controversy surrounding her affect her ability to land roles? These are the questions fans are asking, and they're not getting any clear answers."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "At the end of the day, Kim Min-hee's controversy is just one part of a larger conversation about celebrities and public opinion. It's a reminder that what happens online can have real-world consequences, and that's something we should all be thinking about. [originally reported by instagram.com](https://www.instagram.com/reel/DaJvdJFSZsO/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1782755338225-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Tea Has Been Spilled"
+      },
+      {
+        "type": "p",
+        "text": "Sana isn't the one making headlines this time - it's Hong Iso, a model and actress, who's addressing those pesky dating rumors involving Namjun. But was it really necessary, or is this just a clever distraction?"
+      },
+      {
+        "type": "h2",
+        "text": "Clearing The Air"
+      },
+      {
+        "type": "p",
+        "text": "Hong Iso took to social media to set the record straight: she and Namjun are just close friends, nothing more. That's right, folks, no romantic sparks flying between these two. But honestly, this denial's got us wondering - what prompted her to speak up in the first place? Was the speculation getting out of hand, or did she just want to get ahead of the rumor mill?"
+      },
+      {
+        "type": "h2",
+        "text": "The Real Question"
+      },
+      {
+        "type": "p",
+        "text": "But was the outfit controversy, which Sana recently addressed, somehow linked to these dating rumors? We're not getting any answers on that front, at least not yet. For now, it seems like Hong Iso's focused on shutting down the #MyRoyalNemesis dating buzz - and that's that."
+      },
+      {
+        "type": "h2",
+        "text": "Where Things Stand Now"
+      },
+      {
+        "type": "p",
+        "text": "So, it looks like Hong Iso and Namjun are just friends, and that's the end of it. No juicy romance to ship, no secret relationship to uncover. But hey, we're not complaining - we love a good clarification, and this one's put our minds at ease. [originally reported by ZAPZEE](https://www.facebook.com/ZAPZEEODK/posts/-weekly-headlines-top-5-sana-addresses-outfit-controversy-myroyalnemesis-dating-/1453519153485538/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1782755339995-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Tea is Scalding"
+      },
+      {
+        "type": "p",
+        "text": "The latest scoop on Reese Witherspoon and Jake Gyllenhaal has us wondering: did she really break his heart? We're not getting the full story here, but it's clear that something went down between these two."
+      },
+      {
+        "type": "h2",
+        "text": "Digging Deeper"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, it's not like we have a ton of info to work with - the summary's pretty sparse. But what we do know is that there's a YouTube channel dishing out the latest celeb news and gossip, and they're talking about Reese and Jake. That's enough to pique our interest, right? They're inviting us to subscribe for more tea on our fave stars."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "So, what's the deal with this channel, anyway? They seem to be all about spilling the beans on the celebrities we love. And with a title like \"Did Reese Witherspoon Break Jake Gyllenhaal's Heart?\", you know they're not afraid to get juicy. But was the question even answered? Unfortunately, we're left hanging - for now, at least."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by OSSA](https://www.youtube.com/watch?v=mdlr1gnd52M)"
+      }
+    ],
+    "takeaways": [
+      "The YouTube channel is talking about Reese Witherspoon and Jake Gyllenhaal",
+      "They're dishing out celeb news and gossip on their channel",
+      "We don't have many details on what actually went down between the two stars",
+      "The channel is inviting subscribers to stay tuned for more scoops"
+    ]
+  },
+  "live-1782755342528-5": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Scandalized Dating Life of Young Celebs"
+      },
+      {
+        "type": "p",
+        "text": "Choi Min Sik just called out the crazy double standard in K-entertainment: why are young celebrities still getting slammed for dating? The veteran actor brought this up on Yoo Jae Suk's show DdeunDdeun, and honestly, it's about time someone said it out loud."
+      },
+      {
+        "type": "h2",
+        "text": "Setting the Record Straight"
+      },
+      {
+        "type": "p",
+        "text": "It's not like Choi Min Sik is some newbie who doesn't know the ropes - he's a respected actor with a long career, and his opinion carries weight. By speaking out on Yoo Jae Suk's DdeunDdeun, he's using his platform to question the status quo. But was he just stirring up conversation, or does he have a point? Think about it: when was the last time you saw a young celebrity couple get praised for being open about their relationship?"
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "So, what's really going on here? Is it just a case of fans being overly invested, or is there something more at play? Choi Min Sik's comments are making us wonder: are we, as fans, part of the problem? Are we inadvertently perpetuating this culture of scandal and secrecy? It's a tough question to answer, but one thing's for sure - the conversation needs to happen."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters"
+      },
+      {
+        "type": "p",
+        "text": "Let's get real: the way we treat young celebrities is messed up. We demand they be perfect, we scrutinize their every move, and then we get upset when they try to have a normal life. It's not fair, and it's not healthy. Choi Min Sik's speaking out is a step in the right direction - now it's up to us to listen and think critically about our role in all this. [originally reported by kdramahotgists](https://x.com/kdramahotgists?lang=en)"
+      }
+    ],
+    "takeaways": []
   }
 };

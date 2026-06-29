@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1782755333724-1",
+    "slug": "top-4-korean-actors-whose-careers-were-rocked-by-major",
+    "title": "Top 4 Korean Actors Whose Careers Were Rocked by Major ...",
+    "summary": "Among them is the recent scandal surrounding actor Kim Soo-hyun and the late actress Kim Sae-ron. Allegations have emerged",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/100064867832914/posts/top-4-korean-actors-whose-careers-were-rocked-by-major-controversieskim-seon-ho-/1464809549024626/",
+    "date": "5 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1782755336122-2",
+    "slug": "disbelief-and-frustration-over-a-high-profile-actress-instagram",
+    "title": "disbelief and frustration over a high-profile actress ... - Instagram",
+    "summary": "This viral X (formerly Twitter) thread perfectly captures the ongoing public fascination and controversy surrounding South Korean actress Kim Min-hee and ...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DaJvdJFSZsO/",
+    "date": "16 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1782755338225-3",
+    "slug": "sana-addresses-outfit-controversy-and-myroyalnemesis-dating-buzz",
+    "title": "Sana Addresses Outfit Controversy & #MyRoyalNemesis Dating Buzz",
+    "summary": "Model and actress Hong Iso has personally denied recent dating rumors involving her Namjun. Taking to social media, Hong clarified that her is simply a close ...",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/ZAPZEEODK/posts/-weekly-headlines-top-5-sana-addresses-outfit-controversy-myroyalnemesis-dating-/1453519153485538/",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1782755339995-4",
+    "slug": "did-reese-witherspoon-break-jake-gyllenhaals-heart-ossa",
+    "title": "Did Reese Witherspoon Break Jake Gyllenhaal's Heart? | OSSA",
+    "summary": "... news about the celebrities we love. ⭐ Our YouTube channel dishes up celebrity news and gossip on the stars you admire the most. SUBSCRIBE to our channel to ...",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=mdlr1gnd52M",
+    "date": "5 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1782755342528-5",
+    "slug": "kdramahotgists-kdramahotgists-posts-x-twitter",
+    "title": "kdramahotgists (@kdramahotgists) / Posts / X - Twitter",
+    "summary": "Choi Min Sik Questions Why Young Celebrities Dating Is Still Treated Like a Scandal Actor Choi Min Sik appeared on Yoo Jae Suk's DdeunDdeun with Choi ...",
+    "category": "gossip",
+    "author": "Mia Kwon",
+    "source": "x.com",
+    "sourceUrl": "https://x.com/kdramahotgists?lang=en",
+    "date": "3 days ago",
+    "image": "https://pbs.twimg.com/profile_images/2043961016795705347/Fzt377vb_200x200.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1782755344964-6",
+    "slug": "new-k-drama-releases-to-watch-in-july-2026-on-netflix-disney-and",
+    "title": "New K-Drama Releases To Watch In July 2026 On Netflix, Disney+, And ...",
+    "summary": "Upcoming K-Dramas Premiering on Netflix in 2026: 1. The Wonderfools 2. Bloodhounds S2 3. Show Business 4. East Palace 5. Boyfriend On Demand 6. The Art Of Sarah ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/koreaboorewind/posts/new-k-drama-releases-to-watch-in-july-2026-on-netflix-disney-and-more/1060147443339676/",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1782649211516-1",
     "slug": "bring-the-child-chiefpriest-agrees-to-do-dna-on-national-tv-only",
     "title": "Bring The Child! Chiefpriest Agrees To Do DNA On National Tv Only",
@@ -3061,7 +3163,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-06-28T12:20:27.072Z";
+export const LAST_UPDATED = "2026-06-29T17:49:05.348Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
