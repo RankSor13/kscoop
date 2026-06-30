@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1782837198790-1",
+    "slug": "new-on-netflix-in-july-2026-50-movies-and-series-youtube",
+    "title": "New on NETFLIX in JULY 2026! (50+ Movies and Series) - YouTube",
+    "summary": "Les nouveautés Films et Séries, Documentaires qui arrivent sur Netflix France en Juillet 2026 ! Pour Suivre les Actus en Direct ...",
+    "category": "upcoming",
+    "author": "Ji Yeon Park",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=uEBdTDx_DfY",
+    "date": "24 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1782837201689-2",
+    "slug": "have-you-met-joo-dee-instagram",
+    "title": "Have you met Joo Dee? - Instagram",
+    "summary": "Those are my C-drama and K-drama updates for right now, but I will be sure ... Doctor on the Edge NOW STREAMING ON DISNEY+ Subscription required.",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DaK3VeXii9P/",
+    "date": "11 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1782837203471-3",
+    "slug": "top-10-best-female-action-movies-on-netflix-youtube-and-disney",
+    "title": "Top 10 Best Female Action Movies on Netflix, YouTube & Disney+",
+    "summary": "Top 10 Best Female Action Movies on Netflix, YouTube & Disney+ | Must-Watch Action Movies Hello and Welcome to Asian Odyssey. We're heading back to our ...",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=yQ5RyzTQxtU",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1782837205883-4",
+    "slug": "the-bombing-of-pan-am-103-trailer-netflix-facebook",
+    "title": "The Bombing of Pan Am 103 | Trailer | Netflix - Facebook",
+    "summary": "The tragic bombing of a transatlantic flight over Scotland in 1988 unites the local police and the FBI in a hunt for the attackers. Based on a true...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/NetflixUK/videos/the-bombing-of-pan-am-103-trailer-netflix/1683452676137953/",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1782837210152-5",
+    "slug": "promo-with-the-goat-whos-got-next-instagram",
+    "title": "Promo with the goat. Who's got next! - Instagram",
+    "summary": "2M likes, 19K comments - tomholland2013 on June 30, 2026: \"Promo with the goat. Who's got next ... netflix's profile picture · netflix. Netflix US. Follow.",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DaNf54Uqw1d/",
+    "date": "15 minutes ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1782837212141-6",
+    "slug": "joe-lo-truglio-talks-new-comedy-movie-mets-jets-rams-and-more",
+    "title": "Joe Lo Truglio Talks New Comedy Movie, Mets, Jets, Rams & More ...",
+    "summary": "... New York Jets. Tune in to the Emmy-nominated Rich Eisen Show live weekdays from Noon to 3PM ET on Disney+, ESPN+, ESPN Radio, and streaming on SiriusXM channel ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=gVWIxVkoUSU",
+    "date": "16 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1782755333724-1",
     "slug": "top-4-korean-actors-whose-careers-were-rocked-by-major",
     "title": "Top 4 Korean Actors Whose Careers Were Rocked by Major ...",
@@ -3163,7 +3265,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-06-29T17:49:05.348Z";
+export const LAST_UPDATED = "2026-06-30T16:33:33.083Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES

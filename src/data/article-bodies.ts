@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-06-29T17:49:05.349Z
+ * Last updated: 2026-06-30T16:33:33.084Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -5582,5 +5582,202 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       }
     ],
     "takeaways": []
+  },
+  "live-1782837198790-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Netflix France Is Getting A Major Boost"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "We're talking over 50 movies and series landing on the platform in July 2026",
+          "Documentaries are also part of the package, because who doesn't love a good doc?",
+          "The update is specifically for Netflix France, so we're curious about the international rollout",
+          "It seems like a broad range of content is on the way, including films and series"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "What's Behind The Update?"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal - over 50 new titles is a lot to take in, and we can't wait to dive in. But was the announcement too vague? We're not getting any specifics on what these movies and series are, just that they're coming. That's got us wondering, what can we expect from this update? Is it going to be a mix of old and new content, or are we looking at all brand-new releases?"
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "It's pretty clear that Netflix is trying to step up its game in France. With this many new titles coming out, they're definitely making a statement. But the question is, will it be enough to keep subscribers engaged? We're hoping for some K-drama love in this update, because let's be real, that's what we're all here for."
+      },
+      {
+        "type": "h2",
+        "text": "What Fans Are Saying"
+      },
+      {
+        "type": "p",
+        "text": "Not much, actually - since the announcement is pretty light on details, fans are mostly just speculating about what's to come. We're all waiting with bated breath for more info, and hopefully, Netflix will deliver soon. [originally reported by youtube.com](https://www.youtube.com/watch?v=uEBdTDx_DfY)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1782837201689-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Latest Obsession: C-Dramas and K-Dramas"
+      },
+      {
+        "type": "p",
+        "text": "It looks like we've got a new name to keep an eye on - Joo Dee's just dropped some exciting updates on their Instagram, and honestly, this is a big deal. They're talking C-dramas and K-dramas, and that's all we need to hear. But what's really caught our attention is the mention of \"Doctor on the Edge\" now streaming on Disney+."
+      },
+      {
+        "type": "h2",
+        "text": "What's Streaming Now"
+      },
+      {
+        "type": "p",
+        "text": "So, what's \"Doctor on the Edge\" all about? Unfortunately, Joo Dee doesn't give us too many details, but the fact that it's now streaming on Disney+ is enough to get us intrigued. We're talking a subscription required, though - so, it's time to break out that Disney+ account if you haven't already."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "But was this update really just about \"Doctor on the Edge\", or is there more to it? Joo Dee mentions this is just a quick update on their C-drama and K-drama watchlist for now. That means we can expect more where this came from - and we're here for it. What other shows will they be talking about next?"
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by instagram.com](https://www.instagram.com/reel/DaK3VeXii9P/)"
+      }
+    ],
+    "takeaways": [
+      "Joo Dee's just given us a sneak peek into their C-drama and K-drama watchlist",
+      "\"Doctor on the Edge\" is now streaming on Disney+ with a subscription required",
+      "This is just a teaser - Joo Dee promises more updates are on the way",
+      "We don't know much about \"Doctor on the Edge\" yet, but it's definitely piqued our interest"
+    ]
+  },
+  "live-1782837203471-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Kick-Butt Women Are Taking Over"
+      },
+      {
+        "type": "p",
+        "text": "The top 10 best female action movies are being highlighted on major streaming platforms like Netflix, YouTube, and Disney+ - and we're here for it. But what's really interesting is that someone's taken the time to curate a list of must-watch action movies featuring female leads."
+      },
+      {
+        "type": "h2",
+        "text": "What's On The List"
+      },
+      {
+        "type": "p",
+        "text": "We don't know what movies made the cut, but the fact that a list like this exists is pretty cool. It's not every day you see female action heroes getting the spotlight. That's what's got us excited - the possibility of discovering new favorite films and female characters who can hold their own in the action genre."
+      },
+      {
+        "type": "h2",
+        "text": "The Streaming Platforms"
+      },
+      {
+        "type": "p",
+        "text": "The list is available on YouTube, which is a great place to start if you're looking for some action-packed entertainment. But the fact that it also mentions Netflix and Disney+ means you've got options - you can pick your favorite platform and start binge-watching to your heart's content. The question is, which movies will make the top 10?"
+      },
+      {
+        "type": "h2",
+        "text": "Let's Get Watching"
+      },
+      {
+        "type": "p",
+        "text": "So, who's ready to watch some kick-butt women in action? We know we are. With the rise of female-led movies and shows, it's an exciting time for fans of the action genre. Let's dive in and see what these streaming platforms have to offer. [originally reported by Asian Odyssey](https://www.youtube.com/watch?v=yQ5RyzTQxtU)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1782837205883-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "A Tragic True Story Hits Netflix"
+      },
+      {
+        "type": "p",
+        "text": "The bombing of Pan Am 103 - that's a dark piece of history that still resonates today. It's not exactly the kind of story you'd expect to see on Netflix, but here we are. A transatlantic flight, a horrific bombing over Scotland in 1988, and a joint investigation between local police and the FBI - that's the premise of this new series."
+      },
+      {
+        "type": "h2",
+        "text": "The Basics"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "The series is based on a true story, which automatically adds a layer of seriousness and intrigue.",
+          "It's about the bombing of Pan Am 103, an event that occurred in 1988.",
+          "The investigation involves both local Scottish police and the FBI, suggesting a complex, international effort to find the perpetrators.",
+          "The trailer is now out on Netflix's Facebook page, giving us a first glimpse into what this series will cover."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The fact that it's based on real events makes this series stand out. We're not talking about a fictional crime drama here; this is about something that actually happened, with real victims and real investigators who worked tirelessly to bring justice. But was the bombing just a random act of terror, or was there more to it? The series promises to delve into the details of the event and the subsequent hunt for the attackers."
+      },
+      {
+        "type": "h2",
+        "text": "Why It Matters"
+      },
+      {
+        "type": "p",
+        "text": "This series could be a game-changer for true crime fans and anyone interested in history. By exploring the bombing of Pan Am 103 in depth, it sheds light on a tragic event that still has repercussions today. But what can we really expect from this series? Will it stick closely to the facts, or will it dramatize certain aspects for the sake of storytelling? These are questions that will likely be answered once the series drops."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "For now, we have the trailer to go on, which suggests a thorough and intense investigation. The collaboration between Scottish and American law enforcement is particularly noteworthy, as it highlights the international nature of the crime and the response to it. Honestly, this is a big deal - a true story that needs to be told, and it looks like Netflix is taking it seriously. [originally reported by Netflix](https://www.facebook.com/NetflixUK/videos/the-bombing-of-pan-am-103-trailer-netflix/1683452676137953/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1782837210152-5": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Promo That's Got Everyone Talking"
+      },
+      {
+        "type": "p",
+        "text": "Tom Holland just posted a super cryptic message on Instagram, and honestly, it's a big deal - he's teaming up with Netflix, and we're not sure what to expect. The post itself is pretty vague, with just a few words: \"Promo with the goat. Who's got next!\""
+      },
+      {
+        "type": "h2",
+        "text": "What's Going On Here?"
+      },
+      {
+        "type": "p",
+        "text": "That's the question on everyone's mind, with 2 million likes and 19,000 comments on the post. It's clear that fans are excited, but also pretty confused - what does \"promo with the goat\" even mean? Is Tom Holland working on a new project with Netflix, and if so, what's it about? The fact that Netflix US is tagged in the post suggests that it's something big, but we're still waiting for more info."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "We're not sure what Tom Holland and Netflix are cooking up, but it's definitely got our attention. With a star like Tom Holland on board, you can bet that whatever it is, it'll be a wild ride. But was the teaser too vague, leaving fans hanging for more info? That's the million-dollar question - for now, we're just going to have to wait and see what's next. [originally reported by instagram.com](https://www.instagram.com/reel/DaNf54Uqw1d/)"
+      }
+    ],
+    "takeaways": [
+      "The post has gotten a huge response, with 2M likes in a short time",
+      "Tom Holland's message is cryptic, leaving fans to guess what's coming next",
+      "Netflix US is tagged in the post, suggesting a collaboration",
+      "The post was made on June 30, 2026, by tomholland2013"
+    ]
   }
 };
