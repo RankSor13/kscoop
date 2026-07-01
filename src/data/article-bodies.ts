@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-06-30T16:33:33.084Z
+ * Last updated: 2026-07-01T16:43:28.988Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -5778,6 +5778,237 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       "Tom Holland's message is cryptic, leaving fans to guess what's coming next",
       "Netflix US is tagged in the post, suggesting a collaboration",
       "The post was made on June 30, 2026, by tomholland2013"
+    ]
+  },
+  "live-1782924194435-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Trailer Drop"
+      },
+      {
+        "type": "p",
+        "text": "The wait's over - we've finally got our hands on the official trailer for \"The East Palace\" on Netflix, and it's got everyone talking. Honestly, this is a big deal, especially since it's one of the most anticipated K-dramas of July 2026. But what's really exciting is that the trailer comes with English subs, so international fans can get in on the action too."
+      },
+      {
+        "type": "p",
+        "text": "It's not the only upcoming K-drama that's got fans buzzing, though - \"The East Palace\" is just one of the top 10 K-dramas we can't wait to watch. And let's be real, who doesn't love a good K-drama coupling? We're also seeing lists pop up about K-drama couples with huge age gaps - did they last, or was it all just drama for the cameras?"
+      },
+      {
+        "type": "h2",
+        "text": "What's Got Fans Talking"
+      },
+      {
+        "type": "p",
+        "text": "So, what's the big deal about \"The East Palace\"? For starters, its trailer is racking up views on YouTube, with over 24K fans checking it out on one channel alone. And it's not just \"The East Palace\" - fans are hungry for any info they can get on the latest K-dramas. But was the trailer drop enough to satisfy our cravings, or are we still waiting for more?"
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "It's clear that \"The East Palace\" is just one part of a bigger K-drama landscape that's getting more and more exciting by the day. With new trailers dropping left and right, and fans dissecting every detail, it's a great time to be a K-drama fan. So, what are you waiting for - go check out the trailer for \"The East Palace\" and see what all the fuss is about [originally reported by youtube.com](https://www.youtube.com/watch?v=loicGWWNs2I)"
+      }
+    ],
+    "takeaways": [
+      "The official trailer for \"The East Palace\" is out on YouTube",
+      "It's one of the top 10 upcoming K-dramas for July 2026",
+      "The trailer has English subs for international fans",
+      "\"The East Palace\" is generating buzz alongside other highly anticipated K-dramas"
+    ]
+  },
+  "live-1782924197014-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Shocking Plot Twist"
+      },
+      {
+        "type": "p",
+        "text": "The latest video from the Agent Kim Reactivated YouTube channel is making waves, and it's not just because of the sleek production quality - it's the moment Agent Kim stops asking nicely that's got everyone talking. But what's really interesting here is that this video has garnered a whopping 76K views, and it's clear that fans are hungry for more."
+      },
+      {
+        "type": "h2",
+        "text": "Diving Deeper"
+      },
+      {
+        "type": "p",
+        "text": "So, what's behind this surge in popularity? For starters, the video's themes of outsmarting bullies, as seen in Inspector Han Rim's storyline, seem to be resonating with viewers. And let's be real, who doesn't love a good underdog story? But was the video's success also fueled by its proximity to other popular content, like the list of 20 K-Drama Couples With HUGE Age Gaps? It's possible that fans were already in the mood for something dramatic and intense."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "When you consider the types of content that are currently trending on YouTube, it's no surprise that Agent Kim Reactivated is finding an audience. From Teach You A Lesson on Netflix to the countless K-drama analysis channels, it's clear that fans are craving more than just surface-level entertainment. They want to dive deeper, to analyze and discuss the intricacies of their favorite shows. And Agent Kim Reactivated seems to be delivering on that front."
+      },
+      {
+        "type": "h2",
+        "text": "What Fans Are Saying"
+      },
+      {
+        "type": "p",
+        "text": "But don't just take our word for it - the comments section is filled with fans praising the video's unique blend of action and drama. And with 76K views and counting, it's clear that this channel is onto something. So, what's next for Agent Kim Reactivated? Only time will... just kidding, we won't say that. Let's just say we're excited to see what's in store for this channel, and we're not alone. [originally reported by youtube.com](https://www.youtube.com/watch?v=PvPrzEMzZT0)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1782924199678-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Ultimate Gilmore Girls Shakeup"
+      },
+      {
+        "type": "p",
+        "text": "We're just a month away from a major streaming switch-up: Gilmore Girls is ditching Netflix on June 30, 2026. But don't worry, it's not disappearing into thin air - Prime is stepping in to save the day. That's right, you'll still be able to get your Stars Hollow fix, just on a different platform."
+      },
+      {
+        "type": "h2",
+        "text": "What's Staying the Same"
+      },
+      {
+        "type": "p",
+        "text": "The good news is that the original seven-season series won't be leaving all streaming services behind. It'll still be available on Hulu and Disney+, so if you're already subscribed to either of those, you won't have to lift a finger. But if you're a die-hard Netflix fan, you'll have to make the switch to Prime to keep up with Lorelai and Rory's antics."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "So, what does this mean for fans of the show? Honestly, it's not a huge deal - we're just talking about a platform change, not a disappearance of the show altogether. And let's be real, if you're a true Gilmore Girls fan, you've probably already bought the DVDs or downloaded the episodes anyway. But was the decision to leave Netflix too sudden? That's a question for another time."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by instagram.com](https://www.instagram.com/reel/DaOUNJsCBMk/)"
+      }
+    ],
+    "takeaways": [
+      "Gilmore Girls is leaving Netflix on June 30, 2026",
+      "The show will be available on Prime after it leaves Netflix",
+      "You can still stream the series on Hulu and Disney+",
+      "The original seven-season series is affected by the change"
+    ]
+  },
+  "live-1782924201639-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Professor's Big Find"
+      },
+      {
+        "type": "p",
+        "text": "Notes from the Last Row just dropped on Netflix, and honestly, this is a big deal - a literature professor discovers a student's talent, but that's all we know so far. It's got that \"diamond in the rough\" vibe that K-dramas do so well, and we're already wondering what kind of story they'll tell."
+      },
+      {
+        "type": "p",
+        "text": "The show's now playing, which is all the info we've got for now, but it's enough to get us excited. What's the student's talent, and how does the professor nurture it? We don't have those answers yet, but we can't wait to find out."
+      },
+      {
+        "type": "h2",
+        "text": "Getting Ready to Binge"
+      },
+      {
+        "type": "p",
+        "text": "The fact that it's on Netflix is a plus - we can binge the whole thing in one sitting, which is exactly what we plan to do. But was the wait worth it? That's what we're about to find out."
+      },
+      {
+        "type": "h2",
+        "text": "What's Next for Notes from the Last Row"
+      },
+      {
+        "type": "p",
+        "text": "We're grabbing some popcorn and settling in to watch Notes from the Last Row, and we're hoping it lives up to the hype. Will it be a hit or a miss? Only time will... just kidding, we're not playing that game - we're diving in headfirst. [originally reported by YouTube](https://www.youtube.com/watch?v=reMysq0koWM)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1782924203899-5": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Bombshell for GG Fans"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Gilmore Girls is leaving Netflix U.S. on July 1, 2026",
+          "The show's departure was announced on an official platform",
+          "Fans should keep an eye on official announcements for future moves",
+          "The show's new streaming home isn't specified, but possibilities include Max or other services"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "A Shock to the System"
+      },
+      {
+        "type": "p",
+        "text": "Gilmore Girls fans, it's time to panic - your favorite mother-daughter duo is leaving Netflix U.S. on July 1, 2026. That's right, the quirky world of Stars Hollow won't be available on the streaming giant soon. But don't worry, it's not the end of the world - the show might just be moving to a new home, like Max or another service. We're talking Prime Video, the platform that just delivered a major tease on TikTok."
+      },
+      {
+        "type": "h2",
+        "text": "What's Next for Lorelai and Rory"
+      },
+      {
+        "type": "p",
+        "text": "The announcement, which came courtesy of an official platform, has left fans scrambling to figure out where they'll be able to get their Gilmore Girls fix. Will it be on Max, or maybe another streaming service altogether? One thing's for sure - fans will be keeping a close eye on official announcements to find out what's next for Lorelai and Rory. It's not a bad idea to follow Prime Video on TikTok, either - they seem to be dropping hints like it's nobody's business."
+      },
+      {
+        "type": "h2",
+        "text": "The Waiting Game"
+      },
+      {
+        "type": "p",
+        "text": "Now, all we can do is wait and see where Gilmore Girls will end up next. Will it be on a platform we already subscribe to, or will we have to shell out some extra cash to keep up with the antics of Lorelai and Rory? Only time will... just kidding, we don't have to wait that long - we just need to keep an eye on those official announcements. [originally reported by tiktok.com](https://www.tiktok.com/@primevideo/video/7657300872807959821)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1782924206424-6": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Spy's Back On"
+      },
+      {
+        "type": "p",
+        "text": "So Ji Sub's character, Manager Kim, isn't what he seems - and that's what makes this drama so intriguing. He's a former elite spy, which is pretty wild, but what's even more surprising is that he's been living a double life as an ordinary single father. It's like, how do you even balance those two things?"
+      },
+      {
+        "type": "h2",
+        "text": "Living A Lie"
+      },
+      {
+        "type": "p",
+        "text": "Manager Kim's past is marked as \"dangerous\", which doesn't exactly scream \"ordinary single father material\". But, apparently, he's been keeping it under wraps - until now, that is. The fact that his daughter, Min Ji, is somehow involved in all this is what's really got our attention. What happens when your kid gets entangled in your spy games?"
+      },
+      {
+        "type": "h2",
+        "text": "The Plot Thickens"
+      },
+      {
+        "type": "p",
+        "text": "We're not given a lot to go on, but it's clear that Manager Kim's life is about to get a whole lot more complicated. His daughter's involvement is the catalyst for... well, we're not entirely sure what, but it's definitely something. The question is, how will Manager Kim balance his spy life with his life as a single father? And what's at stake for Min Ji?"
+      },
+      {
+        "type": "h2",
+        "text": "What's At Stake"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal - a former spy's kid getting pulled into their old life? That's a recipe for disaster. Or, you know, a really compelling K-drama. We're not sure what's going to happen next, but we're definitely invested. [originally reported by youtube.com](https://www.youtube.com/watch?v=nZBwFuqs2Us)"
+      }
+    ],
+    "takeaways": [
+      "Manager Kim is a former elite spy trying to live a normal life",
+      "He's been keeping his past a secret while raising his daughter Min Ji",
+      "Min Ji's involvement in her father's past is a major plot point",
+      "The drama's premise is built around Manager Kim's double life",
+      "The story's taking a turn now that Manager Kim's daughter is in the mix"
     ]
   }
 };

@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1782924194435-1",
+    "slug": "the-east-palace-official-trailer-netflix-eng-sub-youtube",
+    "title": "The East Palace | Official Trailer | Netflix [ENG SUB] - YouTube",
+    "summary": "Comments ; Top 10 Upcoming Kdramas July 2026 || Watch with Trailer!! Bubble Cinema · 24K views ; 20 K-Drama Couples With HUGE Age Gaps (Did They Last?) · New. 75K ...",
+    "category": "upcoming",
+    "author": "Ji Yeon Park",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=loicGWWNs2I",
+    "date": "17 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1782924197014-2",
+    "slug": "the-moment-he-stops-asking-nicely-agent-kim-reactivated-youtube",
+    "title": "The moment he stops asking nicely | Agent Kim Reactivated - YouTube",
+    "summary": "Comments ; 20 K-Drama Couples With HUGE Age Gaps (Did They Last?) · New. 76K views ; Inspector Han Rim Outsmarts The Bully | Teach You A Lesson | Netflix ...",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=PvPrzEMzZT0",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1782924199678-3",
+    "slug": "we-are-all-good-prime-delivers-to-stars-hollow-can-you-spot-the",
+    "title": "We are all good, Prime delivers to Stars Hollow, can you spot the ...",
+    "summary": "The fan-favorite series will leave Netflix on June 30, 2026, with Prime ... The original seven-season series will also remain available on Hulu and Disney+ ...",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DaOUNJsCBMk/",
+    "date": "19 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1782924201639-4",
+    "slug": "notes-from-the-last-row-now-playing-netflix-eng-sub-youtube",
+    "title": "Notes from the Last Row | Now Playing | Netflix [ENG SUB] - YouTube",
+    "summary": "Notes from the Last Row is now playing, only on Netflix: https://www.netflix.com/title/82032598 A literature professor discovers a student's talent and ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=reMysq0koWM",
+    "date": "5 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1782924203899-5",
+    "slug": "we-are-all-good-prime-delivers-to-stars-hollow-can-you-spot-the-smil",
+    "title": "We are all good, Prime delivers to Stars Hollow, can you spot the smil...",
+    "summary": "- Keep an eye on official platform announcements for any future move to Max or other services. Takeaway Gilmore Girls will leave Netflix U.S. on July 1, 2026 ( ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@primevideo/video/7657300872807959821",
+    "date": "19 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1782924206424-6",
+    "slug": "agent-kim-reactivated-episode-3-4-pre-release-so-ji-sub-youtube",
+    "title": "Agent Kim Reactivated | Episode 3-4 Pre-Release | So Ji Sub - YouTube",
+    "summary": "In the drama, former elite spy Manager Kim conceals his dangerous past while living as an ordinary single father, but when his beloved daughter Min Ji is ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=nZBwFuqs2Us",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1782837198790-1",
     "slug": "new-on-netflix-in-july-2026-50-movies-and-series-youtube",
     "title": "New on NETFLIX in JULY 2026! (50+ Movies and Series) - YouTube",
@@ -3265,7 +3367,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-06-30T16:33:33.083Z";
+export const LAST_UPDATED = "2026-07-01T16:43:28.987Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
