@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-07-01T16:43:28.988Z
+ * Last updated: 2026-07-02T15:56:55.630Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -6010,5 +6010,207 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       "The drama's premise is built around Manager Kim's double life",
       "The story's taking a turn now that Manager Kim's daughter is in the mix"
     ]
+  },
+  "live-1783007801329-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Tea Has Been Spilled"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Engfa's denial of dating rumors is making waves",
+          "The rumors in question involved a certain someone named Nawat",
+          "Engfa's got better things to do than address rumors, like watching Korean shows",
+          "She's particularly into a show called \"Flower\""
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Engfa's had enough of the rumors, and honestly, who can blame her? She's come out and denied them, and it's clear she's not interested in giving them any more of her time. But what's really interesting here is that she mentions Nawat might be seeing her post - it's like, is he stalking her online or what? That's a whole other level of drama."
+      },
+      {
+        "type": "h2",
+        "text": "Cutting Ties"
+      },
+      {
+        "type": "p",
+        "text": "It seems Engfa's done with the whole ordeal, and she's moving on to better things... like her Korean dramas. She specifically name-drops \"Flower\", which is pretty random, but hey, if that's what she's into, we're not judging. But was the mention of Nawat a way of telling him to back off, or just a casual aside? Either way, it's clear Engfa's not having it."
+      },
+      {
+        "type": "h2",
+        "text": "Moving On"
+      },
+      {
+        "type": "p",
+        "text": "So, what's next for Engfa? Well, for now, it seems like she's just focusing on herself and her hobbies. And honestly, good for her - she doesn't need the drama. But we can't help but wonder, what's the real story behind these rumors? Guess we'll just have to keep speculating. [originally reported by reddit.com](https://www.reddit.com/r/ThaiGL/comments/1uh6wbk/engfa_has_spoken_out_denying_the_rumors_that_she/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1783007803494-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Get Ready for a K-Drama Summer"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Spooky In Love is coming to Netflix on July 18th, and honestly, it's about time we got some new content.",
+          "The Husband Korean drama is set to premiere on Disney+ on July 4th, which is a big deal for fans of the platform.",
+          "He Love in Sync, another Korean drama, is also dropping on Disney+ on July 4th, making it a double whammy for subscribers.",
+          "July is shaping up to be a great month for K-drama fans, with multiple new shows to look forward to."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "July 4th Just Got a Whole Lot Better"
+      },
+      {
+        "type": "p",
+        "text": "The Husband and He Love in Sync are both premiering on the same day, which is exciting news for fans who've been waiting for new K-dramas on Disney+. But was the decision to release two shows on the same day a strategic move, or just a coincidence? Either way, it's a win for viewers who get to choose between two different stories."
+      },
+      {
+        "type": "h2",
+        "text": "The Netflix Factor"
+      },
+      {
+        "type": "p",
+        "text": "Spooky In Love, on the other hand, is coming to Netflix on July 18th, giving fans a few weeks to catch up on other shows before its release. But don't expect this one to fly under the radar - with its unique title and intriguing premise, it's already generating buzz among K-drama enthusiasts. What's going to set it apart from other shows, though?"
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "With so many new K-dramas coming out, it's clear that streaming platforms are investing heavily in Korean content. But what does this mean for fans, and for the future of K-drama production? One thing's for sure - we're not complaining about all the new shows to watch. [originally reported by instagram.com](https://www.instagram.com/reel/DaLWALYTXhQ/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1783007805573-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "July's K-Drama Explosion"
+      },
+      {
+        "type": "p",
+        "text": "July's looking like a wild ride for K-drama fans, with a lineup that's got everything from high-stakes thrillers to heartwarming rom-coms. Let's start with the most intriguing one: \"The Husband\", starring Min Namgoong as a neurosurgeon who becomes the prime suspect in his wife's kidnapping. That's right, Kang Tae-ju's life is turned upside down when his wife vanishes, and he's forced to go on the run to clear his name and find her. With co-stars Lee Seol and Kim Dae-myung, this one's shaping up to be a tightly wound thriller that'll keep us on the edge of our seats."
+      },
+      {
+        "type": "p",
+        "text": "But \"The Husband\" is just the tip of the iceberg - we've also got \"Family Relationship Certificate\", an emotional family melodrama that explores the complicated relationship between a mother and daughter. Park Se-young plays Na Ji-ni, an aspiring artist who's still carrying deep wounds from her childhood, and Han Go-eun plays her mother, Na Se-ri, a once-renowned orchestra cellist. It's going to be a tearjerker, that's for sure."
+      },
+      {
+        "type": "h2",
+        "text": "The Rom-Coms and Thrillers"
+      },
+      {
+        "type": "p",
+        "text": "And then there are the rom-coms - because what's a K-drama lineup without a little romance? \"Dream to You\" sees a filmmaker inspiring a reporter to rekindle her dreams, while \"Spooky in Love\" is an occult rom-com about a hotel heiress who sees ghosts and partners with a prosecutor to solve murder cases. Park Eun-bin leads the latter, and we can't wait to see her bring this quirky character to life. But was the comeback too fast? We're not complaining, though - the more K-dramas, the merrier, right?"
+      },
+      {
+        "type": "h2",
+        "text": "What Fans Are Saying"
+      },
+      {
+        "type": "p",
+        "text": "With so many new dramas premiering in July, fans are already speculating about which ones will be the biggest hits. Will \"The East Palace\" live up to its dark fantasy historical thriller hype? Can \"A Shop for Killers Season 2\" top its first season? One thing's for sure - we're in for a treat. [originally reported by Hannah Abraham](https://www.forbes.com/sites/hannahabraham/2026/06/30/8-new-kdramas-to-watch-in-july-2026-netflix-disney-plus/)"
+      }
+    ],
+    "takeaways": [
+      "Min Namgoong stars in \"The Husband\", a kidnapping thriller where he's the prime suspect in his wife's disappearance",
+      "\"Family Relationship Certificate\" explores a strained mother-daughter relationship and past wounds",
+      "\"Spooky in Love\" is an occult rom-com about a hotel heiress who sees ghosts and partners with a prosecutor",
+      "Lee Dong-wook returns in \"A Shop for Killers Season 2\", a highly anticipated Netflix revenge saga"
+    ]
+  },
+  "live-1783007809533-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Get Ready for a Drama-Packed July"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "\"The Husband\" is premiering on July 4, starring Namkoong Min, Lee Seol, and Kim Dae-myung",
+          "You can catch \"The Husband\" on both Disney+ and Hulu",
+          "\"Love in Sync\" is another July premiere, but we don't know its exact release date yet",
+          "Both dramas will be available to stream, but \"Love in Sync\" hasn't announced its platform yet"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "July's looking hot for K-drama fans, and it's all thanks to some exciting premieres. Let's start with the one that's got everyone talking: \"The Husband\", starring Namkoong Min, Lee Seol, and Kim Dae-myung, is dropping on July 4. That's right, folks, we're just days away from diving into this highly anticipated drama. But where can you watch it? Luckily, it's going to be available on not one, but two major streaming platforms: Disney+ and Hulu."
+      },
+      {
+        "type": "p",
+        "text": "What's interesting here is that we're seeing a bit of a platform sharing situation, which isn't super common. But hey, we're not complaining - more ways to watch our favorite dramas is always a good thing. Now, let's talk about \"Love in Sync\", another drama that's premiering this month. We don't have an exact release date for this one yet, but we're hoping it'll be soon."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "\"The Husband\" is clearly the main event for July 4, and we can't wait to see what Namkoong Min, Lee Seol, and Kim Dae-myung bring to the table. But what about \"Love in Sync\"? We're still waiting for more info on this one, including where we'll be able to stream it. Will it follow in \"The Husband\"'s footsteps and land on Disney+ or Hulu, or will it go a different route altogether? Only time will... well, you know. We'll just have to wait and see."
+      },
+      {
+        "type": "h2",
+        "text": "What We're Waiting For"
+      },
+      {
+        "type": "p",
+        "text": "So, what are you most excited about? Are you team \"The Husband\" or team \"Love in Sync\"? Let's be real, we're probably all going to end up watching both. But was the decision to release \"The Husband\" on two platforms a strategic move to get more eyes on the drama? And what does this mean for the future of K-drama streaming? We're not sure yet, but one thing's for sure: July's going to be a wild ride. [originally reported by facebook.com](https://www.facebook.com/groups/6626236890731516/posts/27759070167021548/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1783007812764-5": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Get Ready for a Dramatic July"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Love In Sync is premiering on U+Mobile and Disney+ on July 4th",
+          "The Husband is also set to premiere on July 4th, airing on KBS2 and streaming on Disney+",
+          "Family Register will make its debut on MBC and Kocowa+ just a couple of days later, on July 6th",
+          "All three dramas are offering fans a chance to watch on different platforms, depending on their preferences"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "July's K-Drama Lineup Looks Fire"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal - we're getting not one, not two, but three new K-dramas in the first week of July. Love In Sync and The Husband are dropping on the same day, July 4th, which is either going to be a great day or a really tough choice for fans. Love In Sync will be available on U+Mobile and Disney+, while The Husband will air on KBS2 and stream on Disney+. But was the decision to premiere two dramas on the same day a strategic move, or just a coincidence?"
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "It's not just about the premieres, though - it's also about where we can watch these dramas. With the rise of streaming platforms, we're seeing more and more K-dramas being made available outside of traditional TV. Family Register, for example, will be streaming on Kocowa+, which is great news for international fans who might not have access to MBC. But what does this mean for the future of K-drama consumption?"
+      },
+      {
+        "type": "h2",
+        "text": "What Fans Are Saying"
+      },
+      {
+        "type": "p",
+        "text": "Fans are already buzzing about the upcoming premieres, and it's clear that there's a lot of excitement around these new dramas. With three different platforms offering these shows, it's likely that we'll see a surge in viewership. But which drama will come out on top? Only time will... no, scratch that - we don't have to wait that long. We'll find out soon enough, when these dramas finally drop. [originally reported by instagram.com](https://www.instagram.com/reel/DaQqthtuCMd/)"
+      }
+    ],
+    "takeaways": []
   }
 };

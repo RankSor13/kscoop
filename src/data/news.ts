@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1783007801329-1",
+    "slug": "engfa-has-spoken-out-denying-the-rumors-that-she-is-dating-reddit",
+    "title": "Engfa has spoken out denying the rumors that she is dating ... - Reddit",
+    "summary": "Because, for all, I know, Nawat might be seeing and reading this and I'm not giving him any more of my time and energy. Back to my excellent Korean show, Flower ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/ThaiGL/comments/1uh6wbk/engfa_has_spoken_out_denying_the_rumors_that_she/",
+    "date": "5 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1783007803494-2",
+    "slug": "upcoming-dramas-of-july-2026-on-netflix-prime-video-disney-plus",
+    "title": "Upcoming Dramas of July 2026 On Netflix, Prime Video, Disney plus ...",
+    "summary": "Spooky In Love on Netflix on July 18th. The Husband Korean drama on July 4th on Disney+. And on July 4th itself, a Korean drama named He Love in Sync on Disney+ ...",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DaLWALYTXhQ/",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1783007805573-3",
+    "slug": "8-new-kdramas-to-watch-in-july-2026-netflix-disney-plus-forbes",
+    "title": "8 New KDramas To Watch In July 2026: Netflix, Disney Plus - Forbes",
+    "summary": "Summary · The Husband: July 4, KBS2 / Disney+ · Family Relationship Certificate/Family Register: July 6, MBC · Dream to You/Dear to You: July 13, ENA · Spooky in ...",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "forbes.com",
+    "sourceUrl": "https://www.forbes.com/sites/hannahabraham/2026/06/30/8-new-kdramas-to-watch-in-july-2026-netflix-disney-plus/",
+    "date": "2 days ago",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a4418bf95fc6cfcf645ec5b/0x0.jpg?format=jpg&amp;height=900&amp;width=1600&amp;fit=bounds",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1783007809533-4",
+    "slug": "july-2026-korean-drama-premieres-on-disney-hulu-and-netflix",
+    "title": "July 2026 Korean drama premieres on Disney, Hulu, and Netflix",
+    "summary": "JULY 2026 Korean drama premieres: \"The Husband\" (July 4) — Namkoong Min, Lee Seol, Kim Dae-myung Where to watch: Disney+ / Hulu \"Love in Sync\" (July...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/groups/6626236890731516/posts/27759070167021548/",
+    "date": "18 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1783007812764-5",
+    "slug": "new-k-dramas-for-july-2026-where-to-watch-0407-love-in-sync",
+    "title": "New K-Drama's for July 2026 Where to watch? 04/07: Love In Sync ...",
+    "summary": "New K-Drama's for July 2026 Where to watch? 04/07: Love In Sync (U+Mobile/Disney+) 04/07: The Husband (KBS2/Disney+) 06/07: Family Register (MBC/Kocowa+)",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DaQqthtuCMd/",
+    "date": "21 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1783007814841-6",
+    "slug": "korean-dramas-for-july-2026-july-4-thehusband-disney-july-4",
+    "title": "Korean Dramas for July 2026 July 4: #TheHusband - Disney+ July 4",
+    "summary": "Upcoming K-Dramas Premiering on Netflix in 2026: 1. The Wonderfools 2. Bloodhounds S2 3. Show Business 4. East Palace 5. Boyfriend On Demand 6. The Art Of ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/KDramaBuddiesPh/posts/korean-dramas-for-july-2026july-4-thehusband-disneyjuly-4-loveinsync-disneyjuly-/1011823401204269/",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1782924194435-1",
     "slug": "the-east-palace-official-trailer-netflix-eng-sub-youtube",
     "title": "The East Palace | Official Trailer | Netflix [ENG SUB] - YouTube",
@@ -3367,7 +3469,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-07-01T16:43:28.987Z";
+export const LAST_UPDATED = "2026-07-02T15:56:55.629Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
