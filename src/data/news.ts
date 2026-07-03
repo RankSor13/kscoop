@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1783092927612-1",
+    "slug": "10-of-the-best-new-k-dramas-to-watch-in-july-2026",
+    "title": "10 of the best new K-dramas to watch in July 2026",
+    "summary": "10 of the best new K-dramas to watch in July 2026, including The East Palace on Netflix · 1. Love in Sync · 2. The Husband · 3. Family Register · 4. The Apartment ...",
+    "category": "upcoming",
+    "author": "Ji Yeon Park",
+    "source": "scmp.com",
+    "sourceUrl": "https://www.scmp.com/lifestyle/k-drama/k-drama/article/3358451/10-best-new-k-dramas-watch-july-2026-including-east-palace-netflix",
+    "date": "4 days ago",
+    "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/06/29/788cac4d-db65-4a7c-8a78-59709a4e7569_0b63a7c9.jpg?itok=c55rs_Bq&amp;v=1782702187",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1783092930087-2",
+    "slug": "disneys-k-drama-breakout-turns-up-heat-on-netflixs",
+    "title": "Disney's K-Drama Breakout Turns Up Heat on Netflix's ...",
+    "summary": "The Hollywood Reporter reports that Perfect Crown has delivered Disney+'s biggest K-drama debut to date after launching on April 10, giving Disney a timely ...",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "kentertechhub.com",
+    "sourceUrl": "https://www.kentertechhub.com/disneys-k-drama-breakout-turns-up-heat-on-netflixs-korea-strategy/",
+    "date": "6 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1783092933618-3",
+    "slug": "popular-k-drama-star-ham-so-won-has-been-hospitalized-following",
+    "title": "Popular K-Drama star Ham So-won has been hospitalized following ...",
+    "summary": "110 likes, 11 comments - zoomtv on July 3, 2026: \"Popular K-Drama star Ham So-won has been hospitalized following a sudden and frightening car crash.",
+    "category": "trending",
+    "author": "Dana Kim",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DaU9Mbygm7n/",
+    "date": "2 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1783092935378-4",
+    "slug": "no-one-expected-this-collaboration-kim-nam-gil-one-of-koreas",
+    "title": "No one expected this collaboration. Kim Nam-gil, one of Korea's ...",
+    "summary": "On a warm June evening in Uijeongbu, Gyeonggi Province, a performance unfolded that would soon be etched in the memories of K-pop fans across South Korea and ...",
+    "category": "trending",
+    "author": "Hana Cho",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DaSjb7CBd4x/",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1783092935630-5",
+    "slug": "korean-american-voice-actress-arden-cho-of-kpop-demon-hunters",
+    "title": "Korean American voice actress Arden Cho of 'KPop Demon Hunters ...",
+    "summary": "Korean American voice actress Arden Cho of 'KPop Demon Hunters' and her longtime sweetheart Christoper Lee have tied the knot in Italy.",
+    "category": "trending",
+    "author": "Mia Kwon",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/nstonline/posts/showbiz-korean-american-voice-actress-arden-cho-of-kpop-demon-hunters-and-her-lo/1474323554729212/",
+    "date": "4 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1783092935841-6",
+    "slug": "makeover-inspired-by-moving-actor-the-reality-series-idol-maker",
+    "title": "Makeover inspired by 'Moving' actor The reality series \"Idol Maker ...",
+    "summary": "Go Youn Jung has left fans stunned with a dramatic transformation for her latest role in the romantic drama Can This Love Be Translated, showcasing her ...",
+    "category": "trending",
+    "author": "Rina Baek",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/KoreaClickers/posts/makeover-inspired-by-moving-actorthe-reality-series-idol-maker-transforms-global/1485413896958791/",
+    "date": "4 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1783007801329-1",
     "slug": "engfa-has-spoken-out-denying-the-rumors-that-she-is-dating-reddit",
     "title": "Engfa has spoken out denying the rumors that she is dating ... - Reddit",
@@ -3469,7 +3571,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-07-02T15:56:55.629Z";
+export const LAST_UPDATED = "2026-07-03T15:35:36.006Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES

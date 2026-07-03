@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-07-02T15:56:55.630Z
+ * Last updated: 2026-07-03T15:35:36.006Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -6209,6 +6209,132 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       {
         "type": "p",
         "text": "Fans are already buzzing about the upcoming premieres, and it's clear that there's a lot of excitement around these new dramas. With three different platforms offering these shows, it's likely that we'll see a surge in viewership. But which drama will come out on top? Only time will... no, scratch that - we don't have to wait that long. We'll find out soon enough, when these dramas finally drop. [originally reported by instagram.com](https://www.instagram.com/reel/DaQqthtuCMd/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1783092927612-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "July's K-Drama Lineup is Lit"
+      },
+      {
+        "type": "p",
+        "text": "Nam Joo-hyuk is back, and this time he's leading Netflix's The East Palace - that's right, the streaming giant is bringing some serious K-drama firepower to the table. But that's not all - Kim Myung-soo and Kang Min-ah are teaming up for Love in Sync, which is already generating a lot of buzz among K-drama fans. It's shaping up to be a great month for fans of Korean television, with a wide range of genres and storylines to choose from."
+      },
+      {
+        "type": "p",
+        "text": "What's really interesting about July's lineup is the mix of established stars and new faces. You've got veterans like Nam Joo-hyuk, who's proven himself time and time again in dramas like Start-Up and Twenty-Five Twenty-One. And then you've got newer actors like Kim Myung-soo, who's been making waves with his roles in dramas like Royal Secret Agent and Angel's Last Mission: Love. It's a great time to be a K-drama fan, that's for sure."
+      },
+      {
+        "type": "h2",
+        "text": "The East Palace and Beyond"
+      },
+      {
+        "type": "p",
+        "text": "But The East Palace isn't the only K-drama worth watching in July - far from it. The Husband, Family Register, and The Apartment are just a few of the other dramas that are generating a lot of excitement among fans. And with Netflix and other streaming platforms making it easier than ever to access K-dramas, there's never been a better time to get into the world of Korean television. So what are you waiting for? Get ready to binge-watch your way through July with these amazing K-dramas."
+      },
+      {
+        "type": "h2",
+        "text": "Summer of K-Drama"
+      },
+      {
+        "type": "p",
+        "text": "So, is this the summer of K-drama? It definitely looks that way, with so many amazing dramas hitting the airwaves. But was the anticipation building up to this moment too much to handle? Honestly, it's about time we got some new K-dramas to obsess over - the wait has been killing us. And with the talent lined up for these dramas, it's hard not to get excited. [originally reported by scmp.com](https://www.scmp.com/lifestyle/k-drama/k-drama/article/3358451/10-best-new-k-dramas-watch-july-2026-including-east-palace-netflix)"
+      }
+    ],
+    "takeaways": [
+      "Kim Myung-soo and Kang Min-ah are starring in Love in Sync, one of July's most anticipated K-dramas.",
+      "Nam Joo-hyuk is leading Netflix's The East Palace, a highly awaited release.",
+      "The Husband and Family Register are also among the top K-dramas to watch in July 2026.",
+      "Netflix is bringing some serious heat with its K-drama lineup, including The East Palace."
+    ]
+  },
+  "live-1783092930087-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Disney's Got a New K-Drama Star"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Perfect Crown is the show that's making waves",
+          "It premiered on April 10, which is pretty recent",
+          "This is Disney+'s biggest K-drama debut so far",
+          "The show's success is putting pressure on Netflix's Korea strategy"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "The K-Drama Scene Just Got More Interesting"
+      },
+      {
+        "type": "p",
+        "text": "Perfect Crown's huge debut on Disney+ is a big deal - it's the streaming service's biggest K-drama launch to date. That's right, this show has already broken records, and it's only been out since April 10. But what's really noteworthy here is that it's turning up the heat on Netflix's plans for Korea. Disney's clearly gunning for the top spot in the K-drama streaming world, and it's not wasting any time."
+      },
+      {
+        "type": "p",
+        "text": "The fact that Perfect Crown is doing so well so quickly is a testament to Disney+'s growing clout in the K-drama scene. But was the show always expected to be this big? Honestly, it's not like we've got a ton of info on that - but what we do know is that it's making a splash. And that's got to be worrying for Netflix, which has been trying to carve out its own space in the Korean market."
+      },
+      {
+        "type": "h2",
+        "text": "What This Means for K-Drama Fans"
+      },
+      {
+        "type": "p",
+        "text": "So, what does this mean for us, the fans? Well, for starters, it means we've got more great K-dramas to look forward to. If Disney+'s willing to invest in shows like Perfect Crown, that's a win for everyone. But it also means the competition between streaming services is about to get fiercer - and that's where things get really interesting. Are we going to see a K-drama streaming war? It's definitely possible."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "But let's take a step back - why is this such a big deal? It's not just about one show or one streaming service. It's about the fact that K-dramas are becoming a major player in the global streaming landscape. And if Disney+ can keep churning out hits like Perfect Crown, that's going to change the game. So, we're watching this space closely - and we can't wait to see what's next. [originally reported by kentertechhub.com](https://www.kentertechhub.com/disneys-k-drama-breakout-turns-up-heat-on-netflixs-korea-strategy/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1783092933618-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Shocking News for K-Drama Fans"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Ham So-won's been hospitalized after a car crash - that's all we know so far.",
+          "The news broke on July 3, 2026, on Instagram.",
+          "It's got 110 likes and 11 comments, but honestly, that's not what's on our minds right now.",
+          "The suddenness of the crash is what's really frightening - what happened?"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "A Star Behind the Wheel"
+      },
+      {
+        "type": "p",
+        "text": "Ham So-won, a name that's become synonymous with great K-drama performances, is now in the hospital. But was the crash really that bad? We don't have all the details yet, and that's what's killing us - the not knowing. All we can do is wait and hope she's okay."
+      },
+      {
+        "type": "h2",
+        "text": "What We Know So Far"
+      },
+      {
+        "type": "p",
+        "text": "It's not a lot, but here it is: the news of Ham So-won's hospitalization was shared on Instagram by zoomtv. That's where we found out about the car crash, and that's all we've got for now. But we're watching, and we're waiting for more info."
+      },
+      {
+        "type": "h2",
+        "text": "The Waiting Game"
+      },
+      {
+        "type": "p",
+        "text": "We're all thinking the same thing - will Ham So-won be okay? That's the question on everyone's mind right now. We don't have the answer yet, but we'll be keeping an eye on this story. [originally reported by zoomtv](https://www.instagram.com/reel/DaU9Mbygm7n/)"
       }
     ],
     "takeaways": []
