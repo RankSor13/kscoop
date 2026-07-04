@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-07-03T15:35:36.006Z
+ * Last updated: 2026-07-04T11:58:51.357Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -6335,6 +6335,166 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       {
         "type": "p",
         "text": "We're all thinking the same thing - will Ham So-won be okay? That's the question on everyone's mind right now. We don't have the answer yet, but we'll be keeping an eye on this story. [originally reported by zoomtv](https://www.instagram.com/reel/DaU9Mbygm7n/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1783166322542-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Kim Soo Hyun's World Turned Upside Down"
+      },
+      {
+        "type": "p",
+        "text": "Kim Soo Hyun's facing major lawsuits - and that's not all, folks. His upcoming Disney+ drama is delayed, and we're talking about a project that was supposed to be one of the biggest releases of the year. But what's going on, exactly?"
+      },
+      {
+        "type": "p",
+        "text": "The news is shocking, to say the least. Kim Soo Hyun's one of the most beloved actors in K-drama land, with a huge following and a string of hit shows under his belt. So, what happened? We don't know all the details yet, but it's clear that this scandal is serious - serious enough to put his career on hold, at least for now."
+      },
+      {
+        "type": "h2",
+        "text": "The Fallout"
+      },
+      {
+        "type": "p",
+        "text": "So, what does this mean for Kim Soo Hyun's fans? Well, for starters, they're going to have to wait a little longer to see their favorite actor on screen. The delay is a bummer, but it's not the only consequence of this scandal. Kim Soo Hyun's reputation is on the line, and it's going to take some serious damage control to fix things."
+      },
+      {
+        "type": "h2",
+        "text": "What's At Stake"
+      },
+      {
+        "type": "p",
+        "text": "But was the comeback too fast? Should Kim Soo Hyun have taken a step back before diving into new projects? Honestly, this is a big deal - and it's not just about the actor himself. The entire K-drama industry is watching, wondering what's going to happen next. Will Kim Soo Hyun be able to bounce back from this scandal, or will it mark the end of an era?"
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by tiktok.com](https://www.tiktok.com/discover/korean-actor-scandal-news)"
+      }
+    ],
+    "takeaways": [
+      "Kim Soo Hyun is facing major lawsuits",
+      "His Disney+ drama has been delayed",
+      "The scandal is serious enough to put his career on hold",
+      "Fans are going to have to wait longer to see him on screen"
+    ]
+  },
+  "live-1783166324533-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Get Ready for a Drama-Packed July"
+      },
+      {
+        "type": "p",
+        "text": "K-drama fans, it's time to clear your schedules because July 2026 is bringing the heat with not one, not two, but ten brand new dramas. That's right, we're talking a whole month of fresh storylines, characters, and plot twists to obsess over."
+      },
+      {
+        "type": "h2",
+        "text": "What's on the Horizon"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal - with so many new dramas dropping, there's bound to be something for every kind of K-drama fan out there. Whether you're into rom-coms, thrillers, or historicals, July's got you covered. The best part? These latest series will be available on a range of platforms, including Netflix, Disney+, tvN, SBS, MBC, ENA, and more, so you can pick your favorite way to watch."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "But was July always going to be this packed? We're not entirely sure, but what we do know is that these new dramas are going to bring some much-needed excitement to our screens. With the variety of genres and platforms on offer, it's looking like July 2026 is set to be an unforgettable month for K-drama enthusiasts. So, what are you most looking forward to? A specific drama, perhaps, or just the thrill of discovering something new?"
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by youtube.com](https://www.youtube.com/watch?v=R4dpZRAFJdg)"
+      }
+    ],
+    "takeaways": [
+      "Ten new Korean dramas are set to premiere in July 2026",
+      "The dramas will be available on multiple platforms, including Netflix and Disney+",
+      "There's a range of genres to choose from, so every K-drama fan will find something they like",
+      "July 2026 is shaping up to be a huge month for K-drama releases"
+    ]
+  },
+  "live-1783166327004-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Halfway Through 2026, K-Drama Frenzy is Real"
+      },
+      {
+        "type": "p",
+        "text": "We're six months into 2026, and honestly, this year's K-drama lineup is already stacked. Can This Love Be Translated? and The Art of Sarah are just a couple of the intriguing titles that have caught fans' attention. But let's be real, the list doesn't stop there - we've also got Boyfriend on Demand, Bloodhounds 2, and Girigo, each offering something unique."
+      },
+      {
+        "type": "h2",
+        "text": "Diving Into the Mix"
+      },
+      {
+        "type": "p",
+        "text": "The variety in genres and themes is what's making 2026 so exciting for K-drama enthusiasts. From the sounds of it, The Wonder Fools and Teach You a Lesson might offer some lighter, more comedic moments, while Notes from the Last Row could provide a deeper, more contemplative watch. It's interesting to see how these different dramas will resonate with audiences. But was the start of the year too overwhelming with so many new shows?"
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "Looking at the list - Can This Love Be Translated?, The Art of Sarah, Boyfriend on Demand, Bloodhounds 2, Girigo, The Wonder Fools, Teach You a Lesson, Notes from the Last Row - it's clear that there's something for everyone. The real question is, how many of these dramas have you managed to keep up with? Are you loving the fast pace of new releases, or feeling a bit overwhelmed?"
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by reddit.com](https://www.reddit.com/r/kdramas/comments/1uiiuyo/were_already_halfway_through_2026_how_many_dramas/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1783166328601-5": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "A K-Pop And Bollywood Crossover We Didn't See Coming"
+      },
+      {
+        "type": "p",
+        "text": "Lisa, the K-pop sensation, and Tamannaah Bhatia, a Bollywood star, just met in Bangkok - and honestly, this is a big deal. We're talking about two huge stars from different parts of the world, coming together in one place. The meeting happened at the ULTIMUNE Studio pop-up event, which was hosted by Shiseido at CentralWorld."
+      },
+      {
+        "type": "p",
+        "text": "The fact that these two icons crossed paths is exciting enough, but what's even more interesting is that it happened in Bangkok, at a beauty event. It's not every day you see K-pop and Bollywood stars attending the same event, let alone meeting and possibly discussing future collaborations. But was this meeting just a casual encounter, or is there something more brewing?"
+      },
+      {
+        "type": "h2",
+        "text": "The Power Of Global Events"
+      },
+      {
+        "type": "p",
+        "text": "Events like the ULTIMUNE Studio pop-up are a great reminder of how small the world can be, even when it comes to different entertainment industries. They bring people together, and you never know what can come out of these meetings. It's possible that Lisa and Tamannaah Bhatia just exchanged pleasantries, but it's also possible that they talked about working together on a project."
+      },
+      {
+        "type": "h2",
+        "text": "What We Know So Far"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "The meeting between Lisa and Tamannaah Bhatia happened in Bangkok.",
+          "It was at the ULTIMUNE Studio pop-up event hosted by Shiseido.",
+          "The event took place at CentralWorld.",
+          "This is a rare instance of a K-pop and Bollywood star meeting in person.",
+          "The possibilities of a future collaboration are endless, but for now, we can just speculate."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "This meeting might seem like a small thing to some, but for fans of K-pop and Bollywood, it's a sign that the boundaries between different entertainment industries are blurring. It's a reminder that music and beauty can bring people together, regardless of where they're from. And who knows, maybe we'll see Lisa and Tamannaah Bhatia collaborating on a project soon - that would be something to look forward to. [originally reported by instagram.com](https://www.instagram.com/reel/DaVb1b8uAml/)"
       }
     ],
     "takeaways": []

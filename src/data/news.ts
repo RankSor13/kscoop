@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1783166322542-1",
+    "slug": "korean-actor-scandal-news-tiktok",
+    "title": "Korean Actor Scandal News | TikTok",
+    "summary": "Kim Soo Hyun Faces Major Lawsuits and Disney+ Delays. Discover the shocking scandal involving Kim Soo Hyun and the impact on his drama release.",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/discover/korean-actor-scandal-news",
+    "date": "5 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1783166324533-2",
+    "slug": "top-10-new-korean-dramas-coming-in-july-2026-with-trailers",
+    "title": "Top 10 NEW Korean Dramas Coming in JULY 2026 | With Trailers!",
+    "summary": "... Korean dramas has something for every K-Drama fan. These latest series are available on Netflix, Disney+, tvN, SBS, MBC, ENA, and more. Whether you're ...",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=R4dpZRAFJdg",
+    "date": "5 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1783166327004-3",
+    "slug": "were-already-halfway-through-2026-how-many-dramas-have-you",
+    "title": "We're already halfway through 2026. How many dramas have you ...",
+    "summary": "Can This Love Be Translated? The Art of Sarah. Boyfriend on Demand. Bloodhounds 2. Girigo. The Wonder Fools. Teach You a Lesson. Notes from the Last Row.",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/kdramas/comments/1uiiuyo/were_already_halfway_through_2026_how_many_dramas/",
+    "date": "5 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1783166328525-4",
+    "slug": "5-new-k-dramas-in-june-2026-to-add-to-your-watch-list-inkistyle",
+    "title": "5 New K-Dramas In June 2026 To Add To Your Watch List - InkiStyle",
+    "summary": "Teach You a Lesson (Kim Moo-Yul) · June 5, 2026 · Netflix · All episodes released on Friday ; See You at Work Tomorrow (Seo In-Guk, Park Ji-Hyun) · June 22, 2026 ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "inkistyle.com",
+    "sourceUrl": "https://inkistyle.com/new-korean-dramas-june-2026/",
+    "date": "6 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1783166328601-5",
+    "slug": "so-glad-to-meet-you-at-central-tamanaah-bhatia",
+    "title": "So glad to meet you at Central ❤️ TAMANAAH BHATIA ...",
+    "summary": "Bollywood star Tamannaah Bhatia and K-pop icon Lisa recently met in Bangkok at the ULTIMUNE Studio pop-up event hosted by Shiseido at CentralWorld. #lisa # ...",
+    "category": "trending",
+    "author": "Mia Kwon",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DaVb1b8uAml/",
+    "date": "1 hour ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1783166331028-6",
+    "slug": "mothership-on-instagram-shes-just-casually-aging",
+    "title": "Mothership on Instagram: \"she's just casually aging ...",
+    "summary": "Fiona Xie was a Mediacorp actress from 2001 to 2009 and became known overseas for her portrayal of Kitty Pong in \"Crazy Rich Asians\". She was recently featured ...",
+    "category": "trending",
+    "author": "Rina Baek",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DaR6k_GP7-B/",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1783092927612-1",
     "slug": "10-of-the-best-new-k-dramas-to-watch-in-july-2026",
     "title": "10 of the best new K-dramas to watch in July 2026",
@@ -3571,7 +3673,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-07-03T15:35:36.006Z";
+export const LAST_UPDATED = "2026-07-04T11:58:51.356Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
