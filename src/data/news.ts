@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1783255786713-1",
+    "slug": "best-2026-korean-dramas-so-far-with-details",
+    "title": "BEST 2026 Korean Dramas So Far (With Details!)",
+    "summary": "Missed some of the biggest and best Kdramas of 2026? We've got you covered! From heart-fluttering romances and thrilling crime mysteries to action-packed ...",
+    "category": "upcoming",
+    "author": "Ji Yeon Park",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=3R0Co_genrI",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1783255789302-2",
+    "slug": "agent-kim-reactivated-sneak-peek-netflix-eng-sub",
+    "title": "Agent Kim Reactivated | SNEAK PEEK | Netflix [ENG SUB]",
+    "summary": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention.",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=9qomDfZD4jU",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1783255791897-3",
+    "slug": "7-new-series-that-will-have-you-hooked-in-july-2026",
+    "title": "7 NEW Series That Will Have You Hooked in JULY 2026",
+    "summary": "If you're looking for your next binge, these are the seven new and returning series arriving in July 2026 that I think have the best chance of completely ...",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=v51nauSwJqk",
+    "date": "6 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1783255794285-4",
+    "slug": "when-their-hands-meet-love-gets-a-little-spooky-park-eun-bin",
+    "title": "when their hands meet, love gets a little spooky. Park Eun-bin ...",
+    "summary": "Park Eun-bin and Yang Se-jong's dangerous romance. occult romance series <Spooky in Love> is coming july 18, only on netflix. #오싹한연애 #SpookyInLove #kdrama ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@netflixkr/video/7657721169583295764",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1783255796119-5",
+    "slug": "top-tv-shows-premiering-in-july-2026-rotten-tomatoes-tv",
+    "title": "Top TV Shows Premiering in July 2026 | Rotten Tomatoes TV",
+    "summary": "Check out trailers for the hot new and returning TV shows coming out in July 2026! ▻ Learn more on Rotten Tomatoes: https://www.rottentoma.",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=nhDhY6VT8u8",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1783255798134-6",
+    "slug": "notes-from-the-last-row-kdrama-guide-and-where-to-watch",
+    "title": "Notes From the Last Row — Kdrama guide and where to watch",
+    "summary": "This brief guide summarizes key search terms and viewing tips for Notes From the Last Row (맨끝줄소년), a Korean drama frequently tagged as ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@netflixkr/video/7656988464046476562",
+    "date": "5 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1783166322542-1",
     "slug": "korean-actor-scandal-news-tiktok",
     "title": "Korean Actor Scandal News | TikTok",
@@ -3673,7 +3775,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-07-04T11:58:51.356Z";
+export const LAST_UPDATED = "2026-07-05T12:50:00.180Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES

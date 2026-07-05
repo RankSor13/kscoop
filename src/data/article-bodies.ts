@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-07-04T11:58:51.357Z
+ * Last updated: 2026-07-05T12:50:00.181Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -6498,5 +6498,227 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       }
     ],
     "takeaways": []
+  },
+  "live-1783255786713-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "What You Missed in 2026"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this year's been a wild ride for K-drama fans, and it's easy to miss some of the best shows. That's why this list is such a big deal - it's got all the heart-fluttering romances, thrilling crime mysteries, and action-packed dramas you might've overlooked. But what's really interesting is the mix of genres it covers, from romantic comedies to intense thrillers."
+      },
+      {
+        "type": "p",
+        "text": "The fact that it includes both heartwarming love stories and gripping mysteries shows just how diverse K-dramas can be. And let's be real, who doesn't love a good action scene? This list seems to have something for everyone, which is part of its appeal. But was it really possible to narrow down the best dramas of 2026 to just a few titles?"
+      },
+      {
+        "type": "h2",
+        "text": "The Big Picture"
+      },
+      {
+        "type": "p",
+        "text": "When you think about it, a list like this is a great way to discover new shows and catch up on ones you might've missed. It's not just about the individual dramas, though - it's about the overall state of K-drama fandom in 2026. What are fans loving this year? What trends are emerging? This list might just hold some clues."
+      },
+      {
+        "type": "h2",
+        "text": "Why It Matters"
+      },
+      {
+        "type": "p",
+        "text": "For fans who feel like they're always playing catch-up, a curated list like this is a lifesaver. It's a chance to see what all the fuss is about and jump into some of the most talked-about dramas of the year. So, what are you waiting for? Check out the best Korean dramas of 2026 and see what you've been missing. [originally reported by youtube.com](https://www.youtube.com/watch?v=3R0Co_genrI)"
+      }
+    ],
+    "takeaways": [
+      "The list covers a range of genres, including romances and crime mysteries",
+      "It highlights some of the most action-packed dramas of 2026",
+      "The selection aims to help viewers catch up on missed titles",
+      "It's focused on the best Korean dramas of the year so far"
+    ]
+  },
+  "live-1783255789302-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Dad You Don't Want to Mess With"
+      },
+      {
+        "type": "p",
+        "text": "When you think of a typical dad, you probably don't imagine someone with black-ops skills - but that's exactly what we're getting with Agent Kim. This unassuming dad's life is turned upside down when his daughter goes missing, and he's forced to dust off his old skills to track her down. But here's the thing: those skills attract some serious attention, and not the good kind."
+      },
+      {
+        "type": "p",
+        "text": "The premise is simple yet intriguing - what happens when a dad's love for his daughter pushes him to become something he thought he'd left behind? It's a story that could go in so many directions, and honestly, this is a big deal. We're talking a dad who's not just a dad, but a highly trained operative with a penchant for getting out of tight spots. But was the decision to reactivate his skills the right one?"
+      },
+      {
+        "type": "h2",
+        "text": "A Deadly Game of Cat and Mouse"
+      },
+      {
+        "type": "p",
+        "text": "As Agent Kim delves deeper into the world he thought he'd left behind, he's got to navigate a complex web of danger and deception. His daughter's disappearance is just the tip of the iceberg, and it's clear that there are forces at play that will stop at nothing to keep him from finding her. But Agent Kim isn't one to back down from a fight - and that's what makes this story so compelling. What's at stake here isn't just his daughter's safety, but his own identity and sense of purpose."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "So what does this mean for Agent Kim, and for the people around him? It means a whole lot of trouble, that's for sure. But it also means a chance for redemption, for making things right, and for finding out what really matters. And let's be real - who doesn't love a good underdog story? We're rooting for Agent Kim, even if he is a little rusty. [originally reported by youtube.com](https://www.youtube.com/watch?v=9qomDfZD4jU)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1783255791897-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Hooked from the Start"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal - we're getting 7 new series in July 2026 that are supposed to be totally binge-worthy. But what's really interesting is that they're a mix of brand new shows and returning favorites. That's right, some of our favorite characters are coming back, and we can't wait to see what they're up to. But was the wait worth it? We'll have to tune in to find out."
+      },
+      {
+        "type": "h2",
+        "text": "The Lineup"
+      },
+      {
+        "type": "p",
+        "text": "So, what can we expect from these 7 series? Unfortunately, we don't have a lot of details yet, but we do know that they're all coming out in July 2026. That's not a lot of time to wait, and we're hoping they'll be worth the anticipation. We're talking sleepless nights, neglected chores, and a whole lot of K-drama love. But which ones will really stand out from the crowd?"
+      },
+      {
+        "type": "h2",
+        "text": "What We're Waiting For"
+      },
+      {
+        "type": "p",
+        "text": "We're not sure what the plots are, or who's starring in them, but we're excited to find out. We're talking K-drama magic here - the kind of shows that make you laugh, cry, and scream at the TV. So, which ones will be your new obsession? We'll just have to wait and see. [originally reported by youtube.com](https://www.youtube.com/watch?v=v51nauSwJqk)"
+      }
+    ],
+    "takeaways": [
+      "7 new series are coming out in July 2026",
+      "These series are a mix of new and returning shows",
+      "They're expected to be super addictive"
+    ]
+  },
+  "live-1783255794285-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Get Ready for a Chilling Romance"
+      },
+      {
+        "type": "p",
+        "text": "Park Eun-bin and Yang Se-jong are teaming up for a spooky romance series, and honestly, this is a big deal. The two talented actors will star in <Spooky in Love>, an occult romance series that's set to send chills down our spines."
+      },
+      {
+        "type": "h2",
+        "text": "The Latest from Netflix"
+      },
+      {
+        "type": "p",
+        "text": "The series is coming to Netflix on July 18, and we can't wait to see what Park Eun-bin and Yang Se-jong have in store for us. It's not every day we get to see a romance series with an occult twist, so this is definitely going to be interesting. But was the pairing of Park Eun-bin and Yang Se-jong always the plan? We're not sure, but we're glad it happened."
+      },
+      {
+        "type": "h2",
+        "text": "What We Know So Far"
+      },
+      {
+        "type": "p",
+        "text": "Here are the key details about <Spooky in Love>:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "The series is an occult romance, which is a pretty unique genre.",
+          "It's starring Park Eun-bin and Yang Se-jong, two of Korea's most beloved actors.",
+          "The series is set to premiere on Netflix on July 18.",
+          "The Korean title of the series is #오싹한연애, which translates to a phrase that implies a thrilling or spooky romance."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "With <Spooky in Love> coming soon, we're excited to see how Park Eun-bin and Yang Se-jong bring this unique story to life. Will their chemistry be enough to make this series a hit? We'll have to wait and see. [originally reported by Netflix Korea](https://www.tiktok.com/@netflixkr/video/7657721169583295764)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1783255796119-5": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Summer Just Got Hotter"
+      },
+      {
+        "type": "p",
+        "text": "We're barely into summer, and July's already shaping up to be a wild ride for K-drama fans - but it's not all about K-dramas this time. Rotten Tomatoes just dropped a sneak peek at the hottest new and returning TV shows premiering in July 2026, and honestly, this is a big deal."
+      },
+      {
+        "type": "h2",
+        "text": "What's Coming"
+      },
+      {
+        "type": "p",
+        "text": "Trailer links are now live on Rotten Tomatoes, giving viewers a first look at what's in store. It's not clear what specific K-dramas are included, but we do know that Rotten Tomatoes is featuring a range of TV shows. But was the announcement too vague? Fans might be a little frustrated that they can't get a full list of the TV shows just yet."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "Given that the news is coming from a YouTube video on Rotten Tomatoes' TV shows, it's likely we're in for a treat. They're usually on point with their recommendations, so it's worth checking out their trailers. That's all we know for now, though - and it's leaving us with more questions than answers. [originally reported by Rotten Tomatoes](https://www.youtube.com/watch?v=nhDhY6VT8u8)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1783255798134-6": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Hooked on Notes From the Last Row"
+      },
+      {
+        "type": "p",
+        "text": "The latest buzz in K-drama land is all about Notes From the Last Row, and honestly, it's about time we got a guide on where to watch it. We're talking a brief, no-nonsense guide that cuts through the clutter and gives you the lowdown on key search terms and viewing tips."
+      },
+      {
+        "type": "h2",
+        "text": "What's the Big Deal?"
+      },
+      {
+        "type": "p",
+        "text": "So, what makes Notes From the Last Row so special? For starters, it's been frequently tagged as... well, that's about all we know for now. But let's be real, who doesn't love a good K-drama mystery? The fact that we're getting a guide on how to watch it is a big deal in itself. It's like the K-drama gods are smiling down on us, saying, \"Hey, we know you're interested, so here's how you can get your fix.\""
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "But was this guide really necessary? Don't get me wrong, I'm all for making K-dramas more accessible, but Notes From the Last Row isn't exactly a new release. That being said, it's always exciting to see K-dramas getting more attention, and if a guide is what it takes to get more people watching, then so be it. Maybe this is just the push Notes From the Last Row needs to become the next big thing."
+      },
+      {
+        "type": "h2",
+        "text": "Where Things Stand Now"
+      },
+      {
+        "type": "p",
+        "text": "As it stands, we've got a guide, and that's about it. We're still waiting to see what all the fuss is about, but hey, at least we've got a starting point. If you're as curious as I am, you can check out the guide on Netflix Korea's TikTok page. Who knows, you might just discover your new favorite K-drama. [originally reported by tiktok.com](https://www.tiktok.com/@netflixkr/video/7656988464046476562)"
+      }
+    ],
+    "takeaways": [
+      "Notes From the Last Row has its own guide on TikTok",
+      "The guide covers key search terms and viewing tips",
+      "It's frequently tagged, but we don't know what for yet",
+      "You can find the guide on Netflix Korea's TikTok page",
+      "The guide is a game-changer for K-drama fans"
+    ]
   }
 };
