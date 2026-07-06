@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1783360532930-1",
+    "slug": "2026-box-office-supergirl-2nd-weekend-drop-74-james",
+    "title": "2026 Box Office - Supergirl 2nd Weekend Drop 74%, James ...",
+    "summary": "2026 Box Office Breakdown today! a look at Netflix, Disney Plus, Apple TV, Max, Peacock and more!",
+    "category": "upcoming",
+    "author": "Ji Yeon Park",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=uQoiP1ZeUxs",
+    "date": "18 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1783360537143-2",
+    "slug": "series-pritam-and-pedro-2026-pritam-and-pedro-is-a",
+    "title": "Series: Pritam and Pedro (2026) Pritam and Pedro is a ...",
+    "summary": "Releasing on 10 July on Netflix Ikka is a legal thriller that follows Sikandar Mehra, a celebrated defense lawyer who is forced to defend",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DaXzCmRiYNn/",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1783360539619-3",
+    "slug": "netflix-the-east-palace-official-trailer-premieres-july-17-r",
+    "title": "Netflix 'The East Palace' Official Trailer (Premieres July 17) : r ...",
+    "summary": "Netflix 'The East Palace' Official Trailer (Premieres July 17) actors and supernatural thriller premises,",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/KDRAMA/comments/1uk5yna/netflix_the_east_palace_official_trailer/",
+    "date": "5 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1783360541370-4",
+    "slug": "my-all-time-favorite-couple-thenextprince",
+    "title": "my all time favorite couple💕 #TheNextPrince ...",
+    "summary": "Perfect Crown (2026) is a highly anticipated Korean romantic-political drama airing from April 10, 2026, on MBC and Disney+. Starring IU and Byeon Woo-seok,",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@iqiyius/video/7658331884736269584",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1783360543669-5",
+    "slug": "is-that-rupunzel-and-flynn-rider-this-is-us-20162022-the",
+    "title": "is that Rupunzel and Flynn Rider This Is Us (2016–2022): The ...",
+    "summary": "12K likes, 68 comments - netflixnmovies on July 5, 2026: \"is that Rupunzel and Flynn Rider This Is Us (2016–2022): The lives of the Pearson family unfold ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DabNQ9Vhzam/",
+    "date": "21 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1783360545577-6",
+    "slug": "july-releases-on-prime-video-hbo-netflix-disney-and",
+    "title": "JULY Releases on Prime Video, HBO, Netflix, Disney, and ...",
+    "summary": "The biggest streaming and cinema premieres of July 2026. Netflix, HBO Max, Disney Plus, Disney+ Releases in July 2026",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=N_Z9U9XVMo4",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1783255786713-1",
     "slug": "best-2026-korean-dramas-so-far-with-details",
     "title": "BEST 2026 Korean Dramas So Far (With Details!)",
@@ -3775,7 +3877,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-07-05T12:50:00.180Z";
+export const LAST_UPDATED = "2026-07-06T17:55:48.390Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES

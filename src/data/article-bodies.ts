@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-07-05T12:50:00.181Z
+ * Last updated: 2026-07-06T17:55:48.391Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -6719,6 +6719,258 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       "It's frequently tagged, but we don't know what for yet",
       "You can find the guide on Netflix Korea's TikTok page",
       "The guide is a game-changer for K-drama fans"
+    ]
+  },
+  "live-1783360532930-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Box Office Bomb"
+      },
+      {
+        "type": "p",
+        "text": "The 2026 box office just got a whole lot more interesting, and honestly, it's not looking great for Supergirl - it's dropped a whopping 74% in its second weekend. That's a pretty steep fall, but what's even more surprising is that this news is part of a broader look at the current state of streaming platforms like Netflix, Disney Plus, Apple TV, Max, and Peacock."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "When you consider the fact that we're getting a breakdown of the 2026 box office, including multiple streaming services, it's clear that this isn't just about one movie's poor performance. We're talking about a comprehensive look at how people are consuming media right now. What does this say about our viewing habits? Are we over superhero movies, or is Supergirl just not cutting it?"
+      },
+      {
+        "type": "h2",
+        "text": "What's At Stake"
+      },
+      {
+        "type": "p",
+        "text": "The fact that we're seeing such a significant drop for Supergirl raises some questions about the future of these types of films. But was the comeback too fast? Maybe we just need something new and exciting to shake things up. One thing's for sure, though - this box office breakdown is giving us a lot to think about, from the rise of streaming services to the fall of certain franchises."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by youtube.com](https://www.youtube.com/watch?v=uQoiP1ZeUxs)"
+      }
+    ],
+    "takeaways": [
+      "Supergirl's second weekend saw a 74% drop at the box office",
+      "The 2026 box office breakdown includes data from Netflix, Disney Plus, Apple TV, Max, and Peacock",
+      "This news is part of a larger look at current viewing habits and streaming trends",
+      "The breakdown is available on YouTube"
+    ]
+  },
+  "live-1783360537143-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "That Netflix Release Date Though"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Pritam and Pedro isn't the show we're talking about - it's Ikka, a legal thriller",
+          "Ikka follows Sikandar Mehra, a defense lawyer with a reputation",
+          "The show is set to release on Netflix",
+          "It's coming out on 10 July, which is pretty soon"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Legal Thrills Ahead"
+      },
+      {
+        "type": "p",
+        "text": "Ikka's release on Netflix is just around the corner, and honestly, this is a big deal. We're getting a legal thriller that follows Sikandar Mehra, a celebrated defense lawyer. But what's really caught our attention is the premise - Sikandar's forced to defend someone, and we can't help but wonder who and why."
+      },
+      {
+        "type": "p",
+        "text": "The fact that it's a legal thriller already has us hooked, but the character of Sikandar Mehra sounds like he's going to be a compelling watch. What kind of cases has he defended in the past, and how will this new one challenge him? So many questions, and we're eager for answers."
+      },
+      {
+        "type": "h2",
+        "text": "The Waiting Game"
+      },
+      {
+        "type": "p",
+        "text": "We don't have to wait too long to find out more, thankfully. Ikka's release date is set for 10 July on Netflix, which means we've got just a few weeks to go. That's not a lot of time, but it's enough to build up some serious anticipation. Will Ikka live up to our expectations, or will it fall flat?"
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "One thing's for sure - the legal thriller genre is always a hit, and with a strong lead character like Sikandar Mehra, Ikka's got a good chance of succeeding. We're looking forward to seeing how the show plays out, and whether it'll keep us on the edge of our seats. But was the decision to release it in July a strategic one, or just a coincidence?"
+      },
+      {
+        "type": "h2",
+        "text": "What We Know So Far"
+      },
+      {
+        "type": "p",
+        "text": "For now, we know that Ikka's a legal thriller, it follows Sikandar Mehra, and it's releasing on Netflix on 10 July. That's about it, but it's enough to pique our interest. We're excited to see how the show develops, and whether it'll become our new obsession. [originally reported by instagram.com](https://www.instagram.com/reel/DaXzCmRiYNn/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1783360539619-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Get Ready for a Spine-Chilling Summer"
+      },
+      {
+        "type": "p",
+        "text": "The wait's almost over - Netflix's 'The East Palace' is premiering on July 17, and we're not just excited, we're intrigued. What's caught our attention isn't just the talented cast, but the fact that it's a supernatural thriller. Because, honestly, who doesn't love a good scare?"
+      },
+      {
+        "type": "h2",
+        "text": "Supernatural Thrills Ahead"
+      },
+      {
+        "type": "p",
+        "text": "So, what can we expect from 'The East Palace'? Given it's a supernatural thriller, we're hoping for a mix of suspense, intrigue, and maybe a few jump scares. The cast, while not named, is described as talented, which bodes well for the drama's potential to deliver compelling characters and storylines. But was the decision to go with a supernatural theme a strategic move to stand out in the crowded K-drama landscape?"
+      },
+      {
+        "type": "h2",
+        "text": "The Trailer's Out - Now What?"
+      },
+      {
+        "type": "p",
+        "text": "With the official trailer out, fans are getting their first glimpse into the world of 'The East Palace'. While we don't have details on the plot or the characters, the mere fact that it's a supernatural thriller has piqued our interest. Will it live up to the hype, or will it fall into familiar tropes? We'll have to wait until July 17 to find out."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "As we count down to the premiere, one thing's for sure - 'The East Palace' is going to be a wild ride. With its unique blend of supernatural elements and what promises to be a talented cast, it's shaping up to be a must-watch for fans of the genre. And who knows, it might just become the surprise hit of the summer. [originally reported by reddit](https://www.reddit.com/r/KDRAMA/comments/1uk5yna/netflix_the_east_palace_official_trailer/)"
+      }
+    ],
+    "takeaways": [
+      "'The East Palace' is set to premiere on July 17 on Netflix.",
+      "The drama features a talented cast, though specifics aren't mentioned.",
+      "It's a supernatural thriller, which promises a unique viewing experience.",
+      "The official trailer has been released, generating buzz among fans."
+    ]
+  },
+  "live-1783360541370-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Royal Treatment"
+      },
+      {
+        "type": "p",
+        "text": "IU and Byeon Woo-seok are teaming up for a new drama, and honestly, this is a big deal - they're starring in Perfect Crown, a Korean romantic-political drama that's got everyone talking. The fact that it's airing on both MBC and Disney+ from April 10, 2026, is pretty cool, but what's really got fans excited is the pairing of these two talented leads."
+      },
+      {
+        "type": "p",
+        "text": "But was the announcement of Perfect Crown's air date and casting enough to get fans hyped? It seems like it, considering the buzz on social media. The fact that IU and Byeon Woo-seok are working together is a dream come true for many K-drama fans. They're both known for their talent and dedication to their craft, so it's no surprise that people are eager to see what they'll bring to the table in Perfect Crown."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "Perfect Crown's premise may not be entirely clear yet, but with IU and Byeon Woo-seok on board, it's likely to be a compelling watch. We're talking about two actors who have proven their range in various projects, so it's exciting to think about what they'll do with a romantic-political drama. But what does this mean for K-drama fans? For starters, it's a chance to see some amazing performances and potentially experience a unique storyline."
+      },
+      {
+        "type": "h2",
+        "text": "What's Next for Perfect Crown"
+      },
+      {
+        "type": "p",
+        "text": "As the air date approaches, we can expect more updates on the drama's plot and the characters IU and Byeon Woo-seok will play. For now, though, it's all about anticipation and excitement - will Perfect Crown live up to the hype? Only time will... no, scratch that - we're just going to have to wait and see. [originally reported by tiktok.com](https://www.tiktok.com/@iqiyius/video/7658331884736269584)"
+      }
+    ],
+    "takeaways": [
+      "Perfect Crown is a romantic-political drama, which is an interesting genre combo",
+      "IU and Byeon Woo-seok are the main stars, and their chemistry is already highly anticipated",
+      "The drama airs on MBC and Disney+, giving it a wide reach",
+      "The air date is set for April 10, 2026, so mark your calendars"
+    ]
+  },
+  "live-1783360543669-5": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "What's Going On Here?"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "The Instagram post has 12K likes, which isn't bad for a random observation",
+          "It's comparing characters from a completely different franchise to This Is Us",
+          "The post has 68 comments, so people are definitely talking about it",
+          "The account that posted this is called netflixnmovies, which is pretty on-brand"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "A Bizarre Comparison"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, who wouldn't do a double take when they see someone comparing Rapunzel and Flynn Rider to This Is Us? It's not every day you see a K-drama fan (or maybe just a Disney fan?) drawing parallels between a beloved animated movie and a hit family drama. But was the comeback too fast? Is this just a slow news day, or is there really something to this comparison?"
+      },
+      {
+        "type": "h2",
+        "text": "The Instagram Post"
+      },
+      {
+        "type": "p",
+        "text": "The post itself is pretty short, but it's sparked a lot of conversation. With 68 comments, it's clear that people have opinions about this. But what do they think - are they loving the creativity of this comparison, or are they just plain confused? That's what we're left wondering after seeing this post from netflixnmovies."
+      },
+      {
+        "type": "h2",
+        "text": "So, What's Next?"
+      },
+      {
+        "type": "p",
+        "text": "It's not like we're going to see a K-drama adaptation of Tangled or anything, but it's fun to imagine what could be. Maybe this post will inspire some fanfiction or something - who knows? [originally reported by netflixnmovies](https://www.instagram.com/reel/DabNQ9Vhzam/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1783360545577-6": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Get Ready for a Summer Splash"
+      },
+      {
+        "type": "p",
+        "text": "The most exciting news for K-drama fans isn't a new show announcement - it's that July is packed with releases on all the major streaming platforms. We're talking Prime Video, HBO, Netflix, Disney, and more - they're all bringing the heat."
+      },
+      {
+        "type": "h2",
+        "text": "Streaming Showdown"
+      },
+      {
+        "type": "p",
+        "text": "But what's really interesting here is that all these platforms are going head-to-head in July. Netflix, HBO Max, and Disney Plus are usually the ones to watch, but now they've got company. And let's be real, who doesn't love a little competition? It means more variety for us, the viewers. We're not getting any specific details on what's coming, but honestly, this is a big deal. The fact that all these streaming giants are dropping new content at the same time is going to make for a thrilling month."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "So, what does this mean for K-drama fans? Well, for starters, we've got a lot to look forward to. The fact that July is packed with releases on Prime Video, HBO, Netflix, Disney, and more means we'll have plenty of options to choose from. But was the buildup to this month too quiet? We're only just finding out about all these releases now, which is a bit surprising. It's not like we're complaining or anything - we're just excited to see what's in store. And who knows, maybe this is just the beginning of a summer filled with K-drama goodness."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by youtube.com](https://www.youtube.com/watch?v=N_Z9U9XVMo4)"
+      }
+    ],
+    "takeaways": [
+      "July is going to be a huge month for streaming releases",
+      "All major platforms, including Prime Video, HBO, and Netflix, are dropping new content",
+      "Disney Plus is also joining the fray with its own releases",
+      "We don't have specifics on what's coming, but it's going to be a wild ride"
     ]
   }
 };
