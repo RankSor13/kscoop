@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-07-06T17:55:48.391Z
+ * Last updated: 2026-07-07T16:44:21.797Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -6972,5 +6972,206 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       "Disney Plus is also joining the fray with its own releases",
       "We don't have specifics on what's coming, but it's going to be a wild ride"
     ]
+  },
+  "live-1783442649014-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Wait Begins"
+      },
+      {
+        "type": "p",
+        "text": "Netflix's upcoming K-drama KIN AND SIN has already wrapped filming - yeah, you read that right, it's done! This news is pretty surprising, especially since we're still waiting for an official release date."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "The drama finished filming in June 2026, which is crazy to think about, considering we're still waiting to hear more about it.",
+          "There's no official word on when we can expect to see KIN AND SIN on our screens.",
+          "The lack of a release date hasn't stopped fans from getting excited, though.",
+          "We're all still in the dark about what the show's actually about, but that's not stopping the hype."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "So, what do we know about KIN AND SIN? Honestly, not much - but that's what makes this so intriguing. We know it's a K-drama, and it's coming to Netflix, which is basically all we need to get started. But was the filming process rushed? It's hard to say, since we don't have any details about the production schedule."
+      },
+      {
+        "type": "h2",
+        "text": "The Mystery Deepens"
+      },
+      {
+        "type": "p",
+        "text": "The fact that KIN AND SIN has finished filming without a peep about the plot or cast is kind of amazing. It's like they're trying to keep everything under wraps until the very last minute. We're not complaining, though - the suspense is actually pretty fun. But what's the holdup on the release date? Are they still editing, or is something else going on?"
+      },
+      {
+        "type": "h2",
+        "text": "What's Next for KIN AND SIN"
+      },
+      {
+        "type": "p",
+        "text": "It's clear that Netflix is trying to build some buzz around this show, even if they're not giving us much to go on. And you know what? It's working. We're basically dying to know more about KIN AND SIN at this point. [originally reported by What's On Netflix](https://www.facebook.com/whatsonnetflix/posts/netflixs-upcoming-k-drama-kin-and-sin-wrapped-filming-in-june-2026-while-there-i/1481491417325513/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1783442651503-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Get Ready for a Drama-Packed July"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Love In Sync is coming to U+Mobile and Disney+ on July 4",
+          "The Husband will premiere on KBS2 and Disney+ on the same day",
+          "Family Register is set to air on MBC and Kocowa+ on July 6",
+          "All three dramas are lined up for release within the first week of July"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Scheduling Showdown"
+      },
+      {
+        "type": "p",
+        "text": "July's going to be a wild ride for K-drama fans, with not one, not two, but three highly anticipated shows premiering in the first week alone. We're talking Love In Sync on U+Mobile and Disney+, The Husband on KBS2 and Disney+, and Family Register on MBC and Kocowa+ - all packed into a short span. But was the decision to release them so close together a smart move? It's definitely going to be interesting to see how they stack up against each other."
+      },
+      {
+        "type": "p",
+        "text": "The Husband and Love In Sync are dropping on the same day, July 4, which might split the audience's attention. But hey, more drama is always a good thing, right? On the other hand, Family Register gets a bit of a breathing room, airing two days later on July 6. Will that give it an edge, or will the other two dramas have already stolen the spotlight?"
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "It's not every day we see such a tight scheduling of K-dramas, especially when they're all set to stream on popular platforms like Disney+. This could be a game-changer for the way we consume K-dramas - are we moving towards a more Netflix-style release schedule? Only time will... just kidding, we don't have to wait that long. We'll find out soon enough how these dramas perform and what it means for the future of K-drama releases."
+      },
+      {
+        "type": "h2",
+        "text": "What Fans Are Saying"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal - fans are already buzzing about which drama they'll be watching first. But one thing's for sure: July's going to be an exciting month for K-drama enthusiasts. [originally reported by instagram.com](https://www.instagram.com/reel/DaQ4fL_ubDq/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1783442653820-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Disney's K-Drama Game-Changer"
+      },
+      {
+        "type": "p",
+        "text": "The most surprising thing about Disney's 2026 lineup isn't a Marvel movie or a Star Wars show - it's their K-drama momentum. Honestly, who wouldn't be excited about that? We're talking about some of the most welcome surprises of the year, and it's all thanks to Disney's growing investments in Korean drama."
+      },
+      {
+        "type": "h2",
+        "text": "What's Behind the Buzz"
+      },
+      {
+        "type": "p",
+        "text": "So, what's driving this momentum? For starters, there's Perfect Crown, a standout K-drama that's getting a lot of love. But was it just a one-off, or is Disney really committed to bringing more K-drama goodness to our screens? That's the question on every fan's mind right now."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "Disney's move into K-drama territory is a big deal, and we're not just talking about the fans - the entire industry is watching. But what does it mean for the future of K-drama? Will we see more collaborations, more international releases, or maybe even some Disney-backed K-drama originals? The possibilities are endless, and we can't wait to see what's next."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by kentertechhub.com](https://www.kentertechhub.com/disney-builds-k-drama-momentum-as-netflix-deal-news-fades/)"
+      }
+    ],
+    "takeaways": [
+      "Disney's investments in Korean drama are producing some of the most welcome surprises of 2026",
+      "Perfect Crown is a standout K-drama that's getting a lot of attention",
+      "Disney's move into K-drama territory is a big deal for the entire industry",
+      "The future of K-drama could involve more collaborations and international releases"
+    ]
+  },
+  "live-1783442656047-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Summer of K-Dramas Heats Up"
+      },
+      {
+        "type": "p",
+        "text": "July is usually a big month for K-dramas, and this year isn't any different. With dozens of new limited series popping up, it can get pretty overwhelming trying to keep track of what's coming out and where. But let's start with the most interesting part: The Husband, a thriller that's already got everyone's attention. It stars Namkoong Min and Lee Seol as a married couple whose relationship is put to the test when the wife gets kidnapped. Namkoong Min plays neurosurgeon Kang Tae-ju, who's not just trying to rescue his wife but also navigate a complex conspiracy. That's some serious drama right there."
+      },
+      {
+        "type": "p",
+        "text": "The Husband initially aired on KBS2 on July 4, but for international fans, it's coming to Disney+/Hulu on July 9. That's something to look forward to, especially if you're into thrillers with a personal twist. But what about other genres? Well, Love In Sync is here to bring some romance to the table. It's got Kang Min-ah and Kim Myung-soo starring in it, and it's their first rom-com together. Kang Min-ah was just seen in Bloodhounds season 2, so it's exciting to see her take on a different role so soon."
+      },
+      {
+        "type": "h2",
+        "text": "A Month of Variety"
+      },
+      {
+        "type": "p",
+        "text": "July 2026 is really offering something for everyone. From thrillers like The Husband to rom-coms like Love In Sync, the variety is pretty impressive. And let's not forget about the ongoing shows like Agent Kim Reactivated on Netflix. It's a great time to be a K-drama fan, with so many talented actors and actresses taking on new and exciting roles. But was the timing of these releases strategic, or is it just a coincidence that we're getting so many great shows at once? Either way, viewers are definitely winning here."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "As the K-drama landscape continues to evolve, it's interesting to see how different streaming platforms are stepping up their game. Disney+/Hulu getting The Husband is a big deal, and the fact that Love In Sync is listed on Disney+ internationally (even if its streaming details are still unclear) shows that these platforms are recognizing the value of K-dramas. So, what does this mean for fans? More access to the shows they love, hopefully. And who knows, maybe we'll see even more collaborations and crossovers in the future. [originally reported by screenrant.com](https://screenrant.com/every-k-drama-netflix-hulu-viki-streaming-july-2026/)"
+      }
+    ],
+    "takeaways": [
+      "The Husband, a thriller K-drama, is set to stream on Disney+/Hulu starting July 9, starring Namkoong Min and Lee Seol.",
+      "Love In Sync, a rom-com, will feature Kang Min-ah and Kim Myung-soo, although its streaming platform isn't fully confirmed yet.",
+      "July 2026 is shaping up to be a busy month for K-drama releases, with a wide range of genres and talents involved.",
+      "Netflix already has ongoing hits like Agent Kim Reactivated, making this summer exciting for viewers."
+    ]
+  },
+  "live-1783442660008-6": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Get Ready For 2026's Hottest K-Dramas"
+      },
+      {
+        "type": "p",
+        "text": "We're barely into the new year, but it's already looking like 2026 is going to be an epic year for K-drama fans - and honestly, it's all thanks to the incredible lineup of shows coming our way. Can This Love Be Translated? is just one of the many dramas we can't wait to binge, and with Yoo Young-eun at the helm, it's bound to be a wild ride. But what really caught our attention is that it's heading straight to Netflix, making it easy for fans worldwide to tune in."
+      },
+      {
+        "type": "h2",
+        "text": "A Star-Studded Year Ahead"
+      },
+      {
+        "type": "p",
+        "text": "So, what makes Can This Love Be Translated? so special? For starters, Yoo Young-eun is a director known for pushing boundaries, and with this drama, they're not holding back. And let's be real, the fact that it's landing on Netflix is a big deal - it means we can expect top-notch production quality and maybe even some surprises along the way. But was the decision to go with Netflix a strategic move to reach a broader audience, or is it just a sign of the times?"
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "As we look at the list of upcoming K-dramas, it's clear that 2026 is shaping up to be a year of experimentation and innovation. With so many talented directors and writers on board, we're expecting big things - and we're not the only ones. Fans are already buzzing with excitement, and it's not hard to see why. But what's really driving this surge in creativity, and how will it impact the K-drama landscape as a whole?"
+      },
+      {
+        "type": "h2",
+        "text": "What Fans Are Saying"
+      },
+      {
+        "type": "p",
+        "text": "We're just a few months into 2026, and already the anticipation is building. Fans are taking to social media to speculate about Can This Love Be Translated? and the other upcoming dramas, and it's clear that there's a lot of love out there for K-dramas. So, what are you most looking forward to in 2026's K-drama lineup? Let's discuss! [originally reported by imdb.com](https://www.imdb.com/de/news/ni65641464/)"
+      }
+    ],
+    "takeaways": []
   }
 };

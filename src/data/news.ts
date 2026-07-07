@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1783442649014-1",
+    "slug": "netflixs-upcoming-k-drama-kin-and-sin-wrapped-filming",
+    "title": "Netflix's upcoming K-drama KIN AND SIN wrapped filming ...",
+    "summary": "Netflix's upcoming K-drama KIN AND SIN wrapped filming in June 2026. While there is no official confirmation of a release date, it has been reported that...",
+    "category": "upcoming",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/whatsonnetflix/posts/netflixs-upcoming-k-drama-kin-and-sin-wrapped-filming-in-june-2026-while-there-i/1481491417325513/",
+    "date": "2026-07-07",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1783442651503-2",
+    "slug": "upcoming-k-dramas-for-july-2026-0407-love-in-sync",
+    "title": "Upcoming K-Drama's for July 2026 🥰 04/07: Love In Sync ...",
+    "summary": "Upcoming K-Drama's for July 2026 04/07: Love In Sync (U+Mobile/Disney+) 04/07: The Husband (KBS2/Disney+) 06/07: Family Register (MBC/Kocowa+)",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DaQ4fL_ubDq/",
+    "date": "2026-07-07",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1783442653820-3",
+    "slug": "disney-builds-k-drama-momentum-as-netflix-deal-news",
+    "title": "Disney Builds K-Drama Momentum as Netflix Deal News ...",
+    "summary": "The outlet says Disney's growing investments in Korean drama have produced some of its most welcome surprises of 2026, with Perfect Crown cited as a standout.",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "kentertechhub.com",
+    "sourceUrl": "https://www.kentertechhub.com/disney-builds-k-drama-momentum-as-netflix-deal-news-fades/",
+    "date": "לפני 6 ימים",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1783442656047-4",
+    "slug": "every-k-drama-coming-to-netflix-hulu-and-more-in-july",
+    "title": "Every K-Drama Coming To Netflix, Hulu, And More In July ...",
+    "summary": "The Husband. K-Dramas Releasing in July 2026 The Husband. Where to Stream: Disney+/Hulu (July 9) ; Love In Sync. K-Dramas Releasing in July 2026 Love in Sync.",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "screenrant.com",
+    "sourceUrl": "https://screenrant.com/every-k-drama-netflix-hulu-viki-streaming-july-2026/",
+    "date": "לפני יומיים (2)",
+    "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/07/k-dramas-coming-out-july-2026.png?w=1600&amp;h=900&amp;fit=crop",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1783442659824-5",
+    "slug": "10-most-bingeable-k-dramas-of-2026-so-far",
+    "title": "10 most bingeable K-dramas of 2026 so far",
+    "summary": "From body-swap comedies to dark legal thrillers, 2026 has already delivered some of the most bingeable K-dramas in years — here are the 10 Korean series you ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "tatlerasia.com",
+    "sourceUrl": "https://www.tatlerasia.com/lifestyle/entertainment/most-bingeable-k-dramas-2026",
+    "date": "לפני 11 שעות",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1783442660008-6",
+    "slug": "10-upcoming-k-dramas-in-2026-you-cant-miss",
+    "title": "10 Upcoming K-Dramas In 2026 You Can't Miss",
+    "summary": "Here is our list of 10 K-dramas we're looking forward to watching in 2026. 1. Can This Love Be Translated? Director: Yoo Young-eun Where To Watch: Netflix ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "imdb.com",
+    "sourceUrl": "https://www.imdb.com/de/news/ni65641464/",
+    "date": "לפני 6 ימים",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1783360532930-1",
     "slug": "2026-box-office-supergirl-2nd-weekend-drop-74-james",
     "title": "2026 Box Office - Supergirl 2nd Weekend Drop 74%, James ...",
@@ -3877,7 +3979,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-07-06T17:55:48.390Z";
+export const LAST_UPDATED = "2026-07-07T16:44:21.795Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
