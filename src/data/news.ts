@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1783516734068-1",
+    "slug": "new-on-disney-july-2026",
+    "title": "New on Disney+ | July 2026",
+    "summary": "Here's a sneak peek at what's coming to Disney+ and Hulu on Disney+ for bundle subscribers in July 2026: July 1 – X-Men '97 (Season 2 | Premiere) July 2 ...",
+    "category": "upcoming",
+    "author": "Ji Yeon Park",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=mDTmPsIE1sM",
+    "date": "6 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1783516736966-2",
+    "slug": "questions-will-be-answered-soon-before-your-next",
+    "title": "Questions will be answered soon. Before your next ...",
+    "summary": "Questions will be answered soon. Before your next assignment, review the first 3 episodes of #AShopForKillersS1 on YouTube, then catch the rest on #DisneyPlusPH ...",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@disneyplusph/video/7659554946777369869",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1783516739073-3",
+    "slug": "a-shop-for-killers-season-2-main-trailer-disney-singapore",
+    "title": "A Shop For Killers Season 2 | Main Trailer | Disney+ Singapore",
+    "summary": "The stakes are higher this time Jeong Jinman and Jian return in #AShopForKillers Season 2, premiering 22 July on #DisneyPlusSG.",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=nAi7-LpeoBE",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1783516741512-4",
+    "slug": "fact-gold-land-20262026-written-by-hwang-jo-yoon",
+    "title": "Fact: Gold Land (2026–2026) — Written by Hwang Jo-yoon ...",
+    "summary": "Informasi Gold Land (2026) : ‌Type: TV Series ‌Status: Ongoing ‌Season: 1 ‌Episode Count: 10 ‌First Air Date: April 29th, 2026 ‌Country: South Korea",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/Daa0RfAhEQc/",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1783516743852-5",
+    "slug": "descendants-wicked-wonderland-official-trailer-available",
+    "title": "Descendants: Wicked Wonderland | Official Trailer | Available ...",
+    "summary": "Down the rabbit hole they go ✨ Descendants: #WickedWonderland premieres July 17 on @DisneyPlusCA.",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=VmPiwIVcvqU",
+    "date": "23 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1783516746633-6",
+    "slug": "bts-final-of-tophs-grand-entrance-avatar-the-last",
+    "title": "BTS → final of Toph's grand entrance 📺 AVATAR: THE LAST ...",
+    "summary": "At its core, it follows a privileged New Yorker, Piper Chapman, who is sentenced to a minimum-security women's prison due to a past crime involving drug ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@netflixgeeked/video/7657559917137530126",
+    "date": "6 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1783442649014-1",
     "slug": "netflixs-upcoming-k-drama-kin-and-sin-wrapped-filming",
     "title": "Netflix's upcoming K-drama KIN AND SIN wrapped filming ...",
@@ -3979,7 +4081,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-07-07T16:44:21.795Z";
+export const LAST_UPDATED = "2026-07-08T13:19:08.984Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES

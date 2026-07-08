@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-07-07T16:44:21.797Z
+ * Last updated: 2026-07-08T13:19:08.985Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -7170,6 +7170,245 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       {
         "type": "p",
         "text": "We're just a few months into 2026, and already the anticipation is building. Fans are taking to social media to speculate about Can This Love Be Translated? and the other upcoming dramas, and it's clear that there's a lot of love out there for K-dramas. So, what are you most looking forward to in 2026's K-drama lineup? Let's discuss! [originally reported by imdb.com](https://www.imdb.com/de/news/ni65641464/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1783516734068-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Disney+ Is Bringing The Heat"
+      },
+      {
+        "type": "p",
+        "text": "X-Men '97 Season 2 is dropping on July 1, and honestly, this is a big deal - we're talking a major franchise with a dedicated fan base. But what's interesting isn't just the premiere itself, it's the fact that Disney+ is consistently delivering new content to keep subscribers engaged. And let's not forget, if you're a bundle subscriber, you also get access to Hulu content on Disney+, which is a pretty sweet deal."
+      },
+      {
+        "type": "p",
+        "text": "The specifics of what's coming after X-Men '97 are a bit scarce, but we do know July 2 has something in store for us. It's not clear what that is just yet, but given the momentum Disney+ has been building, it's likely to be something worth watching. The question is, can they keep this pace up? But was the decision to release so soon after the first season a strategic move to capitalize on the existing buzz?"
+      },
+      {
+        "type": "h2",
+        "text": "Looking At The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "Given the lack of details on what's releasing on July 2, fans are left to speculate. Is it another season of a popular show, or perhaps a new series altogether? Whatever it is, Disney+ seems to be on a roll, and we're here for it. The real test will be whether they can maintain this level of quality and excitement throughout the year."
+      },
+      {
+        "type": "h2",
+        "text": "What Fans Are Saying"
+      },
+      {
+        "type": "p",
+        "text": "Fans are eagerly speculating about what July 2 could bring, with some hoping for more Marvel content and others wishing for something entirely new. But one thing's for sure - with X-Men '97 Season 2 premiering on July 1, Disney+ is starting the month off strong. [originally reported by youtube.com](https://www.youtube.com/watch?v=mDTmPsIE1sM)"
+      }
+    ],
+    "takeaways": [
+      "X-Men '97 Season 2 is premiering on Disney+ in July 2026",
+      "The premiere date for X-Men '97 Season 2 is July 1",
+      "Hulu content is available on Disney+ for bundle subscribers",
+      "July 2 will see another release, though details aren't specified"
+    ]
+  },
+  "live-1783516736966-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Wait Is Almost Over"
+      },
+      {
+        "type": "p",
+        "text": "We're finally getting some answers, and honestly, this is a big deal - Questions will be answered soon, and it's all about #AShopForKillersS1. Before you dive back in, you've got some homework to do: review the first 3 episodes on YouTube."
+      },
+      {
+        "type": "h2",
+        "text": "Catching Up"
+      },
+      {
+        "type": "p",
+        "text": "But here's the thing: after you're all caught up on those initial episodes, you'll need to head to #DisneyPlusPH to catch the rest. It's not a huge surprise, given the platform's been expanding its K-drama offerings, but it's still exciting to see what's in store."
+      },
+      {
+        "type": "h2",
+        "text": "What's Next"
+      },
+      {
+        "type": "p",
+        "text": "So, what can we expect from the rest of the series? That's the million-dollar question, and thankfully, we won't have to wait too much longer to find out. With the first 3 episodes available on YouTube, it's clear that Disney Plus PH is trying to hook us from the start - and it's working."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "But was this move to split the episodes between YouTube and Disney Plus PH a strategic one? It's definitely got people talking, and we're not complaining - more K-drama content is always a good thing. Now, let's get reviewing and get ready for what's to come. [originally reported by Disney Plus PH](https://www.tiktok.com/@disneyplusph/video/7659554946777369869)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1783516739073-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Wait is Over"
+      },
+      {
+        "type": "p",
+        "text": "The stakes are higher this time - that's the promise from the main trailer of A Shop For Killers Season 2, and honestly, it's about time we got some answers. Jeong Jinman and Jian are back, and that's all we need to know to get hyped."
+      },
+      {
+        "type": "h2",
+        "text": "What We Know So Far"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "The new season premieres on July 22",
+          "It's coming to Disney+ Singapore, so get ready to binge",
+          "Jeong Jinman and Jian are returning - that's a huge deal for fans of the show",
+          "The stakes are higher, which means more action, more drama, and more suspense"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Back for More"
+      },
+      {
+        "type": "p",
+        "text": "So, what can we expect from Season 2? The fact that Jeong Jinman and Jian are back is a big deal - they were a huge part of what made the first season so compelling. But was the wait worth it? We'll have to tune in to find out. One thing's for sure, though - with the stakes higher, this season is going to be a wild ride."
+      },
+      {
+        "type": "h2",
+        "text": "The Premiere Date"
+      },
+      {
+        "type": "p",
+        "text": "July 22 can't come soon enough - that's when A Shop For Killers Season 2 finally drops on Disney+ Singapore. It's been a long wait, but it looks like it's going to be worth it. We're talking more twists, more turns, and more of what we loved about the first season."
+      },
+      {
+        "type": "h2",
+        "text": "The Bottom Line"
+      },
+      {
+        "type": "p",
+        "text": "A Shop For Killers Season 2 is just around the corner, and we couldn't be more excited. With Jeong Jinman and Jian back in the mix, and the stakes higher than ever, this season is shaping up to be a must-watch. [originally reported by youtube.com](https://www.youtube.com/watch?v=nAi7-LpeoBE)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1783516741512-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Surprising Premise, But What's The Story?"
+      },
+      {
+        "type": "p",
+        "text": "Gold Land, written by Hwang Jo-yoon, just dropped, and honestly, that's a big deal - we don't know much about the plot yet, but the fact that it's already ongoing means we're getting new episodes soon. But was the setup worth the wait? That's what fans are wondering, and we're right there with them. The series has been classified as a TV series, which doesn't give us a lot to go on, but that's what makes it intriguing."
+      },
+      {
+        "type": "h2",
+        "text": "A Short But Sweet Series"
+      },
+      {
+        "type": "p",
+        "text": "With only 10 episodes, Gold Land is a quick watch, which might be just what fans are looking for - a bite-sized K-drama that doesn't require a huge time commitment. The first air date was April 29th, 2026, so it's still early days, but that means we can still jump in and catch up. But what's the story about, and is it worth our time? We're waiting to find out."
+      },
+      {
+        "type": "h2",
+        "text": "The Wait Is On"
+      },
+      {
+        "type": "p",
+        "text": "We don't have a lot to go on yet, but we do know that Gold Land is a South Korean series, which usually means high production values and engaging storylines. So, while we're waiting for more info, we can't help but wonder - what's the story behind Gold Land, and will it live up to our expectations? Only time will... no, scratch that - the next episode will tell. [originally reported by instagram.com](https://www.instagram.com/reel/Daa0RfAhEQc/)"
+      }
+    ],
+    "takeaways": [
+      "Gold Land is a TV series that's currently ongoing",
+      "It's got a total of 10 episodes, so it's a relatively short series",
+      "The first air date was April 29th, 2026, which is pretty recent",
+      "The series is from South Korea, which isn't a surprise given the title"
+    ]
+  },
+  "live-1783516743852-5": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Down the Rabbit Hole with Descendants"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal - Descendants: Wicked Wonderland is finally getting a release date, and it's sooner than we thought. We're talking July 17, so mark those calendars. The fact that it's premiering on DisneyPlusCA is no surprise, given the platform's track record with exclusive content. But what's really got us curious is the whole \"down the rabbit hole\" vibe - are we in for a wild ride?"
+      },
+      {
+        "type": "p",
+        "text": "The title itself, Wicked Wonderland, suggests a darker, more whimsical take on the classic Alice in Wonderland story. It's not hard to imagine the Descendants cast navigating a twisted, magical world. But was the teaser just a clever marketing ploy, or is there really more to this storyline? We're going to have to wait a bit longer to find out."
+      },
+      {
+        "type": "h2",
+        "text": "The Wait is Almost Over"
+      },
+      {
+        "type": "p",
+        "text": "One thing's for sure - July 17 can't come soon enough. We're eager to see how the Descendants cast brings this new world to life. Will it live up to the hype? Only time will... no, scratch that - we're not playing the waiting game that patiently. We need answers, and we need them now. Or, you know, on July 17."
+      },
+      {
+        "type": "h2",
+        "text": "It's Almost Time to Fall Down the Rabbit Hole"
+      },
+      {
+        "type": "p",
+        "text": "So, are you ready to fall down the rabbit hole with the Descendants crew? We sure are. Stay tuned for more updates, and get ready to binge-watch Wicked Wonderland as soon as it drops. [originally reported by youtube.com](https://www.youtube.com/watch?v=VmPiwIVcvqU)"
+      }
+    ],
+    "takeaways": [
+      "Descendants: Wicked Wonderland is coming to DisneyPlusCA",
+      "The premiere date is set for July 17",
+      "The show's title hints at a possible Alice in Wonderland theme",
+      "The teaser uses the phrase \"down the rabbit hole\""
+    ]
+  },
+  "live-1783516746633-6": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Wait, What's Going On Here?"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "The summary doesn't even mention BTS or Toph, which is super confusing",
+          "It talks about a privileged New Yorker named Piper Chapman instead",
+          "There's something about a minimum-security women's prison",
+          "A past crime involving drugs is mentioned, but that's about it"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "The Plot Thickens"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this summary is all over the place - it doesn't make sense that BTS would be linked to a story about a woman in prison. But was the title just a clickbait attempt? It's possible that the actual content has nothing to do with the K-pop group or Toph. The fact that it mentions a \"privileged New Yorker\" and a \"past crime involving drug\" suggests that it's actually about a completely different story."
+      },
+      {
+        "type": "h2",
+        "text": "So, What's Really Going On?"
+      },
+      {
+        "type": "p",
+        "text": "It seems like the summary is actually describing the plot of the Netflix show \"Orange is the New Black\", which follows the story of Piper Chapman. But what does this have to do with BTS or Toph? The title mentions a \"grand entrance\" and \"AVATAR: THE LAST\", which is even more confusing. It's like two completely different stories are being mashed together."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "At the end of the day, it's clear that something fishy is going on here. The summary and title don't match up at all, and it's leaving fans confused. But hey, at least it's got people talking, right? [originally reported by netflixgeeked](https://www.tiktok.com/@netflixgeeked/video/7657559917137530126)"
       }
     ],
     "takeaways": []
