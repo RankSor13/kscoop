@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1783616807099-1",
+    "slug": "top-10-most-anticipated-disney-plus-k-dramas-coming-in-2026",
+    "title": "Top 10 Most Anticipated Disney Plus K-Dramas Coming in 2026 ...",
+    "summary": "The second half of 2026 is packed with some of the biggest Disney+ Korean dramas we've been waiting for! In this video, we're recommend the Top 10 Most ...",
+    "category": "upcoming",
+    "author": "Ji Yeon Park",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=97_7RP41Ah0",
+    "date": "11 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1783616810043-2",
+    "slug": "all-the-exciting-korean-dramas-dropping-on-disney-in-2026",
+    "title": "All the exciting Korean dramas dropping on Disney+ in 2026",
+    "summary": "All the exciting Korean dramas dropping on Disney+ in 2026 1. Made in Korea 2. A Shop for Killers (Season 2) 3. Battle of Fates 4. Perfect Crown 5. Gold Land 6 ...",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "herworld.com",
+    "sourceUrl": "https://www.herworld.com/life/best-new-korean-tv-series-k-dramas-2026-disney-plus",
+    "date": "2 days ago",
+    "image": "https://cassette.sphdigital.com.sg/image/herworld/1647a6061a03dd83560e29f5796b6d8f2f3acea875e51e4f08be88aa1775ec9a",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1783616814609-3",
+    "slug": "all-the-korean-dramas-releasing-in-july-2026-updated-list",
+    "title": "All the Korean dramas releasing in July 2026 (Updated List). + ...",
+    "summary": "▪️Here are the 6 newest kdramas and series that will air in the month of July: 1. Disney+ #ShadowDetective2 - July 5th 2. ENA Channel #NotOthers - July 17th 3.",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/KdramasNightAndDay/posts/all-the-korean-dramas-releasing-in-july-2026-updated-list-where-to-watch-them2-n/1354037433502989/",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1783616816879-4",
+    "slug": "the-east-palace-instagram",
+    "title": "The East palace - Instagram",
+    "summary": "New upcoming Korean Drama In July You cannot miss in July 2026 A Shop For Killers season 2 (July) Love in Sync (July 4) Dream to You (July 13) The Apartment ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/DacT4aMjWod/",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1783616818861-5",
+    "slug": "upcoming-k-drama-in-july-2026-instagram",
+    "title": "Upcoming K-DRAMA in July 2026 - Instagram",
+    "summary": "If I talk about Netflix, Nam Joo-hyuk's most awaited drama, 'The East Palace,' is releasing on July 17. After that, actress Park Gyu-young's second drama of the ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DahFHEgJC9h/",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1783616819157-6",
+    "slug": "netflixs-upcoming-k-dramas-are-highly-anticipated-facebook",
+    "title": "Netflix's upcoming K-dramas are highly anticipated - Facebook",
+    "summary": "K-Dramas coming soon on Netflix. \"Can This Love Be Translated\" \"Boyfriend On Demand\" \"East Palace\" \"The WonderFools\" As confirmed ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/groups/261711786611176/posts/1056195763829437/",
+    "date": "6 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1783516734068-1",
     "slug": "new-on-disney-july-2026",
     "title": "New on Disney+ | July 2026",
@@ -4081,7 +4183,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-07-08T13:19:08.984Z";
+export const LAST_UPDATED = "2026-07-09T17:06:59.381Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES

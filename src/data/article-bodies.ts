@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-07-08T13:19:08.985Z
+ * Last updated: 2026-07-09T17:06:59.383Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -7412,5 +7412,177 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       }
     ],
     "takeaways": []
+  },
+  "live-1783616807099-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Wait is Almost Over"
+      },
+      {
+        "type": "p",
+        "text": "The second half of 2026 is shaping up to be a wild ride for K-drama fans, with some of the most anticipated Disney+ Korean dramas finally hitting our screens. But what's really got us excited isn't just the fact that they're coming - it's that we're getting a top 10 list of the most anticipated ones, and we can't wait to see what made the cut."
+      },
+      {
+        "type": "h2",
+        "text": "Disney+ is Bringing the Heat"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal - Disney+ has been killing the K-drama game lately, and the fact that they're dropping a top 10 list of their most anticipated shows is just teasing us at this point. We're talking about the biggest, most hyped dramas of the year, and we're eager to find out what's in store. But was the wait worth it? We'll have to tune in to find out."
+      },
+      {
+        "type": "h2",
+        "text": "What's on the List?"
+      },
+      {
+        "type": "p",
+        "text": "So, what can we expect from this top 10 list? Unfortunately, we don't have all the details just yet - but we do know that the second half of 2026 is packed with some serious K-drama firepower. We're talking about the kind of shows that'll keep us up all night, binge-watching and obsessing over every plot twist. And with Disney+ at the helm, we know we're in for a treat."
+      },
+      {
+        "type": "h2",
+        "text": "The Countdown Begins"
+      },
+      {
+        "type": "p",
+        "text": "It's time to start counting down the days until these dramas drop - and with a top 10 list to guide us, we'll be ready. But the real question is: what's going to take the top spot? We'll just have to wait and see. [originally reported by youtube.com](https://www.youtube.com/watch?v=97_7RP41Ah0)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1783616810043-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Get Ready for a K-Drama Explosion"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Disney+ is dropping a slew of new Korean dramas in 2026, including season 2 of A Shop for Killers and the highly anticipated Made in Korea",
+          "Perfect Crown is a romantic dramedy that's set in an alternative 21st century where Korea still has a royal family - yes, you read that right",
+          "The lineup also includes Battle of Fates, a reality series that pits fortune tellers against each other to prove their abilities",
+          "Gold Land is an action-packed drama about a woman who lands a dream job at an international airport, only to find herself on the run from dangerous men with a van full of smuggled gold"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "The K-Drama Wave Isn't Slowing Down"
+      },
+      {
+        "type": "p",
+        "text": "Disney+ just gave us a sneak peek at its 2026 Korean drama lineup, and honestly, it's a big deal. The platform announced several new series and films at the Disney+ Originals Preview showcase, held on November 13 at Hong Kong Disneyland Hotel. We're talking swoon-worthy romances, edge-of-your-seat thrillers, and fresh stories that'll keep you glued to your screens. Made in Korea, for example, is set in turbulent 1970s Korea and follows a guy named Kitae who lives a double life - seduced by money and power, but threatened by an incorruptible prosecutor."
+      },
+      {
+        "type": "p",
+        "text": "But was the comeback too fast? Not if you're a fan of A Shop for Killers, which is returning with an all-new season that promises to be just as epic as the first. Jian and her uncle Jinman are turning the tables on the mercenary group Babylon, and we can't wait to see what happens next. And then there's Perfect Crown, which is set in an alternative 21st century where Korea still has a royal family - it's a romantic dramedy about a prince and an heiress who scheme together, only to realize the meaning of true love."
+      },
+      {
+        "type": "h2",
+        "text": "What's Caught Our Attention"
+      },
+      {
+        "type": "p",
+        "text": "One thing that's really caught our attention is the variety of genres and themes in the lineup. You've got your romances, your thrillers, your reality series... there's something for everyone. Battle of Fates, for example, is a reality series that pits fortune tellers against each other to prove their abilities. It's like a competition, but instead of singing or dancing, they're trying to predict the future. And then there's Gold Land, which is an action-packed drama about a woman who lands a dream job at an international airport, only to find herself on the run from dangerous men with a van full of smuggled gold. It's like a rollercoaster ride, and we're here for it."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "So, what does this mean for K-drama fans? Honestly, it's a great time to be alive. With so many new shows and movies coming out, there's always something to look forward to. And with Disney+ at the forefront of it all, we can expect high-quality productions that'll keep us entertained for hours on end. But what about the stars of these shows? Will we see some familiar faces, or will there be new talent emerging? Only time will... just kidding, we don't need to wait that long. The lineup is already looking promising, with some big names attached to the projects. We can't wait to see what 2026 has in store for us, and we're sure you can't either. [originally reported by herworld.com](https://www.herworld.com/life/best-new-korean-tv-series-k-dramas-2026-disney-plus)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1783616814609-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Get Ready for a Drama-Packed July"
+      },
+      {
+        "type": "p",
+        "text": "We're just a few weeks away from July, and you know what that means - a fresh batch of K-dramas to obsess over. Honestly, this summer is shaping up to be a great time for fans, with six new dramas and series set to air next month. But what's really got us excited is the lineup itself: from gritty mysteries to romantic comedies, there's something for everyone."
+      },
+      {
+        "type": "p",
+        "text": "The month kicks off with the highly anticipated release of #ShadowDetective2 on Disney+ on July 5th. That's right, folks, just a few short weeks from now we'll be diving back into the world of shadowy detectives and intricate plots. But that's not all - ENA Channel is also bringing the heat with #NotOthers, which airs on July 17th. We're not sure what to expect from this one just yet, but with a title like that, it's got our curiosity piqued."
+      },
+      {
+        "type": "h2",
+        "text": "New Dramas to Watch"
+      },
+      {
+        "type": "p",
+        "text": "So, what else can we look forward to in July? Well, for starters, there are four other dramas and series that haven't been detailed just yet. But was the announcement of six new shows too good to be true? Not if you're a K-drama fan, that's for sure. We're talking binge-watching sessions, frantic tweeting, and maybe even a few sleepless nights as we devour each new episode."
+      },
+      {
+        "type": "h2",
+        "text": "The July Drama Lineup"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "#ShadowDetective2 airs on Disney+ on July 5th",
+          "#NotOthers airs on ENA Channel on July 17th",
+          "Four other dramas and series are set to air in July, though details are scarce",
+          "July is shaping up to be a great month for K-drama fans",
+          "The summer drama season is officially in full swing"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Why We Can't Wait"
+      },
+      {
+        "type": "p",
+        "text": "But what's really driving our excitement is the potential for some truly unforgettable storylines. Will #ShadowDetective2 live up to its predecessor's standards? Can #NotOthers bring something new to the table? We're not sure just yet, but one thing's for sure - we'll be glued to our screens all month long. [originally reported by KdramasNightAndDay](https://www.facebook.com/KdramasNightAndDay/posts/all-the-korean-dramas-releasing-in-july-2026-updated-list-where-to-watch-them2-n/1354037433502989/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1783616816879-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "July's K-Drama Lineup Is Fire"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal - July's shaping up to be an epic month for K-drama fans. We've got a slew of new shows and seasons dropping, and it's hard to pick what we're most excited about. A Shop For Killers season 2 is definitely high on that list, though - who isn't ready for more of that intensity?"
+      },
+      {
+        "type": "p",
+        "text": "But that's not all - Love in Sync is premiering on July 4, because what's more patriotic than bingeing a new K-drama? And just when you thought things were slowing down, Dream to You hits us on July 13. It's like the K-drama gods are smiling down on us."
+      },
+      {
+        "type": "h2",
+        "text": "The Summer of K-Drama"
+      },
+      {
+        "type": "p",
+        "text": "So, what's behind this sudden influx of amazing shows? Is it just a coincidence, or are K-drama producers finally giving the people what they want? Either way, we're not complaining - bring on the drama, romance, and suspense. With The Apartment also on the horizon, it's clear that July's going to be a month to remember."
+      },
+      {
+        "type": "h2",
+        "text": "Why You Should Be Stoked"
+      },
+      {
+        "type": "p",
+        "text": "But was the wait worth it? We think so - this lineup's got something for everyone. Whether you're a fan of action, romance, or just a good old-fashioned drama, July's got you covered. So mark your calendars, set those reminders, and get ready to binge your way through the summer."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by instagram.com](https://www.instagram.com/p/DacT4aMjWod/)"
+      }
+    ],
+    "takeaways": [
+      "A Shop For Killers is getting a season 2 in July",
+      "Love in Sync is premiering on July 4",
+      "Dream to You is set to release on July 13",
+      "The Apartment is another drama we can't miss in July"
+    ]
   }
 };
