@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1783701303772-1",
+    "slug": "top-10-new-korean-series-of-2026-so-far",
+    "title": "Top 10 New Korean Series of 2026 So Far",
+    "summary": "Top 10 New Korean Series of 2026 So Far | Must-Watch on Netflix, Prime Video & HBO Max Hello and Welcome to Asian Odyssey. 2026 has already given us plenty ...",
+    "category": "upcoming",
+    "author": "Ji Yeon Park",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=kDHFVKkl4o0",
+    "date": "5 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1783701306734-2",
+    "slug": "namastehallyu",
+    "title": "namastehallyu",
+    "summary": "Kdramas which are going to release in July 2026 are: The Husband (July 4, Disney+, Eps: 12) Love In Sync (July 4, Disney+, Eps: 8) Family Register ...",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/DanTDHTDHbw/",
+    "date": "2026-07-10",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1783701308510-3",
+    "slug": "lee-jongsuk-and-iu-chose-to-break-up-after-almost-4-years-of",
+    "title": "Lee Jongsuk and IU chose to break up after almost 4 years of ...",
+    "summary": "Breaking news: IU and LeeJongsuk broke up after 4 years of being in a relationship #iu #leejongsuk #kdrama #kpop #perfectcrown · 10 hours ago. OCR.",
+    "category": "trending",
+    "author": "Dana Kim",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DamZMv9RXz-/",
+    "date": "59 minutes ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1783701310343-4",
+    "slug": "tamannaahbhatia-the-only-indian-face-a-150-year-old",
+    "title": "#TamannaahBhatia, the only Indian face a 150-year-old ...",
+    "summary": "Actress Tamannaah Bhatia made a glamorous public appearance at the Shiseido beauty event in Bangkok on July 4, 2026 (or very recently). She posed alongside K- ...",
+    "category": "trending",
+    "author": "Hana Cho",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DaWB2O0x2Ve/",
+    "date": "6 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1783701312141-5",
+    "slug": "little-bit-less-than-a-lover-jennie-take-down-mad",
+    "title": "LITTLE BIT LESS THAN A LOVER JENNIE TAKE DOWN MAD ...",
+    "summary": "Jisoo is known for her clear vocals and acting skills, Jennie for her powerful rap and stage presence, Rosé for her emotional singing voice, and Lisa for her ...",
+    "category": "trending",
+    "author": "Mia Kwon",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@ninikim_narah28/video/7660720138156641556",
+    "date": "14 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1783701312750-6",
+    "slug": "omgggg-leejongsuk-iu-kdramalovers-koreanactors",
+    "title": "OMGGGG #leejongsuk #IU #Kdramalovers #koreanactors ...",
+    "summary": "Leading the pack is **IU (Lee Ji Eun)**, consistently delivering memorable roles in dramas like 'What the Stars Told Us' (11/10) and 'Scarlet Heart' (10/10), ...",
+    "category": "trending",
+    "author": "Rina Baek",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@dayichingu/video/7660749901592071445",
+    "date": "12 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1783616807099-1",
     "slug": "top-10-most-anticipated-disney-plus-k-dramas-coming-in-2026",
     "title": "Top 10 Most Anticipated Disney Plus K-Dramas Coming in 2026 ...",
@@ -4183,7 +4285,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-07-09T17:06:59.381Z";
+export const LAST_UPDATED = "2026-07-10T16:35:13.119Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES

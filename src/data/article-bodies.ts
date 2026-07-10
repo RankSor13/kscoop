@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-07-09T17:06:59.383Z
+ * Last updated: 2026-07-10T16:35:13.120Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -7583,6 +7583,174 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       "Love in Sync is premiering on July 4",
       "Dream to You is set to release on July 13",
       "The Apartment is another drama we can't miss in July"
+    ]
+  },
+  "live-1783701303772-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Best of 2026 So Far: What You're Missing"
+      },
+      {
+        "type": "p",
+        "text": "We're not even halfway through 2026, and it's already shaping up to be an incredible year for K-dramas. Honestly, this is a big deal - with so many great series to choose from, it's hard to keep up. But what are the top 10 new Korean series of 2026 that you shouldn't miss?"
+      },
+      {
+        "type": "h2",
+        "text": "What's Got Everyone Talking"
+      },
+      {
+        "type": "p",
+        "text": "The fact that 2026 has \"already given us plenty\" of amazing K-dramas is what's got everyone talking. But was the start of the year really that strong? It seems like it, considering the variety of series that have caught viewers' attention. With platforms like Netflix, Prime Video, and HBO Max offering a range of K-dramas, fans have a lot to choose from."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "It's interesting to see which series are making it to the top 10 list. Since the summary doesn't give away the actual series, we're left wondering what made the cut. Are they romance dramas, thrillers, or maybe something entirely new? One thing's for sure - with so many great options, K-drama fans are in for a treat."
+      },
+      {
+        "type": "h2",
+        "text": "Where Things Stand Now"
+      },
+      {
+        "type": "p",
+        "text": "As we wait to find out more about the top 10 new Korean series of 2026, one thing's clear: this year is going to be exciting for K-drama fans. With new series popping up on popular platforms, it's easier than ever to stay up-to-date with the latest shows. But which ones will stand out from the rest? Only time will... just kidding, we don't have to wait that long - we can just check out the list and start binge-watching."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by youtube.com](https://www.youtube.com/watch?v=kDHFVKkl4o0)"
+      }
+    ],
+    "takeaways": [
+      "The year 2026 is offering a wide range of K-dramas across different platforms",
+      "Netflix, Prime Video, and HBO Max are among the platforms hosting these series",
+      "Asian Odyssey has compiled a list of the top 10 new Korean series of 2026",
+      "The list highlights must-watch series for K-drama fans"
+    ]
+  },
+  "live-1783701306734-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Double Trouble on Disney+"
+      },
+      {
+        "type": "p",
+        "text": "We're getting not one, but two K-dramas on the same day - July 4, 2026 - on Disney+! That's right, folks, mark your calendars for a double dose of drama with \"The Husband\" and \"Love In Sync\" both premiering on the same day."
+      },
+      {
+        "type": "h2",
+        "text": "What's Coming to Disney+"
+      },
+      {
+        "type": "p",
+        "text": "\"The Husband\" is set to have 12 episodes, so we're hoping for a nice, long story arc with plenty of twists and turns. On the other hand, \"Love In Sync\" will have 8 episodes, which might make for a tighter, more fast-paced narrative. But what's the plot of these dramas? Unfortunately, we don't have more info on that just yet."
+      },
+      {
+        "type": "h2",
+        "text": "The July Lineup"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "\"The Husband\" premieres on July 4, 2026, on Disney+",
+          "\"Love In Sync\" also premieres on July 4, 2026, on Disney+",
+          "Both dramas will be available on the same streaming platform",
+          "\"Family Register\" is another K-drama set to release in July 2026"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "But was the decision to release two K-dramas on the same day a smart move? Will they cannibalize each other's viewership, or will fans just devour both shows? Honestly, this is a big deal - it's not every day we get two new K-dramas at once. [originally reported by namastehallyu](https://www.instagram.com/p/DanTDHTDHbw/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1783701308510-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Shocking Split"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "IU and Lee Jongsuk were together for almost 4 years",
+          "The news of their breakup is trending on social media with #iu and #leejongsuk",
+          "They're one of K-drama's most beloved couples",
+          "The reason for their breakup isn't clear yet"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "The End of an Era"
+      },
+      {
+        "type": "p",
+        "text": "IU and Lee Jongsuk's breakup is all over the internet, and honestly, it's a big deal. They were one of those couples that made you believe in fairy tales. But now, after almost 4 years together, they've decided to go their separate ways. That's a long time for any couple, especially in the crazy world of K-entertainment. You can't help but wonder what happened - was it the pressure of being in the public eye, or did they just grow apart?"
+      },
+      {
+        "type": "h2",
+        "text": "What We Know So Far"
+      },
+      {
+        "type": "p",
+        "text": "The news broke on Instagram, with fans using #iu and #leejongsuk to share their thoughts and feelings about the split. It's clear that this couple had a special place in many people's hearts. But was the breakup too fast? We don't know much about what led to their decision, and that's got everyone speculating. One thing's for sure, though - IU and Lee Jongsuk will always be remembered as one of K-drama's most iconic couples."
+      },
+      {
+        "type": "h2",
+        "text": "Moving On"
+      },
+      {
+        "type": "p",
+        "text": "It's never easy to see a beloved couple break up, but that's the way it goes sometimes. IU and Lee Jongsuk are both talented artists with a lot to offer, and we're sure they'll keep making great music and dramas. But for now, fans are just trying to process the news and figure out what's next for these two. [originally reported by instagram.com](https://www.instagram.com/reel/DamZMv9RXz-/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1783701310343-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Talk About a Power Move"
+      },
+      {
+        "type": "p",
+        "text": "Tamannaah Bhatia just made a stunning appearance at a major beauty event, and we're not talking about any event - it's Shiseido, a brand that's been around for 150 years. That's right, this Indian actress is repping her country on a global stage, and she's doing it with style."
+      },
+      {
+        "type": "h2",
+        "text": "The Interesting Part"
+      },
+      {
+        "type": "p",
+        "text": "What's really catching our attention here isn't just the event itself, but who Tamannaah Bhatia was posing with. She was alongside K-... and honestly, that's a big deal. It shows how much Indian talent is being recognized internationally, especially in the beauty and entertainment sectors. But was this a one-time thing, or are we going to see more of these collaborations in the future?"
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters to K-Fans"
+      },
+      {
+        "type": "p",
+        "text": "For K-drama and K-pop fans, this might seem like it's out of left field, but think about it - the lines between Indian and Korean entertainment are blurring. We're seeing more crossovers, more collaborations, and that's something to be excited about. It means we're going to get to see fresh faces, new talent, and a whole lot of creativity that we might not have been exposed to otherwise."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by instagram.com](https://www.instagram.com/reel/DaWB2O0x2Ve/)"
+      }
+    ],
+    "takeaways": [
+      "Tamannaah Bhatia attended the Shiseido beauty event in Bangkok.",
+      "The event took place very recently, on July 4, 2026.",
+      "She was the only Indian face at this 150-year-old brand's event.",
+      "This appearance could signal more international collaborations for Indian talent."
     ]
   }
 };
