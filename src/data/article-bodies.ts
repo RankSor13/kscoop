@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-07-10T16:35:13.120Z
+ * Last updated: 2026-07-11T11:32:51.290Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -7752,5 +7752,202 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       "She was the only Indian face at this 150-year-old brand's event.",
       "This appearance could signal more international collaborations for Indian talent."
     ]
+  },
+  "live-1783769560019-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Drama Alert: Anita Joseph's Photoshop Fail"
+      },
+      {
+        "type": "p",
+        "text": "Anita Joseph's in hot water after Caramell Plug went public with a pretty shocking claim: Anita edited her out of a shared photo and inserted her own face instead. That's right, folks, it looks like someone's been playing with Photoshop - and not very well, either. But was the alleged photo edit really worth the drama that's ensued?"
+      },
+      {
+        "type": "p",
+        "text": "Caramell Plug didn't mince words when she called out Anita Joseph for the alleged photo swap. It's not every day you see someone getting publicly shamed for a Photoshop fail, but here we are. Honestly, this is a big deal - especially since it involves two public figures. But what really gets us is the audacity: who tries to edit someone out of a photo and thinks they can get away with it?"
+      },
+      {
+        "type": "h2",
+        "text": "The Fallout"
+      },
+      {
+        "type": "p",
+        "text": "So, what's next for Anita Joseph? Will she apologize for the alleged photo edit, or try to brush it off? One thing's for sure: Caramell Plug's not backing down. She's made it clear that she's not happy about the situation, and we can't say we blame her. But was the comeback too fast - should Anita Joseph have had a chance to explain herself before Caramell Plug went public?"
+      },
+      {
+        "type": "h2",
+        "text": "Where Things Stand Now"
+      },
+      {
+        "type": "p",
+        "text": "For now, it looks like Anita Joseph's facing some serious backlash online. Fans are divided, with some defending her and others calling her out for the alleged photo edit. What do you think - was Anita Joseph out of line, or is this whole thing being blown out of proportion? [originally reported by youtube.com](https://www.youtube.com/watch?v=QZojnWqygN8)"
+      }
+    ],
+    "takeaways": [
+      "Anita Joseph's been accused of editing a photo to insert her own face",
+      "The original photo allegedly featured Caramell Plug",
+      "Caramell Plug publicly called out Anita Joseph for the alleged photo edit",
+      "The incident has sparked controversy online"
+    ]
+  },
+  "live-1783769563059-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Breakup Alert: Ramos and Sam Verzosa Call It Quits"
+      },
+      {
+        "type": "p",
+        "text": "The tea is piping hot, and we're spilling it: Ramos and Sam Verzosa are donezo. That's right, the couple's relationship has officially ended, and fans are freaking out. But was the breakup really that surprising, or were there signs that we missed?"
+      },
+      {
+        "type": "h2",
+        "text": "What Went Down"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal - we're talking about a couple that had a pretty dedicated fan base. The news of their breakup has left everyone wondering what happened. Unfortunately, we don't have all the deets just yet, but it's clear that fans are eager to know more. They're taking to social media to speculate about the reasons behind the split."
+      },
+      {
+        "type": "h2",
+        "text": "The Viral Scandal Video"
+      },
+      {
+        "type": "p",
+        "text": "So, what's the tea? Well, it seems like a viral scandal video is at the center of all the drama. We're not sure what the video shows, but it's clear that it's causing a stir. But was the video the final straw, or was the breakup a long time coming? We're not sure, but one thing's for sure - fans are invested in this story."
+      },
+      {
+        "type": "h2",
+        "text": "Fan Reaction"
+      },
+      {
+        "type": "p",
+        "text": "Fans are taking to TikTok to share their thoughts on the breakup, with many referencing a post from @icearago that says \"Kaya mo yan, @Glaiza De Castro 🫶\". It's clear that they're trying to process their emotions and figure out what's next for the couple. But for now, it's all about speculation and rumors."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by tiktok.com](https://www.tiktok.com/@whianwamos_/video/7660148150895906055)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1783769565025-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Stakes Are Higher"
+      },
+      {
+        "type": "p",
+        "text": "The wait is over, and it's about to get real - Jeong Jinman and Jian are back for #AShopForKillers Season 2, and it's premiering on July 22 on #DisneyPlusSG. That's right, we're talking just a few weeks from now. But what's really got us hyped is that the stakes are higher this time around."
+      },
+      {
+        "type": "h2",
+        "text": "What We Know So Far"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "The new season is coming to #DisneyPlusSG, so if you haven't subscribed yet, now's the time.",
+          "Jeong Jinman and Jian are returning, which is definitely a good thing - we can't wait to see what they bring to the table this season.",
+          "The premiere date is set for July 22, so mark your calendars.",
+          "This season promises to be more intense, with higher stakes than before."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Let's Get Ready"
+      },
+      {
+        "type": "p",
+        "text": "So, what can we expect from #AShopForKillers Season 2? Honestly, we don't know much yet, but we're excited to find out. The fact that the stakes are higher this time around has definitely piqued our interest. But was the wait worth it? We'll have to tune in on July 22 to find out."
+      },
+      {
+        "type": "h2",
+        "text": "The Countdown Begins"
+      },
+      {
+        "type": "p",
+        "text": "It's time to get ready for the new season - let the countdown begin. We're just a few weeks away from the premiere, and we can't wait to see what Jeong Jinman and Jian have in store for us. [originally reported by Cinemags](https://www.tiktok.com/@disneyplussg/video/7659630922093825293)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1783769566740-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Mid-Year Shake-Up"
+      },
+      {
+        "type": "p",
+        "text": "We're not even halfway through 2026, and the rankings are already heating up - Beyond The Trailer just dropped their Top Ten Series of 2026, and it's a wild ride. What's got everyone talking, though, is how these shows stack up against each other."
+      },
+      {
+        "type": "h2",
+        "text": "Ranking The Best"
+      },
+      {
+        "type": "p",
+        "text": "So, how do these shows rank? Honestly, it's about time someone gave us a rundown, and Beyond The Trailer's got the scoop. They're covering the best streaming shows from Hollywood, and we're not just talking about your run-of-the-mill dramas - they're including some heavy-hitters like \"Beef\" in the mix. But was \"Beef\" enough to take the top spot?"
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "It's interesting to see which streaming platforms are killing the game right now. With both Disney Plus and Netflix in the running, it's clear that the competition is fierce. But what does this mean for K-drama fans? Are we going to see more crossovers, more international collaborations? That's the million-dollar question. [originally reported by youtube.com](https://www.youtube.com/watch?v=sTes3CYDp5g)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1783769568716-5": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Ultimate Binge-Watch List is Here"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "The Terror: Devil in Silver made it to the top 7 new TV series to watch right now",
+          "I Will Find You is another highly anticipated series on the list",
+          "Your Friends is also featured in the top 7",
+          "The list is revealed in a YouTube video with timed chapters for easy viewing",
+          "Viewers can check out the video on youtube.com to see the full list"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "K-Drama Fans Rejoice"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal - a new list of the top 7 TV series to watch in 2026 is out, and it's got everyone talking. But what's really got fans excited is the variety of genres and titles included. From the thrilling The Terror: Devil in Silver to the intriguing I Will Find You, there's something for everyone. The video even includes timed chapters, so you can easily jump to the section that interests you the most."
+      },
+      {
+        "type": "h2",
+        "text": "A Closer Look at the List"
+      },
+      {
+        "type": "p",
+        "text": "So, what else can we expect from these top 7 TV series? Unfortunately, the summary doesn't give away too much, but it does mention Your Friends as one of the featured series. That's definitely piqued our interest - but was the inclusion of this series expected, or is it a dark horse? We're not sure yet, but we can't wait to find out more."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "What's clear, though, is that 2026 is shaping up to be an amazing year for K-dramas. With so many new series to choose from, fans are spoiled for choice. But which ones will rise to the top, and which will fall by the wayside? Only time will... just kidding, we won't say that - instead, let's just say we're excited to see how it all plays out."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by youtube.com](https://www.youtube.com/watch?v=1teRNgdz5yI)"
+      }
+    ],
+    "takeaways": []
   }
 };

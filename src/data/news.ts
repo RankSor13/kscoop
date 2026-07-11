@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1783769560019-1",
+    "slug": "anita-joseph-caught-stealing-caramell-plug-photo-and-editing",
+    "title": "Anita Joseph Caught Stealing Caramell Plug Photo & Editing ...",
+    "summary": "Anita Joseph under fire after Caramell Plug publicly called her out for allegedly editing her out of a shared photo and inserting her own face.",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=QZojnWqygN8",
+    "date": "22 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1783769563059-2",
+    "slug": "kaya-mo-yan-glaiza-de-castro-icearago",
+    "title": "Kaya mo yan, @Glaiza De Castro 🫶 | icearago",
+    "summary": "Viral Scandal Video. Ramos and Sam Verzosa have officially ended their relationship, and fans are eager to know the details behind their breakup. The news has ...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@whianwamos_/video/7660148150895906055",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1783769565025-3",
+    "slug": "the-stakes-are-higher-this-time-jeong-jinman-and-jian",
+    "title": "The stakes are higher this time 💥 Jeong Jinman and Jian ...",
+    "summary": "The stakes are higher this time Jeong Jinman and Jian return in #AShopForKillers Season 2, premiering 22 July on #DisneyPlusSG. · original sound - Cinemags.",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@disneyplussg/video/7659630922093825293",
+    "date": "4 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1783769566740-4",
+    "slug": "top-ten-best-series-of-2026-so-far-disney-plus-netflix",
+    "title": "Top Ten Best Series of 2026 - So Far! - Disney Plus, Netflix ...",
+    "summary": "Top Ten Series of 2026 today! Beyond The Trailer's best streaming shows from Hollywood! So Far! How shows rank?! Beef!",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=sTes3CYDp5g",
+    "date": "21 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1783769568716-5",
+    "slug": "top-7-new-tv-series-to-watch-right-now-2026",
+    "title": "Top 7 NEW TV SERIES To Watch Right Now 2026!",
+    "summary": "Top 7 NEW TV SERIES To Watch Right Now 2026! Chapters: 00:00 - Intro 00:31 - The Terror: Devil in Silver 01:28 - I Will Find You 02:22 - Your Friends ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=1teRNgdz5yI",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1783769571212-6",
+    "slug": "netflix-our-sticky-love-official-teaser-premieres-august-7-r",
+    "title": "Netflix 'Our Sticky Love' Official Teaser (Premieres August 7) : r ...",
+    "summary": "Welcome! This is a place for discussions about your favorite Korean dramas (current and past), drama reviews, official soundtracks, news, award shows and more.",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/KDRAMA/comments/1us7l0q/netflix_our_sticky_love_official_teaser_premieres/",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1783701303772-1",
     "slug": "top-10-new-korean-series-of-2026-so-far",
     "title": "Top 10 New Korean Series of 2026 So Far",
@@ -4285,7 +4387,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-07-10T16:35:13.119Z";
+export const LAST_UPDATED = "2026-07-11T11:32:51.289Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
