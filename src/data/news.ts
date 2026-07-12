@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1783856671537-1",
+    "slug": "tom-key-peele-cruise",
+    "title": "Tom Key Peele Cruise !",
+    "summary": "JULY 9, 2026 2026 EMMY NOMINATIONS LIST EMERGENCY ROOM DRAMA 'THE PITT' LEADS THIS YEAR'S EMMY NOMINATIONS WITH 25 VOTES THE FINAL SEASON OF HACKS EARNS 24 ...",
+    "category": "upcoming",
+    "author": "Ji Yeon Park",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DaoVqochIDA/",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1783856673630-2",
+    "slug": "the-year-is-2005-the-movie-is-zathura-a-space-adventure",
+    "title": "The year is 2005. The movie is Zathura: A Space Adventure ...",
+    "summary": "The year is 2005. The movie is Zathura: A Space Adventure. And the comedic performance of a lifetime is Kristen Stewart's. original sound - Netflix.",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@netflix/video/7661333550146276622",
+    "date": "14 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1783856675507-3",
+    "slug": "one-of-the-best-chemistry-in-kdrama-land-jung-haein-and-son",
+    "title": "One of the best chemistry in Kdrama land Jung Haein & Son ...",
+    "summary": "14K likes, 193 comments - haeiness_pk on July 8, 2026: \"One of the best chemistry in Kdrama land Jung Haein & Son Yejin in Something in the rain.",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/Dai137ZOn8o/",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1783856677489-4",
+    "slug": "the-best-netflix-movies-no-one-is-watching-2026",
+    "title": "The Best NETFLIX MOVIES No One is Watching! 2026",
+    "summary": "15 Most Addictive TV Series of 2026 (So Far) on Netflix · 10 Most Intense ACTION MOVIES Of 2026 So Far You Can't Miss! · 10 Best Action Movies Netflix Is Hiding ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=tELxMAdmIa8",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1783856679701-5",
+    "slug": "andrew-yang-on-instagram-hopefully-they-never-need-to",
+    "title": "Andrew Yang on Instagram: \"Hopefully they never need to ...",
+    "summary": "The internet was flooded with reactions this week after @netflix released its latest breakout series, with clips, theories, and scene breakdowns quickly ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DaoLP7QSw2s/",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1783856681875-6",
+    "slug": "one-of-the-best-action-k-dramas-in-recent-years-kalau-belum",
+    "title": "One of the best action K-dramas in recent years🔥 Kalau belum ...",
+    "summary": "Perfect Crown adalah drama Korea romantis terbaru yang tayang perdana pada 10 April 2026 di saluran MBC dan platform streaming Disney+. • Pemeran Utama ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@allaboutmovies.id/video/7660505099860479239",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1783769560019-1",
     "slug": "anita-joseph-caught-stealing-caramell-plug-photo-and-editing",
     "title": "Anita Joseph Caught Stealing Caramell Plug Photo & Editing ...",
@@ -4387,7 +4489,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-07-11T11:32:51.289Z";
+export const LAST_UPDATED = "2026-07-12T11:44:42.247Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES

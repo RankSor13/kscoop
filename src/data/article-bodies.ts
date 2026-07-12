@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-07-11T11:32:51.290Z
+ * Last updated: 2026-07-12T11:44:42.249Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -7949,5 +7949,198 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       }
     ],
     "takeaways": []
+  },
+  "live-1783856671537-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Emmy Nomination Shocker"
+      },
+      {
+        "type": "p",
+        "text": "The 2026 Emmy nominations are out, and we're talking a whopping 25 nominations for emergency room drama 'The Pitt' - that's right, 25! But what's almost as surprising is that it's not the only show killing the game, with the final season of 'Hacks' earning 24 nominations, just one shy of the lead."
+      },
+      {
+        "type": "h2",
+        "text": "Nominations Breakdown"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "'The Pitt' leads with 25 nominations, a significant number for any show.",
+          "'Hacks' final season isn't far behind, with 24 nominations.",
+          "The nominations were announced on July 9, 2026.",
+          "The Emmy nominations list is a big deal, and these numbers are making waves."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "So, what does this mean for these shows? 'The Pitt' is clearly a favorite, but 'Hacks' isn't going down without a fight. The fact that 'Hacks' final season is so close in nominations is a testament to its strength. But was the final season of 'Hacks' really that strong, or are the Emmys just giving it a nice sendoff?"
+      },
+      {
+        "type": "h2",
+        "text": "Looking at the Numbers"
+      },
+      {
+        "type": "p",
+        "text": "The numbers don't lie - 25 nominations for 'The Pitt' is a big deal. It shows that the show has resonated with voters, and it's likely to take home some awards. But 'Hacks' is still in the running, and its 24 nominations prove that it's a force to be reckoned with. What's interesting is that 'Hacks' is ending, so these nominations are essentially a farewell gift."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "It's not every day you see a show like 'The Pitt' come out of nowhere and dominate the nominations. But that's what's so exciting about the Emmys - you never know what's going to happen. And with 'Hacks' final season putting up such a good fight, it's clear that this year's ceremony is going to be one to watch. [originally reported by instagram.com](https://www.instagram.com/reel/DaoVqochIDA/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1783856673630-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Blast From The Past"
+      },
+      {
+        "type": "p",
+        "text": "Wait, Kristen Stewart in a comedic role? That's not what we're used to, right? I mean, we're talking about the girl who played Bella Swan in Twilight. But apparently, back in 2005, she was bringing the laughs in Zathura: A Space Adventure. Honestly, this is a big deal - who knew Kristen had comedic chops?"
+      },
+      {
+        "type": "p",
+        "text": "It's crazy to think about how far Kristen's career has come since then. From dramatic roles to action flicks, she's done it all. But was her comedic performance in Zathura just a one-off, or is there more where that came from? The fact that Netflix is highlighting this on TikTok makes you wonder if they're trying to tell us something."
+      },
+      {
+        "type": "h2",
+        "text": "A Surprise Revelation"
+      },
+      {
+        "type": "p",
+        "text": "We're not gonna lie, this news is kind of exciting. It's always fun to discover a new side of an actor we thought we knew. And who doesn't love a good space adventure movie? But what really gets us is that this is a blast from the past - 2005 is a long time ago, and it's wild to think about how much has changed since then."
+      },
+      {
+        "type": "h2",
+        "text": "What Caught Our Attention"
+      },
+      {
+        "type": "p",
+        "text": "So, what made Netflix decide to share this tidbit now? Is it just a random throwback, or is there something more to it? We're not sure, but it's definitely got us talking. And hey, if you're feeling nostalgic, you could always go watch Zathura: A Space Adventure and see Kristen's comedic performance for yourself. [originally reported by Netflix](https://www.tiktok.com/@netflix/video/7661333550146276622)"
+      }
+    ],
+    "takeaways": [
+      "The movie in question is Zathura: A Space Adventure",
+      "It was released in 2005",
+      "Kristen Stewart had a notable comedic performance in the film",
+      "The info was shared on TikTok by Netflix"
+    ]
+  },
+  "live-1783856675507-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Chemistry Goals"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Jung Haein and Son Yejin are being talked about for their chemistry in a K-drama",
+          "The K-drama they starred in together is called \"Something in the Rain\"",
+          "The post about them has 14K likes on Instagram",
+          "There are 193 comments on the post, showing fans are engaged"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "The Dream Pair"
+      },
+      {
+        "type": "p",
+        "text": "Jung Haein and Son Yejin are being hailed as one of the best on-screen pairs in K-drama land, and honestly, it's not hard to see why. Their drama, \"Something in the Rain\", must have left a lasting impression on fans. But what makes their chemistry so special? Is it the way they looked at each other, or the way their characters' storylines unfolded?"
+      },
+      {
+        "type": "h2",
+        "text": "Fan Love"
+      },
+      {
+        "type": "p",
+        "text": "The fact that a post about them has racked up 14K likes and 193 comments on Instagram says a lot about their fanbase. Fans clearly can't get enough of them, and who can blame them? The engagement on the post shows that even after all this time, Jung Haein and Son Yejin still have a special place in fans' hearts. But was their chemistry just a one-time thing, or can they recreate it in future projects?"
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "It's interesting to see which on-screen pairs leave a lasting impact on fans, and Jung Haein and Son Yejin are definitely one of them. But what's next for these two talented actors? Will they work together again, or will they focus on individual projects? Only time will... no, scratch that - for now, let's just enjoy the fact that they're still widely loved for their chemistry in \"Something in the Rain\". [originally reported by haeiness_pk on instagram.com](https://www.instagram.com/reel/Dai137ZOn8o/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1783856677489-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Hidden Gems on Netflix"
+      },
+      {
+        "type": "p",
+        "text": "We're halfway through 2026, and it's time to spill the tea - there are some seriously addictive TV series and intense action movies on Netflix that nobody's talking about. What's really caught our attention, though, is that Netflix is hiding some of the best action movies from us."
+      },
+      {
+        "type": "h2",
+        "text": "The Best Kept Secrets"
+      },
+      {
+        "type": "p",
+        "text": "Let's dive into the good stuff. The 10 most intense action movies of 2026 so far are a must-watch, but they're not getting the love they deserve. And don't even get us started on the 10 best action movies that Netflix is hiding - what's the deal with that? It's like they want us to miss out on some amazing content. But honestly, this is a big deal - who doesn't love a good action movie?"
+      },
+      {
+        "type": "h2",
+        "text": "What Fans Are Missing"
+      },
+      {
+        "type": "p",
+        "text": "So, what else are fans missing out on? Well, for starters, there are 15 most addictive TV series of 2026 that are flying under the radar. But was the lack of buzz around these shows due to poor marketing, or are fans just not looking in the right places? The fact that Netflix has all this amazing content, but it's not getting the recognition it deserves, is pretty surprising. But one thing's for sure - we're excited to dive into these hidden gems and see what all the fuss is about. [originally reported by youtube.com](https://www.youtube.com/watch?v=tELxMAdmIa8)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1783856679701-5": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Netflix's Latest Obsession"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal - a new series has taken the internet by storm, and it's all anyone can talk about. The fact that it's gotten to the point where Andrew Yang is weighing in on Instagram says a lot about its impact. We're not just talking about your average, everyday fans - we're talking about people who are actually influencers in their own right."
+      },
+      {
+        "type": "p",
+        "text": "The series has clearly struck a chord, and it's interesting to see how it's brought people together. Whether you love it or hate it, you can't deny that it's gotten people talking. But was the backlash too much, or was it just a sign of how passionate fans are? That's a question for another time, but for now, it's clear that this series is on everyone's radar."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "So, what does it mean that Andrew Yang is commenting on this series? Is it just a casual observation, or is there something more to it? We don't have all the answers, but it's definitely intriguing. One thing's for sure, though - this series has tapped into something, and it's not going away anytime soon. But what's driving all the buzz - is it the characters, the plot twists, or something else entirely?"
+      },
+      {
+        "type": "h2",
+        "text": "Where Things Stand Now"
+      },
+      {
+        "type": "p",
+        "text": "At the end of the day, it's all about the conversation - and this series is definitely starting one. Love it or hate it, you can't ignore it. And who knows - maybe we'll see more influencers and celebrities weighing in as time goes on. [originally reported by instagram.com](https://www.instagram.com/reel/DaoLP7QSw2s/)"
+      }
+    ],
+    "takeaways": [
+      "The internet's been flooded with reactions to Netflix's latest series",
+      "Clips, theories, and scene breakdowns are all over social media",
+      "Andrew Yang commented on the series on Instagram",
+      "The post sparked a lot of discussion online"
+    ]
   }
 };
