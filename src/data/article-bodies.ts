@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-07-12T11:44:42.249Z
+ * Last updated: 2026-07-13T16:57:26.055Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -8142,5 +8142,131 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       "Andrew Yang commented on the series on Instagram",
       "The post sparked a lot of discussion online"
     ]
+  },
+  "live-1783961836276-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Plot Thickens"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Disney+ is betting big on the sequel to \"A Shop for Killers\" to break Netflix's winning streak.",
+          "The platform expects the second season to perform well, but it's not giving out many details just yet.",
+          "The show's first season debuted two-and-a-half years ago, so fans have been waiting a while for this.",
+          "The second season is set to premiere on July 22."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "A Long Time Coming"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, it's about time we got some news about \"A Shop for Killers\" - the first season ended way back in 2020, and since then, we've had nothing but radio silence. But now that Disney+ has announced the sequel, fans are getting excited. The question is, can it live up to the hype? We don't know much about the new season, but we do know it's premiering on July 22, so mark your calendars."
+      },
+      {
+        "type": "h2",
+        "text": "What's At Stake"
+      },
+      {
+        "type": "p",
+        "text": "The stakes are high for Disney+ - they're counting on \"A Shop for Killers\" to help them break Netflix's winning streak. But was the comeback too fast? We're not getting many details about the new season, which is making some fans a little nervous. That being said, if anyone can pull it off, it's the team behind \"A Shop for Killers\". They've got a proven track record, and we're hoping they can bring the heat with this new season."
+      },
+      {
+        "type": "h2",
+        "text": "The Future of K-Drama"
+      },
+      {
+        "type": "p",
+        "text": "So, what does this mean for the future of K-drama? Honestly, it's hard to say. But one thing's for sure - Disney+ is committed to bringing us more of the shows we love. And with \"A Shop for Killers\" leading the charge, we're expecting big things. But will it be enough to take down Netflix? Only time will... just kidding, we won't say that. Let's just say we're excited to see what's in store, and we'll be watching closely when the new season drops on July 22. [originally reported by koreatimes.co.kr](https://www.koreatimes.co.kr/entertainment/shows-dramas/20260713/disney-bets-on-a-shop-for-killers-sequel-to-break-netflix-winning-streak)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1783961839444-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "K-Drama Summer Just Got Hotter"
+      },
+      {
+        "type": "p",
+        "text": "The K-drama scene is on fire, and we're not even halfway through 2026! What's really got fans buzzing, though, is what's coming next - specifically, in July. Love In Sync is leading the pack, with a premiere date set for July 4 on Disney+. But that's not all; Goblin, a classic that still holds a special place in many hearts, is celebrating its 10th anniversary with a special."
+      },
+      {
+        "type": "p",
+        "text": "This is huge news for fans of the original Goblin series. But was the decision to release a 10th-anniversary special a bit unexpected? Maybe, but honestly, this is a big deal. It shows that even years after a drama has ended, it can still generate so much excitement. And let's be real, who doesn't love a good trip down memory lane?"
+      },
+      {
+        "type": "h2",
+        "text": "What's Driving the Hype"
+      },
+      {
+        "type": "p",
+        "text": "So, what makes these upcoming dramas so special? For starters, the variety in genres and themes is refreshing. Love In Sync, for instance, promises a unique storyline that's sure to capture viewers' hearts. Then there's the Goblin 10th-anniversary special, which is likely to bring back nostalgic feelings for many. But what about the other dramas lined up for July? Which one are you anticipating the most?"
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "It's clear that 2026 is shaping up to be an incredible year for K-dramas. With so many exciting projects in the works, fans have a lot to look forward to. But what's driving this surge in popularity? Is it the streaming platforms making it easier for global audiences to access K-dramas, or is it something more? Whatever the reason, one thing's for sure - K-drama fans are in for a treat. [originally reported by instagram.com](https://www.instagram.com/p/Das4YKmDZRw/)"
+      }
+    ],
+    "takeaways": [
+      "Love In Sync is set to premiere on Disney+ on July 4, 2026",
+      "Goblin is getting a 10th-anniversary special, also in July",
+      "The first half of 2026 has seen a surge in popular K-dramas",
+      "Fans are eagerly anticipating the new dramas lined up for July"
+    ]
+  },
+  "live-1783961841848-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Ji Chang-wook is Taking Over 2026"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "He's got not one, not two, but three releases coming up, and we can't wait to see what he's got in store for us.",
+          "One of those releases is a Netflix series called The Scandal, set to premiere in the third quarter of 2026.",
+          "The Scandal is a sageuk, or historical drama, which promises to be an electrifying watch.",
+          "It's set in the Joseon era and involves a forbidden romance - sounds like a classic K-drama trope to us."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "What's Got Us Excited About The Scandal"
+      },
+      {
+        "type": "p",
+        "text": "Ji Chang-wook's taking on a role in a historical drama, and we're here for it. The Scandal, which is set to drop on Netflix later this year, promises to bring the heat with its forbidden romance storyline. But was it a good idea to announce three releases at once - are we getting too much of a good thing? Honestly, we don't care, as long as Ji Chang-wook's bringing his A-game to each and every one of them."
+      },
+      {
+        "type": "h2",
+        "text": "The Joseon Era Setting"
+      },
+      {
+        "type": "p",
+        "text": "The Joseon era is always a fascinating backdrop for K-dramas, and we can't wait to see how The Scandal brings it to life. From the costumes to the sets, every detail is going to be meticulously crafted to transport us back in time. And with Ji Chang-wook at the helm, we know we're in for a wild ride. But what's the story behind this forbidden romance - and how will it all play out?"
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "It's clear that Ji Chang-wook's pushing himself to take on new and exciting roles, and we're loving the variety. From action to romance to historical drama, he's proving himself to be a versatile actor who can tackle anything. So, what can we expect from his other two releases - will they be just as exciting as The Scandal? We're keeping our fingers crossed that they'll be just as addictive."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by instagram.com](https://www.instagram.com/reel/Datpx3ARhQw/)"
+      }
+    ],
+    "takeaways": []
   }
 };

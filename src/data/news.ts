@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1783961836276-1",
+    "slug": "disney-bets-on-a-shop-for-killers-sequel-to-break-netflix",
+    "title": "Disney+ bets on 'A Shop for Killers' sequel to break Netflix ...",
+    "summary": "The Disney+ original series \"A Shop for Killers\" returns for a second season on July 22, two-and-a-half years after its debut. The platform expects...",
+    "category": "upcoming",
+    "author": "Ji Yeon Park",
+    "source": "koreatimes.co.kr",
+    "sourceUrl": "https://www.koreatimes.co.kr/entertainment/shows-dramas/20260713/disney-bets-on-a-shop-for-killers-sequel-to-break-netflix-winning-streak",
+    "date": "12 hours ago",
+    "image": "https://newsimg.koreatimes.co.kr/2026/07/13/5bee5d69-8848-44e0-b9d4-440ca3790e42.png",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1783961839444-2",
+    "slug": "the-first-half-of-2026-has-been-a-strong-one-for-k-dramas",
+    "title": "The first half of 2026 has been a strong one for K-dramas. ...",
+    "summary": "Upcoming Korean Dramas In July 2026. Which drama are you anticipating the most? Love In Sync - 04/07 (Disney+) Goblin 10th Anniversary - 04/ ...",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/Das4YKmDZRw/",
+    "date": "2026-07-13",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1783961841848-3",
+    "slug": "ji-chang-wook-em-2026-tres-lancamentos-imperdiveis-o",
+    "title": "Ji Chang-wook em 2026: Três Lançamentos Imperdíveis O ...",
+    "summary": "The Scandal (Netflix) – Romance Proibido na Era Joseon · Estreia: 3º trimestre de 2026. · O que esperar: Um sageuk (drama histórico) eletrizante, onde Ji ...",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/Datpx3ARhQw/",
+    "date": "9 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1783961844008-4",
+    "slug": "new-ott-releases-this-week-july-13-19-2026",
+    "title": "New OTT releases this week (July 13-19, 2026)",
+    "summary": "New OTT releases this week (July 13-19, 2026): The Hawk, Ready or Not 2, Heartstopper Forever- 6 new titles coming on Netflix, JioHotstar and more. GyeonSeong ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/WIONews/posts/new-ott-releases-this-week-july-13-19-2026-the-hawk-ready-or-not-2-heartstopper-/1392058149700022/",
+    "date": "2026-07-13",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1783961844274-5",
+    "slug": "check-pin-comment-for-details-wtfamy-all-credit-goes",
+    "title": "Check Pin Comment For DETAILS @w.t.f.amy All Credit Goes ...",
+    "summary": "Upcoming Dramas of July 2026 On Netflix, Prime Video, Disney plus, ... The Husband Korean drama on July 4th on Disney+. And on July 4th itself, a Korean ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DaqQKuYSplP/",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1783961844683-6",
+    "slug": "5-estreias-de-streaming-para-ver-neste-fim-de-semana-de",
+    "title": "5 estreias de streaming para ver neste fim de semana de ...",
+    "summary": "Aqui vão as 5 novidades de streaming para ver neste fim de semana, seguidas de uma seleção mais ampla de filmes e séries para descobrir em julho de 2026. As 5 ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "sortiraparis.com",
+    "sourceUrl": "https://www.sortiraparis.com/pt/o-que-fazer-em-paris/cinema-serie/guides/313146-5-novidades-em-streaming-para-ver-neste-fim-de-semana-de-17-a-19-de-julho-de-2026",
+    "date": "6 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1783856671537-1",
     "slug": "tom-key-peele-cruise",
     "title": "Tom Key Peele Cruise !",
@@ -4489,7 +4591,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-07-12T11:44:42.247Z";
+export const LAST_UPDATED = "2026-07-13T16:57:26.054Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
