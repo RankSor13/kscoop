@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1784022829934-1",
+    "slug": "s-korean-ex-child-actors-speak-out-on-corruption-low-pay",
+    "title": "S. Korean ex-child actors speak out on corruption, low pay ...",
+    "summary": "Korean ex-child actors speak out on corruption, low pay and violence. Public Korea Erupts Over Actors' Sky-High Salaries. Kim Soo -hyun's with a minor.",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/nstonline/posts/showbiz-s-korean-ex-child-actors-speak-out-on-corruption-low-pay-and-violence/1483341207160780/",
+    "date": "2026-07-14",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1784022832148-2",
+    "slug": "rkdrama",
+    "title": "r/KDRAMA",
+    "summary": "r/KDRAMA: Welcome! This is a place for discussions about your favorite Korean dramas (current and past), drama reviews, official soundtracks, news…",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/KDRAMA/",
+    "date": "2026-07-14",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1784022834025-3",
+    "slug": "article-live-1784022834025-3",
+    "title": "مسلسل كوري مشهور يثير الجدل",
+    "summary": "Kim Soo Hyun loses title as South Korea's highest-paid actor to Park Hyung Sik following underage dating controversy Kim Soo Hyun has reportedly lost his ...",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/groups/932067523859113/posts/2849354828797030/",
+    "date": "2026-07-14",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1784022835872-4",
+    "slug": "kim-woo-bin",
+    "title": "Kim Woo-bin",
+    "summary": "Kim Woo-bin (김우빈), is a South Korean actor and model. He began his career as a runway model and made his acting debut in the television drama White ...",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "en.wikipedia.org",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Kim_Woo-bin",
+    "date": "6 days ago",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Kim_Woo-bin_in_March_2024.jpg/960px-Kim_Woo-bin_in_March_2024.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1784022838272-5",
+    "slug": "meet-kang-hanna-the-ultra-rich-better-late-than-single",
+    "title": "Meet Kang Hanna, the ultra-rich Better Late Than Single ...",
+    "summary": "Kang Hanna is a big-name Korean actress ... For all the latest reality TV cast member news, scandals, gossip and updates – like Reality Shrine on Facebook.",
+    "category": "gossip",
+    "author": "Mia Kwon",
+    "source": "thetab.com",
+    "sourceUrl": "https://thetab.com/realityshrine/2026/07/07/meet-kang-hanna-ultra-rich-panelist-on-better-late-than-single-who-built-wealth-on-her-own/",
+    "date": "7 days ago",
+    "image": "https://cdn.realitytvshrine.com/uploads/2026/07/Ored-Featured-Reality-Shrine-34.png",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1784022838762-6",
+    "slug": "news",
+    "title": "News",
+    "summary": "Korea posts record-high current account surplus in May on strong chip exports. 2026-07-08 17:00:00 KST. 02:16 · Inside Korean chip mega-cluster construction site ...",
+    "category": "gossip",
+    "author": "Rina Baek",
+    "source": "m.arirang.com",
+    "sourceUrl": "https://m.arirang.com/news",
+    "date": "5 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1783961836276-1",
     "slug": "disney-bets-on-a-shop-for-killers-sequel-to-break-netflix",
     "title": "Disney+ bets on 'A Shop for Killers' sequel to break Netflix ...",
@@ -4591,7 +4693,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-07-13T16:57:26.054Z";
+export const LAST_UPDATED = "2026-07-14T09:53:59.552Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES

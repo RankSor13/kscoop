@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-07-13T16:57:26.055Z
+ * Last updated: 2026-07-14T09:53:59.554Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -8268,5 +8268,165 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       }
     ],
     "takeaways": []
+  },
+  "live-1784022829934-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Bombshell Allegations Rock K-Entertainment"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Korean ex-child actors are speaking out about the dark side of the industry, including corruption, low pay, and violence.",
+          "The news comes as the public is already fuming over the high salaries of top actors like Kim Soo-hyun.",
+          "Kim Soo-hyun is currently facing a minor issue, though details are scarce.",
+          "The contrast between the sky-high salaries of A-listers and the struggles of child actors is sparking outrage."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "K-drama fans, we've got a major scandal on our hands. It's not just about the fancy cars and luxurious lifestyles of our favorite stars - behind the glamour, some ex-child actors are sharing harrowing stories of corruption, low pay, and even violence. But what's really got people talking is the timing: this news is dropping just as the public is getting fed up with the astronomical salaries of top actors. We're talking Kim Soo-hyun, one of the biggest names in the game, who's currently dealing with a minor issue that's got everyone wondering what's going on."
+      },
+      {
+        "type": "h2",
+        "text": "The Pay Gap Problem"
+      },
+      {
+        "type": "p",
+        "text": "The fact that A-listers like Kim Soo-hyun are raking it in while child actors are struggling to make ends meet is a pretty stark contrast. It's not like we're expecting every actor to be a saint, but come on - shouldn't the people who are helping to make these dramas so compelling be paid fairly? It's a question that's got fans and non-fans alike up in arms, and honestly, it's about time we started talking about this stuff. But was the public already on edge about actor salaries before these allegations surfaced?"
+      },
+      {
+        "type": "h2",
+        "text": "Where Things Stand Now"
+      },
+      {
+        "type": "p",
+        "text": "We don't have all the details yet, but one thing's for sure: this scandal is going to have some serious repercussions for the K-entertainment industry. We're waiting to see how the powers that be will respond to these allegations, and whether anything will actually change. For now, it's just a whole lot of outrage and frustration - and rightfully so. [originally reported by facebook.com](https://www.facebook.com/nstonline/posts/showbiz-s-korean-ex-child-actors-speak-out-on-corruption-low-pay-and-violence/1483341207160780/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1784022832148-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Ultimate K-Drama Community"
+      },
+      {
+        "type": "p",
+        "text": "The most dedicated K-drama fans know that if you're looking for a place to discuss your favorite shows, there's one subreddit that stands out from the rest: r/KDRAMA. It's not just a forum - it's a community where fans can dive into discussions about their favorite Korean dramas, share reviews, and even talk about official soundtracks."
+      },
+      {
+        "type": "h2",
+        "text": "What's Behind the Fandom"
+      },
+      {
+        "type": "p",
+        "text": "But what makes r/KDRAMA so special? For starters, it's a space where fans can freely share their thoughts on current and past dramas. Whether you're hooked on a brand-new show or still rewatching classics, this community has got you covered. The fact that it covers both current and past dramas is a big deal - it means that no matter when you discovered K-dramas, you can find someone to talk to about the shows you love."
+      },
+      {
+        "type": "h2",
+        "text": "The Heart of the Community"
+      },
+      {
+        "type": "p",
+        "text": "So, what's it like to be part of r/KDRAMA? Honestly, it's a breath of fresh air for K-drama enthusiasts. In a world where fandoms can sometimes feel overwhelming, this subreddit offers a focused space where fans can geek out over their favorite dramas without judgment. But was it always this way? That's a story for another time."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "The existence of r/KDRAMA says a lot about the power of K-drama fandom. It's not just about watching shows - it's about sharing experiences and connecting with others who understand your passions. So, if you haven't checked out r/KDRAMA yet, what are you waiting for? It's time to join the conversation. [originally reported by reddit](https://www.reddit.com/r/KDRAMA/)"
+      }
+    ],
+    "takeaways": [
+      "r/KDRAMA is a subreddit dedicated to K-drama discussions",
+      "The community covers both current and past Korean dramas",
+      "Fans can share drama reviews and discuss official soundtracks",
+      "It's a place for in-depth discussions about favorite shows"
+    ]
+  },
+  "live-1784022834025-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Losing the Top Spot"
+      },
+      {
+        "type": "p",
+        "text": "Kim Soo Hyun's reign as South Korea's highest-paid actor has come to an end, and it's all because of an underage dating controversy that's been making headlines. Honestly, this is a big deal - Kim Soo Hyun was on top for a reason, and to see him lose that title is pretty shocking. Park Hyung Sik is the one who's stolen the throne, and we're wondering what this means for Kim Soo Hyun's career going forward."
+      },
+      {
+        "type": "p",
+        "text": "But was the fallout from the controversy really enough to dethrone Kim Soo Hyun? It seems so, and it's not like he didn't have it coming - fans weren't wrong to be upset about the whole thing. The real question is, will Kim Soo Hyun be able to bounce back from this, or is his career going to take a hit?"
+      },
+      {
+        "type": "h2",
+        "text": "What's Next for Kim Soo Hyun"
+      },
+      {
+        "type": "p",
+        "text": "It's hard to say what's going to happen to Kim Soo Hyun now that he's lost his title. He's still a talented actor, but this scandal has definitely tainted his reputation. We're curious to see how he'll try to recover from this - will he lay low for a while, or try to make a comeback as soon as possible? Only time will... no, scratch that - we don't have to wait and see, we'll just be watching to see how it all plays out."
+      },
+      {
+        "type": "h2",
+        "text": "The New King of K-Drama"
+      },
+      {
+        "type": "p",
+        "text": "Park Hyung Sik, on the other hand, is probably pretty thrilled to have taken Kim Soo Hyun's place as the highest-paid actor in South Korea. He's definitely got the talent to back it up, and we're excited to see what he does with his newfound status. Will he use this as an opportunity to take on even more challenging roles, or will he play it safe and stick with what's worked for him so far?"
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by facebook.com](https://www.facebook.com/groups/932067523859113/posts/2849354828797030/)"
+      }
+    ],
+    "takeaways": [
+      "Kim Soo Hyun is no longer the highest-paid actor in South Korea",
+      "Park Hyung Sik has taken his place at the top",
+      "This change follows an underage dating controversy",
+      "Kim Soo Hyun's career has been impacted by the scandal"
+    ]
+  },
+  "live-1784022835872-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Rising Star"
+      },
+      {
+        "type": "p",
+        "text": "Kim Woo-bin's career is a testament to his hard work and dedication. He didn't start out as an actor, but as a model - and a successful one at that. He began modeling at the age of 20, strutting his stuff on runways and in prêt-à-porter collections. But it wasn't long before he caught the acting bug. Under the guidance of acting coach Moon Won-joo, Kim started studying acting and never looked back. His first acting role was in the mystery drama White Christmas, and from there, he landed a supporting role in the romantic comedy A Gentleman's Dignity, written by the acclaimed screenwriter Kim Eun-sook."
+      },
+      {
+        "type": "p",
+        "text": "Kim's breakout year was 2013, with two hit dramas and a film that cemented his status as a rising star. His role in School 2013 earned him his first acting award, and his appearance in The Heirs sent his popularity soaring, both domestically and internationally. The drama's peak audience rating of 28.6% and 1 million hits on the Chinese streaming website iQiyi are a testament to its success. Kim's portrayal of a young gang member in Friend: The Great Legacy also received positive reviews, solidifying his position as a talented and versatile actor."
+      },
+      {
+        "type": "h2",
+        "text": "Overcoming Adversity"
+      },
+      {
+        "type": "p",
+        "text": "But Kim Woo-bin's career hasn't been without its challenges. In 2017, he was diagnosed with nasopharyngeal cancer, forcing him to take a hiatus from acting. It was a tough time for the actor and his fans, but he's since made a successful return to screens with the 2022 drama Our Blues. It's a testament to his strength and resilience, and a reminder that even in the face of adversity, talent and determination can prevail. So, what's next for Kim Woo-bin? Will he continue to dominate the small and big screens, or will he take on new challenges? One thing's for sure - we're excited to see what he does next."
+      },
+      {
+        "type": "h2",
+        "text": "The Comeback Kid"
+      },
+      {
+        "type": "p",
+        "text": "Kim Woo-bin's return to acting has been met with enthusiasm from fans, who've welcomed him back with open arms. His role in Our Blues has been well-received, and it's clear that he's still got the magic that made him a star in the first place. But was the comeback too fast? Did he rush back into acting, or was he ready to take on new challenges? Whatever the case, one thing's certain - Kim Woo-bin is back, and he's here to stay. [originally reported by Wikipedia](https://en.wikipedia.org/wiki/Kim_Woo-bin)"
+      }
+    ],
+    "takeaways": [
+      "Kim Woo-bin started his career as a runway model before diving into acting, making his debut in the 2011 drama White Christmas.",
+      "He gained attention for his roles in A Gentleman's Dignity and School 2013, but it was The Heirs that really put him on the map.",
+      "Kim Woo-bin took a hiatus in 2017 after being diagnosed with nasopharyngeal cancer, returning to screens in 2022 with Our Blues.",
+      "He's had a string of successful films, including Twenty and Master, and has hosted music programs like M! Countdown."
+    ]
   }
 };
