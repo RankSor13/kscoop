@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-07-14T09:53:59.554Z
+ * Last updated: 2026-07-15T09:57:59.196Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -8427,6 +8427,149 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       "He gained attention for his roles in A Gentleman's Dignity and School 2013, but it was The Heirs that really put him on the map.",
       "Kim Woo-bin took a hiatus in 2017 after being diagnosed with nasopharyngeal cancer, returning to screens in 2022 with Our Blues.",
       "He's had a string of successful films, including Twenty and Master, and has hosted music programs like M! Countdown."
+    ]
+  },
+  "live-1784109470730-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The TikTok Takeover"
+      },
+      {
+        "type": "p",
+        "text": "TikTok Live is suddenly the go-to platform for Korean celebrities - and we're not just talking about the younger idols, either. Stars like Yulhee, Lee Dong-gun, Han Chae-young, and Sung Hoon are all using the platform to connect with their fans. But what's really surprising is that it's not just the usual suspects - like variety show favorites or social media-savvy idols - who are getting in on the action."
+      },
+      {
+        "type": "h2",
+        "text": "Why It Matters"
+      },
+      {
+        "type": "p",
+        "text": "The fact that established stars like Han Chae-young and Sung Hoon are using TikTok Live says a lot about the platform's growing influence. It's not just a space for fans to catch glimpses of their favorite celebrities - it's a legitimate way for stars to build their personal brand and connect with their audience. But was the move to TikTok Live inevitable, given the platform's massive user base?"
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "TikTok's popularity has been soaring, and it's no secret that Korean celebrities are always on the lookout for new ways to engage with their fans. So, it's not totally surprising that they're flocking to TikTok Live - but it's still exciting to see. The real question is, what's next for these celebrities on the platform? Will we see more exclusive content, or even TikTok Live-only dramas? [originally reported by KoreadailyUS](https://www.facebook.com/KoreadailyUS/posts/tiktok-live-is-becoming-the-latest-stage-for-korean-celebrities-stars-like-yulhe/1354864960069222/)"
+      }
+    ],
+    "takeaways": [
+      "Yulhee is one of the Korean celebrities using TikTok Live",
+      "Lee Dong-gun is also on the platform, reaching his fans directly",
+      "Han Chae-young and Sung Hoon are among the stars using TikTok Live",
+      "The platform is becoming a stage for a wide range of Korean celebrities"
+    ]
+  },
+  "live-1784109472752-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Kelly Kim Transformation"
+      },
+      {
+        "type": "p",
+        "text": "We're talking about a dramatic change in Kelly Kim's appearance - she's looking way thinner and more fragile than before. Honestly, it's a big deal, especially in the K-pop world where comments about weight and appearance are, sadly, all too common. But what's really going on with Kelly Kim?"
+      },
+      {
+        "type": "h2",
+        "text": "A Sudden Shift"
+      },
+      {
+        "type": "p",
+        "text": "It's not like Kelly Kim was ever known for being super skinny, so this new look is raising some eyebrows. People are noticing, and they're talking - but is it all just speculation at this point? We don't have any official word from Kelly Kim herself, just a lot of observations from fans and followers. But was this transformation really that sudden, or did we just not notice it happening?"
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "Comments about K-pop stars' weight and appearance are nothing new, unfortunately. It's a sensitive topic, and one that can have serious consequences for the stars themselves. But Kelly Kim's situation is sparking some interesting conversations - are we too focused on how these stars look, rather than their actual talents? It's a tough question, and one that doesn't have an easy answer. [originally reported by instagram.com](https://www.instagram.com/reel/DaytnxuyO_r/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1784109474530-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Breaking News: IU and Lee Jong Suk Call It Quits"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal - the entire fandom woke up to news nobody was ready for: IU and Lee Jong Suk are breaking up. That's right, one of K-drama's most beloved couples is no more. But was the breakup too fast? We're still trying to process it all."
+      },
+      {
+        "type": "p",
+        "text": "It's not every day you see a couple like IU and Lee Jong Suk, who seemed so perfect together, decide to go their separate ways. They're both huge stars in their own right, and their relationship was always under scrutiny. That's what makes this breakup so shocking - we didn't see it coming."
+      },
+      {
+        "type": "h2",
+        "text": "The Fallout"
+      },
+      {
+        "type": "p",
+        "text": "So, what's next for these two? That's the million-dollar question. Fans are already mourning the loss of this couple, and it's clear they're going to be missed. But let's be real, breakups happen, even in K-drama land. We're just hoping they both come out of this okay."
+      },
+      {
+        "type": "h2",
+        "text": "What Fans Are Saying"
+      },
+      {
+        "type": "p",
+        "text": "It's clear that fans are still reeling from the news. But as they start to process it all, they're taking to social media to share their thoughts. Some are sad, others are shocked, but everyone's talking about it. That's what makes K-drama fandom so special - we're all in this together."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by instagram.com](https://www.instagram.com/reel/DanccOBpNLm/)"
+      }
+    ],
+    "takeaways": [
+      "IU and Lee Jong Suk's breakup is the latest shockwave in K-drama land",
+      "The news dropped suddenly, leaving fans stunned",
+      "This breakup's got everyone talking, from K-drama enthusiasts to casual fans",
+      "It's a sad day for fans who shipped this couple hard"
+    ]
+  },
+  "live-1784109476529-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The End of an Era"
+      },
+      {
+        "type": "p",
+        "text": "IU and Lee Jong Suk are done - and honestly, this is a big deal. They were one of those couples that made you believe in love again. After about four years together, it's over. But what's really surprising is that they were able to keep their relationship under wraps for so long before confirming it in 2022."
+      },
+      {
+        "type": "p",
+        "text": "Their fans were thrilled when they finally went public, and it seemed like they were meant to be. But was the pressure of being in the public eye too much for them? We'll never know for sure, but it's clear that their breakup has left a lot of people heartbroken."
+      },
+      {
+        "type": "h2",
+        "text": "A Couple We Loved"
+      },
+      {
+        "type": "p",
+        "text": "IU and Lee Jong Suk were more than just a celebrity couple - they were a team. They supported each other's projects, and their love for each other seemed genuine. So, what happened? We might never get the full story, but one thing's for sure: they'll both be just fine. They're talented, gorgeous, and have a ton of fans who'll support them no matter what."
+      },
+      {
+        "type": "h2",
+        "text": "Moving On"
+      },
+      {
+        "type": "p",
+        "text": "It's always sad when a couple breaks up, but that's life, right? IU and Lee Jong Suk will move on, and so will their fans. We'll just have to wait and see what's next for these two amazing artists. [originally reported by instagram.com](https://www.instagram.com/p/DamuGO5ITj9/)"
+      }
+    ],
+    "takeaways": [
+      "IU and Lee Jong Suk's relationship lasted about four years",
+      "The couple confirmed their relationship publicly in 2022",
+      "They're one of K-pop's most beloved couples",
+      "Their breakup news is a shock to fans"
     ]
   }
 };

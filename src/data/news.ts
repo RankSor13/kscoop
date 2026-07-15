@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1784109470730-1",
+    "slug": "tiktok-live-is-becoming-the-latest-stage-for-korean",
+    "title": "TikTok Live is becoming the latest stage for Korean ...",
+    "summary": "TikTok Live is becoming the latest stage for Korean celebrities. Stars like Yulhee, Lee Dong-gun, Han Chae-young, and Sung Hoon are using the platform to...",
+    "category": "trending",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/KoreadailyUS/posts/tiktok-live-is-becoming-the-latest-stage-for-korean-celebrities-stars-like-yulhe/1354864960069222/",
+    "date": "2026-07-15",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1784109472752-2",
+    "slug": "what-happened-to-kelly-kim",
+    "title": "What Happened to Kelly Kim?",
+    "summary": "But lately people have noticed a dramatic change in her appearance. Many say she's looking much thinner and more fragile than before. Comments like in K-pop? ...",
+    "category": "trending",
+    "author": "Soo Min Lee",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DaytnxuyO_r/",
+    "date": "2026-07-15",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1784109474530-3",
+    "slug": "the-entire-fandom-woke-up-to-news-nobody-was-ready-for",
+    "title": "The entire fandom woke up to news nobody was ready for ...",
+    "summary": "[Korean celebrity breakup, IU and Lee Jong Suk, IU breakup news, Lee Jong Suk latest news, K-drama news, Korean entertainment, K-celeb updates, K-drama fans]",
+    "category": "trending",
+    "author": "Dana Kim",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DanccOBpNLm/",
+    "date": "4 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1784109476529-4",
+    "slug": "k-pop-star-iu-and-actor-lee-jong-suk-have-reportedly",
+    "title": "K-pop star IU and actor Lee Jong Suk have reportedly ...",
+    "summary": "IU and actor Lee Jong Suk have reportedly ended their relationship after about four years together. The couple confirmed their relationship in 2022 and had ...",
+    "category": "trending",
+    "author": "Hana Cho",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/DamuGO5ITj9/",
+    "date": "2026-07-15",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1784109478212-5",
+    "slug": "for-legal-reasons-all-opinions-are-my-own-and-everything-is",
+    "title": "For legal reasons all opinions are my own and everything is ...",
+    "summary": "K-content fans, listen up! A brand new celeb couple with an 18-year age gap has just been revealed! It's actress Yoon Gai and musician Chang Kiha! They first ...",
+    "category": "trending",
+    "author": "Mia Kwon",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/Dawms2wtgA6/",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1784109478963-6",
+    "slug": "iu-and-lee-jong-suk-confirm-breakup-after-4-years",
+    "title": "IU and Lee Jong Suk confirm breakup after 4 years",
+    "summary": "IU and actor Lee Jong Suk. Suspicions that the couple secretly broke up after a gathering with friends.",
+    "category": "trending",
+    "author": "Rina Baek",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/gmanews/posts/iu-and-lee-jong-suk-confirm-breakup-after-4-years-gma-news-feedsinger-actress-iu/1598520228986295/",
+    "date": "2026-07-15",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1784022829934-1",
     "slug": "s-korean-ex-child-actors-speak-out-on-corruption-low-pay",
     "title": "S. Korean ex-child actors speak out on corruption, low pay ...",
@@ -4693,7 +4795,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-07-14T09:53:59.552Z";
+export const LAST_UPDATED = "2026-07-15T09:57:59.181Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
