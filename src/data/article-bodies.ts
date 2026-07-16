@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-07-15T09:57:59.196Z
+ * Last updated: 2026-07-16T10:05:01.512Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -8570,6 +8570,162 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       "The couple confirmed their relationship publicly in 2022",
       "They're one of K-pop's most beloved couples",
       "Their breakup news is a shock to fans"
+    ]
+  },
+  "live-1784196292088-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The King's Return"
+      },
+      {
+        "type": "p",
+        "text": "Kim Soo Hyun's scandal is clearly behind him, and he's not wasting any time - the #QueenOfTears actor has just received a ton of offers for his return to acting. We're talking a shocking number, and honestly, this is a big deal. It's not every day you see an actor bounce back like this."
+      },
+      {
+        "type": "h2",
+        "text": "What's Next For Kim Soo Hyun"
+      },
+      {
+        "type": "p",
+        "text": "So, what's on the table for Kim Soo Hyun? That's the million-dollar question. He's finally resumed activities, and it seems like everyone wants a piece of him. But was the comeback too fast? That's up for debate. One thing's for sure, though - Kim Soo Hyun's still got it, and he's not going anywhere anytime soon."
+      },
+      {
+        "type": "h2",
+        "text": "Back In The Spotlight"
+      },
+      {
+        "type": "p",
+        "text": "It's not like Kim Soo Hyun's been out of the game for long, but it's great to see him back where he belongs - in the spotlight. And with all these offers on the table, we can't help but wonder what he'll choose next. Will he go for a drama, a movie, or something entirely different? Only time will... no, scratch that - we don't have to wait that long. Kim Soo Hyun will surely make his move soon, and we can't wait to see what it is. [originally reported by facebook.com](https://www.facebook.com/yeppeungudeul/posts/queenoftears-actor-kim-soo-hyun-receives-a-shocking-number-of-offers-for-his-ret/1608754990855353/)"
+      }
+    ],
+    "takeaways": [
+      "Kim Soo Hyun's received a surprising number of offers for his return",
+      "He's resumed activities after his scandal",
+      "The #QueenOfTears actor is clearly still in high demand",
+      "His comeback is already generating a lot of buzz"
+    ]
+  },
+  "live-1784196294391-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Scandal Hits K-Drama World"
+      },
+      {
+        "type": "p",
+        "text": "Kim Soo Hyun, one of Korea's most beloved actors, is caught up in a scandal - and it's not just any scandal. It involves the late actress Kim Sae Ron, which makes this whole thing even more shocking. Honestly, this is a big deal, especially considering Kim Soo Hyun's spotless reputation up until now. But was his involvement with Kim Sae Ron really a secret, or are we just finding out about it now?"
+      },
+      {
+        "type": "p",
+        "text": "The fact that an audio scandal is at the center of all this is pretty wild. It's not every day you see a high-profile actor like Kim Soo Hyun embroiled in something like this. And the fact that it's all playing out on social media platforms like Instagram is just adding fuel to the fire. Fans are already taking to the comments to share their thoughts - and let's just say it's a mixed bag."
+      },
+      {
+        "type": "h2",
+        "text": "The Fallout"
+      },
+      {
+        "type": "p",
+        "text": "So, what does this mean for Kim Soo Hyun's career? That's the million-dollar question right now. Will this scandal tarnish his reputation forever, or can he bounce back from it? It's hard to say, but one thing's for sure - this is a huge blow to his fans, who are probably feeling pretty shocked and disappointed right now. But was the scandal really that surprising, or were there signs that something was off?"
+      },
+      {
+        "type": "h2",
+        "text": "Where Things Stand Now"
+      },
+      {
+        "type": "p",
+        "text": "As the news continues to break, fans are left wondering what really went down between Kim Soo Hyun and Kim Sae Ron. We're not getting all the details just yet, but it's clear that this scandal is going to have some major repercussions. And honestly, it's kind of sad - Kim Sae Ron's passing was already a tragedy, and now this. It's just a lot to take in. [originally reported by instagram.com](https://www.instagram.com/reel/DauoEUWACoV/)"
+      }
+    ],
+    "takeaways": [
+      "Kim Soo Hyun's involvement in a scandal is a massive deal for K-drama fans",
+      "The scandal involves the late actress Kim Sae Ron",
+      "An audio scandal is at the center of this controversy",
+      "The news is breaking on social media platforms like Instagram"
+    ]
+  },
+  "live-1784196296756-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Kim Soo-hyun Sets the Record Straight"
+      },
+      {
+        "type": "p",
+        "text": "Kim Soo-hyun's got a lot to smile about, and it's not just because he's hanging out with Bench founder Ben Chan - he's also just shut down some major rumors about his love life. On Monday, the actor flat out denied claims that he was in a long-term relationship with the late actress Kim Sae-ron, and honestly, it's about time we got some clarity on this."
+      },
+      {
+        "type": "h2",
+        "text": "Cutting Through the Noise"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Kim Soo-hyun recently met up with Ben Chan, and the photos are adorable",
+          "The actor's been dealing with some pretty intense rumors lately",
+          "He firmly denied any romantic involvement with Kim Sae-ron",
+          "The news is a big deal for fans who've been speculating about his love life"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "But was the rumor really that surprising? Not to fans who've been following K-drama news - we know how quickly rumors can spread. What's interesting, though, is how quickly Kim Soo-hyun moved to shut this one down. It's clear he's not interested in letting false stories define him."
+      },
+      {
+        "type": "h2",
+        "text": "Moving On"
+      },
+      {
+        "type": "p",
+        "text": "Kim Soo-hyun's focus seems to be on his work and his friendships, judging by the photos with Ben Chan. And why not? He's got a lot to be proud of, and his fans are definitely happy to see him happy. But let's be real - the rumor about Kim Sae-ron was a big one, and it's not going to disappear overnight."
+      },
+      {
+        "type": "h2",
+        "text": "The Latest"
+      },
+      {
+        "type": "p",
+        "text": "It's worth keeping an eye on what Kim Soo-hyun does next - will he keep speaking out against rumors, or will he let his work do the talking? For now, though, it's nice to see him smiling and looking carefree. [originally reported by facebook.com](https://www.facebook.com/abscbnNEWS/posts/kim-soo-hyun-is-all-smiles-with-bench-founder-ben-chan-who-shared-photos-with-th/1593144966194087/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1784196298885-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Scandal Rocks K-Drama World"
+      },
+      {
+        "type": "p",
+        "text": "Kim Soo Hyun's just been hit with some pretty serious allegations - and honestly, this is a big deal. The star's been implicated in a scandal involving the late actress Kim Sae Ron. That's all we know for now, but it's already got fans reeling. What was Kim Soo Hyun's relationship with Kim Sae Ron, and how's this going to affect his career?"
+      },
+      {
+        "type": "p",
+        "text": "The K-drama world's always full of surprises, but this one's a real bombshell. Kim Soo Hyun's built a reputation as one of Korea's most beloved stars - can he recover from this? But was he even close with Kim Sae Ron? We're talking about two huge stars here, and the drama community's already buzzing with questions."
+      },
+      {
+        "type": "h2",
+        "text": "Allegations and Aftermath"
+      },
+      {
+        "type": "p",
+        "text": "We don't have all the details yet, but it's clear that this scandal's going to have major repercussions. Kim Soo Hyun's fans are probably feeling pretty shocked and confused right now - and who can blame them? The fact that Kim Sae Ron's no longer with us makes this whole situation even more tragic. But what really happened, and how's Kim Soo Hyun going to respond to these allegations?"
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "This scandal's not just about Kim Soo Hyun - it's about the K-drama industry as a whole. Are we going to see more stars getting called out for their actions? And what does this mean for the future of Korean entertainment? One thing's for sure: this is a wake-up call for the industry. [originally reported by instagram.com](https://www.instagram.com/reel/DanVIypAGmM/)"
+      }
+    ],
+    "takeaways": [
+      "Damaging allegations are surrounding Kim Soo Hyun",
+      "The scandal involves the late actress Kim Sae Ron",
+      "The news is shocking for K-drama fans",
+      "Kim Soo Hyun's team hasn't commented yet"
     ]
   }
 };

@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1784196292088-1",
+    "slug": "queenoftears-actor-kim-soo-hyun-receives-a-shocking",
+    "title": "#QueenOfTears actor Kim Soo Hyun Receives A Shocking ...",
+    "summary": "#QueenOfTears actor Kim Soo Hyun Receives A Shocking Number Of Offers For His Return Actor Kim Soo Hyun has finally resumed activities following his scandal ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/yeppeungudeul/posts/queenoftears-actor-kim-soo-hyun-receives-a-shocking-number-of-offers-for-his-ret/1608754990855353/",
+    "date": "2026-07-16",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1784196294391-2",
+    "slug": "in-the-ever-evolving-landscape-of-korean-entertainment",
+    "title": "In the ever-evolving landscape of Korean entertainment ...",
+    "summary": "Kim Soo Hyun in a scandal involving the late actress Kim Sae Ron. recent audio scandal involving actress Kim Sae Ron and actor Kim Soo Hyun.",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DauoEUWACoV/",
+    "date": "2026-07-16",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1784196296756-3",
+    "slug": "kim-soo-hyun-is-all-smiles-with-bench-founder-ben-chan",
+    "title": "Kim Soo-hyun is all smiles with Bench founder Ben Chan ...",
+    "summary": "On Monday, actor Kim Soo-hyun firmly refuted claims from a YouTube channel that he was in a long-term relationship with the late actress Kim Sae-ron.",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/abscbnNEWS/posts/kim-soo-hyun-is-all-smiles-with-bench-founder-ben-chan-who-shared-photos-with-th/1593144966194087/",
+    "date": "2026-07-16",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1784196298885-4",
+    "slug": "in-the-bustling-world-of-korean-entertainment-stars-often",
+    "title": "In the bustling world of Korean entertainment, stars often ...",
+    "summary": "damaging allegations implicating Kim Soo Hyun in a scandal involving the late actress Kim Sae Ron.",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DanVIypAGmM/",
+    "date": "2026-07-16",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1784196300901-5",
+    "slug": "he-almost-exposed-their-relationship-kdramas",
+    "title": "He almost exposed their relationship #kdramas ...",
+    "summary": "Kim Ji Won's dating rumors with Yoo Yeon Seok have resurfaced, shaking fans of the \"Queen of Tears\" duo. with Kim Soo Hyun. Joon has unexpectedly been dragged ...",
+    "category": "gossip",
+    "author": "Mia Kwon",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/kdramafanatis/posts/he-almost-exposed-their-relationship-kdramas-koreandrama-parkseojoon-kimjiwon/986360914405441/",
+    "date": "2026-07-16",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1784196301246-6",
+    "slug": "a-koalas-playground-ill-talk-about-dramas-if-i-want-to",
+    "title": "A Koala's Playground - I'll talk about dramas if I want to",
+    "summary": "I'll talk about dramas if I want to · K-actor Kim Soo Hyun Officially Resumes Entertainment Activities with Philippines Clothing Brand Bench · K-actor Yoo Ah In ...",
+    "category": "gossip",
+    "author": "Rina Baek",
+    "source": "koalasplayground.com",
+    "sourceUrl": "https://koalasplayground.com/",
+    "date": "3 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1784109470730-1",
     "slug": "tiktok-live-is-becoming-the-latest-stage-for-korean",
     "title": "TikTok Live is becoming the latest stage for Korean ...",
@@ -4795,7 +4897,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-07-15T09:57:59.181Z";
+export const LAST_UPDATED = "2026-07-16T10:05:01.511Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
