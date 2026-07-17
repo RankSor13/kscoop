@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1784281956817-1",
+    "slug": "before-ane-and-ulian-there-was-and",
+    "title": "Before 𝐉𝐚𝐧𝐞 𝐚𝐧𝐝 𝐉𝐮𝐥𝐢𝐚𝐧, there was 𝐌𝐘𝐋𝐄𝐍𝐄 𝐚𝐧𝐝 𝐌 ...",
+    "summary": "Finding Her Edge (2026) is a new romantic sports drama series inspired by Jennifer Iacopelli's novel, premiering on Netflix on January 22, 2026.",
+    "category": "upcoming",
+    "author": "Ji Yeon Park",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@kimsmolina22/video/7663101334597438738",
+    "date": "21 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1784281958873-2",
+    "slug": "murder-club-liars-table-main-trailer-disney-singapore",
+    "title": "Murder Club: Liar's Table | Main Trailer | Disney+ Singapore",
+    "summary": "A deadly game. A room full of secrets. Zero people you should trust. Stream #MurderClubLiarsTable 29 July on #DisneyPlusSG.",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=QvDMvW4cFuY",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1784281961351-3",
+    "slug": "video-starz-reveals-highly-anticipated-first-look-at-young",
+    "title": "Video: Starz Reveals Highly Anticipated First Look at Young ...",
+    "summary": "- July 16, 2026 - STARZ released today an early teaser and first-look images for its upcoming new series \"Power: Origins,\" starring Spence Moore as \"Ghost,\" ...",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "thefutoncritic.com",
+    "sourceUrl": "http://www.thefutoncritic.com/video/2026/07/16/video-starz-reveals-highly-anticipated-first-look-at-young-ghost-and-tommy-in-power-origins-374514/20260716starz01/",
+    "date": "11 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1784281964185-4",
+    "slug": "a-shop-for-killers-season-2-official-trailer-2026",
+    "title": "A Shop For Killers Season 2 - Official Trailer (2026)",
+    "summary": "Watch the official trailer for A Shop For Killers! Streaming on Hulu July 22, 2026. Adapted from the novel \"Sarinjaui Syopingmol\" by Kang Ji Young.",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=0Wgjbov4DPw",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1784281966786-5",
+    "slug": "her-smile-her-elegance-how-awesome-is-it-that-we",
+    "title": "Her smile!! Her elegance!!! ❤️ How awesome is it that we ...",
+    "summary": "Netflix makes a documentary about that one problematic kpop idol. Photo by Disney+ Philippines on June 20, 2026. Catch #MadeInKorea, only on #DisneyPlusPH.",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/Da0SnG5vxVd/",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1784281968745-6",
+    "slug": "this-is-where-the-k-drama-king-the-land-was-filmed",
+    "title": "This is where the k-drama King The Land was filmed ...",
+    "summary": "King The Land was filmed Hotel Parnas. K-drama 2026 no Disney+ … estreia prevista para 2026 no Disney+,",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@mafe_mgc98/video/7662863612330937608",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1784196292088-1",
     "slug": "queenoftears-actor-kim-soo-hyun-receives-a-shocking",
     "title": "#QueenOfTears actor Kim Soo Hyun Receives A Shocking ...",
@@ -4897,7 +4999,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-07-16T10:05:01.511Z";
+export const LAST_UPDATED = "2026-07-17T09:52:49.258Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES

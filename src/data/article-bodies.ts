@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-07-16T10:05:01.512Z
+ * Last updated: 2026-07-17T09:52:49.260Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -8727,5 +8727,207 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       "The news is shocking for K-drama fans",
       "Kim Soo Hyun's team hasn't commented yet"
     ]
+  },
+  "live-1784281956817-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Next Big Thing in K-Dramas?"
+      },
+      {
+        "type": "p",
+        "text": "Before we get to the latest on 𝐉𝐚𝐧𝐞 𝐚𝐧𝐝 𝐉𝐮𝐥𝐢𝐚𝐧, let's talk about what's really got us excited: 𝐌𝐘𝐋𝐄𝐍𝐄 𝐚𝐧𝐝 𝐌, the apparent precursors to this new wave of romance. But honestly, it's the upcoming series Finding Her Edge that's stealing the spotlight."
+      },
+      {
+        "type": "h2",
+        "text": "A New Romantic Sports Drama"
+      },
+      {
+        "type": "p",
+        "text": "Finding Her Edge is set to premiere on Netflix on January 22, 2026, and it's a romantic sports drama series inspired by Jennifer Iacopelli's novel. That's right, folks, a new year, a new series to obsess over. The fact that it's based on a novel already has us intrigued - will it live up to the book, or will it carve its own path?"
+      },
+      {
+        "type": "h2",
+        "text": "What We Know So Far"
+      },
+      {
+        "type": "p",
+        "text": "We don't know much about the series just yet, but the fact that it's a romantic sports drama has us guessing. What kind of sports will be featured? Will it be a classic enemies-to-lovers trope, or something entirely new? The premiere date is just around the corner, so we won't have to wait too long to find out."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by tiktok.com](https://www.tiktok.com/@kimsmolina22/video/7663101334597438738)"
+      }
+    ],
+    "takeaways": [
+      "The series is titled Finding Her Edge and will premiere on January 22, 2026.",
+      "It's a romantic sports drama series inspired by Jennifer Iacopelli's novel.",
+      "The series will be available on Netflix.",
+      "We're expecting a unique blend of romance and sports, but details are scarce."
+    ]
+  },
+  "live-1784281958873-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "A Deadly Game Unfolds"
+      },
+      {
+        "type": "p",
+        "text": "We're just weeks away from a new mystery thrilling its way onto our screens - think secrets, lies, and a whole lot of distrust. That's right, folks, Murder Club: Liar's Table is coming to Disney+ Singapore on July 29."
+      },
+      {
+        "type": "h2",
+        "text": "The Plot Thickens"
+      },
+      {
+        "type": "p",
+        "text": "A room full of secrets and zero trustworthy faces - that's the premise of this gripping new series. It's a setup that's sure to keep us on the edge of our seats, guessing who's behind the deadly game and what their motives are. With the main trailer out now, the anticipation is building."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "What makes Murder Club: Liar's Table so intriguing isn't just the deadly game itself, but the web of lies and secrets that the characters are entangled in. It's a classic whodunit scenario, but with the added twist of not knowing who to trust. But was the idea of a \"murder club\" always this dark, or is this a new take on the theme?"
+      },
+      {
+        "type": "h2",
+        "text": "What We're Waiting For"
+      },
+      {
+        "type": "p",
+        "text": "As we count down the days to July 29, one thing's for sure - we can't wait to dive into the world of Murder Club: Liar's Table. With its promise of thrills, mysteries, and unexpected twists, it's set to be a wild ride. [originally reported by youtube.com](https://www.youtube.com/watch?v=QvDMvW4cFuY)"
+      }
+    ],
+    "takeaways": [
+      "Murder Club: Liar's Table streams on Disney+ Singapore from July 29",
+      "The series revolves around a deadly game with plenty of secrets and untrustworthy characters",
+      "The main trailer is available to watch now on YouTube",
+      "The show promises to be a thrilling mystery that keeps viewers guessing"
+    ]
+  },
+  "live-1784281961351-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Wait is Over"
+      },
+      {
+        "type": "p",
+        "text": "We're finally getting a glimpse of the highly anticipated \"Power: Origins\" series, and it's safe to say that fans aren't disappointed. STARZ just dropped an early teaser and first-look images, giving us our first look at Spence Moore as young Ghost and Charlie Mann as young Tommy. But what's really got everyone talking is how these characters are being reimagined as ambitious young entrepreneurs on the rise in New York City. It's a fresh take on the \"Power\" universe, and we can't wait to see how it all plays out."
+      },
+      {
+        "type": "p",
+        "text": "The series is still in production, but we know it's going to be a wild ride. With MeKai Curtis joining the cast as Kanan Stark, we're expecting some serious action and drama. And let's be real, the fact that it's a prequel to the original \"Power\" series has us wondering - what led these characters to become the people we know and love? The show's creators, Courtney A. Kemp and Sascha Penn, are definitely on the right track with this one. But was the decision to create another spinoff the right move? Honestly, we're not complaining - the more \"Power\" content, the better."
+      },
+      {
+        "type": "h2",
+        "text": "A New Chapter in the Power Universe"
+      },
+      {
+        "type": "p",
+        "text": "\"Power: Origins\" is the fourth spinoff in the series, and it's clear that STARZ is committed to keeping the franchise alive. With a fifth spinoff, \"Power: Legacy\", also in the works, we're excited to see where this new chapter takes us. The fact that the show is being executive produced by some of the biggest names in the industry, including Curtis \"50 Cent\" Jackson and Mark Canton, is a good sign that we're in for some quality entertainment. So, what can we expect from \"Power: Origins\"? A fun, rambunctious exploration of a new time period in the \"Power\" franchise, that's what."
+      },
+      {
+        "type": "h2",
+        "text": "Where Things Stand Now"
+      },
+      {
+        "type": "p",
+        "text": "The fifth and final season of \"Power Book III: Raising Kanan\" is currently airing, with new episodes streaming weekly on Fridays on the STARZ app. And with the series finale set for August 7, we know that \"Power: Origins\" is going to be the perfect follow-up. We're basically counting down the days until we can dive back into the world of \"Power\" and see what's in store for these beloved characters. So, are you ready to meet young Ghost and Tommy? We sure are. [originally reported by thefutoncritic.com](http://www.thefutoncritic.com/video/2026/07/16/video-starz-reveals-highly-anticipated-first-look-at-young-ghost-and-tommy-in-power-origins-374514/20260716starz01/)"
+      }
+    ],
+    "takeaways": [
+      "Spence Moore and Charlie Mann are starring as young Ghost and Tommy in \"Power: Origins\"",
+      "The series is currently in production in New Jersey and will explore the origin story of these characters",
+      "\"Power: Origins\" is the fourth spinoff in the \"Power\" series, with a fifth spinoff, \"Power: Legacy\", also recently greenlit",
+      "The show is created by Courtney A. Kemp and Sascha Penn, with Penn serving as showrunner and executive producer"
+    ]
+  },
+  "live-1784281964185-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Wait is Over: A Shop For Killers Season 2 Trailer Drops"
+      },
+      {
+        "type": "p",
+        "text": "The official trailer for A Shop For Killers Season 2 is finally out, and we're getting our first look at what's in store for us when it hits Hulu on July 22, 2026. Honestly, this is a big deal - fans have been waiting for what feels like forever to see what's next for this dark, thrilling series."
+      },
+      {
+        "type": "h2",
+        "text": "Dive into the Trailer"
+      },
+      {
+        "type": "p",
+        "text": "So, what can we expect from Season 2? The trailer doesn't give away too much, but it's clear that the show is going to be just as intense and suspenseful as the first season. Adapted from the novel \"Sarinjaui Syopingmol\" by Kang Ji Young, A Shop For Killers has already proven itself to be a gripping, unmissable watch - and it looks like Season 2 is going to be more of the same."
+      },
+      {
+        "type": "h2",
+        "text": "What We're Hoping For"
+      },
+      {
+        "type": "p",
+        "text": "But was the wait worth it? We're hoping that Season 2 will live up to the standards set by the first season - and from what we've seen so far, it's looking good. With its unique blend of suspense, intrigue, and dark humor, A Shop For Killers has already won over a lot of fans - and we're excited to see what's in store for us next."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "One thing's for sure: July 22 can't come soon enough. We're counting down the days until we can dive back into the world of A Shop For Killers - and we're not alone. Fans all over the world are eagerly anticipating the new season, and it's going to be interesting to see how the show performs on Hulu. [originally reported by youtube.com](https://www.youtube.com/watch?v=0Wgjbov4DPw)"
+      }
+    ],
+    "takeaways": [
+      "A Shop For Killers Season 2 will stream on Hulu starting July 22, 2026",
+      "The show is adapted from the novel \"Sarinjaui Syopingmol\" by Kang Ji Young",
+      "The official trailer is now available to watch",
+      "Season 2 promises to be just as dark and thrilling as the first season"
+    ]
+  },
+  "live-1784281966786-5": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Tea is Hot"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Netflix isn't making this documentary, it's actually Disney+ that's behind it",
+          "The documentary is called #MadeInKorea",
+          "It's going to be available on #DisneyPlusPH",
+          "The photo that announced this was posted by Disney+ Philippines on June 20, 2026"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "The Plot Thickens"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal - a documentary about a problematic K-pop idol is sure to stir up some drama. But was the decision to make a documentary about this idol a good one? We're talking about someone who's been at the center of controversy, and it's not like they've been flying under the radar. The fact that Disney+ is investing in a documentary about them is pretty interesting, to say the least. What's even more surprising is that it's not Netflix, the usual go-to platform for K-pop documentaries, that's behind this project."
+      },
+      {
+        "type": "h2",
+        "text": "Getting Real"
+      },
+      {
+        "type": "p",
+        "text": "So, what can we expect from #MadeInKorea? That's the million-dollar question. Will it be a tell-all, or will it gloss over the idol's problematic past? We're not sure, but one thing's for sure - fans are going to be talking about this. The photo posted by Disney+ Philippines on June 20, 2026, has already generated some buzz, and we can expect that to only grow as the documentary's release date approaches."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "But here's the thing: this documentary could be a game-changer. It could be an opportunity for the idol to address their past mistakes and show fans that they're committed to growth and change. Or, it could be a PR stunt designed to rehabilitate their image. Either way, we're curious to see how it all plays out. [originally reported by instagram.com](https://www.instagram.com/reel/Da0SnG5vxVd/)"
+      }
+    ],
+    "takeaways": []
   }
 };
