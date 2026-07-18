@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-07-17T09:52:49.260Z
+ * Last updated: 2026-07-18T09:19:46.594Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -8926,6 +8926,206 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       {
         "type": "p",
         "text": "But here's the thing: this documentary could be a game-changer. It could be an opportunity for the idol to address their past mistakes and show fans that they're committed to growth and change. Or, it could be a PR stunt designed to rehabilitate their image. Either way, we're curious to see how it all plays out. [originally reported by instagram.com](https://www.instagram.com/reel/Da0SnG5vxVd/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1784366372483-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "False Allegations Exposed"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Actor Kim Soo-hyun was involved in a major controversy",
+          "The allegations claimed he had a relationship with the late actress Kim Sae-ron during her minor years",
+          "These allegations were false",
+          "The situation highlights double standards in South Korea"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "A Shocking Scandal"
+      },
+      {
+        "type": "p",
+        "text": "Kim Soo-hyun's career was almost derailed by completely false allegations - isn't that wild? The claim that he had a relationship with Kim Sae-ron during her minor years is not only untrue, but it's also really disturbing that someone would even make that up. But was the backlash against Kim Soo-hyun fair, or was it a case of guilty until proven innocent?"
+      },
+      {
+        "type": "p",
+        "text": "The fact that these allegations were able to gain traction is a testament to how quickly rumors can spread in the K-drama community. It's not like Kim Soo-hyun is some newbie actor - he's a household name, and you'd think that would earn him some benefit of the doubt. But I guess that's not how it works when false allegations are involved."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "So, what's the deal with these double standards in South Korea? It seems like some stars get a free pass for actual wrongdoing, while others are torn apart for false accusations. That's not how justice is supposed to work, right? It's like, if you're going to call out someone for something, make sure it's actually true first."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by reddit.com](https://www.reddit.com/r/kdramas/comments/1uxvz4n/im_disgusted_by_the_double_standards_in_the_south/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1784366374008-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Dark Side of Love and Money"
+      },
+      {
+        "type": "p",
+        "text": "Kim Soo Hyun's deepfake scandal might've made headlines, but it's not the only cheating scandal rocking the entertainment world. Honestly, this summer's been a wild ride - private DMs are spilling onto social media, and marriages are imploding in real-time. But what's really fascinating is how these couples are handling the fallout. It's all about the bottom line, folks. When you're co-owning production companies, real estate, and lifestyle brands with your partner, a messy divorce can threaten your entire empire. That's why couples like Kim Soo Hyun's are opting for intensive therapy over a pricey divorce."
+      },
+      {
+        "type": "p",
+        "text": "It's not just about the love; it's about the money. A veteran Hollywood crisis manager spills the tea: \"It is significantly cheaper to attend intensive couples therapy in the Maldives than to untangle a billion-dollar joint holding company.\" That's a pretty harsh reality check, but it's the truth. We saw this play out in May when a tech billionaire's affair hit the tabloids, and his actress wife didn't walk out - instead, they went into crisis mode, executing the classic survival playbook."
+      },
+      {
+        "type": "h2",
+        "text": "The New Rules of Hollywood Breakups"
+      },
+      {
+        "type": "p",
+        "text": "But here's the thing: the days of dragging out a separation are over. Today's newly singles know that public sympathy has a super short shelf life. If you're going to split, you need to do it fast and make it dramatic. That's why younger celebrities are now using breakups as a career move. They're filing for divorce within 48 hours of a scandal hitting the tabloids, no therapy, no statements - just immediate legal action. It's all about the \"empowerment arc\" now, and staying with a cheater is a major brand liability. The indie-pop world was rocked by a tour bus scandal last month, and the offended party filed for divorce faster than you can say \"TMZ drop.\""
+      },
+      {
+        "type": "h2",
+        "text": "What's Next for Tinseltown"
+      },
+      {
+        "type": "p",
+        "text": "So, are you betting on love or the PR spin? It's a tough choice, but for these celebrities, it's all about the brand. The old guard might cling to their shared assets, but the new Hollywood elite knows that sometimes, a spectacular breakup is the best career move you can make. It's a wild time in Tinseltown, folks, and we're here for it. [originally reported by cristinaiglesias.com](https://cristinaiglesias.com/blog/2026-cheating-scandals-which-celebrity-couples-survived-vs-who-split-for-good/)"
+      }
+    ],
+    "takeaways": [
+      "The 2026 cheating scandals in Hollywood are being handled in a cutthroat, polarized way behind closed doors",
+      "Couples with massive financial entanglements are more likely to weather the infidelity storms",
+      "It's cheaper for these couples to attend intensive couples therapy than to untangle their billion-dollar joint holdings",
+      "Younger celebrities are now prioritizing their personal brand over saving their relationships"
+    ]
+  },
+  "live-1784366377669-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Hooked on the Latest Scoop"
+      },
+      {
+        "type": "p",
+        "text": "The most interesting thing about the latest showbiz news is that it's all in one place - ABS-CBN's got you covered for all things entertainment, from celebrities to movies and music. That's right, folks, if you're looking for a one-stop shop for your K-drama fix, you know where to go."
+      },
+      {
+        "type": "h2",
+        "text": "What's the Big Deal?"
+      },
+      {
+        "type": "p",
+        "text": "So, what makes ABS-CBN the ultimate source for entertainment news? For starters, they've got updates on all your favorite celebrities, so you can stay up-to-date on what's happening in the world of K-dramas. They're also covering movies and music, which is great news for fans who want to know what's hot and what's not. But honestly, it's not like we didn't already know that ABS-CBN is a great resource - the question is, what's new and exciting?"
+      },
+      {
+        "type": "h2",
+        "text": "The Lowdown"
+      },
+      {
+        "type": "p",
+        "text": "Let's get to the good stuff - what can you actually find on ABS-CBN? Well, for one, they've got the latest showbiz news, which is pretty self-explanatory. But they're also dishing out updates on movies and music, which is great for fans who want to stay current. It's not a lot to go on, but hey, sometimes less is more, right? The point is, if you're looking for a quick fix of entertainment news, ABS-CBN's got you covered."
+      },
+      {
+        "type": "h2",
+        "text": "Why It Matters"
+      },
+      {
+        "type": "p",
+        "text": "So, why should you care about ABS-CBN's entertainment news? Well, for starters, it's a great way to stay connected to the K-drama community. You can find out what's trending, what's new, and what's worth watching. And let's be real, who doesn't love staying up-to-date on the latest celebrity gossip? It's all about being in the know, and ABS-CBN's making it easy for you. [originally reported by ABS-CBN](https://www.abs-cbn.com/entertainment/showbiz)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1784366382045-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "K-Pop's Unstoppable Rise"
+      },
+      {
+        "type": "p",
+        "text": "K-pop's impact knows no borders, not even those as heavily guarded as North Korea's. In a surprising turn of events, defectors have come forward to share how K-pop has managed to cut through the strict controls of the dictatorship. It's a testament to the genre's global appeal and the desire for entertainment that transcends political boundaries. But was the North Korean government prepared for the cultural invasion that K-pop would bring? Probably not."
+      },
+      {
+        "type": "p",
+        "text": "The stories of defectors like Dong Guangping, who made a daring escape from China to South Korea and is now living in Canada, offer a glimpse into the perilous journeys many undertake for freedom. And yet, amidst these challenges, K-pop emerges as a symbol of hope and connection to the outside world. It's honestly a big deal, considering the strict limitations on foreign media in North Korea."
+      },
+      {
+        "type": "h2",
+        "text": "The Power of K-Pop Beyond Borders"
+      },
+      {
+        "type": "p",
+        "text": "Thousands of BTS fans flocking to London for the group's first concerts in the capital since 2019 is a stark contrast to the secretive, controlled environment of North Korea. But it shows how K-pop can unite people across different cultures and geographical locations. The question is, how far can this influence stretch? Can it inspire change in places where freedom of expression is severely limited?"
+      },
+      {
+        "type": "h2",
+        "text": "Fan Culture and Beyond"
+      },
+      {
+        "type": "p",
+        "text": "But K-pop's influence isn't the only interesting development in South Korea. An innovative app designed to help stalking victims track their stalkers has been announced, sparking both hope and concern. While officials believe it could be a valuable tool for those at risk, some experts question its potential impact. It's a reminder that technology, like K-pop, can be a double-edged sword - capable of bringing people together, but also potentially misused."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "As South Korea navigates its place on the world stage, from the disappointment of an early World Cup exit to the vibrant culture of K-pop, it's clear that the country is multifaceted. The Korean Football Association is facing calls for a reckoning, but in the world of K-pop, it's full steam ahead. What does the future hold for this dynamic, ever-changing landscape? Only time will show, but one thing's for sure - K-pop isn't going anywhere anytime soon. [originally reported by BBC](https://www.bbc.com/news/topics/cnx753jej1xt)"
+      }
+    ],
+    "takeaways": [
+      "K-pop's infectious beats have somehow managed to seep into the heavily controlled environment of North Korea, with defectors sharing their experiences of listening to K-pop despite the risks.",
+      "Dong Guangping, a defector who's since resettled in Canada, shared his story of escape from China to South Korea, highlighting the perils many face.",
+      "An app in South Korea is set to launch, allowing stalking victims to track their stalkers, although its effectiveness is being questioned by some experts.",
+      "The Korean Football Association is under scrutiny following an early World Cup exit, prompting calls for a major overhaul."
+    ]
+  },
+  "live-1784366384714-5": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Kim Soo-hyun Breaks Silence on Kim Sae-ron Allegations"
+      },
+      {
+        "type": "p",
+        "text": "Kim Soo-hyun's finally spoken up about those serious allegations surrounding his past relationship with the late Kim Sae-ron - and honestly, this is a big deal. The actor addressed these claims in a recent press conference, which is already sparking a lot of conversation among fans."
+      },
+      {
+        "type": "h2",
+        "text": "The Allegations"
+      },
+      {
+        "type": "p",
+        "text": "So, what's going on here? Kim Soo-hyun's been dealing with some pretty serious allegations, and it's not like he's been ignoring them - he's just been waiting for the right moment to respond, apparently. But was the wait too long? That's what fans are wondering, and it's understandable, given how sensitive this topic is."
+      },
+      {
+        "type": "h2",
+        "text": "The Fan Reaction"
+      },
+      {
+        "type": "p",
+        "text": "But here's the thing: fans aren't wrong to be upset, or to still be supporting him, for that matter. It's complicated, and we're not going to simplify it. The fact that Kim Soo-hyun's finally speaking up, though, that's a step - and it's one that could change how this whole situation plays out."
+      },
+      {
+        "type": "h2",
+        "text": "Where Things Stand Now"
+      },
+      {
+        "type": "p",
+        "text": "So, where are we now? We've got Kim Soo-hyun's response, and that's a start. But what comes next? Will this press conference be enough to address the allegations, or is there more that needs to be said? [originally reported by kdramabear_](https://www.tiktok.com/@kdramabear_/video/7662581201022029077)"
       }
     ],
     "takeaways": []

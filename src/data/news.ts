@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1784366372483-1",
+    "slug": "im-disgusted-by-the-double-standards-in-the-south-korean",
+    "title": "I'm disgusted by the double standards in the South Korean ...",
+    "summary": "Actor Kim Soo-hyun faced a major controversy over false allegations claiming he had a relationship with the late actress Kim Sae-ron during her minor years.",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/kdramas/comments/1uxvz4n/im_disgusted_by_the_double_standards_in_the_south/",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1784366374008-2",
+    "slug": "2026-cheating-scandals-which-celebrity-couples-survived",
+    "title": "2026 Cheating Scandals: Which Celebrity Couples Survived ...",
+    "summary": "Korean actor Kim Soo Hyun. Kim Soo Hyun Deepfake Scandal: Exposing the Truth Behind the Viral AI Defamation",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "cristinaiglesias.com",
+    "sourceUrl": "https://cristinaiglesias.com/blog/2026-cheating-scandals-which-celebrity-couples-survived-vs-who-split-for-good/",
+    "date": "20 hours ago",
+    "image": "https://www.kevinvanpaassen.ca/wp-content/uploads/2026/07/cover-celebrity-couples-who-survived-cheating-scandals-vs-who-split-in-2026-fowt.webp",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1784366377669-3",
+    "slug": "latest-showbiz-news-and-updates",
+    "title": "Latest Showbiz News & Updates",
+    "summary": "Get the latest showbiz news, updates on celebrities, movies, music, and more at ABS-CBN. Your ultimate source for all things entertainment.",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "abs-cbn.com",
+    "sourceUrl": "https://www.abs-cbn.com/entertainment/showbiz",
+    "date": "16 hours ago",
+    "image": "https://od2-image-api.abs-cbn.com/prod/od2-ogimage.png?w=1200&amp;h=800",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1784366382045-4",
+    "slug": "south-korea-bbc-news",
+    "title": "South Korea - BBC News",
+    "summary": "All the latest content about South Korea from the BBC. Kim Jong Un was meant to be their only idol. K-pop has cut through in the stifling dictatorship.",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "bbc.com",
+    "sourceUrl": "https://www.bbc.com/news/topics/cnx753jej1xt",
+    "date": "8 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1784366384714-5",
+    "slug": "and-please-stop-asking-why-were-still-supporting-him-he-has",
+    "title": "and please stop asking why we're still supporting him. he has ...",
+    "summary": "In a recent press conference, South Korean actor Kim Soo-hyun addressed serious allegations regarding his past relationship with the late actress Kim Sae-ron, ...",
+    "category": "gossip",
+    "author": "Mia Kwon",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@kdramabear_/video/7662581201022029077",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1784366386335-6",
+    "slug": "netflix-has-revealed-its-engagement-report-for-the-first-half",
+    "title": "Netflix has revealed its Engagement Report for the first half ...",
+    "summary": "Netflix has revealed its Engagement Report for the first half of 2026, highlighting the most-watched Korean dramas on the platform worldwide. 💫\"Boyfriend On ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/KimYooJungUpdates/posts/netflix-has-revealed-its-engagement-report-for-the-first-half-of-2026-highlighti/122143863873065087/",
+    "date": "2026-07-18",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1784281956817-1",
     "slug": "before-ane-and-ulian-there-was-and",
     "title": "Before 𝐉𝐚𝐧𝐞 𝐚𝐧𝐝 𝐉𝐮𝐥𝐢𝐚𝐧, there was 𝐌𝐘𝐋𝐄𝐍𝐄 𝐚𝐧𝐝 𝐌 ...",
@@ -4999,7 +5101,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-07-17T09:52:49.258Z";
+export const LAST_UPDATED = "2026-07-18T09:19:46.592Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
