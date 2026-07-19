@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1784454482850-1",
+    "slug": "for-legal-reasons-all-opinions-are-my-own-and-everything",
+    "title": "For legal reasons all opinions are my own and everything ...",
+    "summary": "recent audio scandal involving actress Kim Sae Ron and actor Kim Soo Hyun. land Korean Actors With The Biggest Scandals Kim Soo hyun Accused of dating a minor ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/Da6u2tgttm9/",
+    "date": "2026-07-19",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1784454484811-2",
+    "slug": "in-the-dynamic-world-of-south-korean-entertainment",
+    "title": "In the dynamic world of South Korean entertainment ...",
+    "summary": "THE TRUE COST OF A SCANDAL: KIM SE UI EARNED OVER $400,000 FROM RUINING THE PERFECT IMAGE OF SOUTH KOREA'S MOST PRISTINE ACTOR, KIM SOO HYUN Dearest Gentle ...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/DazWNCLgB_f/",
+    "date": "2026-07-19",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1784454486787-3",
+    "slug": "chinese-actors-in-korean-actors-together",
+    "title": "Chinese Actors in Korean Actors Together",
+    "summary": "Discover the stunning similarities between Chinese actress Zhou Ye and Korean actress Lee Hyeri in this trending edit!",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/discover/chinese-actors-in-korean-actors-together?lang",
+    "date": "6 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1784454489128-4",
+    "slug": "gossip-girl",
+    "title": "Gossip Girl",
+    "summary": "Gossip Girl is an American teen drama television series created and developed by Josh Schwartz and Stephanie Savage and based on the series of novels of the ...",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "en.wikipedia.org",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Gossip_Girl",
+    "date": "4 days ago",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Gossip_girl_titlecard.svg/1280px-Gossip_girl_titlecard.svg.png",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1784454489617-5",
+    "slug": "come-back-korean-drama-kim-soo-hyun-now",
+    "title": "Come back 🥶Korean drama 🇰🇷 Kim Soo Hyun Now ...",
+    "summary": "Interest intensified after the arrest and indictment of Garosero Research Institute head Kim Se Ui, who had made claims involving Kim Soo Hyun and the late Kim ...",
+    "category": "gossip",
+    "author": "Mia Kwon",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/61589975070272/posts/come-back-korean-drama-kim-soo-hyun-now-reviewing-40-scripts-after-return-kim-so/122109787713332502/",
+    "date": "2026-07-19",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1784454491323-6",
+    "slug": "2026-korean-drama-in-netflix",
+    "title": "2026 Korean Drama in Netflix",
+    "summary": "2026 is an upcoming South Korean action-drama series, releasing June 5, 2026 exclusively on Netflix. It's adapted from the popular webtoon Get Schooled.",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/discover/2026-korean-drama-in-netflix",
+    "date": "6 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1784366372483-1",
     "slug": "im-disgusted-by-the-double-standards-in-the-south-korean",
     "title": "I'm disgusted by the double standards in the South Korean ...",
@@ -5101,7 +5203,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-07-18T09:19:46.592Z";
+export const LAST_UPDATED = "2026-07-19T09:48:11.727Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES

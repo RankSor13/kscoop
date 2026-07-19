@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-07-18T09:19:46.594Z
+ * Last updated: 2026-07-19T09:48:11.728Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -9129,5 +9129,161 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       }
     ],
     "takeaways": []
+  },
+  "live-1784454482850-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Bombshell Allegations Rock K-Drama World"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Kim Sae Ron and Kim Soo Hyun are at the center of a recent audio scandal",
+          "The scandal allegedly involves Kim Soo Hyun dating a minor",
+          "Kim Sae Ron is somehow implicated in this audio scandal",
+          "The news has sparked widespread outrage and concern among fans"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Kim Soo Hyun's career is hanging in the balance after allegations surfaced that he's been dating a minor - and honestly, this is a big deal. The news broke in a recent audio scandal involving actress Kim Sae Ron, and it's left fans reeling. But was Kim Soo Hyun really involved with someone underage? That's the question on everyone's mind right now."
+      },
+      {
+        "type": "h2",
+        "text": "The Fallout So Far"
+      },
+      {
+        "type": "p",
+        "text": "The audio scandal has already sparked a lot of backlash, with many calling for Kim Soo Hyun to be held accountable if the allegations are true. It's not clear what Kim Sae Ron's role is in all this, but her name being linked to the scandal has raised a lot of eyebrows. We're talking about two of Korea's most beloved actors here - so it's no wonder the news has sent shockwaves through the K-drama community."
+      },
+      {
+        "type": "h2",
+        "text": "What's At Stake"
+      },
+      {
+        "type": "p",
+        "text": "Kim Soo Hyun's reputation is on the line, and if these allegations are proven true, it could mean the end of his career. But what about Kim Sae Ron - how will this scandal affect her? We're waiting to see how this all plays out, and what the consequences will be for these two actors. [originally reported by instagram.com](https://www.instagram.com/reel/Da6u2tgttm9/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1784454484811-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Scandal Payday"
+      },
+      {
+        "type": "p",
+        "text": "Kim Se Ui just made bank - over $400,000 - from a scandal that shook the K-entertainment world. But what's really surprising here is that this payday came from ruining the perfect image of none other than Kim Soo Hyun, arguably South Korea's most beloved actor. That's a lot of money to make from someone else's misfortune. But was it worth it?"
+      },
+      {
+        "type": "p",
+        "text": "The fact that Kim Se Ui could earn such a significant amount from this scandal says a lot about the power of controversy in the entertainment industry. It's not like Kim Soo Hyun was involved in some minor incident - his image was supposedly \"perfect\" before this. So, what happened? That's what we're all wondering."
+      },
+      {
+        "type": "h2",
+        "text": "The Fallout"
+      },
+      {
+        "type": "p",
+        "text": "It's interesting to note that Kim Se Ui's earnings are directly tied to the scandal's impact on Kim Soo Hyun's reputation. This raises questions about the nature of celebrity and the cost of fame. If someone can make over $400,000 from ruining another person's image, doesn't that say something about our culture's obsession with celebrity scandals?"
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal. It highlights the darker side of the K-entertainment industry, where a person's reputation can be used as a commodity. Kim Soo Hyun's \"perfect\" image was clearly valuable - and now it's been tarnished. But what about Kim Se Ui? Are they just a mastermind who capitalized on an opportunity, or is there more to the story? We're left with more questions than answers. [originally reported by instagram.com](https://www.instagram.com/p/DazWNCLgB_f/)"
+      }
+    ],
+    "takeaways": [
+      "Kim Se Ui made a whopping $400,000 from a scandal",
+      "The scandal involved South Korea's most pristine actor, Kim Soo Hyun",
+      "The incident ruined Kim Soo Hyun's perfect image",
+      "Kim Se Ui's earnings come from the fallout of the scandal"
+    ]
+  },
+  "live-1784454486787-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Mind-Blowing Doppelgangers"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Zhou Ye is a Chinese actress with a striking resemblance to a Korean star",
+          "Lee Hyeri is the Korean actress who's being compared to Zhou Ye",
+          "The similarities between the two are trending on TikTok",
+          "The edit showcasing their similarities is gaining traction online"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "The Lookalike Effect"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal - who doesn't love a good doppelganger story? The fact that a Chinese actress and a Korean actress can look so alike is pretty amazing. It's not every day you see someone who could be a twin, even if they're not related. But was this comparison always going to happen, given the huge followings of both actresses?"
+      },
+      {
+        "type": "p",
+        "text": "The trending edit on TikTok is what's really putting this story on the map. It's crazy to think that a simple side-by-side comparison can get so much attention, but that's the power of social media. And it's not like this is a forced comparison - the similarities between Zhou Ye and Lee Hyeri are actually pretty stunning."
+      },
+      {
+        "type": "h2",
+        "text": "What's Behind the Fuss"
+      },
+      {
+        "type": "p",
+        "text": "So, what's driving all the interest in this story? It's probably a mix of things, but the fact that it's a lighthearted, fun comparison doesn't hurt. In a world where K-drama news can sometimes be serious or dramatic, it's nice to have something that's just enjoyable to look at. And who knows, maybe this will even lead to some collaborations or crossovers between Chinese and Korean actors in the future."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "But for now, we're just left to marvel at the similarities between Zhou Ye and Lee Hyeri. It's a reminder that, even in a huge and diverse industry like K-entertainment, there are still plenty of surprises to be found. And when those surprises come in the form of a fun, viral TikTok edit, that's just the icing on the cake. [originally reported by tiktok.com](https://www.tiktok.com/discover/chinese-actors-in-korean-actors-together?lang)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1784454489617-5": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Kim Soo Hyun Comeback We've All Been Waiting For?"
+      },
+      {
+        "type": "p",
+        "text": "Kim Soo Hyun's fans aren't wrong to be excited - after a tumultuous period, he's now reviewing a whopping 40 scripts for his potential comeback. But what's really got everyone's attention is the timing: this news comes hot on the heels of the arrest and indictment of Garosero Research Institute head Kim Se Ui, who'd made some pretty serious claims involving Kim Soo Hyun and the late Kim."
+      },
+      {
+        "type": "h2",
+        "text": "What's At Stake Here"
+      },
+      {
+        "type": "p",
+        "text": "The fact that Kim Soo Hyun's considering a comeback, and so soon after the drama with Kim Se Ui, raises some interesting questions. Was the scandal just a minor blip on his radar, or did it actually speed up his return to the small screen? And what kind of scripts is he looking at - will he be sticking to his usual rom-com fare, or branching out into something entirely new?"
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal - Kim Soo Hyun's been MIA for a while, and his return could shake things up in the K-drama world. But was the comeback too fast, or is he just eager to get back to work? We're not sure what to make of the timing, but one thing's for sure: with 40 scripts on the table, Kim Soo Hyun's got plenty of options to choose from. [originally reported by facebook.com](https://www.facebook.com/61589975070272/posts/come-back-korean-drama-kim-soo-hyun-now-reviewing-40-scripts-after-return-kim-so/122109787713332502/)"
+      }
+    ],
+    "takeaways": [
+      "Kim Soo Hyun is reviewing 40 scripts for his potential comeback",
+      "The news comes after the arrest and indictment of Garosero Research Institute head Kim Se Ui",
+      "Kim Se Ui had made claims involving Kim Soo Hyun and the late Kim",
+      "The timing of Kim Soo Hyun's comeback consideration has sparked speculation about its connection to the scandal"
+    ]
   }
 };
