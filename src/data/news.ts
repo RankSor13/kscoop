@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1784544434522-1",
+    "slug": "showlo-has-recently-addressed-allegations-that-he-was",
+    "title": "#ShowLo has recently addressed allegations that he was ...",
+    "summary": "Kim Soo-hyun, Reports allege a past connection between him and the late actress Kim Sae-ron, sparking intense scrutiny.",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/TheHiveAsia/posts/showlo-has-recently-addressed-allegations-that-he-was-one-of-the-reasons-why-the/1357493246578308/",
+    "date": "2026-07-20",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1784544436064-2",
+    "slug": "kim-soo-hyun-returns-after-1-year-and-4-months-first-public",
+    "title": "Kim Soo-hyun Returns After 1 Year & 4 Months! First Public ...",
+    "summary": "Kim Soo-hyun has officially returned to public activities on July 14, after approximately 1 year and 4 months since the controversy that put his career on hold.",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=57mSvnCPvYk",
+    "date": "5 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1784544437934-3",
+    "slug": "kim-soo-hyun-returns-to-limelight-to-front-philippines",
+    "title": "Kim Soo-hyun returns to limelight to front Philippines ...",
+    "summary": "South Korean actor Kim Soo-hyun has returned to the limelight.This comes after his year-long controversy involving the late actress Kim Sae-ron, ...",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "asiaone.com",
+    "sourceUrl": "https://www.asiaone.com/entertainment/kim-soo-hyun-returns-bench-endorsement",
+    "date": "5 days ago",
+    "image": "https://media.asiaone.com/sites/default/files/styles/article_top_image/public/original_images/Jul2026/IMG_5965.jpeg?itok=908-qXa4",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1784544440783-4",
+    "slug": "lee-si-young-is-no-stranger-to-perseverance-discipline-and",
+    "title": "Lee Si Young is no stranger to perseverance, discipline, and ...",
+    "summary": "Actress Hwang Hyo-eun's recent candid revelation about her financial struggles while running a clothing store, and her renewed commitment to acting, offers a ...",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/Dax2JizAE5k/",
+    "date": "5 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1784544442842-5",
+    "slug": "south-korean-singer-actress-iu-has-petitioned-a-us-federal",
+    "title": "South Korean singer-actress IU has petitioned a US federal ...",
+    "summary": "Kim Soo Hyun filed a defamation lawsuit against YouTuber Kim Se-ui and the family of late actress Kim Sae-ron, it wasn't just about clearing his name.",
+    "category": "gossip",
+    "author": "Mia Kwon",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/theonlinecitizen/posts/south-korean-singer-actress-iu-has-petitioned-a-us-federal-court-to-compel-meta-/1485425523620464/",
+    "date": "2026-07-20",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1784544442962-6",
+    "slug": "arirang-news",
+    "title": "Arirang News",
+    "summary": "Arirang NEWS delivers the latest news on National/Politics, North Korea, Economy, IT/Science, Foreign Policy, World, Life/Culture of the Korea.",
+    "category": "gossip",
+    "author": "Rina Baek",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/arirangnews",
+    "date": "2026-07-20",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1784454482850-1",
     "slug": "for-legal-reasons-all-opinions-are-my-own-and-everything",
     "title": "For legal reasons all opinions are my own and everything ...",
@@ -5203,7 +5305,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-07-19T09:48:11.727Z";
+export const LAST_UPDATED = "2026-07-20T10:47:24.840Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES

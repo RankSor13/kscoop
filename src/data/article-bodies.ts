@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-07-19T09:48:11.728Z
+ * Last updated: 2026-07-20T10:47:24.841Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -9284,6 +9284,196 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       "The news comes after the arrest and indictment of Garosero Research Institute head Kim Se Ui",
       "Kim Se Ui had made claims involving Kim Soo Hyun and the late Kim",
       "The timing of Kim Soo Hyun's comeback consideration has sparked speculation about its connection to the scandal"
+    ]
+  },
+  "live-1784544434522-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Bombshell Allegations"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Reports are linking #ShowLo to the late actress Kim Sae-ron, which is a huge deal",
+          "Kim Soo-hyun isn't the one being linked, despite what you might think from his similar name",
+          "The allegations against #ShowLo are pretty serious, sparking intense scrutiny",
+          "This news is coming out of left field, and fans are still trying to process it"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "The Allegations Explained"
+      },
+      {
+        "type": "p",
+        "text": "#ShowLo's recently addressed allegations that he was connected to Kim Sae-ron in the past. But what does that even mean? Honestly, it's not entirely clear, and that's what's making this whole thing so confusing. We don't have a lot of details, but it's clear that reports are alleging a past connection between the two."
+      },
+      {
+        "type": "h2",
+        "text": "What We Know So Far"
+      },
+      {
+        "type": "p",
+        "text": "The fact that Kim Soo-hyun's name is similar to #ShowLo's is just a weird coincidence - he's not involved in this at all. But was #ShowLo really involved with Kim Sae-ron? That's what everyone's trying to figure out. It's not like we have a ton of info to go on, but the allegations alone are enough to spark some serious debate."
+      },
+      {
+        "type": "h2",
+        "text": "The Fallout"
+      },
+      {
+        "type": "p",
+        "text": "So, what happens next? That's the million-dollar question. Will #ShowLo's career take a hit from these allegations? Only time will... just kidding, we're not going there. Seriously though, this is a big deal, and fans are watching closely to see how it all plays out. [originally reported by TheHiveAsia](https://www.facebook.com/TheHiveAsia/posts/showlo-has-recently-addressed-allegations-that-he-was-one-of-the-reasons-why-the/1357493246578308/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1784544436064-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Wait is Over"
+      },
+      {
+        "type": "p",
+        "text": "Kim Soo-hyun's back, and it's been a long time coming - we're talking 1 year and 4 months since his career hit the brakes. That's a pretty significant hiatus, especially for someone as beloved as Kim Soo-hyun."
+      },
+      {
+        "type": "h2",
+        "text": "Making a Comeback"
+      },
+      {
+        "type": "p",
+        "text": "So, what's next for Kim Soo-hyun? That's the million-dollar question, right? He's got a lot of fans waiting with bated breath to see what he'll do first. Will he dive back into acting, or maybe try his hand at something new? Honestly, this is a big deal - Kim Soo-hyun's got a dedicated fanbase, and they're probably thrilled to see him back in the spotlight."
+      },
+      {
+        "type": "h2",
+        "text": "The Road Ahead"
+      },
+      {
+        "type": "p",
+        "text": "But was the comeback too fast? That's a question some fans might be asking. After all, 1 year and 4 months is a pretty significant amount of time - has Kim Soo-hyun had enough time to reflect on what happened, or is he just jumping back in? We're not here to judge, though - we're just excited to see what's next for this talented actor. [originally reported by youtube.com](https://www.youtube.com/watch?v=57mSvnCPvYk)"
+      }
+    ],
+    "takeaways": [
+      "Kim Soo-hyun returned to public activities on July 14",
+      "His career was put on hold due to a controversy",
+      "He's been out of the public eye for approximately 1 year and 4 months",
+      "This marks his first public appearance since the controversy"
+    ]
+  },
+  "live-1784544437934-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "A Comeback in the Making"
+      },
+      {
+        "type": "p",
+        "text": "Kim Soo-hyun's return to the limelight is a big deal, and honestly, it's about time. After a year of laying low due to a controversy that threatened to derail his career, the 38-year-old actor is slowly making his way back into the public eye. And what better way to do that than with a high-profile endorsement deal? Soo-hyun was recently spotted filming a new campaign for Bench, a popular clothing brand from the Philippines. The brand's founder, Ben Chan, even shared photos from the shoot on Instagram, welcoming Soo-hyun back with open arms."
+      },
+      {
+        "type": "p",
+        "text": "But was the comeback too fast? It's been just a few months since Soo-hyun was cleared of allegations that he dated Kim Sae-ron while she was underage. The controversy surrounding their alleged relationship was intense, with Soo-hyun breaking down in tears during a press conference last year. However, in May this year, it was revealed that the \"evidence\" against him was fabricated, and the Seoul Central District Prosecutors' Office filed an arrest warrant against journalist-turned-YouTuber Kim Se-eui on charges linked to alleged violation of the sexual crimes law."
+      },
+      {
+        "type": "h2",
+        "text": "Moving Forward"
+      },
+      {
+        "type": "p",
+        "text": "Soo-hyun's fans are no doubt thrilled to see him back in the spotlight, and his endorsement deal with Bench is a significant step in the right direction. The brand's warm welcome, complete with behind-the-scenes photos and videos, suggests that Soo-hyun is ready to put the past behind him and focus on his career. But what about his upcoming Disney+ drama, Knock-Off, which was put on hold due to the controversy? Will we finally get a release date soon? Only time will... just kidding, we're not going to say that. Seriously though, Soo-hyun's return to the limelight is a significant development, and we're excited to see what's next for this talented actor."
+      },
+      {
+        "type": "h2",
+        "text": "The Road to Redemption"
+      },
+      {
+        "type": "p",
+        "text": "It's worth noting that Soo-hyun's journey back to the top won't be easy. The controversy surrounding his alleged relationship with Kim Sae-ron was intense, and some fans may still be hurt or skeptical. However, Soo-hyun's determination to clear his name and move forward is admirable. With his endorsement deal with Bench and his upcoming drama, Soo-hyun is slowly rebuilding his career and reputation. We're rooting for him, and we can't wait to see what the future holds. [originally reported by AsiaOne](https://www.asiaone.com/entertainment/kim-soo-hyun-returns-bench-endorsement)"
+      }
+    ],
+    "takeaways": [
+      "Kim Soo-hyun is back in the spotlight after a year-long controversy surrounding his alleged relationship with late actress Kim Sae-ron",
+      "He was recently spotted filming a new campaign for Bench, a clothing brand from the Philippines",
+      "Soo-hyun was cleared of allegations in May this year after it was found that \"evidence\" against him was fabricated",
+      "The Seoul Central District Prosecutors' Office has filed an arrest warrant against journalist-turned-YouTuber Kim Se-eui on charges linked to alleged violation of the sexual crimes law"
+    ]
+  },
+  "live-1784544440783-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "A Star's Struggle Is Real"
+      },
+      {
+        "type": "p",
+        "text": "Hwang Hyo-eun's recent revelation about her financial struggles is a sobering reminder that even in the glamorous world of K-dramas, actors face real-life problems. Honestly, it's not every day you see a star being this candid about their finances. But was it really a surprise? We're talking about an industry where fame doesn't always equal financial stability."
+      },
+      {
+        "type": "p",
+        "text": "The fact that Hwang's been running a clothing store while navigating her acting career says a lot about her determination. It's not easy to juggle multiple passions, especially when one of them is as demanding as acting. But Hwang's decision to renew her commitment to acting raises questions - what prompted this change of heart? Is she looking to leave the clothing store behind, or will she find a way to balance both pursuits?"
+      },
+      {
+        "type": "h2",
+        "text": "Getting Back to Acting"
+      },
+      {
+        "type": "p",
+        "text": "Hwang's renewed focus on acting is probably the most interesting part of this story. What made her decide to shift her attention back to acting? Is she looking to take on more roles, or maybe explore different genres? We don't have all the answers yet, but it's clear that Hwang's not giving up on her passion for acting."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "It's worth appreciating Hwang's honesty about her struggles - it's a rare glimpse into the life of a K-drama star. We're used to seeing them shine on screen, but we rarely get to see the challenges they face off-camera. Hwang's story is a reminder that even in the entertainment industry, perseverance and discipline are key to overcoming adversity. [originally reported by instagram.com](https://www.instagram.com/reel/Dax2JizAE5k/)"
+      }
+    ],
+    "takeaways": [
+      "Actress Hwang Hyo-eun's been open about her financial struggles",
+      "She's been running a clothing store, which hasn't been easy",
+      "Hwang's now refocusing on her acting career",
+      "The revelation came through a candid social media post"
+    ]
+  },
+  "live-1784544442962-6": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "What's The Big Deal About Arirang NEWS?"
+      },
+      {
+        "type": "p",
+        "text": "Arirang NEWS is making waves, and honestly, it's a big deal - they're delivering the latest news on basically everything you'd want to know about Korea. From National/Politics to North Korea, they've got it covered. But that's not all - they're also diving into Economy, IT/Science, and Foreign Policy. It's like they're saying, \"Hey, we know you're interested in Korea, so we're giving you all the info you need.\""
+      },
+      {
+        "type": "p",
+        "text": "They're not stopping there, though. Arirang NEWS is also reporting on World news and Life/Culture of Korea, which is pretty cool. It's like they want to give you a full picture of what's going on, not just in Korea, but globally. But was it always this way? What made Arirang NEWS decide to cover such a broad range of topics?"
+      },
+      {
+        "type": "h2",
+        "text": "Getting Your News Fix"
+      },
+      {
+        "type": "p",
+        "text": "So, where can you find Arirang NEWS? Well, they're on YouTube, which is super convenient. You can just head on over to their channel and get all the latest news. It's easy, it's accessible, and it's definitely worth checking out. But what sets Arirang NEWS apart from other news sources? Is it their in-depth coverage, or their ability to break down complex topics into easy-to-understand pieces?"
+      },
+      {
+        "type": "h2",
+        "text": "The Bottom Line"
+      },
+      {
+        "type": "p",
+        "text": "Arirang NEWS is definitely worth keeping an eye on, especially if you're interested in Korea. They're covering all the bases, from politics to culture, and they're making it easy to stay informed. So, if you haven't already, head on over to their YouTube channel and see what they're all about. [originally reported by Arirang News](https://www.youtube.com/arirangnews)"
+      }
+    ],
+    "takeaways": [
+      "Arirang NEWS covers a wide range of topics including National/Politics and North Korea",
+      "They also report on Economy, IT/Science, and Foreign Policy",
+      "Their coverage extends to World news and Life/Culture of Korea",
+      "Arirang NEWS is available on YouTube"
     ]
   }
 };
