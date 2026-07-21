@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-07-20T10:47:24.841Z
+ * Last updated: 2026-07-21T10:21:52.300Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -9475,5 +9475,170 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       "Their coverage extends to World news and Life/Culture of Korea",
       "Arirang NEWS is available on YouTube"
     ]
+  },
+  "live-1784629303395-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The One and Only Bae Suzy"
+      },
+      {
+        "type": "p",
+        "text": "Bae Suzy's got a birthday that's easy to remember - October 10, 1994, is the day this talented actress and singer was born. But what's really interesting is that she's a multi-talented star who's made a name for herself in the K-entertainment scene."
+      },
+      {
+        "type": "h2",
+        "text": "A Quick Look Back"
+      },
+      {
+        "type": "p",
+        "text": "She was born in Gwangju, South Korea, and has since become a household name. As a former member of the K-pop group Miss A, Bae Suzy's got some serious singing chops. But she's also proven herself to be a skilled actress - and we can't wait to see what she does next."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "Bae Suzy's career is a testament to her hard work and dedication. From singing to acting, she's shown that she's a force to be reckoned with in the K-entertainment scene. But what's next for this talented star? Only time will... just kidding, we won't say that. Let's just say we're excited to see what Bae Suzy does next."
+      },
+      {
+        "type": "h2",
+        "text": "What's Next for Suzy"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal - Bae Suzy's got a lot of fans who are eagerly waiting for her next move. Will she release new music or star in another K-drama? We'll just have to wait and see. [originally reported by facebook.com](https://www.facebook.com/xiao.jun.771804/posts/baesuzy-%EB%B0%B0%EC%88%98%EC%A7%80-is-a-south-korean-actress-singer-and-former-member-of-the-k-pop-grou/1032705102686324/)"
+      }
+    ],
+    "takeaways": [
+      "Bae Suzy was born on October 10, 1994",
+      "She's a former member of the K-pop group Miss A",
+      "She's also an actress and singer",
+      "She was born in Gwangju, South Korea"
+    ]
+  },
+  "live-1784629305087-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Bombshell Scandal Rocks K-Drama World"
+      },
+      {
+        "type": "p",
+        "text": "So, it's official: the K-drama world is reeling from a major scandal involving none other than Seo Yea Ji and Kim Soo Hyun. We're talking contract termination and a whole lot of drama - and honestly, this is a big deal. Seo Yea Ji's contract getting the axe is just the tip of the iceberg, with Kim Sae Ron's incident also coming to light."
+      },
+      {
+        "type": "h2",
+        "text": "What's Going On Here?"
+      },
+      {
+        "type": "p",
+        "text": "It looks like things have taken a turn for the worse for Seo Yea Ji, with her contract being terminated - and we're still trying to wrap our heads around it. But was the decision too harsh, or was it a long time coming? And what about Kim Sae Ron's incident - what really happened? We're not getting all the details, but it's clear that something went down. The fact that Kim Soo Hyun's name is also being thrown into the mix has us wondering - what's the connection between all these stars?"
+      },
+      {
+        "type": "h2",
+        "text": "The Fallout"
+      },
+      {
+        "type": "p",
+        "text": "So, where do we go from here? It's not like we haven't seen K-drama scandals before, but this one's got everyone talking. We're seeing a lot of fans taking sides, and honestly, it's getting pretty heated. But what do you think - are you still supporting Seo Yea Ji, or are you done? Let's be real, the K-drama world can be pretty unforgiving, and it's going to be interesting to see how this all plays out."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by kdramasemy](https://www.tiktok.com/@kdramasemy/video/7663436236283055381)"
+      }
+    ],
+    "takeaways": [
+      "Seo Yea Ji's contract has been terminated",
+      "Kim Sae Ron was involved in some kind of incident",
+      "Kim Soo Hyun's name is also connected to the scandal",
+      "Fans are taking sides and it's getting heated"
+    ]
+  },
+  "live-1784629307396-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Rise of a K-Drama Icon"
+      },
+      {
+        "type": "p",
+        "text": "Son Ye-jin's career is a masterclass in versatility and talent. She burst onto the scene in 2003 with The Classic and Summer Scent, and honestly, it's no surprise she became a household name. Her early romantic roles were so captivating that she earned the title \"Nation's First Love\" in Korea - that's a big deal. But what's even more impressive is how she's continued to push boundaries and take on diverse roles throughout her career. From playing a con artist in The Art of Seduction to an ambitious reporter in Spotlight, Son Ye-jin has proven she's not afraid to get out of her comfort zone."
+      },
+      {
+        "type": "p",
+        "text": "Her filmography is a who's who of K-drama and K-movie royalty - she's worked with directors like Kwak Jae-yong and Park Chan-wook, and co-starred with superstars like Bae Yong-joon. And let's not forget her TV dramas - who can forget her sizzling chemistry with Hyun Bin in Crash Landing on You? It's no wonder she's been named one of the most powerful celebrities in Korea for four years running."
+      },
+      {
+        "type": "h2",
+        "text": "Beyond the Screen"
+      },
+      {
+        "type": "p",
+        "text": "But Son Ye-jin's impact goes beyond her on-screen presence. She's been a trailblazer for Korean actresses, paving the way for future generations to take on leading roles and demand higher pay. In 2006, she became the highest-paid Korean actress in TV series, earning a talent fee of KRW 50 million per episode for her lead role in Alone in Love. That's a significant milestone, and it shows just how much clout she had even back then."
+      },
+      {
+        "type": "h2",
+        "text": "What's Next for Son Ye-jin?"
+      },
+      {
+        "type": "p",
+        "text": "So, what's next for this K-drama icon? With her upcoming film No Other Choice slated for release in 2025, fans are eagerly awaiting her return to the big screen. But was the four-year hiatus too long? Only time will... just kidding, we're not going to say that. Seriously though, Son Ye-jin's got a loyal fan base, and they're ready to see what she does next. [originally reported by Wikipedia](https://en.wikipedia.org/wiki/Son_Ye-jin)"
+      }
+    ],
+    "takeaways": [
+      "Son Ye-jin rose to fame in 2003 with roles in The Classic and Summer Scent, earning her the title \"Nation's First Love\" in Korea.",
+      "She's won numerous accolades and starred in high-profile films like A Moment to Remember, April Snow, and The Pirates.",
+      "Son has also acted in popular TV dramas, including Alone in Love, Something in the Rain, and Crash Landing on You.",
+      "She appeared on Forbes Korea Power Celebrity 40 for four consecutive years from 2019 to 2022."
+    ]
+  },
+  "live-1784629309697-6": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Feel Good Frenzy"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Perfume is a top pick for feel-good K-dramas as of July 2026",
+          "The Legend of Kitchen Soldier makes the cut, too",
+          "You're All Surrounded is another favorite",
+          "My Sweet Mobster and Because This Is My First Life are also on the list",
+          "The list only includes 5 out of the top 10 K-dramas mentioned"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "K-Drama Gems Uncovered"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal - someone's just shared their top 10 feel-good K-dramas as of July 2026, and it's got some amazing picks. Perfume, for one, is a great choice - who doesn't love a good drama to lift their mood? The Legend of Kitchen Soldier is another interesting one - it's not every day you see a title like that on a feel-good list. But hey, if it works, it works, right?"
+      },
+      {
+        "type": "p",
+        "text": "You're All Surrounded is a bit more expected, but still a great choice - it's a classic for a reason. My Sweet Mobster and Because This Is My First Life round out the list so far, and they're both awesome in their own ways. But what about the other 5 on the list? What are they, and why are they feel-good faves?"
+      },
+      {
+        "type": "h2",
+        "text": "The Countdown Continues"
+      },
+      {
+        "type": "p",
+        "text": "So, what's the rest of the list looking like? We're dying to know what other K-dramas made the cut. Is it all rom-coms, or are there some surprises in store? We're hoping for a mix of old and new, so we can discover some new faves and revisit old ones. That's the best part of lists like these - they're always a great way to find your next K-drama obsession."
+      },
+      {
+        "type": "h2",
+        "text": "The Top 10 Revealed"
+      },
+      {
+        "type": "p",
+        "text": "Unfortunately, we don't have the full list just yet - but we're keeping an eye out for it. In the meantime, we're excited to discuss the 5 we do know about. What do you think of these picks? Are they some of your favorite feel-good K-dramas, too? Let's chat about it. [originally reported by instagram.com](https://www.instagram.com/reel/DbAmgoHI4q5/)"
+      }
+    ],
+    "takeaways": []
   }
 };

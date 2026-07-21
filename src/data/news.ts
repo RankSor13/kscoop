@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1784629303395-1",
+    "slug": "baesuzy-is-a-south-korean-actress-singer",
+    "title": "#BaeSuzy (배수지) is a South Korean actress, singer ...",
+    "summary": "BaeSuzy (배수지) is a South Korean actress, singer, and former member of the K-pop group Miss A. Born on October 10, 1994, in Gwangju, South Korea, she...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/xiao.jun.771804/posts/baesuzy-%EB%B0%B0%EC%88%98%EC%A7%80-is-a-south-korean-actress-singer-and-former-member-of-the-k-pop-grou/1032705102686324/",
+    "date": "2026-07-21",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1784629305087-2",
+    "slug": "if-anyone-still-supports-this-please-block-me-as-if-returning-to",
+    "title": "If anyone still supports this, please block me As if returning to ...",
+    "summary": "Major Scandal Involving Seo Yea Ji and Kim Soo Hyun Revealed. Seo Yea Ji's contract termination and Kim Sae Ron's incident.",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@kdramasemy/video/7663436236283055381",
+    "date": "4 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1784629307396-3",
+    "slug": "son-ye-jin",
+    "title": "Son Ye-jin",
+    "summary": "Son Eon-jin better known by her stage name, Son Ye-jin (손예진 ), is a South Korean actress who rose to fame in 2003 in The Classic and Summer Scent, ...",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "en.wikipedia.org",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Son_Ye-jin",
+    "date": "3 days ago",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Son_Ye-jin_in_May_2026.png",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1784629309323-4",
+    "slug": "upcoming-k-dramas-set-to-release-in-second-half-of-2026",
+    "title": "Upcoming K-dramas set to release in second half of 2026",
+    "summary": "Some of the major Disney+ K-dramas releasing in the second half of 2026 include 'Love in Sync', 'The Husband' and 'A Shop for Killers' season 2.",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "lifestyleasia.com",
+    "sourceUrl": "https://www.lifestyleasia.com/kl/entertainment/streaming/upcoming-k-dramas-to-watch-in-second-half-of-2026/",
+    "date": "4 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1784629309570-5",
+    "slug": "netflixs-most-watched-k-dramas-of-2026",
+    "title": "Netflix's most-watched K-dramas of 2026",
+    "summary": "Netflix Korea 2026 Drama Lineup 1.Can This Love Be Translated ( released) 2.Boyfriend on Demand (March 02) 3.Take Charge of My Heart 4.Our Sticky Love ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/groups/343987915176123/posts/1029676023273972/",
+    "date": "2026-07-21",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1784629309697-6",
+    "slug": "my-top-10-feel-good-kdramas-as-of-july-2026-what-about",
+    "title": "My top 10 Feel Good Kdramas as of July 2026 - what about ...",
+    "summary": "My favorite feel good K-dramas as of July 2026. Perfume, The Legend of Kitchen Soldier, You're All Surrounded, My Sweet Mobster, Because This Is My First ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DbAmgoHI4q5/",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1784544434522-1",
     "slug": "showlo-has-recently-addressed-allegations-that-he-was",
     "title": "#ShowLo has recently addressed allegations that he was ...",
@@ -5305,7 +5407,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-07-20T10:47:24.840Z";
+export const LAST_UPDATED = "2026-07-21T10:21:52.299Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
