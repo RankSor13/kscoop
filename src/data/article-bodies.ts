@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-07-21T10:21:52.300Z
+ * Last updated: 2026-07-22T10:21:37.946Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -9640,5 +9640,120 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       }
     ],
     "takeaways": []
+  },
+  "live-1784715689074-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Laugh's On Them"
+      },
+      {
+        "type": "p",
+        "text": "Kylie Padilla and Luis Hontiveros just gave us a sneak peek of their chemistry on set, and honestly, it's a big deal - they're mixing humor with on-set banter in a short scene that's already got fans talking. But what's really interesting here is that they're not alone - Kapuso stars Bianca Umali and Ysabel Ortega are also in on the fun."
+      },
+      {
+        "type": "p",
+        "text": "The fact that these stars are coming together for a project is exciting enough, but the fact that they're having so much fun on set is what's really going to get fans invested. We're talking laughter, banter - the whole nine yards. It's not every day you see stars being this carefree, especially when the cameras are rolling."
+      },
+      {
+        "type": "h2",
+        "text": "Behind The Scenes"
+      },
+      {
+        "type": "p",
+        "text": "But was this sneak peek a deliberate move to get fans hyped, or just a fun moment that happened to get caught on camera? Either way, it's working - fans are already speculating about what this project could be, and how these stars will work together. With Kapuso stars like Bianca Umali and Ysabel Ortega on board, it's clear this is going to be something special."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "So, what does this mean for fans of Kylie Padilla, Luis Hontiveros, Bianca Umali, and Ysabel Ortega? For starters, it means they've got something new to look forward to - and with the humor and chemistry on display, it's likely to be a hit. But it also raises questions - like, what's the project about, and when can we expect to see more? [originally reported by tiktok.com](https://www.tiktok.com/@johnvicdeguzman/video/7662767463490129170)"
+      }
+    ],
+    "takeaways": [
+      "The scene features Kylie Padilla and Luis Hontiveros, and it's clear they've got a dynamic that works.",
+      "Humor's a big part of the scene, which is a nice change of pace from the usual drama.",
+      "Bianca Umali and Ysabel Ortega are also part of the project, adding to the star power.",
+      "The sneak peek is short, but it's enough to get fans excited about what's coming next."
+    ]
+  },
+  "live-1784715691518-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "K-Drama Frenzy Hits Hindi Speakers"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Radio Romance is premiering on July 27th, and it's a Korean drama, so that's a big deal for Hindi speakers.",
+          "You can catch 'Love in Sync' on Disney+ Hotstar, which is great news for fans who've been waiting for new content.",
+          "'The East Palace' is also on its way, adding to the excitement around upcoming dramas.",
+          "The fact that these dramas are being released in Hindi is a significant development for K-drama fans in the region.",
+          "Disney+ Hotstar is clearly invested in bringing K-dramas to a wider audience, which is fantastic for the fandom as a whole."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "So, what's the most surprising thing about this news? It's that we're getting not one, not two, but multiple K-dramas all at once, and they're all being made available to Hindi speakers. That's a big deal, especially considering how popular K-dramas have become worldwide. Radio Romance, in particular, is generating a lot of buzz, and its July 27th premiere can't come soon enough for fans."
+      },
+      {
+        "type": "h2",
+        "text": "The Upcoming Lineup Looks Promising"
+      },
+      {
+        "type": "p",
+        "text": "The fact that 'Love in Sync' and 'The East Palace' are also on the horizon is just the icing on the cake. We don't know much about these dramas yet, but the fact that they're being released on Disney+ Hotstar suggests that they're going to be worth watching. But was the decision to release these dramas in Hindi a strategic move to tap into a new market? Honestly, it's a genius idea, and we can't wait to see how it plays out."
+      },
+      {
+        "type": "h2",
+        "text": "What's Next for K-Drama Fans"
+      },
+      {
+        "type": "p",
+        "text": "As we wait for these new dramas to drop, we can't help but wonder what other K-dramas might be headed our way. Will we see more releases on Disney+ Hotstar, or will other streaming platforms start to get in on the action? One thing's for sure: this is an exciting time for K-drama fans, and we're eagerly anticipating what's to come. [originally reported by instagram.com](https://www.instagram.com/reel/DbBKj97hdAz/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1784715693840-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The K-Drama Comeback We've All Been Waiting For"
+      },
+      {
+        "type": "p",
+        "text": "Lee Dong Wook is back, and it's about time! A Shop for Killers Season 2 is kicking off where the first season left off, with Jinman returning from the dead. As the new CEO of the Murthehelp shopping mall, a weaponised Jian joins forces with her uncle to take on the deadly global forces of Babylon. With Lee Dong Wook and Kim Hye Joon reprising their roles as the uncle-niece duo, this action thriller series is shaping up to be just as intense as the first season. But was the wait worth it? That's what fans are about to find out."
+      },
+      {
+        "type": "p",
+        "text": "The second season of A Shop for Killers isn't the only exciting release this week. Dream to You, starring Hwang In Youp and Hyeri, is also making its mark. This romantic comedy follows the story of a film director and a reporter who reunite 15 years after an untimely separation. With a talented cast, including Baek Sung Chul and Lee Yul Eum, this series is sure to tug at heartstrings. But what makes this pairing so special? For starters, it's Hwang In Youp and Hyeri's first on-screen collaboration in a K-drama - and we can't wait to see the chemistry between them."
+      },
+      {
+        "type": "h2",
+        "text": "New Rom-Coms to Obsess Over"
+      },
+      {
+        "type": "p",
+        "text": "See You at Work Tomorrow! is another office rom-com that's caught our attention. Starring Seo In Guk and Park Ji Hyun, this series follows a seven-year office worker who's stuck in a career rut. When she starts working with her new, notoriously strict boss, their bickering beginnings slowly turn into a relatable chemistry. With daily episodic drops from July 20 to 24, fans won't have to wait long to see how their story unfolds. But will this new series live up to the hype? With Seo In Guk and Park Ji Hyun leading the cast, we're hoping for a yes."
+      },
+      {
+        "type": "h2",
+        "text": "What Fans Are Saying"
+      },
+      {
+        "type": "p",
+        "text": "With so many new releases, fans are spoiled for choice. But what's really got everyone talking is the end of Agent Kim Reactivated, starring So Ji Sub. Despite being one of the highest-rated Korean dramas of 2026, its run is coming to an end. Honestly, this is a big deal - So Ji Sub's performances are always highly anticipated, and this series was no exception. But as one door closes, another opens. With A Shop for Killers Season 2, Dream to You, and See You at Work Tomorrow! all vying for attention, it's going to be an exciting few weeks for K-drama fans. [originally reported by gqindia.com](https://www.gqindia.com/content/new-k-drama-releases-of-the-week-july-20-26-13-new-korean-dramas-streaming-on-netflix-and-other-ott-platforms)"
+      }
+    ],
+    "takeaways": [
+      "A Shop for Killers Season 2 is finally here, marking Lee Dong Wook's K-drama comeback.",
+      "Agent Kim Reactivated, starring So Ji Sub, is ending its run, despite being one of the highest-rated Korean dramas of 2026.",
+      "Dream to You brings together Hwang In Youp and Hyeri for the first time in a K-drama, in a romantic comedy about rekindled love.",
+      "See You at Work Tomorrow! is an office rom-com starring Seo In Guk and Park Ji Hyun, following a worker's journey out of a career rut."
+    ]
   }
 };

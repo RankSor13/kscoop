@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1784715689074-1",
+    "slug": "task-force-firewall-july-15-yung-kabit-nahuli-na-pero",
+    "title": "Task Force Firewall July 15: Yung kabit nahuli na pero ...",
+    "summary": "The short scene features Kylie Padilla and Luis Hontiveros and mixes humor with on-set banter. Kapuso stars Kylie Padilla, Bianca Umali, and Ysabel Ortega",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@johnvicdeguzman/video/7662767463490129170",
+    "date": "6 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1784715691518-2",
+    "slug": "top-5-newly-upcoming-dramas-in-hindi",
+    "title": "Top 5 Newly Upcoming Drama's In Hindi",
+    "summary": "Radio Romance, which is a Korean drama and is coming on July 27th. 'Love in Sync' is coming; You can watch it on Disney+ Hotstar, 'The East Palace' is coming;",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DbBKj97hdAz/",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1784715693840-3",
+    "slug": "new-k-drama-releases-of-the-week-july-20-26",
+    "title": "New K-drama releases of the week (July 20-26)",
+    "summary": "A Shop for Killers Season 2, Agent Kim Reactivated, Dream to You & The Husband are new K-drama releases of the week (July 20-26, 2026) on OTT to look ...",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "gqindia.com",
+    "sourceUrl": "https://www.gqindia.com/content/new-k-drama-releases-of-the-week-july-20-26-13-new-korean-dramas-streaming-on-netflix-and-other-ott-platforms",
+    "date": "24 hours ago",
+    "image": "https://assets.gqindia.com/photos/6a5db788472e251ad364c485/16:9/w_1280,c_limit/New-K-drama-releases-of-the-week-July-20-26-2026.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1784715696855-4",
+    "slug": "what-korean-show-to-watch-on-disney-plus",
+    "title": "What Korean show to watch on Disney Plus?",
+    "summary": "“Made in Korea”! “Made in Korea” is set to premiere on Disney+ in the second half of 2025. “The Impossible Heir” is now confirmed to release on February 28!🩶. ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/groups/WhatsOnDisneyPlus/posts/2433419183808144/",
+    "date": "2026-07-22",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1784715697123-5",
+    "slug": "most-anticipated-korean-dramas-of-2026-10",
+    "title": "Most Anticipated Korean Dramas of 2026📽️🔥 10 ...",
+    "summary": "A Bona Fide Killer Premiere Date: July 31, 2026. The Husband Premiere Date: July 4, 2026 (KBS2, Disney+) Genre: Thriller, Drama The East Palace Premiere Date: ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/DbDfnxdmtuv/",
+    "date": "2026-07-22",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1784715697462-6",
+    "slug": "2026-korean-drama-netflix",
+    "title": "2026 Korean Drama Netflix",
+    "summary": "Upcoming K-Drama Series to Watch in 2026. Discover exciting new K-dramas for 2026 on Netflix, including 'The East Palace' and 'Perfect Job'. Stay updated on the ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/discover/2026-korean-drama-netflix",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1784629303395-1",
     "slug": "baesuzy-is-a-south-korean-actress-singer",
     "title": "#BaeSuzy (배수지) is a South Korean actress, singer ...",
@@ -5407,7 +5509,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-07-21T10:21:52.299Z";
+export const LAST_UPDATED = "2026-07-22T10:21:37.943Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
