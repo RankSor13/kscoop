@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-07-22T10:21:37.946Z
+ * Last updated: 2026-07-23T10:16:02.755Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -9754,6 +9754,166 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       "Agent Kim Reactivated, starring So Ji Sub, is ending its run, despite being one of the highest-rated Korean dramas of 2026.",
       "Dream to You brings together Hwang In Youp and Hyeri for the first time in a K-drama, in a romantic comedy about rekindled love.",
       "See You at Work Tomorrow! is an office rom-com starring Seo In Guk and Park Ji Hyun, following a worker's journey out of a career rut."
+    ]
+  },
+  "live-1784801752956-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Shocking News Rocks K-Entertainment"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Kaylee Hottle, a Korean-American actress, has passed away at the young age of 18",
+          "She was involved in a drunk driving incident in Seoul back in May 2022",
+          "The incident caused significant property damage and led to legal repercussions",
+          "Kaylee's death is a tragic reminder of the risks and consequences of reckless behavior"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "A Life Cut Short"
+      },
+      {
+        "type": "p",
+        "text": "Kaylee Hottle's death is a stunning blow to fans and the K-entertainment industry as a whole. What's even more shocking is that she was just 18 years old - an age when most people are just starting to figure out their lives. But Kaylee had already made a name for herself as a talented actress, and her potential was undeniable. So, what happened? We know she was involved in a drunk driving incident in Seoul last year, which is just heartbreaking. That incident led to some serious property damage and legal trouble - but was that the beginning of the end for Kaylee?"
+      },
+      {
+        "type": "h2",
+        "text": "The Incident's Aftermath"
+      },
+      {
+        "type": "p",
+        "text": "The drunk driving incident in May 2022 was a major scandal, and it's still hard to believe that someone so young could get themselves into such a mess. But that's exactly what happened, and now Kaylee's gone. It's a sobering reminder that our actions have consequences, and sometimes those consequences can be deadly. We're not here to judge Kaylee or speculate about the circumstances surrounding her death - but we can't help wondering what could've been if she'd made different choices."
+      },
+      {
+        "type": "h2",
+        "text": "Remembering Kaylee"
+      },
+      {
+        "type": "p",
+        "text": "As fans, we're still trying to process this news and come to terms with the fact that Kaylee's really gone. It's just not fair that someone with so much talent and potential had their life cut short like this. We can only hope that Kaylee's memory will live on, and that her story will serve as a warning to others about the dangers of reckless behavior. [originally reported by Koreaboo](https://www.facebook.com/koreaboorewind/posts/korean-american-actress-kaylee-hottle-dies-at-18/1081721267848960/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1784801755057-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Dark Side of K-Drama Fandom"
+      },
+      {
+        "type": "p",
+        "text": "Kim Soo Hyun's Instagram is getting roasted - and it's not because of his latest drama role. The actor's social media has been flooded with criticism and hate comments, and honestly, it's not entirely surprising. After the scandal with actress Kim Sae-ron, it seems like the K-drama community is on high alert, and fans aren't holding back."
+      },
+      {
+        "type": "h2",
+        "text": "What's Going On"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Kim Soo Hyun's Instagram has been inundated with negative comments",
+          "The backlash follows recent allegations, though the specifics aren't clear",
+          "This isn't the first time a K-drama star has faced online hate",
+          "The K-drama community is known for being passionate, but sometimes that passion turns toxic"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The fact that Kim Soo Hyun's Instagram is being targeted isn't shocking - we've seen this happen to other K-drama stars before. But was the comeback too fast? Shouldn't we be giving these stars a chance to clear their names before we start throwing hate their way? It's a tough question, and one that gets to the heart of what it means to be a fan. Do we have a right to criticize, or are we just piling on?"
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "It's not just about Kim Soo Hyun - it's about the culture of online hate that's pervasive in the K-drama fandom. We love our stars, but sometimes that love turns to anger and resentment when they slip up. And let's be real, they're human - they're going to make mistakes. But do we have to be so quick to judge? That's a question for another time, but for now, it's clear that Kim Soo Hyun is facing some serious backlash."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by facebook.com](https://www.facebook.com/salim.ma.90/posts/rip-south-korean-actress-on-in-hye-the-dark-side-of-trolling-heart-breaking-stor/28121759287410558/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1784801756955-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Back in the Spotlight"
+      },
+      {
+        "type": "p",
+        "text": "Kim Soo-hyun's just made his first public appearance since that whole mess with the late Kim Sae-ron case, and honestly, it's a big deal. He's endorsing something, and that's got everyone talking. But was the comeback too fast? That's the question on everyone's mind right now."
+      },
+      {
+        "type": "p",
+        "text": "The controversy surrounding false allegations linked to the case was huge, and it's not like it's been forgotten already. So, it's interesting to see Kim Soo-hyun diving back into the public eye like this. We're not sure what to make of it yet, but it's definitely got our attention."
+      },
+      {
+        "type": "h2",
+        "text": "A New Chapter?"
+      },
+      {
+        "type": "p",
+        "text": "It looks like Kim Soo-hyun is trying to move forward, and that's understandable. But it's also natural to wonder if he's ready for this, and if the public is ready for him. Only time will... no, scratch that - we'll just have to wait and see how this plays out. For now, it's clear that Kim Soo-hyun is back, and he's not hiding."
+      },
+      {
+        "type": "h2",
+        "text": "The End of the Hiatus"
+      },
+      {
+        "type": "p",
+        "text": "So, what does this mean for Kim Soo-hyun's career? That's the million-dollar question. We're not sure yet, but we're watching closely. One thing's for sure, though - this endorsement is just the beginning. [originally reported by instagram.com](https://www.instagram.com/p/Da4vNf5xCy-/)"
+      }
+    ],
+    "takeaways": [
+      "Kim Soo-hyun's first public appearance is making headlines",
+      "The appearance comes after controversy surrounding false allegations",
+      "Kim Soo-hyun is back in the limelight with an endorsement",
+      "The move marks a return to public life for the actor"
+    ]
+  },
+  "live-1784801758919-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "A Rockstar's Fall from Grace"
+      },
+      {
+        "type": "p",
+        "text": "Lee Jong-hyun's story is one of talent and turmoil. This guy was a rockstar - literally. As the lead guitarist and vocalist of CNBLUE, he was living the dream. But it all came crashing down in 2019 when he got caught up in the Burning Sun scandal. He was accused of viewing illicit videos and having some seriously inappropriate conversations in Jung Joon-young's KakaoTalk chatrooms. That's not exactly the kind of publicity you want, especially when you're trying to be a role model for your fans. It's no surprise that he ended up leaving CNBLUE - the backlash was intense."
+      },
+      {
+        "type": "p",
+        "text": "But before all the drama, Lee was actually a pretty interesting guy. He was born in Busan, South Korea, but lived in Japan for a few years before moving back to Busan. He was even a judo athlete in high school - who knew? He won a gold medal in a championship, but decided to give up on sports after losing a match. That's when he started focusing on music. He learned to sing, play the piano, and eventually, the guitar. He was inspired by Eric Clapton, which is pretty cool. And it wasn't long before he debuted with CNBLUE in 2010."
+      },
+      {
+        "type": "h2",
+        "text": "From Music to Acting"
+      },
+      {
+        "type": "p",
+        "text": "Lee didn't just stop at music - he also tried his hand at acting. He made his debut in the 2010 movie Acoustic, followed by a role in the drama A Gentleman's Dignity in 2012. He went on to appear in several other dramas, including Orange Marmalade and Evergreen. It's pretty impressive that he was able to balance his music and acting career, but it's clear that he's a talented guy. And let's not forget - he was an ulzzang alongside some other big names, like Lee Joon and Jung Yong-hwa. That's some serious K-entertainment cred right there."
+      },
+      {
+        "type": "h2",
+        "text": "What's Next for Lee Jong-hyun?"
+      },
+      {
+        "type": "p",
+        "text": "It's hard to say what's next for Lee Jong-hyun. He's been pretty quiet since his departure from CNBLUE, and it's unclear if he'll try to revive his music or acting career. But one thing's for sure - he's got a lot of talent and potential. It's just a matter of whether he can bounce back from the scandal and regain the trust of his fans. Honestly, this is a big deal - it's not easy to come back from something like this. But was the comeback too fast? Only time will... wait, no. Let's just say we're watching with interest. [originally reported by en.wikipedia.org](https://en.wikipedia.org/wiki/Lee_Jong-hyun)"
+      }
+    ],
+    "takeaways": [
+      "Lee Jong-hyun was the lead guitarist and vocalist of CNBLUE before his departure in 2019",
+      "He made his acting debut in the 2010 movie Acoustic and appeared in several dramas, including Orange Marmalade and Evergreen",
+      "Lee was born on May 15, 1990, in Busan, South Korea, and lived in Japan for a few years before returning to Busan",
+      "He was a judo athlete in high school but decided to pursue music after losing a match"
     ]
   }
 };

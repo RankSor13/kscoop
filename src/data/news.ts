@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1784801752956-1",
+    "slug": "korean-american-actress-kaylee-hottle-dies-at-18",
+    "title": "Korean-American Actress Kaylee Hottle Dies At 18",
+    "summary": "In May 2022, she was involved in a high-profile drunk driving incident in Seoul, which caused significant property damage and led to legal repercussions.",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/koreaboorewind/posts/korean-american-actress-kaylee-hottle-dies-at-18/1081721267848960/",
+    "date": "2026-07-23",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1784801755057-2",
+    "slug": "rip-south-korean-actress-on-in-hye-the-dark-side-of",
+    "title": "Rip 😢💔 South Korean Actress On In-Hye The Dark Side of ...",
+    "summary": "After the scandal with actress Kim Sae-ron, now Kim Soo Hyun's Instagram has been flooded with criticism and hate comments following recent allegations.",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/salim.ma.90/posts/rip-south-korean-actress-on-in-hye-the-dark-side-of-trolling-heart-breaking-stor/28121759287410558/",
+    "date": "2026-07-23",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1784801756955-3",
+    "slug": "kim-soo-hyun-has-returned-to-the-limelight-by-endorsing",
+    "title": "Kim Soo-hyun has returned to the limelight by endorsing ...",
+    "summary": "Kim Soo Hyun has made his first public appearance since the controversy surrounding the late Kim Sae-ron case. controversy surrounding false allegations linked ...",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/Da4vNf5xCy-/",
+    "date": "2026-07-23",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1784801758919-4",
+    "slug": "lee-jong-hyun",
+    "title": "Lee Jong-hyun",
+    "summary": "Lee Jong-hyun (Korean: 이종현 ; born May 15, 1990), also known by his mononym Jonghyun, is a South Korean musician, singer-songwriter and actor.",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "en.wikipedia.org",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Lee_Jong-hyun",
+    "date": "6 days ago",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Lee_Jong-hyun_at_MOKO%2C_Mong_Kok%2C_HK_%283%29.jpg/960px-Lee_Jong-hyun_at_MOKO%2C_Mong_Kok%2C_HK_%283%29.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1784801761955-5",
+    "slug": "korean-actors-that-is-dating-a-black-woman",
+    "title": "Korean Actors That Is Dating A Black Woman",
+    "summary": "Discover videos related to Korean Actors That Is Dating A Black Woman on TikTok. SOUTH KOREAN CELEBRITY ACCUSED OF DISCRIMINATION AGAINST BLACK INFLUENCER # ...",
+    "category": "gossip",
+    "author": "Mia Kwon",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/discover/korean-actors-that-is-dating-a-black-woman",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1784801762455-6",
+    "slug": "jung-somin-has-been-nominated-for-the-53rd-korea",
+    "title": "Jung Somin has been nominated for the 53rd 'Korea ...",
+    "summary": "Jung Somin has been nominated for the 53rd 'Korea … was recently impacted by a severe, fabricated defamation scandal involving the late actress Kim Sae-ron.",
+    "category": "gossip",
+    "author": "Rina Baek",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DbEjs_5SsOC/",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1784715689074-1",
     "slug": "task-force-firewall-july-15-yung-kabit-nahuli-na-pero",
     "title": "Task Force Firewall July 15: Yung kabit nahuli na pero ...",
@@ -5509,7 +5611,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-07-22T10:21:37.943Z";
+export const LAST_UPDATED = "2026-07-23T10:16:02.754Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
