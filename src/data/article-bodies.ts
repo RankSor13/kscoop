@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-07-23T10:16:02.755Z
+ * Last updated: 2026-07-24T10:12:26.716Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -9914,6 +9914,170 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       "He made his acting debut in the 2010 movie Acoustic and appeared in several dramas, including Orange Marmalade and Evergreen",
       "Lee was born on May 15, 1990, in Busan, South Korea, and lived in Japan for a few years before returning to Busan",
       "He was a judo athlete in high school but decided to pursue music after losing a match"
+    ]
+  },
+  "live-1784887936888-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Bombshell Alert: Trisha Paytas Spills the Tea"
+      },
+      {
+        "type": "p",
+        "text": "Trisha Paytas, the TikTok star and Big Brother alum, just dropped some major news about a celebrity couple's marriage - and it's not looking good for them. Specifically, she's talking about the relationship between actor Vijay and his wife Sangeetha, and honestly, this is a big deal."
+      },
+      {
+        "type": "h2",
+        "text": "The Dirt on Vijay and Sangeetha"
+      },
+      {
+        "type": "p",
+        "text": "So, what's going on with Vijay and Sangeetha? According to Trisha, these two are currently getting a divorce. That's right, it's not just rumors or speculation - Trisha's saying it's actually happening. But was the writing on the wall? We're not sure, since we don't have all the details, but it's clear that Trisha's got the scoop."
+      },
+      {
+        "type": "h2",
+        "text": "What We Know So Far"
+      },
+      {
+        "type": "p",
+        "text": "Here are the key points:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Trisha Paytas is the one who spilled the beans about Vijay and Sangeetha's divorce",
+          "The divorce is reportedly underway, but we don't know much else",
+          "Trisha's a TikTok star and Big Brother alum, so she's got a bit of a reputation for being outspoken",
+          "We're not sure how Trisha knows about the divorce, but she's definitely got people talking"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "But why should we care about Vijay and Sangeetha's marriage problems? Well, for starters, they're a pretty well-known couple, and their fans are probably shocked by this news. And let's be real - who doesn't love a good celebrity gossip story? It's like, we're all invested in these people's lives, even if we don't know them personally. So, when something like this happens, it's natural that we're all going to be talking about it."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by tiktok.com](https://www.tiktok.com/@trishlikefish88/video/7664796442741050637)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1784887939102-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Get Ready for a Drama-Packed August"
+      },
+      {
+        "type": "p",
+        "text": "August 2026 is shaping up to be an exciting month for K-drama fans, with not one, not two, but 8 new releases on the horizon. But what's really got us hyped is that these dramas won't be limited to just one platform - we're talking Netflix, Disney+, and more. That's right, folks, you'll have plenty of options to get your K-drama fix."
+      },
+      {
+        "type": "h2",
+        "text": "What's Already Streaming"
+      },
+      {
+        "type": "p",
+        "text": "While we wait for the new releases, it's worth noting that Disney+ already has a collection of addictive K-dramas available to stream right now. So, if you're looking for something to binge before the August drop, you know where to go. But let's be real, who isn't eager to dive into some fresh storylines and characters?"
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "With so many new K-dramas on the way, it's clear that the Hallyu wave is still going strong. But was August 2026 always the plan, or are we seeing a surge in releases to meet the growing demand for K-content? Either way, we're not complaining - bring on the drama!"
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by youtube.com](https://www.youtube.com/watch?v=qlNOZGgQQME)"
+      }
+    ],
+    "takeaways": [
+      "8 upcoming K-dramas are set to release in August 2026",
+      "These dramas will be available on various platforms, including Netflix and Disney+",
+      "Fans can already find addictive K-dramas on Disney+ right now",
+      "The new releases are highly anticipated by K-drama fans"
+    ]
+  },
+  "live-1784887941099-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "July's K-Drama Frenzy"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, July's shaping up to be a huge month for K-drama fans. The East Palace is just around the corner, dropping on Netflix on July 17 - that's less than two weeks away. But was the wait worth it? We're about to find out. And if that's not enough, A Shop for Killers 2 is coming to Disney+ on July 22. It's like the K-drama gods are smiling down on us. What's the common thread between these dramas, though? Are they all part of some bigger trend?"
+      },
+      {
+        "type": "p",
+        "text": "The fact that these dramas are spread across different platforms - Netflix, Disney+, and iQIYI - says a lot about the current state of K-drama distribution. It's not just about one platform dominating the scene; it's about giving fans options. And let's be real, who doesn't love having options? But what about Overdo, which is also set to premiere on iQIYI later this month? How does it fit into the larger K-drama landscape?"
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "So, what does this mean for fans? It means we've got a lot to look forward to in July. With The East Palace, A Shop for Killers 2, Overdo, and something mysterious called Spooky all on the horizon, it's time to clear those schedules and get cozy. But can our wallets handle the subscription fees for all these platforms? That's a question for another time. For now, let's just bask in the glory of all this K-drama goodness."
+      },
+      {
+        "type": "h2",
+        "text": "What Fans Are Saying"
+      },
+      {
+        "type": "p",
+        "text": "Fans aren't wrong to be excited - July's lineup is looking fire. But which drama are you most hyped for? Is it The East Palace, A Shop for Killers 2, or something else entirely? Let's discuss. [originally reported by instagram.com](https://www.instagram.com/reel/DbIcCChD2_P/)"
+      }
+    ],
+    "takeaways": [
+      "The East Palace is coming to Netflix on July 17",
+      "A Shop for Killers 2 is set to drop on Disney+ on July 22",
+      "Overdo will be available on iQIYI later this month",
+      "July's got even more K-drama goodness in store, including something called Spooky"
+    ]
+  },
+  "live-1784887943219-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Disney+ Confirms New K-Drama Distribution"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal - Disney+ just confirmed it's distributing a brand new K-drama, and we're not getting much info, but that's kinda what's making it so exciting. We know it's an action-crime series, which is already a winning combo in the K-drama world. With only 8 episodes, it's a quick binge, but sometimes that's just what we need, right? The series premiered from November 6 to 27, 2024, so it's already out there, but Disney+ is bringing it to a wider audience in 2025."
+      },
+      {
+        "type": "p",
+        "text": "But was the initial premiere too short? November 6 to 27 is a tight window, and fans might've felt like they were just getting started. We're guessing that's why Disney+ is stepping in - to give this show the broader reach it deserves. And let's be real, Disney+ knows how to make a splash, so we're expecting big things from this release."
+      },
+      {
+        "type": "h2",
+        "text": "What We're Working With"
+      },
+      {
+        "type": "p",
+        "text": "So, what do we actually know about this K-drama? Not a ton, unfortunately. We've got the genre - action-crime - and the episode count - 8 episodes. We also know it premiered on November 06, which is a great start date, if you ask us. But the real question is, what's the story? Who are the leads? We're hoping Disney+ gives us some more deets soon, because right now, we're just dying to know more."
+      },
+      {
+        "type": "h2",
+        "text": "The Wait Begins"
+      },
+      {
+        "type": "p",
+        "text": "Now that we've got our eyes on this new K-drama, it's just a waiting game. 2025 might seem far away, but trust us, it'll be here before we know it. And when it is, we'll be ready - ready to dive in, ready to obsess, and ready to discuss every twist and turn. That's what K-drama fans do best, after all. [originally reported by philstarnews](https://www.facebook.com/philstarnews/posts/new-k-drama-alert-disney-confirmed-it-will-distribute-the-upcoming-action-crime-/1510274687809946/)"
+      }
+    ],
+    "takeaways": [
+      "The upcoming K-drama will be an action-crime series, which already has fans hooked.",
+      "It premiered from November 6 to 27, 2024, giving us a tight 8-episode run.",
+      "The show's release on Disney+ is set for 2025, so we've got a bit of a wait ahead.",
+      "The K-drama had its premiere on November 06, marking the beginning of its highly anticipated run."
     ]
   }
 };

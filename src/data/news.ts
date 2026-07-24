@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1784887936888-1",
+    "slug": "trisha-paytas-tiktok-star-and-big-brother-alum",
+    "title": "Trisha Paytas: TikTok Star & Big Brother Alum",
+    "summary": "Trisha has opened up about the tumultuous relationship between actor Vijay and his wife Sangeetha, revealing that a divorce is currently underway.",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@trishlikefish88/video/7664796442741050637",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1784887939102-2",
+    "slug": "august-2026-watch-the-trailers-new-k-dramas",
+    "title": "AUGUST 2026 🫰Watch the Trailers!❤️ NEW K-DRAMAS",
+    "summary": "new releases for K-drama fans! 8 Upcoming Kdramas | AUGUST 2026 … | NETFLIX, DISNEY+ & MORE. ADDICTIVE K-Dramas on Disney+ RIGHT NOW! (2026)",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=qlNOZGgQQME",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1784887941099-3",
+    "slug": "cant-talk-rn-im-busy-watching-these-k-dramas",
+    "title": "Can't talk rn, I'm busy watching these K-dramas",
+    "summary": "The East Palace drops July 17 on Netflix. A Shop for Killers 2 on July 22on Disney+. Overdo on iQIYI later this month. But honestly July has more. Spooky in ...",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DbIcCChD2_P/",
+    "date": "19 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1784887943219-4",
+    "slug": "new-k-drama-alert-disney-confirmed-it-will",
+    "title": "NEW K-DRAMA ALERT 🫶🏻 Disney+ confirmed it will ...",
+    "summary": "Public Upcoming K-dramas for release on Disney+ in 2025. It was released on Disney+ from November 6 to 27, 2024, with 8 episodes. Premiere on November 06.",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/philstarnews/posts/new-k-drama-alert-disney-confirmed-it-will-distribute-the-upcoming-action-crime-/1510274687809946/",
+    "date": "2026-07-24",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1784887945934-5",
+    "slug": "d-day-a-shop-for-klllers-season-2-22-july-2026-netflix",
+    "title": "D-Day!! A Shop For K¡lllers Season 2 • 22 July 2026 | Netflix",
+    "summary": "Season 2 • 22 July 2026 | Netflix. Season 2 is set to premiere in 2026 on Disney+, Filming is scheduled to begin in April 2025.",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/kakimuveeasian/posts/d-day-a-shop-for-klllers-season-2-22-july-2026-netflix-8-episodes-action-thrille/2004342947162018/",
+    "date": "2026-07-24",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1784887946195-6",
+    "slug": "d-day-a-shop-for-klllers-season-2-22-july-2026-disney",
+    "title": "D-Day!! A Shop For K¡lllers Season 2 • 22 July 2026 | Disney+",
+    "summary": "Spooky In Love launches on Netflix 18 July 2026. This Korean drama blends romantic comedy and horror across 12 episodes, releasing new episodes on Saturdays ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@kakimuveeasian/video/7665236310923201812",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1784801752956-1",
     "slug": "korean-american-actress-kaylee-hottle-dies-at-18",
     "title": "Korean-American Actress Kaylee Hottle Dies At 18",
@@ -5611,7 +5713,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-07-23T10:16:02.754Z";
+export const LAST_UPDATED = "2026-07-24T10:12:26.715Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
