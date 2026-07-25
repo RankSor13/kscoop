@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-07-24T10:12:26.716Z
+ * Last updated: 2026-07-25T09:42:03.569Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -10078,6 +10078,165 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       "It premiered from November 6 to 27, 2024, giving us a tight 8-episode run.",
       "The show's release on Disney+ is set for 2025, so we've got a bit of a wait ahead.",
       "The K-drama had its premiere on November 06, marking the beginning of its highly anticipated run."
+    ]
+  },
+  "live-1784972514765-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Shocking On-Stage Move"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Ryoki Miyama's allegedly added kiss scenes with co-star Maria Kano are causing a stir",
+          "The incident occurred during a Japanese stage play",
+          "Maria Kano's response to the situation hasn't been reported yet",
+          "The controversy surrounding Ryoki Miyama is renewing previous debates about his behavior"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "The Kiss That's Got Everyone Talking"
+      },
+      {
+        "type": "p",
+        "text": "Ryoki Miyama's just landed himself in hot water, and honestly, this is a big deal. Reports are alleging that he added unscripted kiss scenes with his co-star Maria Kano during a Japanese stage play. That's right, folks - we're talking about on-stage, in-front-of-a-live-audience kisses that weren't supposed to happen. But was this a bold move or a massive misstep?"
+      },
+      {
+        "type": "p",
+        "text": "The fact that these kisses were unscripted raises a lot of questions. What was going through Ryoki's mind when he decided to take things in this direction? And how did Maria react to the unexpected kisses? We don't have those answers yet, but one thing's for sure - this controversy is putting Ryoki Miyama back in the spotlight for all the wrong reasons."
+      },
+      {
+        "type": "h2",
+        "text": "Where Things Stand Now"
+      },
+      {
+        "type": "p",
+        "text": "The news of Ryoki's alleged on-stage kisses is stirring up a lot of debate, and fans are divided on the issue. Some are defending Ryoki's actions as a passionate moment, while others are calling him out for disrespecting his co-star's boundaries. But one thing's clear: this isn't the first time Ryoki's faced controversy, and it's not going to go away anytime soon. [originally reported by facebook.com](https://www.facebook.com/100085069734767/posts/actor-ryoki-miyama-is-facing-renewed-controversy-after-reports-alleged-he-added-/1002894602556188/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1784972516656-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Breaking News: K-Celeb Updates"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Cha Eun-Woo's engagement rumors are making headlines",
+          "Kim Soo Hyun's fans are expressing concerns, but we don't know what's bothering them yet",
+          "BLACKPINK's Lisa is sparking something, though we're not sure what",
+          "Korean celebrity news is always dramatic, and this week is no exception"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "The Latest Buzz"
+      },
+      {
+        "type": "p",
+        "text": "Cha Eun-Woo's engagement rumors are honestly a big deal - we're talking about one of K-drama's most beloved stars. But was it expected? Not really. What's going on with Kim Soo Hyun, though? His fans are worried, and we're waiting for more info. It's not like we haven't seen concerns from fans before, but this time it feels different."
+      },
+      {
+        "type": "h2",
+        "text": "Fan Frenzy"
+      },
+      {
+        "type": "p",
+        "text": "BLACKPINK's Lisa is always up to something cool, and now she's sparking... well, we're not entirely sure what, but we're here for it. We're talking about one of the most talented and charismatic K-pop idols out there. But what's really going on? We need more tea."
+      },
+      {
+        "type": "h2",
+        "text": "The Tea"
+      },
+      {
+        "type": "p",
+        "text": "We're not getting many details, but that's what makes this so intriguing. Are Cha Eun-Woo's engagement rumors true? What's bothering Kim Soo Hyun's fans? And what's Lisa sparking? Honestly, we can't wait to find out. [originally reported by tiktok.com](https://www.tiktok.com/discover/korean-celebrity-news)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1784972518396-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Bombshell in K-Entertainment"
+      },
+      {
+        "type": "p",
+        "text": "Actress Kim Min Hee is pregnant, and it's not just any pregnancy - she's expecting a child with Director Hong Sang Soo, who's 22 years her senior and very much married. That's right, we're talking about an extramarital affair that's got everyone in K-drama land talking."
+      },
+      {
+        "type": "h2",
+        "text": "The Tea"
+      },
+      {
+        "type": "p",
+        "text": "So, what's the story here? Apparently, media outlet 'Dispatch' broke the news on January 17 KST, and it's been making waves ever since. Kim Min Hee, who's 42, has been involved with Hong Sang Soo, 64, and now they're having a baby together. It's a pretty shocking turn of events, and fans are still trying to wrap their heads around it. But was this really a secret? And how long has it been going on?"
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal - not just because of the age difference or the fact that Hong Sang Soo is married, but because it's a major scandal in the K-entertainment world. We're talking about two well-known figures, and their personal lives are now under a microscope. But what does this mean for their careers? And how will this affect their relationships with their fans?"
+      },
+      {
+        "type": "h2",
+        "text": "Fan Reaction"
+      },
+      {
+        "type": "p",
+        "text": "Fans are divided, with some expressing shock and disappointment, while others are trying to be more understanding. It's a complex situation, and there's no easy way to react. But one thing's for sure - this news has got everyone talking, and it's going to be interesting to see how it all plays out. [originally reported by NYPost](https://www.facebook.com/NYPost/posts/in-a-letter-published-by-a-south-korean-newspaper-chey-revealed-he-had-fallen-in/1490971829561475/)"
+      }
+    ],
+    "takeaways": [
+      "Kim Min Hee is 42 years old and pregnant",
+      "The father is Director Hong Sang Soo, who's 64 and married",
+      "'Dispatch' broke the news on January 17 KST",
+      "This is an extramarital affair, which has sparked a lot of discussion"
+    ]
+  },
+  "live-1784972520773-6": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Double Trouble on Disney+"
+      },
+      {
+        "type": "p",
+        "text": "It's not every day you get two potential K-drama obsessions hitting screens at the same time, but that's exactly what's happening on July 4, 2026. Love in Sync and The Husband are both set to premiere, and honestly, this is a big deal. We're talking about the possibility of two dramas that could capture our hearts in one fell swoop. But was the decision to release them on the same day a strategic move or just a happy coincidence?"
+      },
+      {
+        "type": "p",
+        "text": "The fact that The Husband will be available on two platforms, Disney+ and Hulu, gives it a bit of an edge in terms of accessibility. Meanwhile, Love in Sync fans will have to head to Disney+ to catch the drama. It's going to be interesting to see how these two shows stack up against each other in terms of viewership and fan engagement."
+      },
+      {
+        "type": "h2",
+        "text": "The Waiting Game"
+      },
+      {
+        "type": "p",
+        "text": "For those who might not be drawn into the July 4 premieres, there's another drama waiting in the wings. The Apartment Job, scheduled for release on July 11, 2026, on JTBC, offers a different platform and a bit of a breather from the Disney+ double feature. But will it get lost in the shuffle, or will its later release date actually work in its favor?"
+      },
+      {
+        "type": "h2",
+        "text": "What's Next for K-Drama Fans"
+      },
+      {
+        "type": "p",
+        "text": "Now that we know what's coming, the question is, are you ready to dive into one, two, or maybe all three of these dramas? The summer just got a lot more interesting for K-drama enthusiasts. [originally reported by instagram.com](https://www.instagram.com/p/DbNR_q5IIBn/)"
+      }
+    ],
+    "takeaways": [
+      "Love in Sync and The Husband are dropping on the same day, July 4, 2026",
+      "Love in Sync will be available on Disney+, while The Husband will be on both Disney+ and Hulu",
+      "The Apartment Job is scheduled for release a week later, on July 11, 2026, on JTBC"
     ]
   }
 };

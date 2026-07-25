@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1784972514765-1",
+    "slug": "actor-ryoki-miyama-is-facing-renewed-controversy-after",
+    "title": "Actor Ryoki Miyama is facing renewed controversy after ...",
+    "summary": "Actor Ryoki Miyama is facing renewed controversy after reports alleged he added unscripted kiss scenes with co-star Maria Kano during the Japanese stage...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/100085069734767/posts/actor-ryoki-miyama-is-facing-renewed-controversy-after-reports-alleged-he-added-/1002894602556188/",
+    "date": "2026-07-25",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1784972516656-2",
+    "slug": "korean-celebrity-news",
+    "title": "Korean Celebrity News",
+    "summary": "Stay updated on the latest Korean celebrity news, including Cha Eun-Woo's engagement rumors and Kim Soo Hyun's fan concerns. BLACKPINK's Lisa has sparked ...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/discover/korean-celebrity-news",
+    "date": "5 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1784972518396-3",
+    "slug": "in-a-letter-published-by-a-south-korean-newspaper-chey",
+    "title": "In a letter published by a South Korean newspaper, Chey ...",
+    "summary": "Actress Kim Min Hee (42) Is Pregnant From Her Extramarital Affair With Director Hong Sang Soo (64) According to media outlet 'Dispatch' on January 17 KST, ...",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/NYPost/posts/in-a-letter-published-by-a-south-korean-newspaper-chey-revealed-he-had-fallen-in/1490971829561475/",
+    "date": "2026-07-25",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1784972520536-4",
+    "slug": "oh-yeon-seo",
+    "title": "Oh Yeon Seo",
+    "summary": "Gu Hye -sun insisted that Ahn Jae -hyun is doing affairs with the other actress of the drama. The drama starring Ahn Jae -hyun is 'Human Humans' because the ...",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "en.namu.wiki",
+    "sourceUrl": "https://en.namu.wiki/w/%EC%98%A4%EC%97%B0%EC%84%9C",
+    "date": "7 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1784972520618-5",
+    "slug": "netflixs-spooky-in-love-debuts-at-no-2-globally-becomes",
+    "title": "Netflix's 'Spooky in Love' debuts at No. 2 globally, becomes ...",
+    "summary": "Upcoming k-dramas on Netflix in 2026 Ena Khan \"Can This Love Be Translated\" 💫\"Boyfriend On Demand\" 💫\"East Palace\" 💫\"The WonderFools\" As confirmed in Netflix's ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/allkpop/posts/netflixs-spooky-in-love-debuts-at-no-2-globally-becomes-one-of-summers-biggest-k/1458138689685693/",
+    "date": "2026-07-25",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1784972520773-6",
+    "slug": "your-next-k-drama-obsession-might-already-be-waiting-on",
+    "title": "Your next K-drama obsession might already be waiting on ...",
+    "summary": "Love in Sync – Releases 4 July 2026 on Disney+ The Husband – Releases 4 July 2026 on Disney+ / Hulu The Apartment Job – Releases 11 July 2026 on JTBC",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/DbNR_q5IIBn/",
+    "date": "2026-07-25",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1784887936888-1",
     "slug": "trisha-paytas-tiktok-star-and-big-brother-alum",
     "title": "Trisha Paytas: TikTok Star & Big Brother Alum",
@@ -5713,7 +5815,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-07-24T10:12:26.715Z";
+export const LAST_UPDATED = "2026-07-25T09:42:03.568Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
