@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1785059701271-1",
+    "slug": "during-a-business-trip-to-china-park-siwoo-was-harassed-and",
+    "title": "During a business trip to China, Park Siwoo was harassed and ...",
+    "summary": "Kim Soo hyun Accused of dating a minor Jung Woo sung Cheating allegations (three-timing multiple women) Park Yoo chun Illegal drug use and tax evasion.",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DbM6lCQtDKE/",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1785059703484-2",
+    "slug": "3-quick-mokshiri-updates-worth-your-scroll-1-one-of-asias-most",
+    "title": "3 quick Mokshiri updates worth your scroll: 1. one of Asia's most ...",
+    "summary": "3 quick Mokshiri updates worth your scroll: 1. one of Asia's most iconic and beloved actors, re-emerged 2. few figures manage to balance public fascination ...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DbHu04lALMP/",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1785059705183-3",
+    "slug": "when-k-dramas-decide-to-dominate-every-genre-at-once-fans",
+    "title": "When K-dramas decide to dominate every genre at once, fans ...",
+    "summary": "ky in Love (2026) A supernatural romantic comedy. Release Date: July 17, 2026 on Netflix. Release Date: July 4, 2026 on KBS2 and Disney+. The Apartment Job. ...",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DbIcYLEvFAe/",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1785059708251-4",
+    "slug": "k-pop",
+    "title": "K-pop",
+    "summary": "Updates on K-pop artists, new releases, fan culture and trends. Katseye teams up with Ed Sheeran, Demi Moore for new single 'Animal' Cheorwon in Gangwon ...",
+    "category": "trending",
+    "author": "Hana Cho",
+    "source": "koreaherald.com",
+    "sourceUrl": "https://www.koreaherald.com/Kpop",
+    "date": "3 hours ago",
+    "image": "https://static.heraldcorp.com/wbazic/kh/www/image/sns.png",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1785059713392-5",
+    "slug": "hudson-williams-in-seoul-today-hudsonwilliams-hudson",
+    "title": "Hudson Williams in Seoul today. #hudsonwilliams | hudson ...",
+    "summary": "Hudson Williams and Lola Tung, stole the spotlight with their dancing skills. Hudson and Lola, known for their remarkable performances on-screen, were spotted ...",
+    "category": "trending",
+    "author": "Mia Kwon",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@hudsonwilliamshq/video/7666086802029038870",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1785059713827-6",
+    "slug": "eun-woo-canta-arirang-y-yo-este-es-el-contenido-que",
+    "title": "Eun Woo canta Arirang y yo: este es el contenido que ...",
+    "summary": "Cha Eun-Woo Engagement Rumors: What's the Truth? Discover the truth behind the Cha Eun-Woo engagement rumors. Dive into reality vs. speculation in K-drama ...",
+    "category": "trending",
+    "author": "Rina Baek",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@dayichingu/video/7665774324934020373",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1784972514765-1",
     "slug": "actor-ryoki-miyama-is-facing-renewed-controversy-after",
     "title": "Actor Ryoki Miyama is facing renewed controversy after ...",
@@ -5815,7 +5917,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-07-25T09:42:03.568Z";
+export const LAST_UPDATED = "2026-07-26T09:55:14.181Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES

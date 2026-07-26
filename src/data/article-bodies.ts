@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-07-25T09:42:03.569Z
+ * Last updated: 2026-07-26T09:55:14.183Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -10237,6 +10237,169 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       "Love in Sync and The Husband are dropping on the same day, July 4, 2026",
       "Love in Sync will be available on Disney+, while The Husband will be on both Disney+ and Hulu",
       "The Apartment Job is scheduled for release a week later, on July 11, 2026, on JTBC"
+    ]
+  },
+  "live-1785059701271-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Bombshell Scandals Rock K-Entertainment"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Kim Soo Hyun's accused of dating a minor, which is a huge deal",
+          "Jung Woo Sung's allegedly cheating on multiple women at once - that's not just a rumor, it's a whole other level of drama",
+          "Park Yoo Chun's in trouble for illegal drug use and tax evasion, because one scandal isn't enough",
+          "Park Siwoo was harassed during a business trip to China, and we're still waiting for more info on that"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "The Accusations Are Piling Up"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal - Kim Soo Hyun, one of K-drama's brightest stars, is accused of dating a minor. That's a serious allegation, and we're not sure what to make of it yet. Jung Woo Sung, on the other hand, is facing some serious cheating allegations - we're talking three-timing multiple women. It's not looking great for him. But was the comeback too fast for these stars, or did they think they could just sweep these scandals under the rug?"
+      },
+      {
+        "type": "h2",
+        "text": "Where Things Stand Now"
+      },
+      {
+        "type": "p",
+        "text": "Park Yoo Chun's in a whole heap of trouble, and it's not just about his reputation - he's accused of illegal drug use and tax evasion. That's some serious stuff, and we're not sure how he's going to bounce back from this. And then there's Park Siwoo, who was harassed during a business trip to China. We don't know all the details yet, but it sounds like a really tough situation. What's going on with these K-drama stars, and can they recover from these scandals?"
+      },
+      {
+        "type": "h2",
+        "text": "The Fallout"
+      },
+      {
+        "type": "p",
+        "text": "It's hard to say what's going to happen next, but one thing's for sure - these scandals are going to have some serious repercussions. Fans are already weighing in, and it's not looking great for these stars. But that's what happens when you're in the public eye - every move you make is under scrutiny. We're just waiting to see how this all plays out. [originally reported by instagram.com](https://www.instagram.com/reel/DbM6lCQtDKE/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1785059703484-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The One We've Been Waiting For"
+      },
+      {
+        "type": "p",
+        "text": "Mokshiri's back, and honestly, that's all we need to know to get excited! One of Asia's most iconic and beloved actors has re-emerged, and we're not wrong to be hyped. But what's really catching our attention is how few figures manage to balance public fascination like they do."
+      },
+      {
+        "type": "h2",
+        "text": "Balancing Act"
+      },
+      {
+        "type": "p",
+        "text": "It's not every day you see someone who's equally adept at navigating the highs and lows of public life, all while keeping their fans on the edge of their seats. Mokshiri's ability to do just that is a big part of their enduring appeal. But was the wait for their return too long? Maybe, but it's clear that the anticipation has only added to the excitement."
+      },
+      {
+        "type": "h2",
+        "text": "Where Things Stand Now"
+      },
+      {
+        "type": "p",
+        "text": "Given the lack of details, we're left wondering what's next for Mokshiri. Will they be starring in a new drama, or is this the start of a new chapter in their career? Whatever it is, we're here for it. One thing's for sure - their fans are ready to support them every step of the way."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by instagram.com](https://www.instagram.com/reel/DbHu04lALMP/)"
+      }
+    ],
+    "takeaways": [
+      "Mokshiri is one of Asia's most iconic actors, and their return is highly anticipated.",
+      "They have a unique ability to balance public fascination.",
+      "The wait for their return has been long, but it's only added to the excitement."
+    ]
+  },
+  "live-1785059705183-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Domination Mode Activated"
+      },
+      {
+        "type": "p",
+        "text": "K-dramas aren't just dipping their toes in different genres - they're going all in, and Ky in Love is the latest example. This supernatural romantic comedy is about to take over our screens, and honestly, it's a big deal. With its unique blend of supernatural elements and rom-com charm, it's no wonder fans are hyped. But what's really interesting here is the release strategy. We're talking multiple platforms, folks - Netflix, KBS2, and Disney+ are all on board."
+      },
+      {
+        "type": "p",
+        "text": "The fact that Ky in Love is releasing on so many platforms at once says a lot about the current state of K-drama fandom. It's not just about catering to a niche audience anymore; it's about going global and reaching as many fans as possible. And with the rise of streaming services, it's easier than ever to make that happen. But was the decision to release on three platforms at once a smart move? Only time will... just kidding, we don't need to wait - the fans will definitely let us know."
+      },
+      {
+        "type": "h2",
+        "text": "The Release Date Rush"
+      },
+      {
+        "type": "p",
+        "text": "So, when can we expect to get our hands on Ky in Love? Well, if you're watching on KBS2 or Disney+, you're in luck - it's coming on July 4, 2026. But if you're a Netflix subscriber, you'll have to wait a bit longer - July 17, 2026, is the date to mark on your calendar. It's not a huge gap, but it's definitely something to consider if you're planning on binge-watching the entire series as soon as possible."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters"
+      },
+      {
+        "type": "p",
+        "text": "Ky in Love might just be the tip of the iceberg when it comes to K-dramas taking over every genre at once. We're seeing a surge in experimentation and creativity, and it's amazing to watch. From supernatural rom-coms to thrillers and melodramas, there's something for everyone. And with the power of streaming services behind them, these dramas can reach a global audience like never before. So, what are you waiting for? Get ready to dive into the world of Ky in Love and experience the magic of K-dramas for yourself [originally reported by instagram.com](https://www.instagram.com/reel/DbIcYLEvFAe/)"
+      }
+    ],
+    "takeaways": [
+      "Ky in Love is a supernatural romantic comedy that's got everyone talking",
+      "It's releasing on not one, not two, but three major platforms: Netflix, KBS2, and Disney+",
+      "The release dates are pretty close, with KBS2 and Disney+ getting it on July 4, 2026, and Netflix on July 17, 2026",
+      "This drama is part of a bigger trend of K-dramas exploring every genre under the sun"
+    ]
+  },
+  "live-1785059708251-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Unlikely Collab We Never Saw Coming"
+      },
+      {
+        "type": "p",
+        "text": "Katseye's teaming up with Ed Sheeran and Demi Moore for a new single called \"Animal\" - talk about a powerhouse collaboration. We're not sure what to expect from this unlikely trio, but we're definitely intrigued. Ed Sheeran's had his fair share of K-pop collaborations in the past, but adding Demi Moore to the mix is a wild card that's got us curious. What's the story behind this team-up, and how did Katseye manage to snag these two big names?"
+      },
+      {
+        "type": "p",
+        "text": "It's not every day you see a K-pop artist sharing the stage (or in this case, the single) with a Hollywood A-lister and a global music sensation. We're wondering what kind of vibe \"Animal\" will have - will it be a high-energy dance track or a soulful ballad? One thing's for sure, though: this collab is going to generate a lot of buzz. But was this the most exciting K-pop news this week? Not quite."
+      },
+      {
+        "type": "h2",
+        "text": "More K-pop News You Might've Missed"
+      },
+      {
+        "type": "p",
+        "text": "Jennie's also making waves with her upcoming single \"Less Than a Lover\". We don't know much about the song yet, but Jennie's always been one to push boundaries with her music. Will \"Less Than a Lover\" be a romantic ballad or an empowering anthem? We'll have to wait and see. Meanwhile, BTS fans can breathe a sigh of relief - their Chile concerts are back on after some stage plan tweaks. It's been a rollercoaster ride for ARMY, but it looks like the show will go on."
+      },
+      {
+        "type": "h2",
+        "text": "What Fans Are Saying"
+      },
+      {
+        "type": "p",
+        "text": "NewJeans' anniversary videos have sparked a lot of speculation about a potential comeback. But Ador's pouring cold water on those rumors, saying nothing's been decided yet. Honestly, this is a big deal - NewJeans has been on a hot streak lately, and fans are eagerly awaiting their next move. But was the comeback speculation premature? Maybe. We're still keeping our fingers crossed for some new music from these talented rookies."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "It's exciting to see K-pop artists collaborating with international stars like Ed Sheeran and Demi Moore. It's a testament to the genre's growing global appeal, and we can't wait to see what other unexpected team-ups are in store. For now, we're just going to have to wait patiently for \"Animal\" to drop and see what other surprises the K-pop world has in store for us [originally reported by koreaherald.com](https://www.koreaherald.com/Kpop)"
+      }
+    ],
+    "takeaways": [
+      "Katseye's new single \"Animal\" features Ed Sheeran and Demi Moore, which is a huge deal for K-pop collaborations",
+      "BTS's Chile concerts are back on after some stage plan adjustments",
+      "Jennie's getting ready to drop a new single called \"Less Than a Lover\"",
+      "NewJeans' anniversary videos have fans speculating about a comeback, but Ador says nothing's been decided yet"
     ]
   }
 };
