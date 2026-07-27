@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-07-26T09:55:14.183Z
+ * Last updated: 2026-07-27T11:15:37.647Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -10400,6 +10400,171 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       "BTS's Chile concerts are back on after some stage plan adjustments",
       "Jennie's getting ready to drop a new single called \"Less Than a Lover\"",
       "NewJeans' anniversary videos have fans speculating about a comeback, but Ador says nothing's been decided yet"
+    ]
+  },
+  "live-1785150927185-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Bombshell Connection Rocks K-Drama World"
+      },
+      {
+        "type": "p",
+        "text": "Kim Soo-hyun, one of Korea's top actors, is at the center of a heated debate, and it's not because of his latest drama role. Reports are alleging a past connection between him and the late actress Kim Sae-ron, which has sparked intense scrutiny. But what's really going on here?"
+      },
+      {
+        "type": "p",
+        "text": "The news is shocking, to say the least. We're talking about two huge stars in the K-drama universe, and the idea that they might have been connected in some way is blowing fans' minds. It's not every day you hear about a potential link between two celebrities, especially when one of them is no longer with us. The fact that Kim Sae-ron is no longer alive to speak for herself is making this whole situation even more complicated."
+      },
+      {
+        "type": "h2",
+        "text": "Unpacking the Allegations"
+      },
+      {
+        "type": "p",
+        "text": "So, what do we know so far? Not a lot, to be honest. The reports are vague, and there aren't many details out there. But that's not stopping fans from speculating and debating about what might have gone down. Some people are defending Kim Soo-hyun, saying we shouldn't jump to conclusions or assume anything without solid proof. Others are convinced that there's more to the story, and they're demanding answers."
+      },
+      {
+        "type": "h2",
+        "text": "The Fallout"
+      },
+      {
+        "type": "p",
+        "text": "It's hard to predict how this will all play out, but one thing's for sure: Kim Soo-hyun's fans are going to be watching this situation closely. They're going to want to know what's true and what's not, and they're going to be looking for answers from the actor himself. But was the timing of these reports really coincidental, or is there something more to it? [originally reported by Koreaboorewind](https://www.facebook.com/koreaboorewind/posts/top-korean-actress-being-unfiltered-sparks-heated-debate/1084492577571829/)"
+      }
+    ],
+    "takeaways": [
+      "The alleged connection between Kim Soo-hyun and Kim Sae-ron is sparking intense debate among fans",
+      "There are few details available about the nature of their supposed connection",
+      "Fans are split on how to react, with some defending Kim Soo-hyun and others seeking more information",
+      "The situation is complicated by the fact that Kim Sae-ron is no longer alive to comment"
+    ]
+  },
+  "live-1785150929420-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Bombshell Rumor Alert"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Yu Shi's potential drama project is with Tencent, a major player in the Chinese entertainment industry",
+          "The rumor suggests Yu Shi will star alongside Yu Shuxin, also known as Esther Yu",
+          "This project is reportedly big-budget, which could mean high production values and a lot of hype",
+          "The drama genre isn't specified, but with these two leads, it's got our attention"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "So, what's the most surprising thing about this rumor? It's that Yu Shi, a movie actor, might be taking on a drama project. That's a big deal, especially since it's with a major platform like Tencent. But was the rumor too good to be true, or is there some substance to it? We don't have all the details yet, but the idea of Yu Shi and Yu Shuxin teaming up is definitely intriguing."
+      },
+      {
+        "type": "p",
+        "text": "The fact that Yu Shuxin is already attached to the project makes it seem more plausible. She's had a string of successful dramas, and her fans are always eager to see what she'll do next. But Yu Shi's involvement is what really raises the stakes. He's primarily known for his film work, so this could be a cool opportunity for him to reach a different audience."
+      },
+      {
+        "type": "h2",
+        "text": "Star Power"
+      },
+      {
+        "type": "p",
+        "text": "What's really driving the buzz around this rumor, though, is the combination of Yu Shi and Yu Shuxin. They're both talented actors with a lot of charisma, and the idea of them playing off each other is pretty exciting. But without more information, it's hard to say what kind of drama this would be or what their characters would be like. Would they play lovers, enemies, or something else entirely?"
+      },
+      {
+        "type": "h2",
+        "text": "The Waiting Game"
+      },
+      {
+        "type": "p",
+        "text": "For now, we're just going to have to wait and see if this rumor pans out. If it does, it could be a really interesting project. But even if it doesn't, the idea of Yu Shi and Yu Shuxin teaming up is still a fun one to imagine. What do you think - would you watch a drama with these two leads?"
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this rumor is a big deal, and we're not the only ones who think so. The K-drama community is already buzzing with excitement, and it's easy to see why. A project like this could bring a lot of attention to the genre, and it's always cool to see talented actors take on new challenges. [originally reported by reddit.com](https://www.reddit.com/r/CDrama/comments/1v2kxql/yumcha_tea_time_tuesdays_celebs_gossip_oh_my_july/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1785150931819-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Rising to Fame"
+      },
+      {
+        "type": "p",
+        "text": "Junho's journey to stardom wasn't easy - he faced some tough times as a trainee at JYP Entertainment. After winning Superstar Survival in 2006, he thought he was on top of the world, but his fellow trainees didn't exactly welcome him with open arms. They were skeptical of him, and he felt like an outcast. But what's really interesting is that he was even considered for removal from the trainee program at one point. Luckily, his mom intervened and advocated for him, which ultimately led to him getting a second chance. He's never forgotten that, and it's clear that his family's support has meant the world to him."
+      },
+      {
+        "type": "p",
+        "text": "Junho's story is a testament to his hard work and perseverance. He didn't give up, even when things got tough. He devoted himself to rigorous training and eventually earned recognition from JYP Entertainment founder Park Jin-young. That's how he became a member of the popular boy band 2PM and went on to pursue a successful acting career. His filmography is impressive, with notable roles in Twenty, Good Manager, and The Red Sleeve, for which he won the Baeksang Arts Award for Best Actor."
+      },
+      {
+        "type": "h2",
+        "text": "Expanding His Horizons"
+      },
+      {
+        "type": "p",
+        "text": "But Junho isn't just an actor - he's also a talented singer-songwriter. As a solo artist, he's released several albums and extended plays, achieving significant success in Japan. It's not surprising, given his passion for music and performance. He's come a long way since his early days as a trainee, and it's been amazing to watch him grow and evolve as an artist. From his early inspirations, like the film Shiri, to his current projects, like Cashero (2025), Junho has proven that he's a talented and dedicated artist who's here to stay."
+      },
+      {
+        "type": "h2",
+        "text": "What's Next for Junho"
+      },
+      {
+        "type": "p",
+        "text": "So, what's next for this talented star? With his upcoming projects, like Typhoon Family (2025), we can't wait to see what he has in store for us. Will he continue to impress us with his acting skills, or will he surprise us with new music? One thing's for sure - Junho's fans will be eagerly awaiting his next move. [originally reported by en.wikipedia.org](https://en.wikipedia.org/wiki/Lee_Jun-ho)"
+      }
+    ],
+    "takeaways": [
+      "Lee Jun-ho, known as Junho, made his acting debut in the film Cold Eyes (2013) and has since starred in numerous notable TV series and films.",
+      "He won the Baeksang Arts Award for Best Actor for his performance in The Red Sleeve (2021).",
+      "Junho released two studio albums, one compilation album, and eight extended plays as a solo artist, achieving significant success in Japan.",
+      "He was inspired to pursue filmmaking after watching the film Shiri in elementary school, but later shifted his interest to acting.",
+      "Junho faced significant challenges during his time as a trainee at JYP Entertainment, including being considered for removal from the program."
+    ]
+  },
+  "live-1785150934099-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "A Conviction That Raises Questions"
+      },
+      {
+        "type": "p",
+        "text": "The latest twist in the Kim Soo Hyun saga is a doozy - one of his accusers just got convicted in court. That's right, the tables have turned, and now the person who was speaking out against Kim Soo Hyun is facing the music. But was this a surprise to fans who've been following the case? Honestly, it's not entirely clear what this means for Kim Soo Hyun himself, but it's definitely a development that's got people talking."
+      },
+      {
+        "type": "p",
+        "text": "The fact that the conviction is for defamation of a South Korean journalist adds another layer to the story. It makes you wonder - what exactly happened here? Was the accuser's claim against Kim Soo Hyun based on false info, or was this a genuine mistake? Unfortunately, we don't have all the details, but it's clear that this case just got a whole lot more complicated."
+      },
+      {
+        "type": "h2",
+        "text": "The Controversy Continues"
+      },
+      {
+        "type": "p",
+        "text": "This conviction is just the latest chapter in a wider controversy that's been brewing around Kim Soo Hyun. The actor's been dealing with accusations and backlash, and it's been a tough time for his fans. But now, with one of his accusers facing a conviction, it's like the whole situation has been turned on its head. So, what's next? Will this change the way people view Kim Soo Hyun, or will it just add fuel to the fire?"
+      },
+      {
+        "type": "h2",
+        "text": "Where Things Stand Now"
+      },
+      {
+        "type": "p",
+        "text": "For now, we're left with more questions than answers. The court's decision is a big deal, but it's not the end of the story - not by a long shot. As fans, we're just going to have to wait and see how this all plays out. One thing's for sure, though - this is a drama that's far from over. [originally reported by BigSis9JA](https://www.facebook.com/BigSis9JA/posts/court-finds-one-of-kim-soo-hyuns-accusers-guilty-of-defaming-a-south-korean-jour/1691339612997352/)"
+      }
+    ],
+    "takeaways": [
+      "One of Kim Soo Hyun's accusers has been convicted by a court",
+      "The accusation is related to defamation of a South Korean journalist",
+      "The controversy surrounding Kim Soo Hyun is ongoing",
+      "The court's decision may impact the wider scandal"
     ]
   }
 };

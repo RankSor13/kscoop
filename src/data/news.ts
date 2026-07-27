@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1785150927185-1",
+    "slug": "top-korean-actress-being-unfiltered-sparks-heated-debate",
+    "title": "Top Korean Actress Being Unfiltered Sparks Heated Debate",
+    "summary": "Kim Soo-hyun, one of Korea's. Reports allege a past connection between him and the late actress Kim Sae-ron, sparking intense scrutiny.",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/koreaboorewind/posts/top-korean-actress-being-unfiltered-sparks-heated-debate/1084492577571829/",
+    "date": "2026-07-27",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1785150929420-2",
+    "slug": "yumcha-tea-time-tuesdays-celebs-gossip-oh-my",
+    "title": "Yumcha Tea Time Tuesdays 🫖 Celebs, gossip, oh my!",
+    "summary": "A rumor began circulating that movie actor Yu Shi was secretly taking on a big-budget Tencent drama project alongside Yu Shuxin (Esther Yu).",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/CDrama/comments/1v2kxql/yumcha_tea_time_tuesdays_celebs_gossip_oh_my_july/",
+    "date": "2026-07-27",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1785150931819-3",
+    "slug": "lee-jun-ho",
+    "title": "Lee Jun-ho",
+    "summary": "Junho, is a South Korean singer-songwriter and actor. Lee made his acting debut in the film Cold Eyes (2013) Cashero (2025). Star News (in Korean).",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "en.wikipedia.org",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Lee_Jun-ho",
+    "date": "4 days ago",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Lee_Junho_in_January_2025_02.png/960px-Lee_Junho_in_January_2025_02.png",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1785150934099-4",
+    "slug": "court-finds-one-of-kim-soo-hyuns-accusers",
+    "title": "COURT FINDS ONE OF KIM SOO HYUN'S ACCUSERS ...",
+    "summary": "A new legal development has emerged in the wider controversy surrounding actor Kim Soo Hyun, with one of his vocal accusers now facing a court conviction. Kim ...",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/BigSis9JA/posts/court-finds-one-of-kim-soo-hyuns-accusers-guilty-of-defaming-a-south-korean-jour/1691339612997352/",
+    "date": "2026-07-27",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1785150936156-5",
+    "slug": "son-ye-jin-and-lee-min-ho-are-celebrated-south-korean",
+    "title": "Son Ye-jin and Lee Min-ho are celebrated South Korean ...",
+    "summary": "Son Ye-jin and Lee Min-ho are celebrated South Korean actors who co-starred in the popular 2010 romantic-comedy K-drama Personal Taste",
+    "category": "gossip",
+    "author": "Mia Kwon",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DbIpDtlBYHA/",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1785150936417-6",
+    "slug": "south-korea",
+    "title": "South Korea",
+    "summary": "Stay up to date on the latest South Korea news coverage from AP News.",
+    "category": "gossip",
+    "author": "Rina Baek",
+    "source": "apnews.com",
+    "sourceUrl": "https://apnews.com/hub/south-korea",
+    "date": "14 hours ago",
+    "image": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1785059701271-1",
     "slug": "during-a-business-trip-to-china-park-siwoo-was-harassed-and",
     "title": "During a business trip to China, Park Siwoo was harassed and ...",
@@ -5917,7 +6019,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-07-26T09:55:14.181Z";
+export const LAST_UPDATED = "2026-07-27T11:15:37.646Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
