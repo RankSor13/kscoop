@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1785234615656-1",
+    "slug": "2026-new-netflix-series-with-traditional-korean-romance",
+    "title": "2026 New Netflix Series with Traditional Korean Romance",
+    "summary": "No preview available.",
+    "category": "upcoming",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/groups/213769097944550/posts/897237339597719/",
+    "date": "2026-07-28",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1785234617590-2",
+    "slug": "kim-woo-bins-new-series-2026-release-and-streaming-link",
+    "title": "Kim Woo-bin's new series \"2026\" release and streaming link",
+    "summary": "No preview available.",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/groups/3183080521946132/posts/4351338621786977/",
+    "date": "2026-07-28",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1785234619670-3",
+    "slug": "2026-top-10-k-drama",
+    "title": "अगस्त 2026 में आने वाले TOP 10 K-Drama",
+    "summary": "Next is The Apartment Job, a Korean drama available on Netflix from July 11th. Next is The East Palace, a Korean drama available on Netflix starting July 17th. ...",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/DbTCb-PSg0v/",
+    "date": "2026-07-28",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1785234621631-4",
+    "slug": "what-has-been-your-favorite-k-drama-of-2026-so-far",
+    "title": "🌟 What has been your favorite K-drama of 2026 so far? ...",
+    "summary": "here are 7 Korean dramas releasing in 2026. Portraits of Delusion, Portraits Of Delusion, a Disney+ Original series … 7 must-watch series coming to Netflix, ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/DramalistOfficial/posts/-what-has-been-your-favorite-k-drama-of-2026-so-far-that-question-recently-spark/122198017934766631/",
+    "date": "2026-07-28",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1785234623727-5",
+    "slug": "new-korean-drama-to-watch-in-july-2026",
+    "title": "New Korean Drama To Watch In July 2026🩷💜",
+    "summary": "Spooky In Love on Netflix on July 18th. The Husband Korean drama on July 4th on Disney+. And on July 4th itself, a Korean drama named He Love in Sync on Disney+ ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/DbN6sGjNdu4/",
+    "date": "2026-07-28",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1785234625737-6",
+    "slug": "korean-drama-series-on-netflix-2026",
+    "title": "Korean Drama Series on Netflix 2026",
+    "summary": "2026 is an upcoming South Korean action-drama series, releasing June 5, 2026 exclusively on Netflix. It's adapted from the popular webtoon Get Schooled.",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/discover/korean-drama-series-on-netflix-2026",
+    "date": "5 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1785150927185-1",
     "slug": "top-korean-actress-being-unfiltered-sparks-heated-debate",
     "title": "Top Korean Actress Being Unfiltered Sparks Heated Debate",
@@ -6019,7 +6121,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-07-27T11:15:37.646Z";
+export const LAST_UPDATED = "2026-07-28T10:30:26.241Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES

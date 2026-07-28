@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-07-27T11:15:37.647Z
+ * Last updated: 2026-07-28T10:30:26.658Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -10565,6 +10565,217 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       "The accusation is related to defamation of a South Korean journalist",
       "The controversy surrounding Kim Soo Hyun is ongoing",
       "The court's decision may impact the wider scandal"
+    ]
+  },
+  "live-1785234615656-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Netflix Is Bringing the Heat with a New Traditional Korean Romance Series"
+      },
+      {
+        "type": "p",
+        "text": "The latest news that's got K-drama fans buzzing is that Netflix is cooking up a brand new series - and it's all about traditional Korean romance. That's right, folks, get ready for a healthy dose of melodrama, stunning hanbok, and heart-wrenching love stories that'll leave you breathless."
+      },
+      {
+        "type": "h2",
+        "text": "What We Know So Far"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "The series is set to premiere on Netflix, which means it'll be available to stream for fans all around the world.",
+          "It's focused on traditional Korean romance, which is a genre that's both timeless and timely.",
+          "The announcement was made on Facebook, which is an interesting choice - are they trying to reach a specific audience?",
+          "There aren't many details available just yet, but that's not stopping fans from speculating about what the series might entail."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal - a traditional Korean romance series on Netflix could be just the thing to bring this genre to a whole new audience. But was the announcement too vague? Fans are already clamoring for more information, and it's hard to blame them. What will the storyline be like? Who's starring in it? And when can we expect it to drop?"
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters"
+      },
+      {
+        "type": "p",
+        "text": "The fact that Netflix is investing in a traditional Korean romance series says a lot about the current state of the K-drama landscape. It's clear that they're trying to cater to fans who are hungry for more diverse storytelling - and that's something we can definitely get behind. But what does this mean for the future of K-dramas on Netflix? Will we see more series like this in the future?"
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by facebook.com](https://www.facebook.com/groups/213769097944550/posts/897237339597719/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1785234617590-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Latest From Kim Woo-bin"
+      },
+      {
+        "type": "p",
+        "text": "Kim Woo-bin's got a new series coming out, and honestly, that's all we need to know to get excited - it's called \"2026\". But what's really surprising here is that we've already got a release and streaming link for it. That's right, folks, no waiting around for months to find out how to watch it."
+      },
+      {
+        "type": "p",
+        "text": "The news dropped on Facebook, of all places, in a post made in a group. It's not every day you see K-drama news break on social media like this, but we're not complaining. Since the post went live, fans have been buzzing with anticipation - and we can't blame them. Kim Woo-bin's been making waves in the K-drama scene for years, and this new series is shaping up to be just as compelling as his past projects."
+      },
+      {
+        "type": "h2",
+        "text": "What We Know So Far"
+      },
+      {
+        "type": "p",
+        "text": "So, what can we expect from \"2026\"? Unfortunately, the Facebook post didn't give away too many details, but that's okay - sometimes it's fun to go in blind. We do know that Kim Woo-bin's involved, and that's enough to pique our interest. But was the comeback too fast? We're not sure, and only time will... just kidding, we're not going to say that. Let's just say we're excited to see what \"2026\" has in store for us."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "It's interesting to see K-drama news breaking on Facebook like this. Is this the future of entertainment news? Probably not, but it's definitely a fun change of pace. And who knows, maybe we'll see more of our favorite K-drama stars taking to social media to share updates about their projects. For now, though, we're just happy to have a new Kim Woo-bin series to look forward to."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by facebook.com](https://www.facebook.com/groups/3183080521946132/posts/4351338621786977/)"
+      }
+    ],
+    "takeaways": [
+      "Kim Woo-bin's new series is titled \"2026\"",
+      "The series has a release and streaming link available",
+      "The news was shared on Facebook",
+      "The post was made in a Facebook group"
+    ]
+  },
+  "live-1785234619670-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Summer Just Got Hotter"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal - we're talking about not one, but two K-dramas dropping on Netflix in the same month. First up, we've got The Apartment Job, which is set to premiere on July 11th. That's just around the corner, and fans are already buzzing about what this drama will bring. But was the wait worth it? We'll have to tune in to find out."
+      },
+      {
+        "type": "p",
+        "text": "The Apartment Job is followed closely by The East Palace, which is scheduled to drop on July 17th. That's a pretty quick turnaround, and it's clear that Netflix is trying to bring the heat this summer. Both dramas are sure to bring their own unique brand of K-drama magic, and we can't wait to see what they have in store."
+      },
+      {
+        "type": "h2",
+        "text": "The Netflix Effect"
+      },
+      {
+        "type": "p",
+        "text": "It's no secret that Netflix has been killing the K-drama game lately, and these two upcoming shows are just the latest examples. By releasing The Apartment Job and The East Palace in the same month, Netflix is giving fans a one-two punch of drama and excitement. But what does this mean for the future of K-dramas on the platform? Will we see even more releases in the coming months, or is this just a summer fling?"
+      },
+      {
+        "type": "h2",
+        "text": "What Fans Are Saying"
+      },
+      {
+        "type": "p",
+        "text": "As the release dates get closer, fans are taking to social media to share their thoughts and theories about the upcoming dramas. Some are speculating about the plots, while others are just excited to see their favorite actors back on screen. One thing's for sure, though - the K-drama community is always passionate, and these two shows are sure to generate some serious buzz."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by instagram.com](https://www.instagram.com/p/DbTCb-PSg0v/)"
+      }
+    ],
+    "takeaways": [
+      "The Apartment Job is hitting Netflix on July 11th",
+      "The East Palace is coming to Netflix just a week later, on July 17th",
+      "Both dramas are part of the summer lineup for K-drama fans",
+      "Netflix is the go-to platform for these upcoming shows",
+      "The release dates are getting closer, and fans are getting excited"
+    ]
+  },
+  "live-1785234621631-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The 2026 K-Drama Lineup Looks Fire"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal - 7 new K-dramas are coming our way in 2026, and we can't wait to dive in. What's really got our attention, though, is the variety of platforms these dramas will be on. From Disney+ to Netflix, it seems like our favorite K-drama stars will be everywhere this year."
+      },
+      {
+        "type": "p",
+        "text": "The fact that \"Portraits of Delusion\" is a Disney+ Original series is pretty interesting - it's not every day we see K-dramas getting the Disney treatment. And with it being mentioned twice, we're guessing it's going to be a major player in the 2026 K-drama scene. But was the repeat mention just a typo, or is Disney really pushing this series hard?"
+      },
+      {
+        "type": "h2",
+        "text": "Why You Should Be Excited"
+      },
+      {
+        "type": "p",
+        "text": "So, what does this mean for K-drama fans? Well, for starters, it means we've got a lot of great content to look forward to. With 7 new dramas on the way, there's bound to be something for everyone. And let's be real - the fact that these dramas will be on popular platforms like Netflix and Disney+ means they'll be more accessible than ever."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "But what's really at play here? Is this a sign that K-dramas are finally getting the global recognition they deserve? It's definitely a step in the right direction. With more and more international fans discovering the joy of K-dramas, it's no surprise that major platforms are taking notice. And with the quality of K-dramas being consistently high, we're hoping this is just the beginning of a beautiful friendship between K-drama fans and streaming giants."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by DramalistOfficial](https://www.facebook.com/DramalistOfficial/posts/-what-has-been-your-favorite-k-drama-of-2026-so-far-that-question-recently-spark/122198017934766631/)"
+      }
+    ],
+    "takeaways": [
+      "There are 7 Korean dramas lined up for release in 2026",
+      "One of them is a Disney+ Original series called \"Portraits of Delusion\"",
+      "Some of these dramas will be available on Netflix",
+      "The question of the best K-drama of 2026 so far has been sparking discussion",
+      "\"Portraits Of Delusion\" is mentioned twice, possibly indicating it's a highly anticipated series"
+    ]
+  },
+  "live-1785234623727-5": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Summer Just Got Spookier"
+      },
+      {
+        "type": "p",
+        "text": "We're just a few weeks into summer, and it's already shaping up to be an amazing season for K-drama fans. But was the July release schedule just made a whole lot more interesting? You bet - with not one, not two, but three new dramas announced for next month. And honestly, this is a big deal. Spooky In Love, for instance, is heading to Netflix on July 18th, which is perfect for those who love a good thrill."
+      },
+      {
+        "type": "p",
+        "text": "The Husband, on the other hand, is set to premiere on Disney+ a couple of weeks earlier, on July 4th. That's right, folks, Independence Day just got a whole lot more interesting. But that's not all - He Love in Sync is also dropping on Disney+ on the same day. It's like the K-drama gods are smiling down on us."
+      },
+      {
+        "type": "h2",
+        "text": "The Disney+ Takeover"
+      },
+      {
+        "type": "p",
+        "text": "So, what's behind the sudden influx of new dramas on Disney+? Is it a strategic move to take on Netflix, or just a coincidence? Whatever the reason, we're not complaining. With The Husband and He Love in Sync both set to premiere on the same day, it's clear that Disney+ is serious about its K-drama game. But will it be enough to take on the likes of Netflix, which has been dominating the scene with its own offerings?"
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "One thing's for sure - July is shaping up to be an exciting month for K-drama fans. With three new dramas to look forward to, we're spoiled for choice. So, which one will you be watching first? Will it be the spooky thrills of Spooky In Love, or the Disney+ double whammy of The Husband and He Love in Sync? Whatever your choice, it's clear that this summer is going to be a wild ride. [originally reported by instagram.com](https://www.instagram.com/p/DbN6sGjNdu4/)"
+      }
+    ],
+    "takeaways": [
+      "Spooky In Love is coming to Netflix on July 18th",
+      "The Husband Korean drama is set to premiere on Disney+ on July 4th",
+      "He Love in Sync is another Disney+ release, also on July 4th"
     ]
   }
 };
