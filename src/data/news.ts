@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1785321281871-1",
+    "slug": "why-has-it-taken-me-6-years-to-realise-this-play-is-about-me",
+    "title": "Why has it taken me 6 years to realise this play is about me",
+    "summary": "YouTuber Saffron Barker has come forward to share her side of the story regarding her recent split from her rugby star ex-boyfriend.",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@imogencribb/video/7666534361679875350",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1785321283742-2",
+    "slug": "which-kdramas-are-you-most-excited-for-in-the-second-half-of",
+    "title": "Which KDramas are you most excited for in the second half of ...",
+    "summary": "Lead 2026 has been a stellar year for Kdramas. This guide lists standout Korean dramas released or prominent in 2026, grouped by title with where to stream each ...",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@kdramaconfidential/video/7667756942806306061",
+    "date": "9 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1785321285850-3",
+    "slug": "descendants-2026-fullmovie-online-4khd-free",
+    "title": "\"Descendants\" [2026] FullMovie Online 4KHD! Free ...",
+    "summary": "“Descendants” (2026) — a large-scale mythological action film “Descendants” (2026) is a myth-driven action drama set. Streaming platforms (Netflix, Amazon ...",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "tahoe.ca.gov",
+    "sourceUrl": "https://tahoe.ca.gov/wp-content%2Fuploads%2Fsites%2F257%2Fwpforms%2Ftmp%2Fd49807648ec40f24e8518bda318de9a1.pdf",
+    "date": "3 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1785321287447-4",
+    "slug": "south-korean-entertainment-news",
+    "title": "South Korean Entertainment News",
+    "summary": "K-pop, Korean dramas, movies and celebrity news. Celebrity couple Namkoong Min, Jin A-reum welcome first child 2026.7.27 team up for K-pop-themed animation ...",
+    "category": "trending",
+    "author": "Hana Cho",
+    "source": "koreajoongangdaily.com",
+    "sourceUrl": "https://www.koreajoongangdaily.com/entertainment",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1785321290287-5",
+    "slug": "while-waving-to-fans-ahofs-juwon-squatted-down-to-get-a",
+    "title": "while waving to fans, AHOF's Juwon squatted down to get a ...",
+    "summary": "AHOF's Juwon sitting on the stage edge, sending flying kisses to fans, and accidentally hitting the security guard's head! The absolute cuteness and chaos ✨",
+    "category": "trending",
+    "author": "Mia Kwon",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DbSngFlTyW_/",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1785321290620-6",
+    "slug": "hyein-newjeans-profile-and-fan-searches-newjeans-4th",
+    "title": "Hyein NewJeans profile and fan searches | NewJeans 4th ...",
+    "summary": "Lead This summary brings together the most-searched fan queries and profile interest around Hyein and NewJeans at their 4th anniversary.",
+    "category": "trending",
+    "author": "Rina Baek",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@newjeans_official/video/7665579407569898768",
+    "date": "6 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1785234615656-1",
     "slug": "2026-new-netflix-series-with-traditional-korean-romance",
     "title": "2026 New Netflix Series with Traditional Korean Romance",
@@ -6121,7 +6223,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-07-28T10:30:26.241Z";
+export const LAST_UPDATED = "2026-07-29T10:34:50.969Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES

@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-07-28T10:30:26.658Z
+ * Last updated: 2026-07-29T10:34:50.971Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -10777,5 +10777,163 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       "The Husband Korean drama is set to premiere on Disney+ on July 4th",
       "He Love in Sync is another Disney+ release, also on July 4th"
     ]
+  },
+  "live-1785321281871-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "You Won't Believe Who's Sharing Their Side of the Story"
+      },
+      {
+        "type": "p",
+        "text": "YouTuber Saffron Barker's just spilled the tea on her recent split, and honestly, it's about time we heard from her. But what's really surprising here is that she's speaking out at all - we didn't see this one coming."
+      },
+      {
+        "type": "h2",
+        "text": "The Drama Unfolds"
+      },
+      {
+        "type": "p",
+        "text": "Saffron's been pretty quiet about the whole thing until now, so it's interesting to see her break her silence. We're talking about a YouTuber who's built a career on sharing her life with fans, and yet, she's kept this major breakup under wraps - until now, that is. But was the decision to speak out now a strategic move, or did she just need to get things off her chest?"
+      },
+      {
+        "type": "h2",
+        "text": "Getting Real"
+      },
+      {
+        "type": "p",
+        "text": "We can't help but wonder what prompted Saffron to finally share her side of the story. Is she trying to clear the air, or is there more to it? One thing's for sure - fans are eager to hear what she has to say, and they're likely to be talking about this for a while. But was this really the right time for her to speak out, or should she have kept a lower profile?"
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "It's not every day we see a public figure open up about their personal life like this, so it's definitely a bold move from Saffron. We're curious to see how fans will react to her sharing her story, and whether it'll change the way they see her. [originally reported by tiktok.com](https://www.tiktok.com/@imogencribb/video/7666534361679875350)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1785321283742-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Kdrama Frenzy: What's Next"
+      },
+      {
+        "type": "p",
+        "text": "We're barely halfway through 2026, and it's already been a stellar year for Kdramas - honestly, this is a big deal. But was the first half just a warm-up? It seems like the best is yet to come, with a slew of standout Korean dramas lined up for release or already making waves."
+      },
+      {
+        "type": "h2",
+        "text": "Standout Dramas to Watch"
+      },
+      {
+        "type": "p",
+        "text": "The year so far has seen some amazing Kdramas, and fans aren't wrong to be upset if they've missed out. But don't worry, there's a guide to help you catch up - it lists the prominent Korean dramas of 2026, all grouped by title and including where to stream each one. That's right, you can finally get your Kdrama fix without endless searching. But what's really got us excited is the variety on offer - from rom-coms to thrillers, there's something for every kind of fan."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "So, which Kdramas are you most excited for in the second half of 2026? With so many great shows to choose from, it's hard to pick just a few. But with this guide, you'll be all set to plan your viewing schedule and make the most of the rest of the year. Whether you're a longtime fan or just discovering the world of Kdramas, there's never been a better time to get on board."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by kdramaconfidential](https://www.tiktok.com/@kdramaconfidential/video/7667756942806306061)"
+      }
+    ],
+    "takeaways": [
+      "2026 has been a great year for Kdramas so far",
+      "A guide is available to help you catch up on the best dramas of the year",
+      "The guide includes a list of standout Korean dramas, grouped by title",
+      "You can find out where to stream each drama with the guide"
+    ]
+  },
+  "live-1785321285850-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "That's A Wrap"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "\"Descendants\" is a large-scale mythological action film, and we're already hyped",
+          "It's a myth-driven action drama, which sounds like a wild ride",
+          "The film is set to stream on platforms like Netflix and Amazon",
+          "We don't have a release date yet, but it's coming in 2026"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Action Packed"
+      },
+      {
+        "type": "p",
+        "text": "The fact that \"Descendants\" is a large-scale mythological action film is what's got us hooked - it's not every day you see a K-drama that's this ambitious. But what does \"large-scale\" even mean in this context? Are we talking epic battles, dramatic plot twists, or something entirely different? The summary doesn't give us much to go on, but honestly, that's what makes it so intriguing."
+      },
+      {
+        "type": "h2",
+        "text": "Streaming Soon"
+      },
+      {
+        "type": "p",
+        "text": "So, \"Descendants\" is heading to streaming platforms like Netflix and Amazon - that's huge. It means fans all over the world will be able to tune in and experience this myth-driven action drama for themselves. But was the decision to go straight to streaming a strategic one, or is this just the way the industry is headed now? We're not sure, but we're excited to find out."
+      },
+      {
+        "type": "h2",
+        "text": "The Wait Begins"
+      },
+      {
+        "type": "p",
+        "text": "We're still waiting on a lot of details about \"Descendants\", including a release date. But since it's slated for 2026, we've got some time to speculate about what this film could be. That's what makes it so fun, right? The anticipation, the guesswork - it's all part of the experience. So, what do you think \"Descendants\" will be about? Let's discuss. [originally reported by tahoe.ca.gov](https://tahoe.ca.gov/wp-content%2Fuploads%2Fsites%2F257%2Fwpforms%2Ftmp%2Fd49807648ec40f24e8518bda318de9a1.pdf)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1785321287447-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "BTS Takes a Stand"
+      },
+      {
+        "type": "p",
+        "text": "BTS is making waves in the music industry, and honestly, this is a big deal - they're refusing to submit their music for Grammys consideration this year. What's behind this bold move? It all comes down to the new categories introduced by the Grammys. In a series of social media posts, the group expressed their concerns, arguing that their songs should be judged on their own merit, regardless of region or language."
+      },
+      {
+        "type": "h2",
+        "text": "Breaking Down the Decision"
+      },
+      {
+        "type": "p",
+        "text": "So, what does this mean for BTS and their fans? For starters, it's a clear statement about the group's values and principles. They're not willing to be boxed into a specific category just because of their Korean heritage or the language they sing in. It's a brave move, and one that's got fans and critics alike talking. But was the comeback too fast - or should we say, the pushback? BTS isn't afraid to speak their minds and stand up for what they believe in, and that's part of what makes them so beloved by their fans."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "This decision by BTS raises some interesting questions about the music industry and how it treats artists from different backgrounds. Shouldn't all music be judged on its own merits, without regard to where it comes from or what language it's sung in? It's a fair point, and one that's worth considering. By taking a stand, BTS is sparking an important conversation about diversity and inclusion in the music industry. And who knows, maybe this will be the start of something big - a shift towards a more inclusive and equitable music industry."
+      },
+      {
+        "type": "h2",
+        "text": "What Fans Are Saying"
+      },
+      {
+        "type": "p",
+        "text": "Fans are rallying around BTS, praising their courage and conviction. It's not always easy to take a stand, especially when it comes to something as big as the Grammys. But BTS isn't afraid to be different, and that's what makes them so inspiring. As one fan put it, \"BTS is all about breaking barriers and pushing boundaries - this is just another example of that.\" And let's be real, it's hard not to admire their confidence and determination. They're not just a K-pop group - they're a movement."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by koreajoongangdaily.com](https://www.koreajoongangdaily.com/entertainment)"
+      }
+    ],
+    "takeaways": []
   }
 };
