@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1785406852550-1",
+    "slug": "south-korean-actor-hwang-jung-min-faced-a-private-life",
+    "title": "South Korean actor Hwang Jung-min faced a private life ...",
+    "summary": "Hwang Jung-min faced a private life controversy on July 29, 2026, after a woman (\"Person A\") posted unverified text messages and audio recordings online ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/AllKoreanCelebrities/posts/south-korean-actor-hwang-jung-min-faced-a-private-life-controversy-on-july-29-20/1683499810442809/",
+    "date": "2026-07-30",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1785406854679-2",
+    "slug": "yonhap-news-agency",
+    "title": "Yonhap News Agency",
+    "summary": "Korea this week amid pileup of bilateral issues · Yonhap News Summary · (3rd LD) PPP at risk of losing 40 bln won after Yoon's election law conviction · Police ...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "m-en.yna.co.kr",
+    "sourceUrl": "https://m-en.yna.co.kr/",
+    "date": "3 hours ago",
+    "image": "https://r.yna.co.kr/global/home/v01/img/yonhapnews_logo_1200x800_en01.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1785406859353-3",
+    "slug": "moon-geunyoung-x-jung-pyung-musical-actor-2-secretly",
+    "title": "Moon Geunyoung x Jung Pyung (musical actor) 2. Secretly ...",
+    "summary": "Public Annually, Dispatch reveals Korean celebrities' relationship (dating scandal) with whom Jung shares a son born in March 2024. Korean news reports believe ...",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/61551933150668/posts/isnt-todays-entertainment-news-just-a-total-mix-uptheres-stuff-like1-secretly-ge/122321969612064438/",
+    "date": "2026-07-30",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1785406861541-4",
+    "slug": "one-word-to-describe-this-disappointing-esp-jung-hae-in",
+    "title": "one word to describe this, disappointing, esp Jung Hae in",
+    "summary": "Kim Soo Hyun was actually found to be not guilty of dating a minor, and the evidence had been fabricated by that blogger who kept posting things (for clicks/ ...",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/kdramas/comments/1v76kef/one_word_to_describe_this_disappointing_esp_jung/",
+    "date": "2026-07-30",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1785406863687-5",
+    "slug": "national",
+    "title": "National",
+    "summary": "actor Kim Soo-hyun Police have decided not to pursue an underage dating charge against actor Kim Soo-hyun over his past relationship with late actress Kim Sae- ...",
+    "category": "gossip",
+    "author": "Mia Kwon",
+    "source": "koreaherald.com",
+    "sourceUrl": "https://www.koreaherald.com/National",
+    "date": "9 hours ago",
+    "image": "https://static.heraldcorp.com/wbazic/kh/www/image/sns.png",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1785406867997-6",
+    "slug": "kwon-sang-woo",
+    "title": "Kwon Sang-woo",
+    "summary": "Kwon Sang-woo (Korean: 권상우; born August 5, 1976) is a South Korean actor, famous for the melodrama series Stairway to Heaven.",
+    "category": "gossip",
+    "author": "Rina Baek",
+    "source": "en.wikipedia.org",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Kwon_Sang-woo",
+    "date": "4 days ago",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Kwon_Sang-woo_in_2023.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1785321281871-1",
     "slug": "why-has-it-taken-me-6-years-to-realise-this-play-is-about-me",
     "title": "Why has it taken me 6 years to realise this play is about me",
@@ -6223,7 +6325,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-07-29T10:34:50.969Z";
+export const LAST_UPDATED = "2026-07-30T10:21:08.097Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES

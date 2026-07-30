@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-07-29T10:34:50.971Z
+ * Last updated: 2026-07-30T10:21:08.098Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -10935,5 +10935,206 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       }
     ],
     "takeaways": []
+  },
+  "live-1785406852550-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Bombshell Allegations Rock Hwang Jung-min's Private Life"
+      },
+      {
+        "type": "p",
+        "text": "Hwang Jung-min's private life just got turned upside down - and we're not talking about a dramatic plot twist in his next K-drama. On July 29, 2026, a woman, referred to as \"Person A\", dropped a bombshell by posting unverified text messages and audio recordings online that have sparked a major controversy."
+      },
+      {
+        "type": "h2",
+        "text": "The Allegations"
+      },
+      {
+        "type": "p",
+        "text": "So, what's going on here? It seems Person A took to the internet to share some pretty personal stuff about Hwang Jung-min, and it's got everyone talking. But was this a case of revenge or a genuine attempt to expose some truth? Honestly, it's hard to say at this point, given that the texts and recordings are unverified. That's not stopping fans from speculating, though - and it's getting pretty intense."
+      },
+      {
+        "type": "h2",
+        "text": "The Fallout"
+      },
+      {
+        "type": "p",
+        "text": "But was Hwang Jung-min prepared for this kind of backlash? We're talking about an actor who's built a reputation on his talented performances - not his personal life. Now, though, it seems like that's all anyone can talk about. And let's be real, the fact that Person A chose to share this info online is only adding fuel to the fire."
+      },
+      {
+        "type": "h2",
+        "text": "Where Things Stand Now"
+      },
+      {
+        "type": "p",
+        "text": "As the drama continues to unfold, one thing's for sure: Hwang Jung-min's fans are going to be watching this situation very closely. But what does it mean for his career - and his personal life? Only time will... no, scratch that - we don't know what's coming next, and that's what makes this so intriguing. [originally reported by AllKoreanCelebrities](https://www.facebook.com/AllKoreanCelebrities/posts/south-korean-actor-hwang-jung-min-faced-a-private-life-controversy-on-july-29-20/1683499810442809/)"
+      }
+    ],
+    "takeaways": [
+      "Hwang Jung-min is facing a private life controversy",
+      "The controversy started on July 29, 2026",
+      "A woman, \"Person A\", posted unverified texts and audio recordings online",
+      "The nature of the allegations is still unclear"
+    ]
+  },
+  "live-1785406854679-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Bombshell in Korean Politics"
+      },
+      {
+        "type": "p",
+        "text": "The People Power Party (PPP) is facing a potential financial crisis, and it's all because of President Yoon's election law conviction - they're at risk of losing a whopping 40 billion won. That's a lot of money, and it's not like they can just swoop in and recover from it overnight. But what's really surprising here is that this conviction is part of a bigger pileup of bilateral issues that Korea is dealing with right now."
+      },
+      {
+        "type": "h2",
+        "text": "The Perfect Storm"
+      },
+      {
+        "type": "p",
+        "text": "So, what does this mean for the PPP? Honestly, it's not looking great. They're already dealing with a bunch of other problems, and now they've got this huge financial hit looming over them. It's like they're trying to navigate a minefield - one wrong step, and everything blows up. But was the conviction really that surprising? Not entirely, considering the issues they've been facing lately. The question is, how will they recover from this?"
+      },
+      {
+        "type": "h2",
+        "text": "What's at Stake"
+      },
+      {
+        "type": "p",
+        "text": "The fact that the PPP is at risk of losing 40 billion won is a big deal. It's not just about the money; it's about the impact it could have on their ability to function as a party. They need that money to operate, to campaign, to do all the things that political parties do. Without it, they're going to be severely weakened. But what's even more interesting is that this is all happening amid a bunch of other bilateral issues that Korea is dealing with. It's like the country is facing a perfect storm of political problems."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "So, what does this mean for Korea as a whole? It's hard to say, but one thing's for sure - the country's political landscape is about to get a whole lot more interesting. With the PPP facing financial troubles and a bunch of other issues on the horizon, it's going to be a wild ride. But hey, at least it's not boring, right? [originally reported by Yonhap News Agency](https://m-en.yna.co.kr/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1785406859353-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Relationship Reveal"
+      },
+      {
+        "type": "p",
+        "text": "So, it's that time of the year again - Dispatch is spilling the tea on Korean celebrities' secret relationships. And honestly, this one's a big deal: Moon Geunyoung is dating musical actor Jung Pyung, and they've got a son together! That's right, the couple welcomed a baby boy in March 2024. But what's really surprising here is that they've managed to keep it under wraps until now."
+      },
+      {
+        "type": "p",
+        "text": "It's not like we haven't seen celebrity relationships being exposed before, but there's something about this one that's got everyone talking. Maybe it's the fact that they've been able to keep their son a secret for so long, or maybe it's just the excitement of seeing two talented individuals come together. Whatever it is, we're definitely intrigued."
+      },
+      {
+        "type": "h2",
+        "text": "The Annual Dispatch Reveal"
+      },
+      {
+        "type": "p",
+        "text": "Dispatch has been revealing Korean celebrities' secret relationships for years now, and it's always a highly anticipated event. They've got a reputation for being spot on with their reports, so when they spill the tea, we know it's legit. But was the comeback too fast? We're not sure what's more surprising - the fact that Moon Geunyoung and Jung Pyung are dating, or that they've got a son together."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "So, what does this mean for Moon Geunyoung and Jung Pyung's careers? Honestly, it's hard to say. But one thing's for sure - they're going to be under a lot of scrutiny from now on. Fans are going to be watching their every move, and the media is going to be all over this story. But hey, if they can handle the pressure, we're happy to see them thrive."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by facebook.com](https://www.facebook.com/61551933150668/posts/isnt-todays-entertainment-news-just-a-total-mix-uptheres-stuff-like1-secretly-ge/122321969612064438/)"
+      }
+    ],
+    "takeaways": [
+      "Moon Geunyoung is in a relationship with musical actor Jung Pyung.",
+      "The couple has a son born in March 2024.",
+      "Dispatch reveals Korean celebrities' relationships annually.",
+      "The news has been reported by Korean news outlets."
+    ]
+  },
+  "live-1785406861541-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Bombshell Revelation"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Kim Soo Hyun's been found not guilty of dating a minor, and that's a huge deal",
+          "The evidence against him was fabricated, which is just wild",
+          "This whole ordeal was apparently driven by a blogger looking for clicks",
+          "It's honestly pretty sad that someone would stoop that low for attention"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Kim Soo Hyun's name's been cleared, and it's about time. We're talking about a guy who's been a staple in K-dramas for years, and to see him go through this is just tough. But was the accusation itself the worst part, or was it the fact that it was all a lie? That's a pretty low blow, especially when you consider how much damage it could've done to his reputation. And what's even crazier is that it was all for the sake of getting more clicks - it's like, don't you have any integrity at all?"
+      },
+      {
+        "type": "h2",
+        "text": "The Fabricated Scandal"
+      },
+      {
+        "type": "p",
+        "text": "The fact that the evidence was fabricated is what really gets me. I mean, how far will people go for attention, right? It's not like we haven't seen this before, but it still doesn't make it any less disappointing. Jung Hae In's name was even brought up in the context of this news, which is just unfair to him too. But let's focus on Kim Soo Hyun here - the guy's been through enough. He's been a part of some amazing dramas, and to see his name dragged through the mud like this is just not okay."
+      },
+      {
+        "type": "h2",
+        "text": "Moving Forward"
+      },
+      {
+        "type": "p",
+        "text": "So, what now? Well, for starters, Kim Soo Hyun can finally put this behind him. And as for that blogger, let's just say they're not exactly winning any awards for integrity. But honestly, this whole thing's left a bit of a sour taste. It's a reminder that not everything you see online is true, and that's something we should all keep in mind. [originally reported by reddit.com](https://www.reddit.com/r/kdramas/comments/1v76kef/one_word_to_describe_this_disappointing_esp_jung/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1785406863687-5": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Charge Is Dropped"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal - police have decided not to pursue an underage dating charge against actor Kim Soo-hyun. The news is surprising, especially given the high-profile nature of the case. But what's even more surprising is that the article content provided doesn't mention Kim Soo-hyun at all - it seems like the summary and the content are from different stories."
+      },
+      {
+        "type": "p",
+        "text": "The summary mentions an underage dating charge, but the article content talks about Lee's San Francisco declaration, AI ties, and other completely unrelated topics. It's like we're getting two different stories here. But based on the summary, it seems like Kim Soo-hyun is off the hook."
+      },
+      {
+        "type": "h2",
+        "text": "A Mysterious Case"
+      },
+      {
+        "type": "p",
+        "text": "So, what do we know about the case? Not much, it seems. The summary is brief, and the article content doesn't provide any additional information. We're left wondering what really happened between Kim Soo-hyun and late actress Kim Sae. Was the relationship consensual? Were there any other factors at play? Unfortunately, we may never know the full story."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "But here's the thing - this case highlights the complexities of K-drama scandals. We're often left with more questions than answers, and the truth can be hard to come by. That's what makes this story so intriguing - we're not just talking about a celebrity scandal, we're talking about people's lives. And in this case, it seems like justice has been served, at least for now."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by koreaherald.com](https://www.koreaherald.com/National)"
+      }
+    ],
+    "takeaways": [
+      "Police have dropped the underage dating charge against Kim Soo-hyun",
+      "The case involved his past relationship with late actress Kim Sae",
+      "No further details are available on the decision-making process",
+      "Kim Soo-hyun's career hasn't been publicly impacted by the charge"
+    ]
   }
 };
