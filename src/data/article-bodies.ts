@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-07-30T10:21:08.098Z
+ * Last updated: 2026-07-31T10:34:28.087Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -11136,5 +11136,167 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       "No further details are available on the decision-making process",
       "Kim Soo-hyun's career hasn't been publicly impacted by the charge"
     ]
+  },
+  "live-1785494058120-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The One: Nadine Lustre's Choice Revealed"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Nadine Lustre has been making headlines with her personal life, and now we know who she considers 'the one'.",
+          "The Filipino celebrity is known for her outspoken personality and unapologetic attitude.",
+          "Andi Eigenmann is also mentioned alongside Nadine in the latest entertainment news.",
+          "Food and celebrity culture seem to be intertwined in this story, but details are scarce."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Celebrity Culture Insights"
+      },
+      {
+        "type": "p",
+        "text": "Nadine Lustre's love life isn't the only thing that's been getting attention - her thoughts on food and celebrity culture are also making waves. With Andi Eigenmann's name popping up, it's clear that this story involves more than just one celebrity. But what's really going on? That's what we're all trying to figure out."
+      },
+      {
+        "type": "h2",
+        "text": "The Latest Scoop"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal - Nadine Lustre's personal life is always under scrutiny, and now we have a glimpse into what she considers important in a relationship. But was Chris always the one, or is this a recent development? We're not getting all the details, but it's clear that Nadine's fans are invested in her happiness."
+      },
+      {
+        "type": "h2",
+        "text": "Celebrity News Updates"
+      },
+      {
+        "type": "p",
+        "text": "We're not getting much information about what's next for Nadine, but it's safe to say that her fans will be keeping a close eye on her. With the latest entertainment news coming from sources like TikTok, it's easier than ever to stay up-to-date on our favorite celebrities. But what does this mean for Nadine's future - will she be sharing more about her personal life, or keeping things under wraps? [originally reported by iamkarendavila](https://www.tiktok.com/@iamkarendavila/video/7666918134527380754)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1785494060685-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Kylie Jenner's Love Life Heats Up Amidst Cheating Rumors"
+      },
+      {
+        "type": "p",
+        "text": "Kylie Jenner's on-again, off-again relationship with Travis Scott is making headlines - and honestly, it's a big deal. The two have been through breakups and makeups, but this time, cheating rumors are swirling around them."
+      },
+      {
+        "type": "h2",
+        "text": "The tea on Kylie and Travis"
+      },
+      {
+        "type": "p",
+        "text": "It's not like we haven't seen this before - celebrities dealing with cheating scandals, that is. But what's interesting here is that Kylie's been pretty quiet about the whole thing. We're talking barely any statements, no dramatic Instagram posts... it's all very hush-hush. But was the breakup too fast? That's what's got everyone talking."
+      },
+      {
+        "type": "h2",
+        "text": "What's Next for Kylie?"
+      },
+      {
+        "type": "p",
+        "text": "We're all waiting to see how this plays out - will Kylie and Travis get back together, or is it really over for good? One thing's for sure: with cheating rumors in the mix, things just got a whole lot more complicated. [originally reported by @onlykyliepadilla](https://www.tiktok.com/@onlykyliepadilla/video/7667433992924318983)"
+      }
+    ],
+    "takeaways": [
+      "Kylie Jenner and Travis Scott are reportedly broken up... again",
+      "Cheating rumors are surrounding the split",
+      "The two have had a pretty tumultuous relationship history",
+      "There aren't many details out yet, but fans are eagerly speculating"
+    ]
+  },
+  "live-1785494062515-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "August K-Drama Lineup Is Giving Us Life"
+      },
+      {
+        "type": "p",
+        "text": "Get ready, K-drama fans - August is packed with exciting new releases that are sure to keep you glued to your screens. My Bias, My Boss is already generating buzz, and it's easy to see why: who wouldn't want to watch Kim Hye Jun play a devoted fan who lands a job at her bias's company, only to become his favorite employee? The fact that it's an office rom-com just adds to the fun. And with Cha Woo Min also starring, we're expecting some serious laughs."
+      },
+      {
+        "type": "p",
+        "text": "But that's not all - Flex x Cop Season 2 is back, and it's promising to be just as action-packed as the first season. Ahn Bo Hyun returns as the wealthy detective Jin Yi Soo, this time partnered with a demanding veteran detective played by Jung Eun Chae. With Yoo Seung Ho joining the cast, we're expecting some serious drama to go down. And let's not forget Our Sticky Love, which stars Jung Hae In as a boxing coach who tells his first love they're in a relationship - even though it's a lie. It's a classic rom-com trope, but with Jung Hae In at the helm, we're willing to bet it'll be a wild ride."
+      },
+      {
+        "type": "h2",
+        "text": "The Thrills Keep Coming"
+      },
+      {
+        "type": "p",
+        "text": "Mousetrap, Netflix's most anticipated thriller of the month, premieres on August 18 and promises to be a real nail-biter. Ryu Jun Yeol plays a reclusive writer who wakes up to find his entire identity stolen by a mysterious man known as \"The Rat.\" To get his life back, he's forced into an unlikely alliance with a ruthless loan shark played by Sul Kyung Gu. Based on a popular webtoon, this cat-and-mouse crime show is sure to keep us on the edge of our seats. And finally, there's the musical romance starring Song Kang and Lee Jun Young, which promises to be a slow-burn friendship-to-something-more story that'll have us watching with headphones in."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "So what does this mean for K-drama fans? It means we've got a month of non-stop entertainment ahead of us, with something for everyone. Whether you're in the mood for romance, action, or thrills, August's got you covered. And with so many talented actors and actresses starring in these new releases, we're expecting some seriously impressive performances. But was the comeback too fast? Can these new releases live up to the hype? Honestly, this is a big deal - and we can't wait to find out. [originally reported by koreaboo.com](https://www.koreaboo.com/news/new-kdrama-releases-watch-in-august-2026-netflix-disney/)"
+      }
+    ],
+    "takeaways": [
+      "My Bias, My Boss premieres on August 3, starring Kim Hye Jun and Kang Hoon in a tvN office rom-com.",
+      "Flex x Cop Season 2 drops on August 7, with Ahn Bo Hyun and Jung Eun Chae teaming up to take down bigger villains.",
+      "Our Sticky Love, a Netflix romantic comedy, stars Jung Hae In as a boxing coach who lies about being in a relationship to protect his first love.",
+      "Mousetrap, Netflix's most anticipated thriller, premieres on August 18, featuring Ryu Jun Yeol and Sul Kyung Gu in a cat-and-mouse game.",
+      "A new musical romance starring Song Kang and Lee Jun Young rounds out the month on August 29."
+    ]
+  },
+  "live-1785494066221-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "K-Drama Fans, Rejoice!"
+      },
+      {
+        "type": "p",
+        "text": "We're getting a whopping six new K-dramas on Netflix in August 2026, and honestly, this is a big deal. The lineup includes some seriously intriguing titles: The Wonderfools, Bloodhounds S2, Show Business, East Palace, Boyfriend On Demand, and The Art Of Sarah."
+      },
+      {
+        "type": "h2",
+        "text": "What's Caught Our Eye"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "The Wonderfools is one of the most mysterious ones on the list - what's it about?",
+          "Bloodhounds is back for season 2, which is great news for fans of the first season",
+          "Show Business and East Palace sound like they could be right up our alley, with potentially juicy storylines",
+          "Boyfriend On Demand has a title that speaks for itself - is this a rom-com we can get behind?",
+          "The Art Of Sarah rounds out the list, and we're curious to see what kind of art-inspired drama this will be"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "The Netflix Takeover"
+      },
+      {
+        "type": "p",
+        "text": "It's clear that Netflix is going all-in on K-dramas, and we're not complaining. With such a diverse range of titles, there's something for every kind of fan. But was the decision to release all these dramas at once a strategic move, or are they just trying to capitalize on the K-drama craze? Either way, we're here for it."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "This influx of new K-dramas says a lot about the current state of the K-entertainment industry. It's booming, and platforms like Netflix are taking notice. We're seeing more and more international collaborations, and it's exciting to think about what the future holds. But for now, let's just enjoy the fact that we've got a whole slew of new dramas to look forward to."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by Koreaboo Rewind](https://www.facebook.com/koreaboorewind/posts/new-k-drama-releases-to-watch-in-august-2026-on-netflix-disney-and-more/1088930010461419/)"
+      }
+    ],
+    "takeaways": []
   }
 };

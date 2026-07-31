@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1785494058120-1",
+    "slug": "bakit-si-chris-ang-the-one-para-kay-nadine-nadinelustre",
+    "title": "Bakit si Chris ang 'the one' para kay Nadine? #nadinelustre ...",
+    "summary": "Bakit si Chris ang 'the one' para kay Nadine? Filipino celebrity news, Andi Eigenmann and Nadine Lustre, food and celebrity culture, latest entertainment news",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@iamkarendavila/video/7666918134527380754",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1785494060685-2",
+    "slug": "bakit-pati-ako-kinikilig-lol-thank-you-oppa-ethan-ethan",
+    "title": "Bakit pati ako kinikilig lol thank you oppa @🔆Ethan🔆 🌸 | ethan",
+    "summary": "Kylie Jenner cheating rumors, entertainment gossip news, Hollywood scandals explained, Kylie Jenner and Travis Scott breakup,",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@onlykyliepadilla/video/7667433992924318983",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1785494062515-3",
+    "slug": "new-k-drama-releases-to-watch-in-august-2026-on",
+    "title": "New K-Drama Releases To Watch In August 2026 On ...",
+    "summary": "New K-Drama Releases To Watch In August 2026 On Netflix, Disney+, And More · 1. My Bias, My Boss · 2. Flex x Cop Season 2 · 3. Our Sticky Love · 4. Mousetrap · 5.",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "koreaboo.com",
+    "sourceUrl": "https://www.koreaboo.com/news/new-kdrama-releases-watch-in-august-2026-netflix-disney/",
+    "date": "22 hours ago",
+    "image": "https://image.koreaboo.com/2026/07/augustkdrams-FI-1.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1785494066221-4",
+    "slug": "new-k-drama-releases-to-watch-in-august-2026-on",
+    "title": "New K-Drama Releases To Watch In August 2026 On ...",
+    "summary": "Upcoming K-Dramas Premiering on Netflix in 2026: 1. The Wonderfools 2. Bloodhounds S2 3. Show Business 4. East Palace 5. Boyfriend On Demand 6. The Art Of Sarah ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/koreaboorewind/posts/new-k-drama-releases-to-watch-in-august-2026-on-netflix-disney-and-more/1088930010461419/",
+    "date": "2026-07-31",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1785494067828-5",
+    "slug": "kang-ji-young-is-at-the-center-of-exciting-disney-buzz",
+    "title": "Kang Ji-young is at the center of exciting Disney+ buzz ...",
+    "summary": "A robust line up of Korean titles for Disney+ slated for 2026 'Made in Korea' 'Perfect Crown' 'Are you Sure?' Season 2 'Gold Land' 'A Shop for Killers Season 2 ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/awesomeitv/posts/kang-ji-young-is-at-the-center-of-exciting-disney-buzz-once-again-the-streaming-/1527119819455641/",
+    "date": "18 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1785494067954-6",
+    "slug": "viki-and-the-lack-of-new-kdramas",
+    "title": "Viki and the lack of new Kdramas",
+    "summary": "These are just the 2026 releases that I've been watching on Viki this year: Dream to You Filing for Love Phantom Lawyer Positively Yours The Legend of Kitchen ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/kdramas/comments/1vauxu5/viki_and_the_lack_of_new_kdramas/",
+    "date": "20 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1785406852550-1",
     "slug": "south-korean-actor-hwang-jung-min-faced-a-private-life",
     "title": "South Korean actor Hwang Jung-min faced a private life ...",
@@ -6325,7 +6427,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-07-30T10:21:08.097Z";
+export const LAST_UPDATED = "2026-07-31T10:34:28.086Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
