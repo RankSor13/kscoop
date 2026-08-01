@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-07-31T10:34:28.087Z
+ * Last updated: 2026-08-01T09:54:12.004Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -11295,6 +11295,214 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       {
         "type": "p",
         "text": "[originally reported by Koreaboo Rewind](https://www.facebook.com/koreaboorewind/posts/new-k-drama-releases-to-watch-in-august-2026-on-netflix-disney-and-more/1088930010461419/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1785578037900-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Casting News That's Got Us Talking"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Nana's latest drama casting is making waves",
+          "Lee Jong-suk's upcoming projects are highly anticipated",
+          "K-movie and K-drama actors are keeping fans on their toes",
+          "The latest news about K-drama actors and actresses is always exciting"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "The Latest Scoop"
+      },
+      {
+        "type": "p",
+        "text": "Drama casting news is always exciting, but when it involves stars like Nana and Lee Jong-suk, it's a whole different level. We're talking about two of the most beloved K-drama actors out there, and their fans are eagerly waiting to see what they're working on next. But what's really got us intrigued is the lack of details - we know they're cast in new dramas, but that's about it."
+      },
+      {
+        "type": "h2",
+        "text": "What We Know So Far"
+      },
+      {
+        "type": "p",
+        "text": "So, what do we know about these new projects? Honestly, not much. The summary's pretty vague, but that's not stopping us from speculating. Are Nana and Lee Jong-suk going to star together in a drama? Is this going to be a romantic comedy or a intense thriller? We're not sure, but we're definitely waiting to find out. One thing's for sure, though - with these two on board, it's going to be a wild ride."
+      },
+      {
+        "type": "h2",
+        "text": "Staying In The Loop"
+      },
+      {
+        "type": "p",
+        "text": "For now, we're just going to have to wait and see what happens next. But don't worry, we'll be keeping a close eye on all the latest K-drama news and updates. Whether it's about Nana, Lee Jong-suk, or any other K-movie and K-drama actors, we've got you covered. So, stay tuned for more updates, and let's see what the world of K-dramas has in store for us."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "It's not just about Nana and Lee Jong-suk, though - it's about the entire K-drama industry. With new dramas and movies coming out all the time, there's always something to look forward to. And let's be real, who doesn't love a good K-drama? They're the perfect way to escape reality and get lost in a world of romance, drama, and excitement. So, whether you're a die-hard fan or just a casual viewer, there's something for everyone in the world of K-dramas."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by scmp.com](https://www.scmp.com/topics/south-korean-celebrities)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1785578040601-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Dark Side of K-Drama"
+      },
+      {
+        "type": "p",
+        "text": "It's no secret that Korean celebrities live in a fishbowl, with every move they make under intense scrutiny. But what happens when that scrutiny turns into a full-blown scandal? We're talking career-ending, reputation-destroying falls from grace that can happen literally overnight. And honestly, it's fascinating - in a devastating kind of way."
+      },
+      {
+        "type": "p",
+        "text": "The latest example? School violence allegations that just won't quit. These aren't your run-of-the-mill scandals, either - we're talking accusations that can destroy a career in the blink of an eye. But was it always this way? Or is this a newer phenomenon in the K-drama world? It's hard to say, but one thing's for sure: once these allegations surface, it's tough for a celebrity to recover."
+      },
+      {
+        "type": "h2",
+        "text": "The Fallout"
+      },
+      {
+        "type": "p",
+        "text": "So, what exactly happens when a Korean celebrity is hit with school violence allegations? Well, for starters, their career is basically put on ice. Sponsors drop them, dramas cancel their contracts, and suddenly they're persona non grata in the industry. It's a tough pill to swallow, especially when you consider how quickly it can all happen. But is it fair? Should one allegation be enough to destroy someone's career? That's a tough question, and one that fans are still debating."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "But here's the thing: these scandals aren't just limited to school violence allegations. There are plenty of other ways a Korean celebrity can fall from grace - and it's not always fair. Sometimes, it's just a matter of being in the wrong place at the wrong time. Other times, it's a genuine mistake that's blown way out of proportion. So, what's the solution? How can we balance the need for accountability with the risk of unfairly destroying someone's career? It's a tricky question, and one that doesn't have an easy answer."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by youtube.com](https://www.youtube.com/watch?v=uCCNDCpBshI)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1785578043088-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Year of Scandals"
+      },
+      {
+        "type": "p",
+        "text": "2025 was supposed to be a year of recovery and celebration in Korean entertainment, but it turned out to be a cycle of controversy, investigations, and shock revelations. From legal battles and social scandals to emotional health scares and sudden career collapses, the industry's biggest names repeatedly made headlines - often for the wrong reasons. What's striking is how one controversy sparked the next, with past scandals resurfacing and amplifying public fatigue and debate. It's like the industry couldn't catch a break - every time one issue seemed to be dying down, another one would pop up."
+      },
+      {
+        "type": "p",
+        "text": "The list of stars involved is long and impressive - or rather, unimpressive, given the circumstances. You've got actress Hwang Jung-eum, who was indicted without detention on charges of corporate fund embezzlement. Then there's former T-ara member Ahreum, who received a suspended prison sentence in a fraud case. Singer Psy is also under scrutiny for allegations of \"proxy prescription\" and off-site controlled substance delivery - a socially sensitive issue in Korea's current public health climate. And let's not forget broadcaster Lee Jin-ho, who faced further backlash after a drunk-driving incident, effectively ending his career presence in mainstream media."
+      },
+      {
+        "type": "h2",
+        "text": "The Ripple Effect"
+      },
+      {
+        "type": "p",
+        "text": "But here's the thing: these controversies didn't just affect the individual stars involved. They had a ripple effect on the entire industry, with online communities and social platforms buzzing nonstop as allegations led to police investigations, controversies triggered program exits, and past incidents resurfaced. It's like the whole industry was put under a microscope, with every move being scrutinized and criticized. And honestly, it's not hard to see why - when you've got stars like Kim Soo-hyun and aespa's Karina making headlines, people are going to take notice."
+      },
+      {
+        "type": "h2",
+        "text": "What's Next for K-Entertainment?"
+      },
+      {
+        "type": "p",
+        "text": "So what does this mean for the future of K-entertainment? Will the industry be able to bounce back from this wave of controversies, or will it continue to struggle with scandals and setbacks? One thing's for sure: 2025 will be a year to remember - or try to forget, depending on how you look at it. But was the comeback too fast? Can the industry really move on from all these scandals, or will they leave a lasting impact? [originally reported by koreatimes.co.kr](https://www.koreatimes.co.kr/entertainment/others/20251225/cycle-of-controversy-koreas-top-stars-faced-probes-exits-and-burnout-in-2025)"
+      }
+    ],
+    "takeaways": [
+      "Actress Hwang Jung-eum was indicted without detention on charges of corporate fund embezzlement",
+      "Former T-ara member Ahreum received a suspended prison sentence in a fraud case",
+      "Singer Psy is under scrutiny for allegations of \"proxy prescription\" and off-site controlled substance delivery",
+      "The year 2025 saw a wave of controversies, investigations, and shock revelations in the Korean entertainment industry"
+    ]
+  },
+  "live-1785578046864-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Queens of Hallyu Under Fire"
+      },
+      {
+        "type": "p",
+        "text": "Kim Saeron and Kim Soohyun, the names that come to mind when you think of K-dramas and Korean films, are at the center of a current controversy - and honestly, this is a big deal. These two actresses have literally helped popularize K-dramas and Korean films worldwide, riding the wave of the ongoing renewed Hallyu Wave."
+      },
+      {
+        "type": "p",
+        "text": "Their contributions to the K-entertainment scene can't be overstated. They're not just talented actresses, but they've also become synonymous with the global phenomenon that is K-drama. But was their rise to fame too fast, too soon? That's a question for another time. For now, it's clear that they're facing some heat, and we're not entirely sure what's going on - the mods on reddit are being tight-lipped about it, refusing to allow rumors to spread."
+      },
+      {
+        "type": "h2",
+        "text": "Getting to the Bottom of It"
+      },
+      {
+        "type": "p",
+        "text": "The fact that the mods are cracking down on rumors suggests that there's something juicy going on. They're not allowing any speculation or unsubstantiated claims to be shared on the platform, which is fair, but also kinda frustrating for fans who are dying to know what's going on. We're talking about two of the most beloved actresses in K-entertainment, after all - their fans want to know the truth."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "So, what does this controversy mean for Kim Saeron and Kim Soohyun's careers? That's the million-dollar question. Will this affect their upcoming projects, or will they bounce back from this without a hitch? Only time will... just kidding, we're not going to say that. Seriously though, we're waiting to see how this all plays out. [originally reported by reddit](https://www.reddit.com/r/kdramas/comments/1j8xq8j/what_does_the_current_controversy_with_those_two/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1785578048714-5": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Shocking Allegations Rock ENHYPEN Fandom"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "ENHYPEN fansite's alleged behavior is under fire due to claims of mistreating other members",
+          "The fansite was allegedly called out by NI-KI, a member of the group",
+          "The allegations include a hostess past and tantrums",
+          "ENHYPEN fans are speaking out against the fansite's behavior"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Fandom Fallout"
+      },
+      {
+        "type": "p",
+        "text": "It's not every day you see a K-pop fansite getting dragged online, but that's exactly what's happening with this ENHYPEN fansite. They're being accused of some pretty serious stuff, including mistreating other fans and having a hostess past - and it's all coming to light thanks to an alleged call-out by NI-KI. But was the fansite really in the wrong, or are they just being unfairly targeted? Honestly, this is a big deal, and fans are right to be upset if these allegations are true."
+      },
+      {
+        "type": "p",
+        "text": "The accusations against the fansite are pretty damning, and it's no wonder fans are speaking out. If a fansite is supposed to support and uplift the group, why are they allegedly causing drama and mistreating others? It's a good question, and one that ENHYPEN fans are definitely asking. But what's even more surprising is that NI-KI allegedly called out the fansite - that takes a lot of courage, and it's clear that the member is trying to stand up for what's right."
+      },
+      {
+        "type": "h2",
+        "text": "The Broader Implications"
+      },
+      {
+        "type": "p",
+        "text": "So what does this mean for the ENHYPEN fandom as a whole? Well, for starters, it's a reminder that even in the K-pop world, there are still plenty of issues that need to be addressed. Fansites can be a powerful force for good, but they can also be toxic and hurtful if they're not held accountable. And let's be real - if these allegations are true, it's a major problem that needs to be fixed ASAP. But was the comeback too fast? Should the fansite have been given more time to respond to the allegations before being dragged online?"
+      },
+      {
+        "type": "h2",
+        "text": "Where Things Stand Now"
+      },
+      {
+        "type": "p",
+        "text": "As the situation continues to unfold, one thing is clear: ENHYPEN fans won't stand for toxic behavior from their fansites. And honestly, that's a great thing - it's about time someone spoke out against this kind of nonsense. But what's next for the fansite, and for NI-KI? Will the group's management team get involved, or will this be handled internally? Only time will... no, scratch that - we don't have to wait and see. The fans are already making their voices heard, and that's what matters most. [originally reported by Koreaboo](https://www.koreaboo.com/)"
       }
     ],
     "takeaways": []

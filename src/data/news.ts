@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1785578037900-1",
+    "slug": "south-korean-celebrities-latest-news-and-updates",
+    "title": "South Korean celebrities: Latest News and Updates",
+    "summary": "Latest South Korean celebrity news, news about K-movie and K-drama actors and actresses. - 1: drama casting news about Nana, Lee Jong-suk and more",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "scmp.com",
+    "sourceUrl": "https://www.scmp.com/topics/south-korean-celebrities",
+    "date": "2026-08-01",
+    "image": "https://assets-v2.i-scmp.com/production/_next/static/media/default-image.d95a029f.png",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1785578040601-2",
+    "slug": "the-untold-truth-behind-these-korean-actors-falls-from-grace",
+    "title": "The Untold Truth Behind These Korean Actors' Falls from Grace",
+    "summary": "Step into the devastating world of Korean celebrity scandals that destroyed careers overnight. From school violence allegations that refuse to die, ...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=uCCNDCpBshI",
+    "date": "1 year ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1785578043088-3",
+    "slug": "cycle-of-controversy-koreas-top-stars-faced-probes-exits",
+    "title": "Cycle of controversy: Korea's top stars faced probes, exits ...",
+    "summary": "Actress Hwang Jung-eum was indicted without detention on charges of corporate fund embezzlement, sending shockwaves through the industry.",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "koreatimes.co.kr",
+    "sourceUrl": "https://www.koreatimes.co.kr/entertainment/others/20251225/cycle-of-controversy-koreas-top-stars-faced-probes-exits-and-burnout-in-2025",
+    "date": "Dec 25, 2025",
+    "image": "https://newsimg.koreatimes.co.kr/2025/12/25/a4d340a0-d6dc-47aa-8f3f-fb4b4c281205.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1785578046864-4",
+    "slug": "what-does-the-current-controversy-with-those-two-korean",
+    "title": "What does the current controversy with those two Korean ...",
+    "summary": "Kim Saeron and Kim Soohyun literally helped with popularizing Kdramas and Korean films throughout the ongoing renewed Hallyu Wave. The mods don't allow rumours ...",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/kdramas/comments/1j8xq8j/what_does_the_current_controversy_with_those_two/",
+    "date": "2026-08-01",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1785578048714-5",
+    "slug": "koreaboo-breaking-k-pop-news-photos-and-viral-videos",
+    "title": "Koreaboo - breaking k-pop news, photos and viral videos",
+    "summary": "Actress Jeon Won Joo's uninhibited expression of affection toward a 33-year-old trainer in a YouTube video has sparked an unexpected online debate. On the 30th, ...",
+    "category": "gossip",
+    "author": "Mia Kwon",
+    "source": "koreaboo.com",
+    "sourceUrl": "https://www.koreaboo.com/",
+    "date": "2026-08-01",
+    "image": "https://koreaboo-cdn.storage.googleapis.com/KoreabooFacebookBrand.png",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1785578051220-6",
+    "slug": "when-korean-actors-private-lives-suddenly-got-exposed",
+    "title": "When Korean Actors' Private Lives Suddenly Got Exposed",
+    "summary": "Naver's Jisik iN glitch that suddenly linked celebrities' anonymous posts to their real names, Kim Seon-ho's 2021 scandal that looked career-ending",
+    "category": "gossip",
+    "author": "Rina Baek",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=7kOEtf2VRqg",
+    "date": "3 months ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1785494058120-1",
     "slug": "bakit-si-chris-ang-the-one-para-kay-nadine-nadinelustre",
     "title": "Bakit si Chris ang 'the one' para kay Nadine? #nadinelustre ...",
@@ -6427,7 +6529,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-07-31T10:34:28.086Z";
+export const LAST_UPDATED = "2026-08-01T09:54:12.002Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
