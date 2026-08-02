@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1785664325650-1",
+    "slug": "how-6-korean-stars-bounced-back-from-scandal",
+    "title": "How 6 Korean stars bounced back from scandal",
+    "summary": "Kim Seon-ho was hit with a tabloid grenade: an anonymous ex-girlfriend accused him of coercing her into an abortion. The scandal exploded on Korean news cycles,",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "tatlerasia.com",
+    "sourceUrl": "https://www.tatlerasia.com/lifestyle/entertainment/korean-stars-comeback-scandal",
+    "date": "May 5, 2025",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1785664327609-2",
+    "slug": "actors-or-actresses-to-had-past-scandals-rkdramas",
+    "title": "Actors or Actresses to had past scandals : r/kdramas",
+    "summary": "Actresses with scandals in Korean cinema. Woody Allen got away with sickening crimes for decades because they were \"powerful talented men\". Korean actors are ...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/kdramas/comments/1nfyttk/actors_or_actresses_to_had_past_scandals/",
+    "date": "2026-08-02",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1785664329200-3",
+    "slug": "top-korean-actor-caught-in-affair-scandal-as-agency-blames",
+    "title": "Top Korean Actor Caught in Affair Scandal as Agency Blames ...",
+    "summary": "Top Korean actor Hwang Jung min faces major controversy after an accuser released leaked audio calls and social media posts alleging an affair.",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=zhojK4bJUyQ",
+    "date": "4 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1785664331781-4",
+    "slug": "scandal-plagued-south-korean-stars-step-back-into-spotlight",
+    "title": "Scandal-plagued South Korean stars step back into spotlight",
+    "summary": "A wave of once-disgraced South Korean celebrities are returning to the spotlight following high-profile blow-ups.",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "straitstimes.com",
+    "sourceUrl": "https://www.straitstimes.com/life/entertainment/scandal-plagued-south-korean-stars-step-back-into-spotlight",
+    "date": "Apr 6, 2025",
+    "image": "https://cassette.sphdigital.com.sg/image/straitstimes/a33b39e329215e3417924b0016e7e08af9eac23dd1965185b6372e0a815484c2",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1785664335659-5",
+    "slug": "every-new-k-drama-coming-to-netflix-prime-video-and",
+    "title": "Every New K-Drama Coming To Netflix, Prime Video, And ...",
+    "summary": "Every New K-Drama Coming To Netflix, Prime Video, And Disney+ In June 2026 ; Doctor on the Edge · Comedy · ENA ; Teach You A Lesson · Drama · Netflix ; See You at Work ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "screenrant.com",
+    "sourceUrl": "https://screenrant.com/every-k-drama-netflix-disney-prime-video-june-2026/",
+    "date": "May 25, 2026",
+    "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/05/june-2026-k-drama-doctor-on-the-edge-poster.png?w=1600&amp;h=900&amp;fit=crop",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1785664336381-6",
+    "slug": "10-upcoming-disney-korean-dramas-in-2026",
+    "title": "10 Upcoming Disney+ Korean Dramas in 2026",
+    "summary": "10 Upcoming Disney+ Korean Dramas in 2026 #MerryBerryLove #TheRemarriedEmpress #AShopforKillersSeason2 #MioImada #2026koreandrama # Am a Sinner 07:31 Flower of ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=Zq3CqKMmz6w",
+    "date": "7 months ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1785578037900-1",
     "slug": "south-korean-celebrities-latest-news-and-updates",
     "title": "South Korean celebrities: Latest News and Updates",
@@ -6529,7 +6631,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-08-01T09:54:12.002Z";
+export const LAST_UPDATED = "2026-08-02T09:52:18.885Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES

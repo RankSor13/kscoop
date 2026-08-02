@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-08-01T09:54:12.004Z
+ * Last updated: 2026-08-02T09:52:18.887Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -11506,5 +11506,194 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       }
     ],
     "takeaways": []
+  },
+  "live-1785664325650-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Bombshell Scandals Can't Keep Them Down"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Kim Seon-ho's career was put to the test after a shocking accusation",
+          "An anonymous ex-girlfriend made some serious claims against him",
+          "The scandal made headlines in Korean news cycles",
+          "It's not the only time a K-star has faced a major setback"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "The Fallout Was Immediate"
+      },
+      {
+        "type": "p",
+        "text": "Kim Seon-ho's world was turned upside down when an anonymous ex-girlfriend accused him of coercing her into an abortion - that's a tabloid grenade if we've ever seen one. The news exploded on Korean news cycles, and we're talking headline-after-headline, non-stop coverage. But what's really interesting here is how Kim Seon-ho, and other K-stars like him, have managed to bounce back from scandals that would've ended careers in other industries."
+      },
+      {
+        "type": "h2",
+        "text": "The Road to Redemption"
+      },
+      {
+        "type": "p",
+        "text": "So, how do K-stars like Kim Seon-ho recover from a scandal that's this intense? Honestly, it's a mystery to a lot of us, but one thing's for sure - it's not easy. The fact that these stars can navigate such treacherous waters and come out on top is a testament to their dedication, and the loyalty of their fans. But was the comeback too fast? Did Kim Seon-ho do enough to address the accusations and make amends?"
+      },
+      {
+        "type": "h2",
+        "text": "Moving Forward"
+      },
+      {
+        "type": "p",
+        "text": "We're not here to judge Kim Seon-ho or any other K-star who's faced a scandal - that's not our place. What we are here to do is acknowledge the fact that these stars are human, they make mistakes, and they can bounce back from even the toughest setbacks. And let's be real, it's not like we haven't seen this before - K-drama fans are a loyal bunch, and they'll stick by their favorite stars through thick and thin. [originally reported by tatlerasia.com](https://www.tatlerasia.com/lifestyle/entertainment/korean-stars-comeback-scandal)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1785664327609-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Dark Side of K-Drama"
+      },
+      {
+        "type": "p",
+        "text": "The K-drama world isn't all romance and fairy tales - some of its brightest stars have been marred by scandals. Honestly, it's shocking to think about how some powerful men in the entertainment industry, like Woody Allen, have gotten away with some pretty sickening crimes for decades just because they're \"talented\"."
+      },
+      {
+        "type": "h2",
+        "text": "Scandals in Korean Cinema"
+      },
+      {
+        "type": "p",
+        "text": "But what about Korean actors? We're not naming names just yet, but let's just say some actresses have had their fair share of scandals too. It's not like we expect our favorite stars to be perfect, but when they're involved in something shady, it's hard not to wonder how they'll bounce back. That's what's being discussed on the r/kdramas subreddit, where users are talking about actresses who've had past scandals. It's a pretty interesting conversation, with some users pointing out that it's not just the stars themselves who are to blame - sometimes it's the system that lets them get away with it."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "But was the comparison to Woody Allen really necessary? Maybe, because it highlights how different industries deal with scandals. In Hollywood, it seems like some stars can get away with just about anything, while in K-drama land, one mistake can tank a career. It's a tough world to navigate, but at the end of the day, fans just want to see their favorite stars do what they do best - act. [originally reported by reddit](https://www.reddit.com/r/kdramas/comments/1nfyttk/actors_or_actresses_to_had_past_scandals/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1785664329200-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Bombshell Scandal Rocks K-Drama World"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Hwang Jung min is facing a major backlash over allegations of an affair",
+          "Leaked audio calls and social media posts have surfaced, allegedly exposing the scandal",
+          "The actor's agency has responded, but it's unclear what their next move will be",
+          "Fans are stunned, wondering how this will impact Hwang Jung min's career"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Hwang Jung min, one of Korea's most beloved actors, is in hot water after an accuser dropped some serious bombshells. We're talking leaked audio calls and social media posts that allegedly reveal a deeply personal secret: an affair. That's right, folks, it looks like Hwang Jung min's private life isn't so private anymore. But was the accuser justified in going public, or did they cross a line?"
+      },
+      {
+        "type": "p",
+        "text": "The allegations are pretty shocking, especially given Hwang Jung min's squeaky-clean image. We're talking about an actor who's built a career on charming audiences with his roles in various K-dramas. But now, his agency is on the defensive, trying to figure out how to contain the fallout. It's a tough spot to be in, especially since the leaked audio calls and social media posts seem to tell a pretty convincing story. But what's really going on here? Is Hwang Jung min's team going to try to discredit the accuser, or will they own up to the allegations?"
+      },
+      {
+        "type": "h2",
+        "text": "The Fallout Begins"
+      },
+      {
+        "type": "p",
+        "text": "The K-drama community is already buzzing with reactions, and honestly, it's a big deal. Fans are stunned, wondering how this will impact Hwang Jung min's career. Will he be able to bounce back from this, or is his reputation irreparably damaged? Only time will... no, scratch that. We don't need to wait and see – the drama is already unfolding, and we're here for it."
+      },
+      {
+        "type": "h2",
+        "text": "Where Things Stand Now"
+      },
+      {
+        "type": "p",
+        "text": "For now, it's a waiting game. We're waiting to see how Hwang Jung min's team responds, and how the actor himself will address the allegations. One thing's for sure: this scandal has thrown a major wrench into the works, and we can't look away. [originally reported by youtube.com](https://www.youtube.com/watch?v=zhojK4bJUyQ)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1785664331781-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Scandals Can't Keep Them Down"
+      },
+      {
+        "type": "p",
+        "text": "Seo Yea-ji's return to TV is probably the most surprising comeback of the bunch - who would've thought she'd be back on our screens so soon? The actress faced some serious backlash in 2021, with allegations of mistreating staff, falsifying her academic credentials, and even pressuring her then-boyfriend to cut romantic scenes with a co-star. But it looks like she's ready to put all that drama behind her, and she's starting with a guest spot on Huh Young Man’s Food Travel. We're talking a culinary travel show, not a dramatic melo - it's a low-key comeback, but a comeback nonetheless."
+      },
+      {
+        "type": "p",
+        "text": "Seo Yea-ji's not the only one making a comeback, though. Yoo Ah-in, who was released from prison in February, is starring in The Match, a drama film about legendary baduk players. The movie was actually completed back in 2021, but its release was put on hold after Yoo's drug charges. Now, it's finally hitting theaters, and we're curious to see how audiences will react to Yoo's return to the screen. And then there's Kim Hieora, who's set to star in the occult thriller The Saviour - it's her first film project in two years, following those bullying allegations that hit her right after her breakout role in The Glory."
+      },
+      {
+        "type": "h2",
+        "text": "The Road to Redemption"
+      },
+      {
+        "type": "p",
+        "text": "But was the comeback too fast? Honestly, it's hard to say. On one hand, it's great to see these stars getting back to work and doing what they love. On the other hand, it's understandable that some fans might still be hurt or upset about the scandals that went down. Seo Yea-ji's allegations, in particular, were pretty serious - and it's not like she's addressed all of them publicly. Yoo Ah-in's drug charges are also a concern - has he really changed, or is this just a PR move? We're not sure, but we do know that the K-entertainment industry is all about second chances - and it looks like these stars are getting theirs."
+      },
+      {
+        "type": "h2",
+        "text": "What Fans Are Saying"
+      },
+      {
+        "type": "p",
+        "text": "Fans are divided, as always. Some are thrilled to see their favorite stars back on screen, while others are still hurt and angry about the scandals. But that's the thing about K-drama fans - we're passionate, and we're not afraid to speak our minds. So, what do you think? Are you ready to give these stars another chance, or are you still feeling skeptical? Let's discuss. [originally reported by straitstimes.com](https://www.straitstimes.com/life/entertainment/scandal-plagued-south-korean-stars-step-back-into-spotlight)"
+      }
+    ],
+    "takeaways": [
+      "Actress Seo Yea-ji has made her TV comeback after a 2-year hiatus, appearing on the culinary travel show Huh Young Man’s Food Travel.",
+      "Actor Yoo Ah-in is back on the scene after serving time for drug-related charges, starring in the drama film The Match.",
+      "Actress Kim Hieora is set to return to the big screen with occult thriller The Saviour, her first film project in two years.",
+      "Actress Park Han-byul has resumed her TV career after her husband's involvement in the Burning Sun scandal."
+    ]
+  },
+  "live-1785664336381-6": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Disney+ Is Bringing The Heat"
+      },
+      {
+        "type": "p",
+        "text": "Disney+ is really stepping up its K-drama game in 2026, with not one, not two, but 10 upcoming Korean dramas lined up. Honestly, this is a big deal - we're talking about a massive influx of new content that's sure to keep fans busy all year round. But what's really got us excited is the diversity of titles on offer. From romantic comedies like #MerryBerryLove to intense thrillers, there's something for everyone."
+      },
+      {
+        "type": "p",
+        "text": "The fact that #TheRemarriedEmpress is on the list is already generating a lot of buzz. This one's been on many fans' radar for a while now, and we can't wait to see how it turns out. And let's not forget #AShopforKillersSeason2 - who wouldn't want more of that intense, action-packed goodness? But was the decision to greenlight a second season a surprise, or was it always on the cards?"
+      },
+      {
+        "type": "h2",
+        "text": "What We Know So Far"
+      },
+      {
+        "type": "p",
+        "text": "Looking at the list, it's clear that Disney+ is committed to bringing a wide range of genres and styles to the table. We've got #MioImada and #AmASinner, which could potentially be darker, more intense dramas. And then there's #07:31Flower, which sounds like it could be a beautiful, emotional ride. But what do these titles really mean? Are they literal, or just clever marketing ploys?"
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "So, what does this mean for K-drama fans in general? Well, for starters, it's a great time to be alive - we're getting more content than ever before, and from a major platform like Disney+, no less. But it also raises questions about the state of the industry as a whole. Are we seeing a shift towards more international collaborations, or is this just a one-off push from Disney+? [originally reported by youtube.com](https://www.youtube.com/watch?v=Zq3CqKMmz6w)"
+      }
+    ],
+    "takeaways": [
+      "10 new Korean dramas are coming to Disney+ in 2026",
+      "#MerryBerryLove is one of the upcoming titles",
+      "#TheRemarriedEmpress is another highly anticipated drama",
+      "#AShopforKillersSeason2 is getting a second season"
+    ]
   }
 };
