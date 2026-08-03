@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1785755862696-1",
+    "slug": "americas-most-wanted-fugitive-was-teaching-english-at-a-top",
+    "title": "America's Most Wanted fugitive was teaching English at a top ...",
+    "summary": "High profile actresses have vanished for months over tax discrepancies, or after being vaguely linked in gossip columns to top party officials.",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DbgnI8HPI0A/",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1785755865455-2",
+    "slug": "kdramas-to-watch-in-august-2026-netflix-disney-hbo",
+    "title": "KDramas To Watch In August 2026: Netflix, Disney+, HBO ...",
+    "summary": "My Bias, My Boss — August 3, Flex X Cop Season 2 — August 7, SBS / Disney+. Four Hands, Two Sonatas — August 29, tvN / Netflix. Recruit 4: Sabotage. Recruit ...",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "forbes.com",
+    "sourceUrl": "https://www.forbes.com/sites/hannahabraham/2026/08/01/kdramas-to-watch-in-august-2026-netflix-disney-hbo-max-and-more/",
+    "date": "2 days ago",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a6d672607cbfc561398d2be/0x0.jpg?format=jpg&amp;crop=1200,900,x0,y177,safe&amp;height=900&amp;width=1600&amp;fit=bounds",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1785755868950-3",
+    "slug": "gong-yoo-and-song-hye-kyo-star-in-new-netflix-drama-set-to-release",
+    "title": "Gong Yoo and Song Hye Kyo star in new Netflix drama set to release ...",
+    "summary": "No preview available.",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/groups/335809618054215/posts/1362923338676166/",
+    "date": "2026-08-03",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1785755871410-4",
+    "slug": "kim-woo-bins-new-series-release-in-2026",
+    "title": "Kim Woo-bin's new series release in 2026",
+    "summary": "No preview available.",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/groups/3183080521946132/posts/4355159218071584/",
+    "date": "2026-08-03",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1785755873575-5",
+    "slug": "upcoming-august-2026-k-dramas-kdrama",
+    "title": "Upcoming August 2026 K-Drama's ❤️ #kdrama # ...",
+    "summary": "August 29, 2026 tvN + Netflix global To Journey To Gyeong-ju Set to release on August 26 New Recruit Season 4: set to premiere on August 24. ivylicious86's ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/kdramafeed/reel/DbieABGuvCc/",
+    "date": "2026-08-03",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1785755873830-6",
+    "slug": "disney-turns-k-drama-into-a-2026-wedge-as-netflix",
+    "title": "Disney Turns K-Drama Into a 2026 Wedge as Netflix ...",
+    "summary": "The clearest signal is Perfect Crown, which THR says became Disney+'s biggest K-drama debut after launching on April 10.",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "kentertechhub.com",
+    "sourceUrl": "https://www.kentertechhub.com/disney-turns-k-drama-into-a-2026-wedge-as-netflix-expands-scale/",
+    "date": "11 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1785664325650-1",
     "slug": "how-6-korean-stars-bounced-back-from-scandal",
     "title": "How 6 Korean stars bounced back from scandal",
@@ -6631,7 +6733,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-08-02T09:52:18.885Z";
+export const LAST_UPDATED = "2026-08-03T11:17:54.732Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES

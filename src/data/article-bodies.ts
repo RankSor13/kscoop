@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-08-02T09:52:18.887Z
+ * Last updated: 2026-08-03T11:17:54.734Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -11695,5 +11695,169 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       "#TheRemarriedEmpress is another highly anticipated drama",
       "#AShopforKillersSeason2 is getting a second season"
     ]
+  },
+  "live-1785755862696-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "You Won't Believe What's Happening to K-Drama Actresses"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "High profile actresses are vanishing for months at a time",
+          "The reason? Tax discrepancies, of all things",
+          "Being vaguely linked to top party officials in gossip columns can also get you \"disappeared\"",
+          "It's not just about the law - rumors and speculation can be just as deadly to a career"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Let's get straight to it: K-drama actresses are dropping off the map, and it's not because they're taking a break to focus on their craft. Honestly, this is a big deal - we're talking about women who are household names, and they're just... gone. What's behind these mysterious disappearances? It turns out, tax discrepancies are a major culprit. You'd think that'd be a pretty straightforward thing to resolve, but apparently not when you're a high-profile celebrity."
+      },
+      {
+        "type": "p",
+        "text": "But was the disappearances just about taxes? Not quite. Being vaguely linked to top party officials in gossip columns can also get you \"disappeared\". That's right - a rumor or a whisper can be enough to get you pulled from the public eye. It's not just about the law; it's about reputation, and the fear of being tainted by association. We're talking about a culture where reputation is everything, and one misstep can be devastating."
+      },
+      {
+        "type": "h2",
+        "text": "The Culture of Fear"
+      },
+      {
+        "type": "p",
+        "text": "It's a scary time to be a K-drama actress, that's for sure. You're not just worried about your next role or your next paycheck - you're worried about being pulled into a scandal, or worse, \"disappeared\" altogether. But what's really going on here? Is this just a case of celebrities being held to a higher standard, or is there something more sinister at play?"
+      },
+      {
+        "type": "h2",
+        "text": "What's Really At Stake"
+      },
+      {
+        "type": "p",
+        "text": "The fact that actresses are being \"disappeared\" over tax discrepancies or rumors is a huge deal. It's not just about the individual actresses - it's about the culture as a whole. What does it say about our society when a celebrity can just vanish, without anyone batting an eye? It's a question we should be asking ourselves, and one that we need to think about carefully. [originally reported by instagram.com](https://www.instagram.com/reel/DbgnI8HPI0A/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1785755865455-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "August K-Drama Lineup Is Looking Fire"
+      },
+      {
+        "type": "p",
+        "text": "Get ready, K-drama fans, because August is packed with exciting new shows. We're talking office rom-coms, action-packed second seasons, and Netflix originals that are totally opposite in tone. First up, \"My Bias, My Boss\" drops on August 3, and it's all about a fan girl who lands a job at her bias's fashion startup - only to catch the eye of the CEO instead. Starring Kim Hye-jun and Kang Hoon, this one's got all the makings of a classic workplace rom-com. And let's not forget ITZY's Yuna, who's got a key supporting role."
+      },
+      {
+        "type": "p",
+        "text": "But that's not all - \"Flex X Cop Season 2\" is back on August 7, with Ahn Bo-hyun reprising his role as the carefree chaebol heir turned detective. This season, he's got a new team leader who's a total tough nut, played by Jung Eun-chae. Expect plenty of clashes and high-stakes investigations, plus some awesome guest appearances - including Yoo Seung-ho. And if you're looking for something a little different, Netflix has got you covered with \"Our Sticky Love\" and \"Mousetrap\". The first stars Jung Hae-in as an ex-gang member who falls for an amnesiac prosecutor, while the second sees Ryu Jun-yeol as a novelist battling identity erasure."
+      },
+      {
+        "type": "h2",
+        "text": "What's Got Us Most Hyped"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, it's the diversity of this lineup that's got us most excited. From the lighthearted fun of \"My Bias, My Boss\" to the action-packed thrills of \"Flex X Cop Season 2\", there's something for every kind of K-drama fan. And with Netflix's originals thrown into the mix, we're talking a whole range of tones and genres. But was the decision to release so many big shows in one month a smart move? Will they all get the attention they deserve, or will some get lost in the shuffle? Only time will... no, scratch that - we're not going to play it safe. Let's just say we can't wait to dive in and see what each of these shows has to offer."
+      },
+      {
+        "type": "h2",
+        "text": "The Monthly Roundup"
+      },
+      {
+        "type": "p",
+        "text": "So, to recap, August's got \"My Bias, My Boss\" on August 3, \"Flex X Cop Season 2\" on August 7, Netflix's \"Our Sticky Love\" and \"Mousetrap\" sometime this month (no exact dates yet), and \"Four Hands, Two Sonatas\" on August 29. It's shaping up to be a wild ride, folks. Buckle up, and get ready to binge your way through the rest of the summer. [originally reported by Forbes](https://www.forbes.com/sites/hannahabraham/2026/08/01/kdramas-to-watch-in-august-2026-netflix-disney-hbo-max-and-more/)"
+      }
+    ],
+    "takeaways": [
+      "\"My Bias, My Boss\" kicks off the month on August 3, starring Kim Hye-jun as a passionate fan turned employee of her celebrity crush's fashion startup.",
+      "\"Flex X Cop Season 2\" returns on August 7, with Ahn Bo-hyun's character facing a new team leader who's a former counter-terrorism ace.",
+      "Netflix is delivering two originals: \"Our Sticky Love\" with Jung Hae-in as an ex-gang member, and \"Mousetrap\" starring Ryu Jun-yeol as a novelist.",
+      "The month wraps up with \"Four Hands, Two Sonatas,\" a musical youth romance about rival pianists, on August 29."
+    ]
+  },
+  "live-1785755868950-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "A Dream Team-Up"
+      },
+      {
+        "type": "p",
+        "text": "Gong Yoo and Song Hye Kyo, two of K-drama's biggest stars, are finally working together on a new drama - and it's heading straight to Netflix. Honestly, this is a big deal - we're talking about the guy from Goblin and the woman from Descendants of the Sun. What's not to love? But was the announcement too quiet? We're still waiting for more details, like a release date or even a title."
+      },
+      {
+        "type": "p",
+        "text": "The fact that these two are collaborating is huge, and the fact that it's on Netflix means we won't have to worry about finding subs or waiting for it to air in our country. It's a game-changer for international fans, who often have to jump through hoops to watch their favorite K-dramas. So, what can we expect from this new drama? That's the million-dollar question - and one we'll just have to wait to answer."
+      },
+      {
+        "type": "h2",
+        "text": "The Wait Begins"
+      },
+      {
+        "type": "p",
+        "text": "We don't know much about the drama yet, but we do know it's got a lot of potential. With Gong Yoo and Song Hye Kyo on board, it's already generating buzz - and that's before we even know what it's about. But that's just it - we don't know what it's about, or when it's coming out, or really anything except that it exists. So, we're left with a whole lot of questions and not a lot of answers. But hey, at least we know it's coming, right?"
+      },
+      {
+        "type": "h2",
+        "text": "Why We're Excited"
+      },
+      {
+        "type": "p",
+        "text": "So, why are we so stoked about this new drama? For one, it's Gong Yoo and Song Hye Kyo - two of the most talented actors in K-drama. They've both proven themselves time and time again, and we know they can bring the heat. And two, it's on Netflix - which means it'll be easy to watch, no matter where we are in the world. That's a win-win, if you ask me."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by facebook.com](https://www.facebook.com/groups/335809618054215/posts/1362923338676166/)"
+      }
+    ],
+    "takeaways": [
+      "Gong Yoo and Song Hye Kyo are teaming up for a new Netflix drama",
+      "The drama is set to release on Netflix, but no specific date's been announced",
+      "This is a big deal for K-drama fans, who've been waiting for a new project from these two",
+      "The fact that it's on Netflix means it'll be easier for international fans to watch"
+    ]
+  },
+  "live-1785755871410-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Wait is Almost Over"
+      },
+      {
+        "type": "p",
+        "text": "Kim Woo-bin's fans, rejoice - we've finally got a timeline for his new series, and it's dropping in 2026. That's right, we're talking just a couple of years from now. But was the wait worth it? Honestly, who isn't excited to see what Kim Woo-bin's been working on?"
+      },
+      {
+        "type": "h2",
+        "text": "What We Know So Far"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "The series is set to release in 2026, but that's about all we know for now.",
+          "Kim Woo-bin's been pretty quiet about the project, so we're all just speculating at this point.",
+          "It's been a while since we've seen him in a lead role, so expectations are high.",
+          "We're hoping for some more info soon, but for now, we're just stuck waiting."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "The Comeback King"
+      },
+      {
+        "type": "p",
+        "text": "Kim Woo-bin's had his fair share of ups and downs, but he always manages to come back swinging. And let's be real, his fans are some of the most dedicated out there - they've been waiting patiently for his next move. But what can we expect from this new series? That's the million-dollar question."
+      },
+      {
+        "type": "h2",
+        "text": "Where Things Stand Now"
+      },
+      {
+        "type": "p",
+        "text": "We don't have a whole lot to go on just yet, but we do know that Kim Woo-bin's new series is dropping in 2026. So, we've got a bit of a wait ahead of us, but it's definitely going to be worth it. We're talking one of K-drama's biggest stars here, after all. [originally reported by facebook.com](https://www.facebook.com/groups/3183080521946132/posts/4355159218071584/)"
+      }
+    ],
+    "takeaways": []
   }
 };
