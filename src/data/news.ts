@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1785839579623-1",
+    "slug": "police-in-south-korea-have-recently-decided-not-to-pursue",
+    "title": "Police in South Korea have recently decided not to pursue ...",
+    "summary": "Police in South Korea have recently decided not to pursue prosecution of actor Kim Soo-hyun on allegations of violating the Child Welfare Act, among ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/abscbnNEWS/posts/police-in-south-korea-have-recently-decided-not-to-pursue-prosecution-of-actor-k/1617900443718539/",
+    "date": "2026-08-04",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1785839581593-2",
+    "slug": "south-korean-actor-seo-in-guk-is-set-to-return-to-the",
+    "title": "South Korean actor Seo In-guk is set to return to the ...",
+    "summary": "Kim largely stepped away from the entertainment industry in early 2025 after allegations surfaced that he had dated the late actress Kim Sae-ron when she was a ...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/Dbhv0UcDp4s/",
+    "date": "2026-08-04",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1785839584029-3",
+    "slug": "hwangjungmins-agency-reveals-new-details-behind",
+    "title": "#HwangJungMin's agency reveals new details behind ...",
+    "summary": "Korean actor Hwang Jung-min is being accused of infidelity by his fan, and he's fighting back calling her a stalker. Let me explain.",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/Dba99vkjgUD/",
+    "date": "2026-08-04",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1785839586035-4",
+    "slug": "why-knetz-called-son-dam-bi-no-manners",
+    "title": "Why Knetz Called Son Dam-bi \"No Manners\"",
+    "summary": "Recently a Korean singer and actress Son Dambi sparked a debate after posting hotel photos where she was sitting on a bed while wearing sneakers.",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/Dbfr-2avcAW/",
+    "date": "2026-08-04",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1785839588247-5",
+    "slug": "han-seo-hees-fake-dating-scandal-gets-even-messier",
+    "title": "Han Seo Hee's Fake Dating Scandal Gets Even Messier ...",
+    "summary": "Public Korean actress Han So-hee finally confirmed her relationship with actor Ryu Jun-yeol on her personal blog.",
+    "category": "gossip",
+    "author": "Mia Kwon",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/koreaboorewind/posts/han-seo-hees-fake-dating-scandal-gets-even-messier-after-price-tag-for-her-renta/1091719390182481/",
+    "date": "2026-08-04",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1785839588443-6",
+    "slug": "go-soo",
+    "title": "Go Soo",
+    "summary": "Go Soo (Korean: 고수; born October 4, 1978), also known as Ko Soo, is a South Korean actor. He has appeared in television series such as Piano, Green Rose and ...",
+    "category": "gossip",
+    "author": "Rina Baek",
+    "source": "en.wikipedia.org",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Go_Soo",
+    "date": "3 days ago",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Go_Soo_%EA%B3%A0%EC%88%98_-_Marie_Claire_Korea_in_November_2023.jpg?utm_source=en.wikipedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail_unscaled",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1785755862696-1",
     "slug": "americas-most-wanted-fugitive-was-teaching-english-at-a-top",
     "title": "America's Most Wanted fugitive was teaching English at a top ...",
@@ -6733,7 +6835,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-08-03T11:17:54.732Z";
+export const LAST_UPDATED = "2026-08-04T10:33:08.872Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES

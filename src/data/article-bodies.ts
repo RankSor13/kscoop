@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-08-03T11:17:54.734Z
+ * Last updated: 2026-08-04T10:33:08.874Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -11859,5 +11859,165 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       }
     ],
     "takeaways": []
+  },
+  "live-1785839579623-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Bombshell Decision: Kim Soo-hyun Won't Be Prosecuted"
+      },
+      {
+        "type": "p",
+        "text": "Police in South Korea just dropped a major bombshell: they're not pursuing prosecution of actor Kim Soo-hyun on allegations of violating the Child Welfare Act. That's right, one of K-drama's biggest stars is off the hook. But what led to this surprising decision?"
+      },
+      {
+        "type": "h2",
+        "text": "The Allegations"
+      },
+      {
+        "type": "p",
+        "text": "So, what exactly were the allegations against Kim Soo-hyun? Unfortunately, we don't have all the details - but we do know they involved the Child Welfare Act. That's some serious stuff, and fans were getting anxious about the whole situation. But now, it seems like Kim Soo-hyun can breathe a sigh of relief."
+      },
+      {
+        "type": "h2",
+        "text": "What's Next for Kim Soo-hyun?"
+      },
+      {
+        "type": "p",
+        "text": "Now that the prosecution is off the table, what's next for Kim Soo-hyun? Will he make a comeback to the small screen soon? Honestly, this is a big deal - Kim Soo-hyun's got a huge following, and his fans have been waiting patiently for his next move. But was the decision not to prosecute a surprise? That's a tough one - we don't have all the facts, but it's clear that Kim Soo-hyun's team is relieved."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by facebook.com](https://www.facebook.com/abscbnNEWS/posts/police-in-south-korea-have-recently-decided-not-to-pursue-prosecution-of-actor-k/1617900443718539/)"
+      }
+    ],
+    "takeaways": [
+      "Kim Soo-hyun won't be prosecuted for allegedly violating the Child Welfare Act",
+      "The allegations were serious, but we don't have all the details",
+      "Kim Soo-hyun's fans are likely breathing a sigh of relief",
+      "The decision not to prosecute is a surprise to some - but we don't know all the facts"
+    ]
+  },
+  "live-1785839581593-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "A Comeback After Controversy"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal - an actor is set to return to the scene after a major scandal. But here's the twist: it's not Seo In-guk, as you might expect from the title. Instead, we're talking about Kim, who largely stepped away from the entertainment industry in early 2025. What prompted this hiatus? Allegations surfaced that he had dated the late actress Kim Sae-ron when she was a minor. That's a serious claim, and it's no wonder he laid low for a while."
+      },
+      {
+        "type": "p",
+        "text": "But was the comeback too fast? We're not sure what to make of this news, considering the circumstances. It's not like we haven't seen comebacks after controversy before, but this one feels different. The fact that Kim Sae-ron is no longer with us adds a layer of complexity to the situation. We're left wondering what really happened and whether this actor is ready to face the public again."
+      },
+      {
+        "type": "h2",
+        "text": "The Allegations"
+      },
+      {
+        "type": "p",
+        "text": "Let's take a step back and look at what we know. The allegations against Kim are serious, and they involve a late actress who can't speak for herself. That's a heavy burden to carry, and it's not something you can just bounce back from. But apparently, Kim is trying to do just that. We're not sure what the future holds for this actor, but one thing's for sure - his comeback won't be without its challenges."
+      },
+      {
+        "type": "h2",
+        "text": "Where Things Stand Now"
+      },
+      {
+        "type": "p",
+        "text": "We're still trying to process this news, and we're not alone. Fans are likely to have mixed feelings about Kim's return to the entertainment industry. Some might be willing to give him another chance, while others will never forget the allegations against him. As for us, we're just waiting to see how this all plays out. [originally reported by instagram.com](https://www.instagram.com/p/Dbhv0UcDp4s/)"
+      }
+    ],
+    "takeaways": [
+      "Seo In-guk isn't the one making a comeback, it's actually about another actor",
+      "The actor in question stepped away from the industry in early 2025",
+      "Allegations about his past relationship are tied to his hiatus",
+      "The late actress Kim Sae-ron is involved in these allegations"
+    ]
+  },
+  "live-1785839584029-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Shocking Accusations"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Hwang Jung-min's agency is speaking out against a fan's claims",
+          "The fan is accusing the actor of infidelity",
+          "Hwang Jung-min is fighting back, calling the fan a stalker",
+          "This isn't the first time a K-celeb has been accused of cheating, but it's rare for them to clap back so directly"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "The Drama Unfolds"
+      },
+      {
+        "type": "p",
+        "text": "Hwang Jung-min's agency just dropped some major tea, and honestly, this is a big deal. The actor's being accused of infidelity by a fan, which is already pretty wild. But what's even crazier is that he's not just sitting back and taking it - he's actually fighting back. His team's calling the fan a stalker, which raises so many questions. What's really going on here? Was the fan just overly obsessed, or is there more to the story?"
+      },
+      {
+        "type": "h2",
+        "text": "The Accusations"
+      },
+      {
+        "type": "p",
+        "text": "The fan's claims of infidelity are serious, and you can't blame people for being upset. But was the fan's behavior really that of a stalker, or is Hwang Jung-min's team just trying to deflect attention? It's hard to say, since we don't have all the facts. But one thing's for sure - this drama's getting juicier by the minute."
+      },
+      {
+        "type": "h2",
+        "text": "Where Things Stand Now"
+      },
+      {
+        "type": "p",
+        "text": "We're still waiting to see how this all plays out, but it's clear that Hwang Jung-min's team is taking a strong stance. They're not backing down, and they're not apologizing. So, what's next? Will the fan continue to speak out, or will they back down? And what about Hwang Jung-min's reputation - will this hurt his career, or will he come out unscathed? [originally reported by instagram.com](https://www.instagram.com/reel/Dba99vkjgUD/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1785839586035-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Sneaker Slip-Up"
+      },
+      {
+        "type": "p",
+        "text": "Son Dam-bi's latest Instagram post has got Knetz talking, and not exactly in a good way. The Korean singer and actress sparked a debate after posting photos of herself sitting on a hotel bed - while wearing sneakers. Yeah, you read that right, sneakers on the bed, and it's safe to say that didn't go down well with her fans."
+      },
+      {
+        "type": "p",
+        "text": "But was this really a big deal? Honestly, it's not like she committed a crime or anything. However, in Korean culture, it's generally considered impolite to wear shoes on a bed, which is why Knetz were quick to call her out for having \"no manners\". It's a pretty strict etiquette rule, and it seems like Son Dam-bi forgot to take off her sneakers before plopping herself down on the bed."
+      },
+      {
+        "type": "h2",
+        "text": "Cultural Faux Pas"
+      },
+      {
+        "type": "p",
+        "text": "The thing is, this isn't just about Son Dam-bi - it's about cultural norms and what's considered respectful. In Korea, you're always supposed to take your shoes off before getting on a bed, and it's not just about hygiene. It's about showing respect for the space and the people you're with. So, when Son Dam-bi posted those photos, Knetz saw it as a sign of disrespect, and that's why they're calling her out for it."
+      },
+      {
+        "type": "h2",
+        "text": "What's The Big Deal?"
+      },
+      {
+        "type": "p",
+        "text": "So, why are Knetz making such a big deal about this? It's not like Son Dam-bi did anything drastic. But, in a way, that's the point - it's the little things that matter, and in Korean culture, taking your shoes off before getting on a bed is one of those little things. It's a sign of respect, and when you don't do it, it can be seen as rude. That's why Knetz are upset, and that's why this whole thing is a big deal."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by instagram.com](https://www.instagram.com/reel/Dbfr-2avcAW/)"
+      }
+    ],
+    "takeaways": [
+      "Son Dam-bi posted hotel photos on Instagram, sparking a debate among Knetz",
+      "The photos showed her sitting on a bed while wearing sneakers, which is considered impolite in Korean culture",
+      "Knetz called her out for having \"no manners\" due to the cultural faux pas",
+      "The incident highlights the importance of cultural norms and respect in Korean society"
+    ]
   }
 };
