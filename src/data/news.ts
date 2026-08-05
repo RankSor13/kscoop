@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1785925805615-1",
+    "slug": "tcxofficial",
+    "title": "tcx.official",
+    "summary": "Korean actor Kim Soo-hyun has been officially cleared of allegations that he violated the Child Welfare Act regarding past underage dating claims involving the ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/DbprLtgITrK/",
+    "date": "2026-08-05",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1785925807679-2",
+    "slug": "the-cheating-suspicion-spiral-has-officially-begun",
+    "title": "The cheating suspicion spiral has officially begun. ...",
+    "summary": "Actor Park Si-hoo Faces New Allegations Involving Marital Infidelity Scandal Actor Park Si-hoo is once again at the center of controversy after an online ...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/viusingapore/posts/the-cheating-suspicion-spiral-has-officially-begun-kimhyesoos-first-move-slippin/1081327847884839/",
+    "date": "2026-08-05",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1785925809971-3",
+    "slug": "kim-soo-hyun-cleared-of-allegations-south",
+    "title": "KIM SOO-HYUN CLEARED OF ALLEGATIONS South ...",
+    "summary": "Kim Soo-hyun has been cleared of allegations that he had violated Child Welfare Act after claims that he had a relationship with late actress Kim Sae-ron",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/KimSooHyunShiPhilippines/posts/kim-soo-hyun-cleared-of-allegations-south-korean-actor-kim-soo-hyun-has-been-cle/1651952616594994/",
+    "date": "2026-08-05",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1785925812368-4",
+    "slug": "top-10-k-celebrity-endorsement-fees-2026",
+    "title": "Top 10 K-Celebrity Endorsement Fees (2026)",
+    "summary": "Kim Soo hyun is the highest paid advertising star ever. Jang Won-young with proving she's a victim of a fake news cycle. Chae Soo Bin.",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DbhARmfSH0n/",
+    "date": "2026-08-05",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1785925814661-5",
+    "slug": "question-to-kdrama-fans-as-a-korean",
+    "title": "Question to kdrama fans as a Korean",
+    "summary": "Hi everyone, I'm korean. I was always really curious of how everyone here got into kdramas. Plus, which factor do you guys think makes Kdrama special than ...",
+    "category": "gossip",
+    "author": "Mia Kwon",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/kdramas/comments/1vdj1cz/question_to_kdrama_fans_as_a_korean/",
+    "date": "2026-08-05",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1785925814753-6",
+    "slug": "every-k-drama-coming-out-in-august-2026-currently-posting",
+    "title": "Every k-drama coming out in August 2026! Currently posting ...",
+    "summary": "Five dramas releasing this August MY BIAS, MY BOSS FLEX X COP 2 August | Disney+. Release Date: August 3. Our Sticky Love Release Date: August 7. Flex X Cop ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DbgAzzspiqY/",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1785839579623-1",
     "slug": "police-in-south-korea-have-recently-decided-not-to-pursue",
     "title": "Police in South Korea have recently decided not to pursue ...",
@@ -6835,7 +6937,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-08-04T10:33:08.872Z";
+export const LAST_UPDATED = "2026-08-05T10:30:15.043Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES

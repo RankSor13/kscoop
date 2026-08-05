@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-08-04T10:33:08.874Z
+ * Last updated: 2026-08-05T10:30:15.045Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -12018,6 +12018,149 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       "The photos showed her sitting on a bed while wearing sneakers, which is considered impolite in Korean culture",
       "Knetz called her out for having \"no manners\" due to the cultural faux pas",
       "The incident highlights the importance of cultural norms and respect in Korean society"
+    ]
+  },
+  "live-1785925805615-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Bombshell Clearance"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Kim Soo-hyun's been cleared of allegations related to the Child Welfare Act",
+          "The allegations involved past underage dating claims",
+          "The news was announced on the actor's official Instagram account, tcx.official",
+          "The Clearance is a major development in a story that's been making waves in K-drama fandom"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "The Allegations Were Serious"
+      },
+      {
+        "type": "p",
+        "text": "Kim Soo-hyun's just been officially cleared of some pretty serious allegations - we're talking violations of the Child Welfare Act. That's not something you see every day, especially not with a star as big as Kim Soo-hyun. But was the whole thing just a big misunderstanding? It looks like we might never know for sure, but one thing's for sure: Kim Soo-hyun's team is breathing a sigh of relief right about now."
+      },
+      {
+        "type": "p",
+        "text": "The allegations themselves were pretty shocking - they involved claims of underage dating, which is a major no-go in anyone's book. But it seems like the authorities have looked into it and decided there's no case to be made. That's gotta be a huge weight off Kim Soo-hyun's shoulders."
+      },
+      {
+        "type": "h2",
+        "text": "What This Means"
+      },
+      {
+        "type": "p",
+        "text": "So what does this mean for Kim Soo-hyun's career? Honestly, it's probably a big deal - this kind of allegation can stick with you for a long time, even if it's not true. But now that he's been cleared, we can expect to see him back to his usual self in no time. And let's be real, his fans are probably over the moon right now."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by instagram.com](https://www.instagram.com/p/DbprLtgITrK/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1785925807679-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Cheating Scandal: Park Si-hoo's Latest Drama"
+      },
+      {
+        "type": "p",
+        "text": "Actor Park Si-hoo's personal life is making headlines again, and honestly, this is a big deal. He's facing new allegations involving a marital infidelity scandal, which is pretty shocking. But was the comeback too fast? It seems like we're right back where we started with Park Si-hoo, and that's not a good place."
+      },
+      {
+        "type": "h2",
+        "text": "The Allegations Against Park Si-hoo"
+      },
+      {
+        "type": "p",
+        "text": "The online community is buzzing with the latest news, and it's not looking good for Park Si-hoo. An online post has sparked a cheating suspicion spiral, and it's getting harder to ignore. We're talking about a guy who's been in this situation before, so you'd think he'd be more careful. But it seems like history might be repeating itself, and that's got to be frustrating for his fans."
+      },
+      {
+        "type": "h2",
+        "text": "Where Things Stand Now"
+      },
+      {
+        "type": "p",
+        "text": "We don't have all the details yet, but one thing's for sure - this scandal is going to be a wild ride. Park Si-hoo's team hasn't commented on the allegations, so we're left wondering what's really going on. But with the internet talking, it's only a matter of time before we get some answers. The question is, will Park Si-hoo be able to bounce back from this, or is his reputation done for? [originally reported by viu Singapore](https://www.facebook.com/viusingapore/posts/the-cheating-suspicion-spiral-has-officially-begun-kimhyesoos-first-move-slippin/1081327847884839/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1785925809971-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Shocking Turnaround"
+      },
+      {
+        "type": "p",
+        "text": "Kim Soo-hyun's just been cleared of allegations that he violated the Child Welfare Act - and that's huge news for K-drama fans. Honestly, this is a big deal, especially given the seriousness of the claims. But what really caught our attention is that these allegations were tied to rumors of a relationship with late actress Kim Sae-ron. That's a lot to process, and we're still trying to wrap our heads around it."
+      },
+      {
+        "type": "p",
+        "text": "The fact that Kim Soo-hyun's been cleared doesn't necessarily mean this story's over, though. There are still a lot of questions swirling around, and fans are likely to keep talking about this for a while. But was the investigation thorough enough? That's what's on everyone's mind right now."
+      },
+      {
+        "type": "h2",
+        "text": "A Career on the Line"
+      },
+      {
+        "type": "p",
+        "text": "Let's be real - allegations like these can make or break a celebrity's career. Kim Soo-hyun's one of the most popular K-drama actors out there, and this kind of scandal could've easily derailed everything he's worked for. But now that he's been cleared, it's likely we'll see him back on our screens sooner rather than later. The question is, will fans welcome him back with open arms?"
+      },
+      {
+        "type": "h2",
+        "text": "What Just Happened?"
+      },
+      {
+        "type": "p",
+        "text": "So, what does this mean for Kim Soo-hyun's future projects? Will he bounce back from this without a hitch, or will there be some lasting damage to his reputation? We're not sure yet, but one thing's for sure - we're all watching to see what happens next. [originally reported by KimSooHyunShiPhilippines](https://www.facebook.com/KimSooHyunShiPhilippines/posts/kim-soo-hyun-cleared-of-allegations-south-korean-actor-kim-soo-hyun-has-been-cle/1651952616594994/)"
+      }
+    ],
+    "takeaways": [
+      "Kim Soo-hyun's been cleared of some serious allegations",
+      "The allegations were related to the Child Welfare Act",
+      "This whole thing started with claims about his relationship with late actress Kim Sae-ron",
+      "The outcome's a big deal for Kim Soo-hyun's career and reputation"
+    ]
+  },
+  "live-1785925812368-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The King of Endorsements"
+      },
+      {
+        "type": "p",
+        "text": "Kim Soo hyun is making bank - he's officially the highest paid advertising star ever. That's a pretty big deal, and we're not surprised, given his massive popularity in K-dramas. But what's really interesting is that he's topped the list, and we're curious to know what other stars are raking it in."
+      },
+      {
+        "type": "h2",
+        "text": "The Top Earners"
+      },
+      {
+        "type": "p",
+        "text": "So, what makes Kim Soo hyun so desirable to brands? Is it his charming smile, his impressive acting chops, or something else entirely? Whatever it is, it's working - he's got the highest endorsement fee ever, and that's no small feat. We're also loving that Jang Won-young's proving the haters wrong - she's not a victim of fake news, she's a survivor."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "But was Kim Soo hyun's rise to the top always inevitable? Honestly, it's not that surprising - he's been killing the K-drama game for years. And what about Chae Soo Bin - what's her secret to success? We're dying to know more about these stars and their endorsement deals. [originally reported by instagram.com](https://www.instagram.com/reel/DbhARmfSH0n/)"
+      }
+    ],
+    "takeaways": [
+      "Jang Won-young's been through a fake news cycle, and it looks like she's coming out on top",
+      "Chae Soo Bin's also on the list, though we don't know her exact ranking yet",
+      "The top 10 list is apparently out, but we're still waiting for more details",
+      "Kim Soo hyun's endorsement fee is the highest ever recorded - that's a lot of clout"
     ]
   }
 };
