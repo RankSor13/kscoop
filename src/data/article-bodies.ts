@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-08-05T10:30:15.045Z
+ * Last updated: 2026-08-06T10:34:09.370Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -12161,6 +12161,124 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       "Chae Soo Bin's also on the list, though we don't know her exact ranking yet",
       "The top 10 list is apparently out, but we're still waiting for more details",
       "Kim Soo hyun's endorsement fee is the highest ever recorded - that's a lot of clout"
+    ]
+  },
+  "live-1786012440579-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The K-Drama Drought is Real"
+      },
+      {
+        "type": "p",
+        "text": "It's not often you see someone openly admitting they've fallen off the K-drama bandwagon, but that's exactly what's happening on Reddit. A user's recent post confesses that they haven't been keeping up with the latest dramas, and honestly, it's kind of relatable."
+      },
+      {
+        "type": "h2",
+        "text": "A Blast from the Past"
+      },
+      {
+        "type": "p",
+        "text": "The last K-drama this user watched all the way through was Boyfriend on Demand, which they actually enjoyed a lot. But was it really that good, or are they just nostalgic for the good old days of K-drama watching? Either way, it's got us wondering - what's been missing from the 2026 lineup that's made this user (and maybe others) lose interest?"
+      },
+      {
+        "type": "h2",
+        "text": "The Search for Something New"
+      },
+      {
+        "type": "p",
+        "text": "So, what does it take to get this user (and others like them) back into the world of K-dramas? Is it a particular genre, a favorite actor, or something entirely new? We're not sure, but it's clear that the 2026 lineup needs something to shake things up. But was the comeback too fast, or is it just that the recent dramas haven't been cutting it?"
+      },
+      {
+        "type": "h2",
+        "text": "Where Things Stand Now"
+      },
+      {
+        "type": "p",
+        "text": "For now, it seems like this user is on the hunt for their next K-drama obsession, and they're turning to the community for help. Will they find something that reignites their passion, or will they continue to feel like they've fallen off the K-drama train? Only time will... just kidding, we won't say that. [originally reported by reddit](https://www.reddit.com/r/kdramas/comments/1vexs3f/what_2026_kdramas_are_actually_worth_checking_out/)"
+      }
+    ],
+    "takeaways": [
+      "The user's last completed K-drama was Boyfriend on Demand",
+      "They're looking for recommendations for 2026 K-dramas",
+      "Boyfriend on Demand was enjoyed \"a lot\" by the user",
+      "The user feels they've \"fallen off\" K-dramas lately"
+    ]
+  },
+  "live-1786012442480-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Scoop on August's Hottest K-Dramas"
+      },
+      {
+        "type": "p",
+        "text": "August is shaping up to be an epic month for K-drama fans, with a slew of new and exciting shows to binge. And honestly, it's about time - we've been waiting for what feels like forever for some of these titles to drop. Our Sticky Love, which is set to stream on Netflix, is definitely one of the most anticipated shows of the month. But what's really got fans talking is the return of Flex X Cop for its second season - will it live up to the hype of the first season?"
+      },
+      {
+        "type": "p",
+        "text": "The lineup for August is looking pretty impressive, with My Bias, My Boss and A Trap Called Desire also vying for our attention. It's going to be a tough month to keep up with all the new shows, but we're not complaining. With so many great options to choose from, fans are spoiled for choice. But was the timing of these releases strategic, or just a happy coincidence?"
+      },
+      {
+        "type": "h2",
+        "text": "What's Got Fans Talking"
+      },
+      {
+        "type": "p",
+        "text": "So, what's behind the buzz around these shows? For starters, the castings are looking pretty solid, with some big names attached to each project. And let's be real, who doesn't love a good K-drama romance or thriller? The fact that Our Sticky Love is streaming on Netflix is also a big deal - it's going to make it so much easier for international fans to get in on the action. But will the shows live up to the hype, or are we just getting caught up in the excitement of new releases?"
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "As we dive into the world of August's hottest K-dramas, it's clear that this month is going to be all about variety. From romance to thriller, there's something for everyone. And with the rise of streaming platforms, it's never been easier to access these shows. So, what are you waiting for? Get ready to binge your way through August, and don't forget to stay tuned for more updates on these exciting new shows [originally reported by scmp.com](https://www.scmp.com/lifestyle/k-drama/k-drama/article/3362405/7-best-new-k-dramas-watch-august-2026-including-our-sticky-love-netflix)"
+      }
+    ],
+    "takeaways": [
+      "August's hottest K-dramas include Our Sticky Love and A Trap Called Desire",
+      "Flex X Cop season 2 is also making a comeback this month",
+      "My Bias, My Boss is another highly anticipated K-drama to watch out for",
+      "Our Sticky Love will be available to stream on Netflix"
+    ]
+  },
+  "live-1786012445377-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "August K-Drama Frenzy"
+      },
+      {
+        "type": "p",
+        "text": "Get ready, K-drama fans, because August is shaping up to be an exciting month! We're talking seven - yes, seven - new K-dramas set to release, and honestly, this is a big deal. It's not every month we see this many new shows dropping, so we're expecting some serious drama (in the best way possible). \"Our Sticky Love\" is one of the most anticipated, and it's going to be a Netflix exclusive, so if you haven't subscribed yet, now's the time."
+      },
+      {
+        "type": "p",
+        "text": "What's really interesting here is the variety of titles we're seeing. From the romantic \"Our Sticky Love\" to the intriguing \"Four Hands Two Sonatas\", which is scheduled to release on August 29, there's something for every type of K-drama fan. And let's not forget \"Flex X Cop 2\" and \"I Am the Most Dazzling\" - these titles alone are enough to pique our interest."
+      },
+      {
+        "type": "h2",
+        "text": "The Lineup Looks Promising"
+      },
+      {
+        "type": "p",
+        "text": "But was the announcement of seven new dramas too much to handle? Not for us, that's for sure. We're eager to dive into each of these stories and see what they have to offer. With so many new shows coming out, it's going to be a wild ride, and we can't wait to see which ones will stand out from the pack. One thing's for sure, though - August is going to be a fantastic month for K-drama fans."
+      },
+      {
+        "type": "h2",
+        "text": "Where Things Stand Now"
+      },
+      {
+        "type": "p",
+        "text": "So, which drama are you most looking forward to? With the release dates announced, the wait is almost over. We're just a few weeks away from indulging in a whole new set of stories, characters, and plot twists. It's going to be a thrilling month, and we're here for it. [originally reported by instagram.com](https://www.instagram.com/p/DbpZH4viEYP/)"
+      }
+    ],
+    "takeaways": [
+      "7 new K-dramas are set to release in August 2026",
+      "\"Our Sticky Love\" will be available only on Netflix",
+      "\"Four Hands Two Sonatas\" is scheduled to release on August 29",
+      "\"Flex X Cop 2\" and \"I Am the Most Dazzling\" are among the other upcoming dramas"
     ]
   }
 };

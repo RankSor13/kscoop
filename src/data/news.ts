@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1786012440579-1",
+    "slug": "what-2026-k-dramas-are-actually-worth-checking-out",
+    "title": "What 2026 K-dramas are actually worth checking out?",
+    "summary": "So, realised recently that I have fallen off K-dramas a little. The last one I watched all the way through was Boyfriend on Demand, which I enjoyed a lot ...",
+    "category": "upcoming",
+    "author": "Ji Yeon Park",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/kdramas/comments/1vexs3f/what_2026_kdramas_are_actually_worth_checking_out/",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1786012442480-2",
+    "slug": "7-of-the-best-new-k-dramas-to-watch-in-august-2026",
+    "title": "7 of the best new K-dramas to watch in August 2026 ...",
+    "summary": "7 of the best new K-dramas to watch in August 2026, including Our Sticky Love on Netflix · 1. My Bias, My Boss · 2. Flex X Cop season 2 · 3. Our Sticky Love · 4. A ...",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "scmp.com",
+    "sourceUrl": "https://www.scmp.com/lifestyle/k-drama/k-drama/article/3362405/7-best-new-k-dramas-watch-august-2026-including-our-sticky-love-netflix",
+    "date": "7 days ago",
+    "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/30/43acdb78-4055-41c9-9d8e-221902167052_f1e64730.jpg?itok=aIjgeDQH&amp;v=1785407102",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1786012445377-3",
+    "slug": "august-is-packed-with-exciting-k-drama-releases-featuring",
+    "title": "August is packed with exciting K-Drama releases featuring ...",
+    "summary": "7 NEW K-DRAMAS AUGUST 2026 Our Sticky Love | ONLY ON NETFLIX | 8월 7일 공개 FOUR HANDS TWO SONATAS | AUGUST 29 FLEX X COP 2 | I AM THE MOST DAZZLING ...",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/DbpZH4viEYP/",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1786012447885-4",
+    "slug": "every-k-drama-coming-to-netflix-hulu-and-viki-in-august",
+    "title": "Every K-Drama Coming To Netflix, Hulu, And Viki In August ...",
+    "summary": "My Boss August 2026 K-drama. Flex X Cop (Season 2) August 2026 K-drama Flex X Cop season 2 Where to Stream: Disney+/Hulu Studio(s): Release Date: August 7, ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "screenrant.com",
+    "sourceUrl": "https://screenrant.com/every-k-drama-netflix-hulu-viki-streaming-august-2026/",
+    "date": "5 days ago",
+    "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/07/august-2026-k-drama-my-bias-my-boss.jpg?w=1600&amp;h=900&amp;fit=crop",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1786012448372-5",
+    "slug": "k-drama-wars-netflix-drops-33-title-slate-as-disney",
+    "title": "K-Drama Wars: Netflix Drops 33-Title Slate as Disney+ ...",
+    "summary": "Disney's New Asia Streaming Boss on K-Drama, Sports ...hollywoodreporter.com · Jun 22, 2026; Korean Drama 'Perfect Crown' Heading to Disney+ in 2026 ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "kentertechhub.com",
+    "sourceUrl": "https://www.kentertechhub.com/k-drama-wars-netflix-drops-33-title-slate-as-disney-bets-on-prestige-ip/amp/",
+    "date": "10 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1786012449057-6",
+    "slug": "south-korea-continues-to-captivate-the-world-through-its",
+    "title": "🇰🇷 South Korea continues to captivate the world through its ...",
+    "summary": "We're diving into the latest stats for Kim Soo-hyun, Byeon Woo-seok, Lee Min-ho, and Cha Eun-woo.",
+    "category": "trending",
+    "author": "Rina Baek",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DbivaiZBWfH/",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1785925805615-1",
     "slug": "tcxofficial",
     "title": "tcx.official",
@@ -6937,7 +7039,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-08-05T10:30:15.043Z";
+export const LAST_UPDATED = "2026-08-06T10:34:09.315Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
