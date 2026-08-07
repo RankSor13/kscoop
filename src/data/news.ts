@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1786092794057-1",
+    "slug": "south-korean-actor-kim-soo-hyun-has-been-cleared-of",
+    "title": "South Korean actor Kim Soo-hyun has been cleared of ...",
+    "summary": "Kim Soo-hyun has been cleared of allegations that he violated the country's Child Welfare Act after police found insufficient evidence to support claims",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/abscbnNEWS/posts/south-korean-actor-kim-soo-hyun-has-been-cleared-of-allegations-that-he-violated/1618515700323680/",
+    "date": "2026-08-07",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1786092795812-2",
+    "slug": "jung-hae-in-news",
+    "title": "Jung Hae-in - News",
+    "summary": "Kim Soo-Hyun has gotten involved in a messy relationship scandal for dating the late actress Kim Sae-Ron.",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "imdb.com",
+    "sourceUrl": "https://www.imdb.com/name/nm6857187/news/",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1786092797930-3",
+    "slug": "korean-megastars-cancelled-over-toxic",
+    "title": "KOREAN MEGASTARS CANCELLED OVER TOXIC ...",
+    "summary": "Another notable scandal involves actor Kim Seon-ho, who faced severe criticism after his ex-girlfriend accused him of coercing her into an abortion. Kim ...",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/100087640904824/posts/korean-megastars-cancelled-over-toxic-secret-lives-the-world-of-korean-entertain/1036771775920843/",
+    "date": "2026-08-07",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1786092799866-4",
+    "slug": "august-continues-the-summer-2026-trend-of-plentiful-k",
+    "title": "August continues the Summer 2026 trend of plentiful K",
+    "summary": "Upcoming K-Dramas Premiering on Netflix in 2026: 1. The Wonderfools 2. Bloodhounds S2 3. Show Business 4. East Palace 5. Boyfriend On Demand 6. The Art Of ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/ScreenRant/posts/august-continues-the-summer-2026-trend-of-plentiful-k-dramas-ahead-as-big-stars-/1457287799588916/",
+    "date": "2026-08-07",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1786092800034-5",
+    "slug": "confirmed-10-hottest-upcoming-korean-dramas-in-august",
+    "title": "CONFIRMED: 10 Hottest Upcoming Korean Dramas in August ...",
+    "summary": "August 2026 is packed with exciting new K-dramas and Korean movies! From Our Sticky Love and Flex X Cop Season 2 to Mousetrap, Four Hands, Two Sonatas, and My ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=5FcIxSLhzUY",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1786092802495-6",
+    "slug": "k-drama-2026-on-netflix",
+    "title": "K Drama 2026 on Netflix",
+    "summary": "Discover July 2026 Kdramas releasing on Netflix, Disney+, Viki and Viu — key release dates and where to watch each new series. 9960 Likes, 126 Comments ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/discover/k-drama-2026-on-netflix",
+    "date": "4 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1786012440579-1",
     "slug": "what-2026-k-dramas-are-actually-worth-checking-out",
     "title": "What 2026 K-dramas are actually worth checking out?",
@@ -7039,7 +7141,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-08-06T10:34:09.315Z";
+export const LAST_UPDATED = "2026-08-07T08:53:22.955Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES

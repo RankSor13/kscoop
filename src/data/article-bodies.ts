@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-08-06T10:34:09.370Z
+ * Last updated: 2026-08-07T08:53:22.956Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -12279,6 +12279,158 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       "\"Our Sticky Love\" will be available only on Netflix",
       "\"Four Hands Two Sonatas\" is scheduled to release on August 29",
       "\"Flex X Cop 2\" and \"I Am the Most Dazzling\" are among the other upcoming dramas"
+    ]
+  },
+  "live-1786092794057-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "A Big Win for Kim Soo-hyun"
+      },
+      {
+        "type": "p",
+        "text": "Kim Soo-hyun's just gotten some amazing news - he's been cleared of those allegations that he violated South Korea's Child Welfare Act. Honestly, this is a big deal, and we're sure his fans are breathing a sigh of relief. The police found that there just wasn't enough evidence to support the claims, and that's all we know for now."
+      },
+      {
+        "type": "p",
+        "text": "But was this outcome surprising? Not really - we've seen cases like this before where the evidence just doesn't add up. That being said, it's still great to see Kim Soo-hyun's name cleared. He's one of the most popular actors in K-drama right now, and this kind of allegations can really hurt someone's career."
+      },
+      {
+        "type": "h2",
+        "text": "What This Means for Kim Soo-hyun"
+      },
+      {
+        "type": "p",
+        "text": "So, what's next for Kim Soo-hyun? Well, now that this is behind him, he can focus on his acting career again. We're sure his fans are excited to see what he's got coming up next - will it be another hit K-drama, or maybe a movie role? Whatever it is, we're sure he'll knock it out of the park."
+      },
+      {
+        "type": "h2",
+        "text": "The Latest Update"
+      },
+      {
+        "type": "p",
+        "text": "For now, that's all we know - Kim Soo-hyun's been cleared, and the case is closed. We're just glad that everything worked out in his favor. [originally reported by facebook.com](https://www.facebook.com/abscbnNEWS/posts/south-korean-actor-kim-soo-hyun-has-been-cleared-of-allegations-that-he-violated/1618515700323680/)"
+      }
+    ],
+    "takeaways": [
+      "Kim Soo-hyun's been cleared of allegations related to the Child Welfare Act",
+      "The allegations didn't have enough evidence to back them up",
+      "This news is a big deal for Kim Soo-hyun's fans, who've been waiting for an update",
+      "The case is now closed, with no further action being taken"
+    ]
+  },
+  "live-1786092795812-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Scandal Hits K-Drama Star"
+      },
+      {
+        "type": "p",
+        "text": "Kim Soo-Hyun's in hot water, and it's not for a role he's playing - he's gotten himself into a messy relationship scandal. Honestly, this is a big deal, especially since it involves him dating the late actress Kim Sae-Ron. That's right, the same Kim Soo-Hyun we've loved in dramas like \"My Love From The Star\" and \"It's Okay to Not Be Okay\" is now making headlines for all the wrong reasons. But was this scandal really unexpected, or were there signs we missed?"
+      },
+      {
+        "type": "p",
+        "text": "The thing that's really got fans upset is that Kim Sae-Ron passed away, making this whole situation even more complicated. It's not like Kim Soo-Hyun's just dating someone new - there's a lot of history and emotion involved here. We're talking about a guy who's usually known for his squeaky-clean image, so it's no wonder fans are shocked."
+      },
+      {
+        "type": "h2",
+        "text": "The Fallout"
+      },
+      {
+        "type": "p",
+        "text": "So, what does this mean for Kim Soo-Hyun's career? That's a tough question. On one hand, scandals like this can be pretty damaging, especially in the K-entertainment world where image is everything. On the other hand, Kim Soo-Hyun's a talented actor with a lot of dedicated fans - will they stick by him, or will this scandal be too much to overcome? Only time will... no, scratch that - we'll just have to wait and see how this all plays out."
+      },
+      {
+        "type": "h2",
+        "text": "Where Things Stand Now"
+      },
+      {
+        "type": "p",
+        "text": "For now, it's all about waiting to see how Kim Soo-Hyun and his team respond to this scandal. Will he address the situation publicly, or try to lay low and hope it blows over? One thing's for sure - this isn't the kind of attention Kim Soo-Hyun wanted, and it'll be interesting to see how he navigates this tough spot. [originally reported by imdb.com](https://www.imdb.com/name/nm6857187/news/)"
+      }
+    ],
+    "takeaways": [
+      "Kim Soo-Hyun's involved in a relationship scandal",
+      "The scandal's about him dating the late actress Kim Sae-Ron",
+      "This news is a shock to K-drama fans",
+      "Kim Soo-Hyun's usually known for his clean public image"
+    ]
+  },
+  "live-1786092797930-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Toxic Secrets Exposed"
+      },
+      {
+        "type": "p",
+        "text": "Kim Seon-ho's scandal is what's got everyone talking - and honestly, it's a big deal. The actor's been accused by his ex-girlfriend of coercing her into an abortion, which is just shocking. You don't expect this kind of thing from someone you've seen on screen, playing charming characters. But was he really that charming, or was it all an act?"
+      },
+      {
+        "type": "p",
+        "text": "The criticism he's facing is severe, and it's not hard to see why. Coercing someone into an abortion is a serious accusation, and it's not something that can be easily brushed off. It's a toxic behavior that's unacceptable, and fans aren't wrong to be upset. But what's even more surprising is how quickly his reputation has been tarnished - it just goes to show how much fans care about the actions of their favorite stars."
+      },
+      {
+        "type": "h2",
+        "text": "The Fallout"
+      },
+      {
+        "type": "p",
+        "text": "So, what happens next? Will Kim Seon-ho be able to recover from this scandal, or is his career over? It's hard to say, but one thing's for sure - his reputation has taken a hit. And it's not just him - the whole K-entertainment industry is being scrutinized. Are there more secrets like this waiting to be exposed? It's a scary thought, but it's also a necessary one. Maybe this scandal will lead to some much-needed change."
+      },
+      {
+        "type": "h2",
+        "text": "Where Things Stand Now"
+      },
+      {
+        "type": "p",
+        "text": "For now, Kim Seon-ho's career is on hold, and it's unclear what the future holds. But one thing's for sure - fans are watching, and they're not afraid to speak out. They're demanding better from their favorite stars, and that's a good thing. It's time for the K-entertainment industry to take a hard look at itself and make some changes. [originally reported by facebook.com](https://www.facebook.com/100087640904824/posts/korean-megastars-cancelled-over-toxic-secret-lives-the-world-of-korean-entertain/1036771775920843/)"
+      }
+    ],
+    "takeaways": [
+      "Actor Kim Seon-ho's scandal involves an abortion accusation",
+      "His ex-girlfriend accused him of coercion",
+      "Kim Seon-ho faced severe criticism for his actions",
+      "The scandal led to him being cancelled"
+    ]
+  },
+  "live-1786092800034-5": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Get Ready for a Drama-Packed August"
+      },
+      {
+        "type": "p",
+        "text": "We're just a month away from what's shaping up to be an epic August for K-drama fans, with a slew of highly anticipated shows and movies hitting our screens. But what's really got us hyped is the sheer variety of genres and storylines on offer - from the intriguingly titled Mousetrap to the action-packed Flex X Cop Season 2."
+      },
+      {
+        "type": "h2",
+        "text": "New Titles to Watch"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal - August 2026 is packed with exciting new K-dramas and Korean movies, including From Our Sticky Love and Four Hands, Two Sonatas. But was the lineup always this strong? It seems like we're in for a real treat, with something for every kind of fan. My, for instance, could be just the romantic fix we need to get through the summer heat."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "So, what does this mean for K-drama enthusiasts? For starters, it's a great time to be a fan, with so many fresh titles to look forward to. We're not just getting more of the same old thing, either - the range of stories and genres on offer is pretty impressive. And let's not forget the returning favorites, like Flex X Cop Season 2, which promises to bring the action and suspense we loved in the first season."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by youtube.com](https://www.youtube.com/watch?v=5FcIxSLhzUY)"
+      }
+    ],
+    "takeaways": [
+      "August 2026 will see the release of several new K-dramas, including From Our Sticky Love and Mousetrap.",
+      "Flex X Cop Season 2 is among the highly anticipated returning shows.",
+      "Other notable titles include Four Hands, Two Sonatas, and My.",
+      "The lineup offers a diverse range of genres and storylines."
     ]
   }
 };
