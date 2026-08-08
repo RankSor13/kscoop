@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-08-07T08:53:22.956Z
+ * Last updated: 2026-08-08T08:34:28.171Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -12431,6 +12431,175 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       "Flex X Cop Season 2 is among the highly anticipated returning shows.",
       "Other notable titles include Four Hands, Two Sonatas, and My.",
       "The lineup offers a diverse range of genres and storylines."
+    ]
+  },
+  "live-1786178056880-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Hold Up, 2026 is Already Killing the K-Drama Game"
+      },
+      {
+        "type": "p",
+        "text": "We're not even a year in, and 2026 is already serving up some serious K-drama realness - who needs a \"best of\" list at the end of the year when you can get a sneak peek at the top contenders halfway through? It looks like the folks over at Cinephile Planet are giving us a rundown of the top 10 new Korean dramas of 2025, and honestly, this is a big deal."
+      },
+      {
+        "type": "h2",
+        "text": "What's Got Everyone Talking"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "The list only includes dramas from 2025, so it's a pretty specific timeline",
+          "It's not just about the dramas themselves, but also the platforms they're on - we're talking Netflix, Disney+, and Prime",
+          "Cinephile Planet is counting down the top 10, which means there's gonna be some juicy discussion about what made the cut",
+          "The fact that we're already looking back at 2025's dramas means 2026 has been a wild ride so far",
+          "The source of this list is a YouTube video, because where else do you get your K-drama tea?"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "It's pretty interesting that Cinephile Planet is already reflecting on 2025's K-drama offerings - doesn't it feel like just yesterday we were anticipating what the new year would bring? But was the comeback too fast, or are we just eager for more K-drama content? Either way, it's clear that 2026 is shaping up to be an amazing year for fans."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "The fact that we're seeing these kinds of \"best of\" lists so early in the year says a lot about the K-drama fandom - we're hungry for content, and we're not afraid to dive in and discuss it. But what does this mean for the state of K-dramas right now? Are we in some kind of golden age, or is this just a particularly good year?"
+      },
+      {
+        "type": "h2",
+        "text": "Where Things Stand Now"
+      },
+      {
+        "type": "p",
+        "text": "One thing's for sure - with the rise of streaming platforms like Netflix, Disney+, and Prime, it's easier than ever to get your K-drama fix. And with Cinephile Planet's list, we're getting a glimpse into what's really resonating with fans. So, what are you waiting for? Go check out the video and see which dramas made the cut - you might just find your new favorite show. [originally reported by Cinephile Planet](https://www.youtube.com/watch?v=i43EDO__B-M)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1786178060013-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Endgame Begins"
+      },
+      {
+        "type": "p",
+        "text": "Hyun Bin and Jung Woo-sung's cat-and-mouse thriller series is back, and it's going out with a bang. Made in Korea's second and final season is set to premiere on Disney+ on September 9, and judging by the teaser trailer, it's going to be a wild ride. The new season picks up nine years after the events of the first season, with Baek Kitae (Hyun Bin) having risen to deputy director of the KCIA. He's got his fortune, his power, and his drug operations - but his old nemesis Jang Geonyoung (Jung Woo-sung) is back, and he's got a plan for revenge."
+      },
+      {
+        "type": "p",
+        "text": "But what's really interesting here is that Disney+ renewed the show for a second season before the first had even aired. That's how much faith they had in this series - and it paid off, since it ended up being the most-viewed Korean original premiere of 2025 on Disney+ across Asia-Pacific. The core creative team is back, including writer Park Eun-kyo, who scripted every episode, and director Woo Min-ho, who's known for his political thrillers. And let's not forget Woo Dohwan, who returns as Kitae's brother, Baek Kihyun."
+      },
+      {
+        "type": "h2",
+        "text": "A Thrilling Conclusion"
+      },
+      {
+        "type": "p",
+        "text": "So, what can we expect from this final season? Well, for starters, it's going to be a real showdown between Kitae and Jang. Both men are prepared to \"break every rule and cross every line to eliminate the other once and for all\" - and with the political turmoil spreading, it's going to be a real challenge for them to come out on top. The series is produced by local powerhouse Hive Media Corp, and with Park Eun-kyo also working on The Koreans, Hulu and Disney+'s forthcoming local reimagining of FX's The Americans, it's clear that they're committed to bringing us the best K-drama content out there. But was the decision to end the series after just two seasons the right one? We'll have to wait and see how it all plays out."
+      },
+      {
+        "type": "h2",
+        "text": "The Final Countdown"
+      },
+      {
+        "type": "p",
+        "text": "The final season of Made in Korea premieres on September 9, with two episodes airing that day and two new episodes every Wednesday thereafter. With its talented cast, gripping storyline, and talented creative team, it's shaping up to be an unforgettable conclusion to this prestige period crime drama. Will Kitae and Jang finally get their reckoning? We can't wait to find out. [originally reported by hollywoodreporter.com](https://www.hollywoodreporter.com/tv/tv-news/disney-release-date-made-in-korea-1236663432/)"
+      }
+    ],
+    "takeaways": [
+      "Made in Korea's second and final season premieres on Disney+ on September 9",
+      "The new season picks up nine years after the first season's events, with Baek Kitae as the deputy director of the KCIA",
+      "The series reunites its core creative team, including writer Park Eun-kyo and director Woo Min-ho",
+      "The final season consists of six episodes, with two episodes airing on September 9 and two new episodes every Wednesday thereafter"
+    ]
+  },
+  "live-1786178062512-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Get Ready for a Dramatic Second Half of 2026"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "We're talking a mix of romance, thriller, fantasy, historical, action, and mystery series",
+          "The lineup promises something for every K-drama fan",
+          "It's not clear which dramas will air first, but the variety is definitely intriguing",
+          "The fact that we're getting a sneak peek at what's coming is pretty exciting"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "A Sneak Peek at What's Coming"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal - we're getting a heads up on the K-dramas that'll be hitting our screens from July to December 2026. That's a lot of time to anticipate and speculate about our favorite genres. Will the romance series be tear-jerkers or light-hearted fun? Are the thrillers going to keep us on the edge of our seats? So many questions, but one thing's for sure - the diversity of genres is going to make for an interesting few months."
+      },
+      {
+        "type": "p",
+        "text": "The fact that we're seeing such a broad range of genres is a testament to the creativity of K-drama writers and producers. But was the decision to reveal the lineup now a strategic move to build hype? It's definitely got us talking, that's for sure. We're already imagining which actors might star in these upcoming dramas and what kind of stories they'll tell."
+      },
+      {
+        "type": "h2",
+        "text": "The Lineup Looks Promising"
+      },
+      {
+        "type": "p",
+        "text": "We don't have a lot of details yet, but the promise of exciting storylines and genres is enough to get any K-drama fan excited. From the historical series that'll transport us to another time to the fantasy series that'll let our imaginations run wild, there's something for everyone. And let's not forget the action and mystery series - those are always thrilling rides."
+      },
+      {
+        "type": "h2",
+        "text": "What Fans Are Saying"
+      },
+      {
+        "type": "p",
+        "text": "Fans are already speculating about which dramas will be the most popular and which ones they'll be adding to their watchlists. But one thing's clear - the anticipation is building, and we can't wait to see what these upcoming K-dramas have in store for us. [originally reported by Peach Luffe](https://www.instagram.com/reel/Dbugcm7M1q2/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1786178065532-5": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Making A Statement"
+      },
+      {
+        "type": "p",
+        "text": "IU's just made her first public appearance since the news of her breakup with Lee Jong Suk - and she's doing it in style, folks. We're talking the 5th Blue Dragon Series Awards 2026, where she walked the... well, you know. Honestly, this is a big deal. We've all been waiting to see how she'd come back after the announcement, and it looks like she's not wasting any time."
+      },
+      {
+        "type": "p",
+        "text": "But was the comeback too fast? That's what's got everyone talking. I mean, we're not complaining or anything - it's great to see IU back out there. And let's be real, she's got a lot of fans who are eager to see what's next for her. The question is, what's the plan now? Is she diving back into work, or taking some time for herself?"
+      },
+      {
+        "type": "h2",
+        "text": "Back In The Spotlight"
+      },
+      {
+        "type": "p",
+        "text": "One thing's for sure - IU's still got it. She's walking into that awards show like she owns the place, and we're here for it. It's not like she's been gone for long or anything, but when you're a star like IU, every move you make is under scrutiny. So, it's interesting to see how she's handling all the attention. That's what makes this appearance so significant - it's not just about the awards, it's about IU's return to the public eye."
+      },
+      {
+        "type": "h2",
+        "text": "The Next Chapter"
+      },
+      {
+        "type": "p",
+        "text": "So, what does this mean for IU's future projects? We're not sure yet, but we're definitely excited to find out. For now, it's great to see her back out there, doing her thing. And who knows, maybe this is just the beginning of an amazing new chapter for IU. [originally reported by instagram.com](https://www.instagram.com/reel/Dbi7U_lPQd7/)"
+      }
+    ],
+    "takeaways": [
+      "IU attended the 5th Blue Dragon Series Awards 2026",
+      "This was her first public appearance after her breakup with Lee Jong Suk",
+      "The event marked a significant return to the spotlight for IU",
+      "Fans got a glimpse of IU walking at the awards show"
     ]
   }
 };

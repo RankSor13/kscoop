@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1786178056880-1",
+    "slug": "top-10-new-korean-dramas-of-2025-so-far-netflix-disney-and-prime",
+    "title": "Top 10 New Korean Dramas of 2025 So Far | Netflix, Disney + & Prime",
+    "summary": "Welcome to *Cinephile Planet! 2026 has already delivered an incredible lineup of Korean dramas, and today we're counting down the **Top 10 Best New ...",
+    "category": "upcoming",
+    "author": "Ji Yeon Park",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=i43EDO__B-M",
+    "date": "6 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1786178060013-2",
+    "slug": "disney-sets-release-date-for-season-2-of-made-in-korea",
+    "title": "Disney+ Sets Release Date for Season 2 of Made in Korea",
+    "summary": "Made in Korea, Disney+'s prestige period crime drama, will return Sept. 9 for a second and final season, with the streamer dropping a teaser trailer for the six ...",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "hollywoodreporter.com",
+    "sourceUrl": "https://www.hollywoodreporter.com/tv/tv-news/disney-release-date-made-in-korea-1236663432/",
+    "date": "4 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1786178062512-3",
+    "slug": "reel-by-peach-luffe-peachluffe-august-7-2026-instagram",
+    "title": "Reel by Peach Luffe (@peachluffe) · August 7, 2026 - Instagram",
+    "summary": "Upcoming k ‐dramas 《 July ‐December 2026 》 ✨️ Promise an exciting lineup of romance, Thriller, fantasy, historical, action and mystery series featuring ...",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/Dbugcm7M1q2/",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1786178065126-4",
+    "slug": "made-in-korea-season-2-released-on-9th-september-2026",
+    "title": "Made in Korea season 2 released on 9th September, 2026 ...",
+    "summary": "Disney+'s upcoming series \"Made in Korea,\" a South Korean period political drama television series is scheduled for release on December 24. #MadeInKorea # ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/61568610166174/posts/made-in-korea-season-2-released-on-9th-september-2026-wdohwan-madeinkoreaseason2/122208545960620338/",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1786178065532-5",
+    "slug": "ius-appearance-at-the-5th-blue-dragon-series-awards-2026",
+    "title": "IU's appearance at the 5th Blue Dragon Series Awards 2026 ...",
+    "summary": "Hello guys IU made her first public appearance at the 5th Blue Dragon Series Awards 2026 following the announcement of her breakup with Lee Jong Suk. Walking ...",
+    "category": "trending",
+    "author": "Mia Kwon",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/Dbi7U_lPQd7/",
+    "date": "6 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1786178067729-6",
+    "slug": "byeon-woo-seok-on-instagram-byeon-wooseoks-reaction",
+    "title": "Byeon Woo Seok 변우석 on Instagram: \"Byeon Wooseok's reaction ...",
+    "summary": "Huge congratulations to rookie actress Jeon So-Young for winning Best New Actress at the 2026 Blue Dragon Series Awards for her role in If Wishes Could Kill!",
+    "category": "trending",
+    "author": "Rina Baek",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/Dbfy0U8y5jq/",
+    "date": "7 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1786092794057-1",
     "slug": "south-korean-actor-kim-soo-hyun-has-been-cleared-of",
     "title": "South Korean actor Kim Soo-hyun has been cleared of ...",
@@ -7141,7 +7243,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-08-07T08:53:22.955Z";
+export const LAST_UPDATED = "2026-08-08T08:34:28.170Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
