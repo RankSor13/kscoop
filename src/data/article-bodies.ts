@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-08-08T08:34:28.171Z
+ * Last updated: 2026-08-09T08:36:25.525Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -12600,6 +12600,170 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       "This was her first public appearance after her breakup with Lee Jong Suk",
       "The event marked a significant return to the spotlight for IU",
       "Fans got a glimpse of IU walking at the awards show"
+    ]
+  },
+  "live-1786264575965-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Wait is Almost Over"
+      },
+      {
+        "type": "p",
+        "text": "We're finally getting a Netflix premiere date for one of 2026's most anticipated K-dramas - \"Slowly and Intensely\" is coming to the platform in December 2026. That's right, we've got a whole year to wait, but at least we've got a target to look forward to. Filming starts way earlier, in January 2025, so it's clear the team is giving themselves plenty of time to get everything just right."
+      },
+      {
+        "type": "p",
+        "text": "But was the wait worth it? Honestly, it's hard to say just yet - we don't know much about the show beyond its premiere date and filming schedule. What we do know is that it's generating a lot of buzz, and not just on Netflix. Disney+ is also in the mix, although it's unclear what their role will be. Are they co-producing, or just looking to stream the show too? We'll have to wait and see."
+      },
+      {
+        "type": "h2",
+        "text": "What We Know So Far"
+      },
+      {
+        "type": "p",
+        "text": "So, what can we expect from \"Slowly and Intensely\"? Unfortunately, not a lot - at least, not yet. The summary doesn't give us much to go on, but that's not uncommon for K-dramas. Sometimes the less we know, the better - it's all about the surprise, right? We do know it's going to be a big deal, though. Being called one of 2026's biggest K-dramas is no small thing, and we're expecting great things."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "But what does this mean for K-drama fans? For starters, it's a reminder that we've got some amazing shows on the horizon. 2026 is shaping up to be a great year for K-drama, and \"Slowly and Intensively\" is just the beginning. We're excited to see what the future holds - and we're not alone. Fans are already buzzing about the show, and we can't wait to join in on the conversation."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by facebook.com](https://www.facebook.com/foreveryoungmom/posts/-one-of-2026s-biggest-k-dramas-is-finally-coming-to-netflix-slowly-and-intensely/1499854628824658/)"
+      }
+    ],
+    "takeaways": [
+      "\"Slowly and Intensely\" is set to premiere on Netflix in December 2026",
+      "Filming for the K-drama starts in January 2025",
+      "The show is expected to be one of the biggest K-dramas of 2026",
+      "Netflix isn't the only platform interested, with Disney+ also mentioned"
+    ]
+  },
+  "live-1786264578321-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The K-Drama Invasion Continues"
+      },
+      {
+        "type": "p",
+        "text": "We're just hitting August 2026, and it's already clear that Korean dramas are taking over - and honestly, we're here for it. The genres are getting more diverse, with heartwarming romance being just the tip of the iceberg. But what's really catching our attention is the sheer range of genres that are now on offer."
+      },
+      {
+        "type": "h2",
+        "text": "What's Behind the Surge"
+      },
+      {
+        "type": "p",
+        "text": "It's not like K-dramas are new, but there's something about this latest wave that feels different. Maybe it's the fact that platforms like Netflix and Disney+ are now fully on board, giving these shows a global stage. Whatever the reason, we're seeing more and more people get hooked on the unique blend of style, drama, and humor that K-dramas bring to the table. But was this surge inevitable, or is there something more at play?"
+      },
+      {
+        "type": "h2",
+        "text": "The Future of K-Drama"
+      },
+      {
+        "type": "p",
+        "text": "So, what does the future hold for these addictive shows? Will we see even more experimental genres and storylines? One thing's for sure - with the current momentum, it's an exciting time to be a K-drama fan. But can the industry keep up the pace, or will we see a backlash?"
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "As we look to the rest of 2026, it's clear that K-dramas are going to be a major player in the global entertainment scene. And with the likes of Netflix and Disney+ on board, we can expect even more investment in new shows and talent. That's got to be good news for fans, right? [originally reported by YouTube](https://www.youtube.com/watch?v=m6gf3wSs3t4)"
+      }
+    ],
+    "takeaways": [
+      "Korean dramas are hitting new heights in terms of popularity and diversity",
+      "The arrival of August 2026 marks a new wave of K-drama releases",
+      "Heartwarming romance is just one of the many genres now being showcased",
+      "Global platforms like Netflix and Disney+ are playing a big role in the K-drama boom"
+    ]
+  },
+  "live-1786264580713-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "K-Drama Fans, Rejoice!"
+      },
+      {
+        "type": "p",
+        "text": "August 2026 is shaping up to be an incredible month for K-drama enthusiasts, with not one, not two, but seven new dramas arriving on our screens. That's right, seven! From what we know so far, it's going to be a wild ride, with genres ranging from amnesia romance to revenge thrillers - yes, you read that right, revenge thrillers are coming!"
+      },
+      {
+        "type": "h2",
+        "text": "The Lowdown on August's Dramas"
+      },
+      {
+        "type": "p",
+        "text": "We don't have a ton of details just yet, but we do know that these dramas will be streaming on Netflix, which is great news for international fans. It seems like there's something for everyone, with mystery and sports drama also making an appearance. But let's be real, who isn't intrigued by the idea of an amnesia romance? It's a classic K-drama trope, and we can't wait to see how it's executed this time around."
+      },
+      {
+        "type": "h2",
+        "text": "What We're Most Excited About"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal - seven new dramas in one month is a lot to take in, but we're not complaining. The variety of genres is what's really getting us excited, though. Will the revenge thrillers be gritty and intense, or will they have a more lighthearted tone? And what about the mystery dramas - will they keep us on the edge of our seats, guessing until the very end? We can't wait to find out."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by thesBharat](https://www.instagram.com/thesbharat/p/DbyMmKmlAKQ/)"
+      }
+    ],
+    "takeaways": [
+      "7 K-dramas are arriving in August 2026",
+      "Genres include amnesia romance, revenge thrillers, mystery, and sports drama",
+      "All dramas will be streaming on Netflix",
+      "International fans can look forward to easy access to the new dramas"
+    ]
+  },
+  "live-1786264583096-5": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Disney K-Drama Drop We've Been Waiting For"
+      },
+      {
+        "type": "p",
+        "text": "Get ready, K-drama fans - Disney's just spilled the beans on its 2026 lineup, and we're talking seven fresh dramas hitting our screens in August. That's right, August is shaping up to be a big month for K-drama enthusiasts, with a slew of new shows to binge. But what's really got us excited is the variety - from workplace rom-coms to twisty thrillers, there's something for everyone."
+      },
+      {
+        "type": "p",
+        "text": "The lineup includes My Bias, My Boss, which is already generating buzz among fans. We're not surprised - who doesn't love a good \"opposites attract\" storyline? And then there's Mousetrap, which promises to be a wild ride. But honestly, the best part is that we won't have to wait long to dive in - all seven dramas are set to drop in August, so mark your calendars."
+      },
+      {
+        "type": "h2",
+        "text": "What's Coming to Disney in August"
+      },
+      {
+        "type": "p",
+        "text": "So, what can we expect from these new dramas? Well, for starters, My Bias, My Boss looks like it'll be a fun, lighthearted watch. And Mousetrap... let's just say we're intrigued. The fact that Disney's releasing so many dramas at once is a big deal - it's a sign that they're committed to bringing K-drama fans the best content possible. But was the decision to drop all seven in one month a smart move? We'll have to wait and see how fans react."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "One thing's for sure - this lineup is a game-changer for Disney. By releasing so many dramas at once, they're making a bold statement: they're here to stay, and they're serious about K-drama. We're excited to see how it all plays out - will fans devour all seven dramas, or will some get lost in the shuffle? Only time will... no, seriously, we'll know soon enough, since all seven are dropping in August."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by tiktok.com](https://www.tiktok.com/discover/disney-kdrama-2026-lineup-in-english)"
+      }
+    ],
+    "takeaways": [
+      "7 new K-dramas are coming to Disney in August 2026",
+      "My Bias, My Boss and Mousetrap are among the most anticipated releases",
+      "All dramas will be available to stream on Disney's platform",
+      "The lineup offers a mix of genres, including rom-com and thriller"
     ]
   }
 };

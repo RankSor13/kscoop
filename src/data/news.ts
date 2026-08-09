@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1786264575965-1",
+    "slug": "one-of-2026s-biggest-k-dramas-is-finally-coming-to-netflix-slowly",
+    "title": "One of 2026's Biggest K-Dramas Is Finally Coming to Netflix! \"Slowly ...",
+    "summary": "\"Slowly and Intensely\" Reportedly Set for a December 2026 Netflix Premiere! Filming starts in January 2025 and is expected to release in 2026. Netflix, Disney+ ...",
+    "category": "upcoming",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/foreveryoungmom/posts/-one-of-2026s-biggest-k-dramas-is-finally-coming-to-netflix-slowly-and-intensely/1499854628824658/",
+    "date": "7 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1786264578321-2",
+    "slug": "best-korean-movie-to-watch-on-netflix-disney-youtube",
+    "title": "Best Korean Movie To Watch on Netflix, Disney+ - YouTube",
+    "summary": "... next big binge-worthy series? With the arrival of August 2026, Korean dramas are hitting new heights, showcasing genres that range from heartwarming romance ...",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=m6gf3wSs3t4",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1786264580713-3",
+    "slug": "7-k-dramas-arriving-in-august-2026-from-amnesia-romance-to",
+    "title": "7 K-Dramas Arriving in August 2026, From Amnesia Romance to ...",
+    "summary": "K-Dramas Arriving in August 2026, From Amnesia Romance to Revenge Thrillers ・ dramas arriving across Netflix ・ mystery and sports drama. Streaming on Netflix ...",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/thesbharat/p/DbyMmKmlAKQ/",
+    "date": "17 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1786264582996-4",
+    "slug": "tv-premiere-dates-new-and-returning-shows-directv-insider",
+    "title": "TV Premiere Dates: New & Returning Shows | DIRECTV Insider",
+    "summary": "Updated weekly: the complete 2026 TV premiere dates calendar for every network and streaming platform — Netflix, HBO, Hulu, Prime Video, broadcast and ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "directv.com",
+    "sourceUrl": "https://www.directv.com/insider/tv-premiere-dates/",
+    "date": "5 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1786264583096-5",
+    "slug": "disney-kdrama-2026-lineup-in-english-tiktok",
+    "title": "Disney Kdrama 2026 Lineup in English - TikTok",
+    "summary": "Check 7 fresh K-dramas releasing in August 2026 — dates, streaming platforms, and quick picks including My Bias, My Boss and Mousetrap.",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/discover/disney-kdrama-2026-lineup-in-english",
+    "date": "6 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1786264585383-6",
+    "slug": "who-are-the-most-popular-korean-celebrities-in-south-korea-reddit",
+    "title": "Who are the most popular korean celebrities in South Korea? - Reddit",
+    "summary": "Jun Jihyun might be doing better, Yoo Jae-suk is the celebrity Koreans love the most; if anyone says otherwise, they are not Korean.",
+    "category": "trending",
+    "author": "Rina Baek",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/AskAKorean/comments/1vi9frd/who_are_the_most_popular_korean_celebrities_in/",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1786178056880-1",
     "slug": "top-10-new-korean-dramas-of-2025-so-far-netflix-disney-and-prime",
     "title": "Top 10 New Korean Dramas of 2025 So Far | Netflix, Disney + & Prime",
@@ -7243,7 +7345,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-08-08T08:34:28.170Z";
+export const LAST_UPDATED = "2026-08-09T08:36:25.524Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
