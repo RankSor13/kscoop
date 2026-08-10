@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-08-09T08:36:25.525Z
+ * Last updated: 2026-08-10T09:14:43.454Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -12764,6 +12764,166 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       "My Bias, My Boss and Mousetrap are among the most anticipated releases",
       "All dramas will be available to stream on Disney's platform",
       "The lineup offers a mix of genres, including rom-com and thriller"
+    ]
+  },
+  "live-1786353273256-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Bombshell Alert: CLOY's Kim Jung-hyun and Seo Ji-hye Are a Thing!"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "They've allegedly been dating for a year, which is a pretty long time to keep things under wraps.",
+          "The news was broken by a Korean media outlet that's clearly got a knack for scooping celebrity romances - they're the same ones who outed Hyun Bin's romance.",
+          "CLOY fans are probably losing it right now, since Kim Jung-hyun and Seo Ji-hye played second leads in the show.",
+          "The news has gotten a reaction from at least 3 people, including Jeanne Perry, who's presumably a fan or someone in the know."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "So, it looks like Kim Jung-hyun and Seo Ji-hye's on-screen chemistry in Crash Landing on You (CLOY) might've been more than just acting. But was this really a surprise to anyone who's been following K-drama news? Honestly, it's not like we didn't see this coming - the two of them had some serious sparks flying between them in the show."
+      },
+      {
+        "type": "h2",
+        "text": "The Rumor Mill"
+      },
+      {
+        "type": "p",
+        "text": "The fact that they've been dating for a year is pretty wild, considering how hard it is for K-celebs to keep their personal lives private. But hey, if anyone can make it work, it's probably these two. They seem like a pretty low-key couple, and that's probably what's helped them keep their relationship under the radar for so long. But now that the news is out, we're guessing they'll be under a lot more scrutiny."
+      },
+      {
+        "type": "h2",
+        "text": "What's Next for the Couple?"
+      },
+      {
+        "type": "p",
+        "text": "Now that the news is out, we're all waiting to see how Kim Jung-hyun and Seo Ji-hye will handle the attention. Will they go public with their relationship, or try to keep things quiet? Either way, we're rooting for them - they're a cute couple, and we're happy to see them happy. [originally reported by Koreaboo Rewind](https://www.facebook.com/koreaboorewind/posts/idol-and-actor-address-their-long-term-dating-rumors/1097224406298646/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1786353275676-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Whoa, You Won't Recognize These Actresses"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "They're rocking the moustache look, and it's kinda everything",
+          "The article's got a bunch of leading men too, but let's be real, the actresses are where it's at",
+          "It's all about iconic styles that've become part of their personas",
+          "The video's showcasing actors who can totally pull off a 'stache"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "What's wild is that these actresses are so unrecognizable at the beginning - it's like they're totally different people. But hey, that's what makes it so interesting, right? We're talking about a look that's usually reserved for the guys, and yet, these women are killing it. It's not every day you see a moustache on a leading lady, but when you do, it's definitely memorable."
+      },
+      {
+        "type": "h2",
+        "text": "The Moustache Look: Who's Rocking It?"
+      },
+      {
+        "type": "p",
+        "text": "The article doesn't give away too much, but it does mention that it's featuring leading men as well. Honestly, though, who cares about the guys when you've got actresses pulling off a 'stache like it's nobody's business? It's all about embracing your individuality and having fun with fashion. But was the moustache look always this popular, or is it just a trend that's blowing up now?"
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "It's cool to see a platform like TikTok showcasing unique styles and encouraging people to express themselves. We're not just talking about your run-of-the-mill fashion trends here - we're talking about a full-on moustache. It's bold, it's daring, and it's definitely attention-grabbing. So, who are these mysterious actresses, and how did they become so confident in their 'stache-wearing abilities?"
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by brightside.official](https://www.tiktok.com/@brightside.official/video/7672210731609296130)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1786353277886-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "A Career That's Anything But Boring"
+      },
+      {
+        "type": "p",
+        "text": "Lee Byung-hun's filmography is a wild ride - the guy's done it all. From melodramas like Beautiful Days to action-packed films like I Saw the Devil, he's proven he's not afraid to take on any role. And let's not forget his breakout performance in Joint Security Area, which catapulted him to stardom back in 2000. But what's really impressive is how he's managed to balance his Korean career with roles in Hollywood blockbusters like G.I. Joe and Terminator Genisys. It's not every day you see a Korean actor starring alongside Bruce Willis, after all."
+      },
+      {
+        "type": "p",
+        "text": "But Lee Byung-hun's success isn't just limited to his acting chops - he's also made history in the process. He was the first South Korean actor to present an Oscar, and he's a member of the prestigious Academy of Motion Picture Arts and Sciences. And if that's not enough, he's also had his hand and footprints immortalized at Grauman's Chinese Theatre in Hollywood, alongside fellow Korean actor Ahn Sung-ki. It's a feat that's sure to make any actor jealous."
+      },
+      {
+        "type": "h2",
+        "text": "Breaking Down Barriers"
+      },
+      {
+        "type": "p",
+        "text": "So, what's behind Lee Byung-hun's enduring success? For starters, he's not afraid to take risks and try new things. Whether it's starring in a gritty drama like Inside Men or voicing a character in an animated series like KPop Demon Hunters, he's always up for a challenge. And it's paid off - he's been named Gallup Korea's Film Actor of the Year and Television Actor of the Year, and he's even been nominated for a Golden Globe. But was it all smooth sailing? Definitely not - he's had his fair share of ups and downs, from the early days of his career to the present."
+      },
+      {
+        "type": "h2",
+        "text": "Where Things Stand Now"
+      },
+      {
+        "type": "p",
+        "text": "It's clear that Lee Byung-hun is still going strong, with recent roles in Squid Game and No Other Choice. But what's next for this talented actor? Will he continue to break down barriers and push the boundaries of what's possible for Korean actors in Hollywood? Only time will... just kidding, we won't say that. What we will say is that we're excited to see what he does next. And with a career spanning over three decades, it's clear that Lee Byung-hun is here to stay. [originally reported by Wikipedia](https://en.wikipedia.org/wiki/Lee_Byung-hun)"
+      }
+    ],
+    "takeaways": [
+      "Lee Byung-hun's breakthrough role was in Park Chan-wook's Joint Security Area (2000), which broke box office records and became the highest-grossing Korean film at the time.",
+      "He's had a versatile career, starring in a wide range of genres, from dramas like All In (2003) and Iris (2009) to films like A Bittersweet Life (2005) and The Good, the Bad, the Weird (2008).",
+      "Lee Byung-hun has also made a name for himself in the US, starring in films like G.I. Joe: The Rise of Cobra (2009) and Red 2 (2013).",
+      "He's a member of the Academy of Motion Picture Arts and Sciences and was the first South Korean actor to present an Oscar at the annual Academy Awards."
+    ]
+  },
+  "live-1786353280477-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "A New Addition to the Family"
+      },
+      {
+        "type": "p",
+        "text": "Tang Wei, the talented Chinese actress, has just given birth to her second child - and it's a boy! Honestly, this is a big deal, and we're thrilled for her and her husband, South Korean director Kim Tae-yong. At 45, Tang Wei is proving that you're never too old to expand your family, and we're loving the positive vibes."
+      },
+      {
+        "type": "p",
+        "text": "The couple's decision to share their happy news with the public is also worth noting - in an industry where privacy is often paramount, it's refreshing to see them being so open. But was the announcement a surprise? Not entirely, given that Tang Wei and Kim Tae-yong have always seemed like a down-to-earth couple."
+      },
+      {
+        "type": "h2",
+        "text": "The Happy Couple"
+      },
+      {
+        "type": "p",
+        "text": "So, what do we know about Tang Wei and Kim Tae-yong's relationship? Well, for starters, they're a pretty private couple, but they've always seemed really in love. And now, with two kids, they must be over the moon. We're happy for them, and we can't wait to see what the future holds for this adorable family."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "As we congratulate Tang Wei and Kim Tae-yong on their new arrival, we can't help but wonder - what's next for the couple? Will they be taking a break from work to focus on their family, or will they be juggling parenting duties with their busy careers? Only time will... no, scratch that - we'll just have to wait and see what they decide."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by thestandard.com.hk](https://www.thestandard.com.hk/entertainment)"
+      }
+    ],
+    "takeaways": [
+      "Tang Wei is 45 years old, and she's just had her second kid",
+      "The baby's a boy, and we're beyond excited for the family",
+      "Tang Wei's husband is South Korean director Kim Tae-yong",
+      "The couple shared their happy news publicly, and we're here for it"
     ]
   }
 };

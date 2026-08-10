@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1786353273256-1",
+    "slug": "idol-and-actor-address-their-long-term-dating-rumors-facebook",
+    "title": "Idol And Actor Address Their Long Term Dating Rumors - Facebook",
+    "summary": "CLOY's 2nd leads Kim Jung-hyun and Seo Ji-hye dating for 1 year, claims Korean media that outed Hyun Bin's romance. Jeanne Perry and 2 others. 3 reactions.",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/koreaboorewind/posts/idol-and-actor-address-their-long-term-dating-rumors/1097224406298646/",
+    "date": "21 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1786353275676-2",
+    "slug": "19-famous-actresses-who-are-so-unrecognizable-at-the-beginning",
+    "title": "19 Famous Actresses Who Are So Unrecognizable at the Beginning ...",
+    "summary": "In this article, we explore actors who rock the moustache look, showcasing those whose iconic styles have become part of their personas. From leading men to ...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@brightside.official/video/7672210731609296130",
+    "date": "8 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1786353277886-3",
+    "slug": "lee-byung-hun-wikipedia",
+    "title": "Lee Byung-hun - Wikipedia",
+    "summary": "Lee Byung-hun is a South Korean actor. He has received acclaim for his work in a wide range of genres, most notably Joint Security Area (2000); A ...",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "en.wikipedia.org",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Lee_Byung-hun",
+    "date": "5 days ago",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Lee_Byung-hun_2025_Toronto_%28cropped%29.jpg/960px-Lee_Byung-hun_2025_Toronto_%28cropped%29.jpg?utm_source=en.wikipedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1786353280477-4",
+    "slug": "entertainment-showbiz-the-standard-hk",
+    "title": "Entertainment | Showbiz - The Standard (HK)",
+    "summary": "Chinese actress Tang Wei, 45, has welcomed her second child, a baby boy, with South Korean director husband Kim Tae-yong. The couple shared the happy news on ...",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "thestandard.com.hk",
+    "sourceUrl": "https://www.thestandard.com.hk/entertainment",
+    "date": "1 day ago",
+    "image": "https://image.hkstandard.com.hk/f/1200p630/0x0/100/none/f4da2bec238bf0d72725c92c94e33b53/2026-01/TS_Logo_-_OG_Image.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1786353282533-5",
+    "slug": "lowkey-want-to-fight-the-entire-korean-entertainment-industry-for-not",
+    "title": "Lowkey want to fight the entire Korean Entertainment industry for not ...",
+    "summary": "✨️Son seung won Cancelled after being convicted of a DUl ✨️Lee jong hyun Cancelled due to the Burning Sun scandal. ✨️Shim eun ha Retired from acting to ...",
+    "category": "gossip",
+    "author": "Mia Kwon",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/100065026830513/posts/lowkey-want-to-fight-the-entire-korean-entertainment-industry-for-not-giving-my-/1434275938749954/",
+    "date": "18 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1786353282870-6",
+    "slug": "korean-actors-and-their-latest-kdrama-in-2026",
+    "title": "KOREAN ACTORS AND THEIR LATEST KDRAMA IN 2026",
+    "summary": "Korean Actors And Their Latest Kdrama in 2026 Nam Joo Hyuk The East Palce Park Eun bin Spooky in Love Lee Hyeri Dream To You Cha Eun Woo The Wonder Fool Lee ...",
+    "category": "gossip",
+    "author": "Rina Baek",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DbxqCWvOfKy/",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1786264575965-1",
     "slug": "one-of-2026s-biggest-k-dramas-is-finally-coming-to-netflix-slowly",
     "title": "One of 2026's Biggest K-Dramas Is Finally Coming to Netflix! \"Slowly ...",
@@ -7345,7 +7447,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-08-09T08:36:25.524Z";
+export const LAST_UPDATED = "2026-08-10T09:14:43.452Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
