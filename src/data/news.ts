@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1786438137608-1",
+    "slug": "muhafiz-epi-40-teaser-is-zawar-going-to-know-reshams",
+    "title": "Muhafiz Epi 40 Teaser - Is Zawar going to know Resham's ...",
+    "summary": "Pakistani actress Momina Iqbal finally addressed the bizarre rumours of her being Khwaja Sara or gay during a recent interview. She expressed disbelief,",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@harpalgeo/video/7671300940216995073",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1786438139515-2",
+    "slug": "the-august-kdramas-kdrama",
+    "title": "The August kdramas #kdrama",
+    "summary": "Flex X Detective 2 Release Date: August 7 SBS & Disney+ 2. Our Sticky Love Release Date: August 7 Netflix 3. Mousetrap",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/Db2IU8JoQBL/",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1786438141812-3",
+    "slug": "three-netflix-k-dramas-could-get-a-second-season-each",
+    "title": "Three Netflix K-dramas could get a second season each. ...",
+    "summary": "Upcoming K-Dramas Premiering on Netflix in 2026: 1. The Wonderfools 2. Bloodhounds S2 3. Show Business 4. East Palace 5. Boyfriend On Demand 6. The Art Of ...",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/ScreenRant/posts/three-netflix-k-dramas-could-get-a-second-season-each-read-more-/1464378288879867/",
+    "date": "2026-08-11",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1786438143724-4",
+    "slug": "top-10-best-korean-disney-dramas-of-2026-january-august",
+    "title": "Top 10 Best Korean Disney Dramas of 2026 (January - August)",
+    "summary": "Top 10 Best Korean Disney Dramas of 2026 (January - August) | Best Korean Drama To Watch on Disney+. Moonlight Drama Kind Girl. K-Dramas on Disney+. Watch on ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=gwD8Z1LgSLI",
+    "date": "23 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1786438146363-5",
+    "slug": "15-best-korean-series-on-netflix-in-2026-new-and-must-watch-k",
+    "title": "15 Best Korean Series on Netflix in 2026 | New & Must-Watch K ...",
+    "summary": "15 Best Korean Series on Netflix in 2026. Hello and Welcome to Asian Odyssey. K-Dramas on Disney+ | Underrated Korean Series! BEST 2026 Korean Dramas So Far ( ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=CdKQbN7wLWI",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1786438148306-6",
+    "slug": "netflix-giving-best-kdrama-series-in-2026-teach-you-a",
+    "title": "Netflix giving best kdrama series in 2026 | Teach You A ...",
+    "summary": "\" As confirmed in Netflix's Global 2026 , Lee Moo-saeng & Jang Seung-jo Premieres November 7. It will be tvN's first weekend drama of 2026. Public All of Us ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/NeverthelessKoreanDramaGLOBAL/posts/netflix-giving-best-kdrama-series-in-2026-teach-you-a-lesson-agent-kim-reactivat/1489866549825371/",
+    "date": "2026-08-11",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1786353273256-1",
     "slug": "idol-and-actor-address-their-long-term-dating-rumors-facebook",
     "title": "Idol And Actor Address Their Long Term Dating Rumors - Facebook",
@@ -7447,7 +7549,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-08-10T09:14:43.452Z";
+export const LAST_UPDATED = "2026-08-11T08:49:08.560Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES

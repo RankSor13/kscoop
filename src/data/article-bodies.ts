@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-08-10T09:14:43.454Z
+ * Last updated: 2026-08-11T08:49:08.563Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -12924,6 +12924,207 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       "The baby's a boy, and we're beyond excited for the family",
       "Tang Wei's husband is South Korean director Kim Tae-yong",
       "The couple shared their happy news publicly, and we're here for it"
+    ]
+  },
+  "live-1786438137608-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Tea Has Been Spilled"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Momina Iqbal is speaking out about those weird rumors",
+          "She's talking about her personal life in a recent interview",
+          "The rumors in question are about her being Khwaja Sara or gay",
+          "She's expressed disbelief over these bizarre claims"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Cutting Through The Noise"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal - Momina Iqbal's finally addressing those rumors that's been circulating about her. It's not every day a Pakistani actress speaks out about her personal life, especially when it comes to sensitive topics like this. But what's really surprising here is that she's using a recent interview to set the record straight."
+      },
+      {
+        "type": "p",
+        "text": "So, what prompted her to talk about this now? Was the constant speculation getting to her, or did she just feel like it was time to clear the air? But was she really going to let these rumors define her, or was she going to take control of her own narrative?"
+      },
+      {
+        "type": "h2",
+        "text": "Getting Real"
+      },
+      {
+        "type": "p",
+        "text": "It's not like we haven't seen this before - celebrities being hounded by rumors and speculation about their personal lives. But there's something about Momina Iqbal's situation that feels different. Maybe it's because she's being so open and honest about the whole thing, or maybe it's because we're just not used to seeing Pakistani actresses speak out like this. Whatever the reason, it's definitely got our attention."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "So, what does this mean for Momina Iqbal's career, and for the Pakistani entertainment industry as a whole? That's a tough question to answer right now, but one thing's for sure - she's not going to let these rumors bring her down. [originally reported by harpalgeo](https://www.tiktok.com/@harpalgeo/video/7671300940216995073)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1786438139515-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "K-Drama Frenzy: August Just Got Real"
+      },
+      {
+        "type": "p",
+        "text": "We're just a few days into July, and August is already shaping up to be a huge month for K-drama fans - it's not every day we get not one, not two, but three major releases to look forward to. Flex X Detective 2 is leading the charge, dropping on August 7 on both SBS and Disney+, which is a big deal, since that means it'll be super easy to watch, no matter where you are."
+      },
+      {
+        "type": "h2",
+        "text": "The Lowdown on August Releases"
+      },
+      {
+        "type": "p",
+        "text": "Our Sticky Love is also hitting Netflix on the same day, August 7, because why make us wait, right? It's going to be interesting to see how these two shows stack up against each other, given they're dropping on the same day. But that's not all - Mousetrap is also on the horizon, though we don't have a specific release date for that one yet. That's a whole lot of K-drama goodness coming our way, and honestly, this is a big deal - we're talking multiple platforms, multiple shows, all in one month. But was the decision to release two shows on the same day a strategic move, or just a coincidence?"
+      },
+      {
+        "type": "h2",
+        "text": "What's Got Fans Talking"
+      },
+      {
+        "type": "p",
+        "text": "One thing's for sure, though: fans are going to have a lot to say about this. With Flex X Detective 2 and Our Sticky Love going head-to-head, the competition is on - but in a good way, because let's be real, more K-drama is always a good thing. And then there's Mousetrap, waiting in the wings, ready to shake things up even more. It's going to be a wild ride, that's for sure."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "So, what does this mean for the world of K-drama? For starters, it means we've got a lot to look forward to - new shows, new stories, and new chances to get obsessed with our favorite actors and characters. And who knows, maybe this is just the beginning of an amazing few months of K-drama releases. [originally reported by instagram.com](https://www.instagram.com/reel/Db2IU8JoQBL/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1786438141812-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Netflix Is Bringing The Heat"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Three Netflix K-dramas might be getting a second season, and we're already hyped",
+          "The Wonderfools is one of the upcoming K-dramas premiering on Netflix in 2026",
+          "Bloodhounds is actually getting a second season, which is awesome news for fans",
+          "Other upcoming shows include Show Business, East Palace, and Boyfriend On Demand"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "What's Coming To Netflix In 2026"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal - Netflix is really investing in K-dramas. With six new shows lined up, including The Art Of, it's clear they're trying to cater to our K-drama addiction. But was the announcement of potential second seasons for three of these shows the most exciting part? Maybe, because it shows Netflix is committed to giving us more of what we love."
+      },
+      {
+        "type": "p",
+        "text": "The fact that Bloodhounds is already confirmed for a second season is a great sign. It means Netflix is paying attention to what fans want, and they're not afraid to give their shows a chance to grow. And with The Wonderfools and other shows like Show Business and East Palace on the horizon, it's going to be a wild ride."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "So, what does this mean for K-drama fans? It means we've got a lot to look forward to in 2026. With Boyfriend On Demand and The Art Of also premiering, our watchlists are about to get a whole lot busier. But that's not a bad thing - it's a great problem to have. We're excited to see what these new shows bring, and we're keeping our fingers crossed that those three potential second seasons become a reality."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by ScreenRant](https://www.facebook.com/ScreenRant/posts/three-netflix-k-dramas-could-get-a-second-season-each-read-more-/1464378288879867/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1786438143724-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Mid-Year K-Drama Scoop: What's Hot on Disney+"
+      },
+      {
+        "type": "p",
+        "text": "We're just eight months into 2026, and Disney+ is already killing the K-drama game - so much so that someone's gone ahead and ranked the top 10 best Korean Disney dramas of the year so far. But what really catches our eye is that \"Moonlight Drama Kind Girl\" is somehow part of this exclusive list."
+      },
+      {
+        "type": "h2",
+        "text": "A Closer Look at the Rankings"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, it's not every day we see someone curate a list of the best K-dramas on Disney+, especially considering how fast new content is dropping. The fact that there's already a \"top 10\" list out might say a lot about how strong the lineup has been from January to August. But was \"Moonlight Drama Kind Girl\" really one of the best, or is this a dark horse we shouldn't sleep on?"
+      },
+      {
+        "type": "h2",
+        "text": "What Fans Can Expect"
+      },
+      {
+        "type": "p",
+        "text": "Given the source is a YouTube video, it's likely we're looking at a fan-made list rather than an official Disney+ ranking. That makes it even more interesting - what did the creator of this list see in \"Moonlight Drama Kind Girl\" that made it stand out? For K-drama enthusiasts, this could be a hidden gem worth uncovering. If you're looking for something new to watch on Disney+, this list might just have you covered."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by youtube.com](https://www.youtube.com/watch?v=gwD8Z1LgSLI)"
+      }
+    ],
+    "takeaways": [
+      "The list includes \"Moonlight Drama Kind Girl\", a drama that's managed to secure a spot among the top 10.",
+      "The ranking covers K-dramas available on Disney+ from January to August 2026.",
+      "Fans can find this list on YouTube, offering a unique perspective on what's worth watching.",
+      "The presence of such a list highlights the diverse and strong lineup of K-dramas on Disney+ this year."
+    ]
+  },
+  "live-1786438146363-5": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "K-Drama Frenzy on Netflix"
+      },
+      {
+        "type": "p",
+        "text": "It's official: 2026 is shaping up to be an epic year for K-drama fans on Netflix, with a whopping 15 best Korean series to binge. But what's really caught our attention isn't just the number - it's the fact that we're only halfway through the year and we're already getting a rundown of the must-watch shows."
+      },
+      {
+        "type": "h2",
+        "text": "New & Must-Watch K-Dramas"
+      },
+      {
+        "type": "p",
+        "text": "So, what makes these 15 series stand out? Honestly, it's not like we haven't seen great K-dramas before, but there's something about this year's lineup that's got us excited. From romantic comedies to intense thrillers, there's a little something for everyone. And let's not forget the underrated Korean series on Disney+ that are also worth checking out."
+      },
+      {
+        "type": "h2",
+        "text": "The Best So Far"
+      },
+      {
+        "type": "p",
+        "text": "But was 2026 always supposed to be this big for K-dramas? We're not sure, but one thing's for sure - fans are loving the constant stream of new content. The fact that we're already talking about the best 2026 Korean dramas so far is a testament to how much amazing stuff is out there. So, what are you waiting for? Get ready to dive into the world of K-dramas and discover your new favorite show."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by youtube.com](https://www.youtube.com/watch?v=CdKQbN7wLWI)"
+      }
+    ],
+    "takeaways": [
+      "15 best Korean series are available on Netflix in 2026",
+      "The lineup includes a mix of genres, from romantic comedies to thrillers",
+      "Underrated Korean series on Disney+ are also worth checking out",
+      "2026 is shaping up to be a great year for K-drama fans"
     ]
   }
 };
