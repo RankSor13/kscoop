@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1786525654306-1",
+    "slug": "why-is-everyone-stuck-in-their-house-the-last-house",
+    "title": "Why is everyone stuck in their house?? THE LAST HOUSE ...",
+    "summary": "netflix on August 8, 2026: THE LAST HOUSE, starring Greta Lee and Wagner Moura, ... Greta Lee and Wagner Moura, is now playing.",
+    "category": "upcoming",
+    "author": "Ji Yeon Park",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/DbybzM9isJO/",
+    "date": "2026-08-12",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1786525656052-2",
+    "slug": "the-career-trajectory-of-our-sticky-love-star-ha-young-has",
+    "title": "The career trajectory of Our Sticky Love star Ha Young has ...",
+    "summary": "The career trajectory of Our Sticky Love star Ha Young has shifted dramatically, transforming from a celebration of her breakout performance into a PR crisis ...",
+    "category": "trending",
+    "author": "Soo Min Lee",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/kdramafans01/posts/the-career-trajectory-of-our-sticky-love-star-ha-young-has-shifted-dramatically-/1606658721072065/",
+    "date": "2026-08-12",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1786525657925-3",
+    "slug": "the-it-kids-of-south-korea",
+    "title": "The It-Kids of South Korea",
+    "summary": "Choo Young Woo is a Korean actor predominantly known for his roles in a host of South Korean TV shows, after debuting in web series You Make Me Dance in 2021.",
+    "category": "trending",
+    "author": "Dana Kim",
+    "source": "vogue.com",
+    "sourceUrl": "https://www.vogue.com/article/the-it-kids-of-south-korea",
+    "date": "5 hours ago",
+    "image": "https://assets.vogue.com/photos/6a7b024afa9a7f3497778b00/16:9/w_1280,c_limit/08-TK-26-IT-KIDS-KOREA-vogue-business-social-newsletter.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1786525660996-4",
+    "slug": "we-always-love-it-when-michaelyo-stops-by-did-you-know",
+    "title": "We always love it when @michaelyo stops by. Did you know ...",
+    "summary": "We always love it when @michaelyo stops by. Did you know he's a megastar in Korea? He revealed how he found out. Tap the link in bio for more.",
+    "category": "trending",
+    "author": "Hana Cho",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DbwVfvSAW-L/",
+    "date": "4 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1786525661245-5",
+    "slug": "south-korean-actor-and-sparkle-talent-kim-ji-soos-career",
+    "title": "South Korean actor and Sparkle talent Kim Ji Soo's career ...",
+    "summary": "South Korean actor and Sparkle talent Kim Ji Soo's career in the Philippines continues to flourish, as evidenced by his recent attendance at a fashion ...",
+    "category": "trending",
+    "author": "Mia Kwon",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/DbxfeD_icHn/",
+    "date": "2026-08-12",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1786525662892-6",
+    "slug": "south-korean-actress-ha-young-sorry-for-controversy-over",
+    "title": "South Korean actress Ha Young sorry for controversy over ...",
+    "summary": "A South Korean actress has apologised for the controversy surrounding her great-grandfather's pro-Japanese ties during Japan's 1910-45 colonial rule, ...",
+    "category": "trending",
+    "author": "Rina Baek",
+    "source": "scmp.com",
+    "sourceUrl": "https://www.scmp.com/week-asia/people/article/3363654/south-korean-actress-ha-young-sorry-controversy-over-ancestors-pro-japanese-ties",
+    "date": "1 day ago",
+    "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/11/54c350b5-3621-46db-9778-0b99ac4da7de_851b338c.jpg?itok=KOPjVQON&amp;v=1786438368",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1786438137608-1",
     "slug": "muhafiz-epi-40-teaser-is-zawar-going-to-know-reshams",
     "title": "Muhafiz Epi 40 Teaser - Is Zawar going to know Resham's ...",
@@ -7549,7 +7651,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-08-11T08:49:08.560Z";
+export const LAST_UPDATED = "2026-08-12T09:07:43.637Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES

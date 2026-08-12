@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-08-11T08:49:08.563Z
+ * Last updated: 2026-08-12T09:07:43.639Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -13125,6 +13125,174 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       "The lineup includes a mix of genres, from romantic comedies to thrillers",
       "Underrated Korean series on Disney+ are also worth checking out",
       "2026 is shaping up to be a great year for K-drama fans"
+    ]
+  },
+  "live-1786525654306-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Last House is Here, But What's the Big Deal?"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "It's now playing on Netflix, so you can finally stop waiting.",
+          "Greta Lee and Wagner Moura star in this highly anticipated show.",
+          "The release date is August 8, 2026, which is already here.",
+          "The show is called THE LAST HOUSE, and it's got everyone talking."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Let's Get Real About This Show"
+      },
+      {
+        "type": "p",
+        "text": "The Last House just dropped on Netflix, and honestly, it's about time. We've been waiting for what feels like forever, and now that it's here, we can't help but wonder what all the fuss is about. With Greta Lee and Wagner Moura starring, we're expecting big things. But was the wait worth it? That's what we're all trying to figure out right now."
+      },
+      {
+        "type": "h2",
+        "text": "The Cast is Everything"
+      },
+      {
+        "type": "p",
+        "text": "Greta Lee and Wagner Moura - what a duo. They're the reason we're all so hyped about The Last House, and we can't wait to see what they bring to the table. It's August 8, 2026, and the show is finally playing, so let's get watching and see if it lives up to the hype."
+      },
+      {
+        "type": "h2",
+        "text": "Where to Watch"
+      },
+      {
+        "type": "p",
+        "text": "If you're still wondering where to catch The Last House, it's pretty simple: Netflix is the place to be. They've got the show ready to stream, so what are you waiting for? Get cozy, grab some snacks, and let's dive in. [originally reported by instagram.com](https://www.instagram.com/p/DbybzM9isJO/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1786525656052-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "From Breakout to Breakdown"
+      },
+      {
+        "type": "p",
+        "text": "Ha Young's career was supposed to be on fire after Our Sticky Love - instead, it's turned into a full-blown PR crisis. What happened? That's the million-dollar question on every K-drama fan's mind. We're talking about a star who was supposed to be basking in the glory of her breakout performance, not dealing with a crisis that's threatening to derail her entire career."
+      },
+      {
+        "type": "p",
+        "text": "The fact that Ha Young's career trajectory has shifted so dramatically is honestly a big deal. It's not every day you see a star go from being on top of the world to facing a PR disaster. But that's exactly what's happened here. And the worst part is, we don't even know what's going on - the summary doesn't give us any clues about what sparked this crisis."
+      },
+      {
+        "type": "h2",
+        "text": "The Fallout"
+      },
+      {
+        "type": "p",
+        "text": "So, what does this mean for Ha Young's future? Is she going to be able to recover from this PR crisis, or is it going to be a permanent stain on her career? These are the questions that are going to be on everyone's mind in the coming days and weeks. One thing's for sure, though - Ha Young's team has got its work cut out for it."
+      },
+      {
+        "type": "h2",
+        "text": "Where Things Stand Now"
+      },
+      {
+        "type": "p",
+        "text": "For now, we're just going to have to wait and see how this all plays out. Will Ha Young be able to bounce back from this crisis, or is her career going to suffer long-term damage? Only time will... no, scratch that - we don't know what's going to happen, and that's what makes this so interesting. [originally reported by kdramafans01](https://www.facebook.com/kdramafans01/posts/the-career-trajectory-of-our-sticky-love-star-ha-young-has-shifted-dramatically-/1606658721072065/)"
+      }
+    ],
+    "takeaways": [
+      "Ha Young's career is in a PR crisis",
+      "This shift happened after her breakout performance in Our Sticky Love",
+      "The drama was supposed to be a celebration of her talent",
+      "Now, it's a dramatic turn of events"
+    ]
+  },
+  "live-1786525657925-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Next Wave of K-Stars"
+      },
+      {
+        "type": "p",
+        "text": "Choo Young Woo might be the name on everyone's lips, but he's not the only one - 2026 is shaping up to be a huge year for Korean film and TV, with Netflix alone announcing 33 new series and films. And it's not just the quantity that's impressive, it's the quality too - shows like Teach You a Lesson and Can This Love Be Translated? are already racking up millions of views. But what does this mean for the next generation of K-stars, and how are luxury brands looking to tap into their massive influence?"
+      },
+      {
+        "type": "p",
+        "text": "It's no secret that K-pop idols like BTS and Blackpink have been dominating the fashion scene, but according to Hyewon Hwang, web editor at Vogue Korea, actors are taking a more gradual approach to building their brand. They're focusing on building a solid filmography, gaining recognition, and then leveraging that to secure major ambassadorships. And it's working - just look at the likes of Choo Young Woo, who's already making waves in the industry."
+      },
+      {
+        "type": "h2",
+        "text": "The Luxury Factor"
+      },
+      {
+        "type": "p",
+        "text": "So, what's driving the interest in Korean talent from luxury brands? For one, it's the sheer scale of their influence - as Launchmetrics CMO Alison Bringé notes, South Korean ambassadors are \"some of the most reliable value drivers in fashion, lifestyle and beauty\". But it's not just about the numbers - it's about the loyalty and dedication of K-fans, who are willing to go all out for their favorite stars. And with the next generation of talent being \"digitally native and globally connected from day one\", the potential for brands to tap into that influence is huge."
+      },
+      {
+        "type": "h2",
+        "text": "Starpower and Strategy"
+      },
+      {
+        "type": "p",
+        "text": "Of course, there are challenges to navigating the Korean entertainment industry - like the mandatory military service that can impact male actors' careers. But as Bringé says, \"what's coming next is even stronger\" - and luxury brands are taking notice. They're looking for ways to partner with talent ahead of their conscription, to get in on the ground floor and build a loyal following. It's a smart move, given the fan frenzies that can surround K-pop idols and actors. And with the right strategy, brands can tap into that starpower and turn it into real sales and loyalty."
+      },
+      {
+        "type": "h2",
+        "text": "Looking Ahead"
+      },
+      {
+        "type": "p",
+        "text": "So, what does the future hold for Korean talent and luxury brands? One thing's for sure - it's going to be big. With Netflix's slate of new shows and films, and the rising stars of the K-drama scene, there's never been a better time to be a part of the Korean entertainment industry. And as brands look to tap into that influence, we can expect to see even more exciting partnerships and collaborations in the future. [originally reported by Vogue](https://www.vogue.com/article/the-it-kids-of-south-korea)"
+      }
+    ],
+    "takeaways": [
+      "South Korea is one of the top three regions for talent by earned media value (EMV) in Fall/Winter 2026, alongside other powerhouse regions.",
+      "Launchmetrics CMO Alison Bringé notes that South Korean ambassadors are \"some of the most reliable value drivers in fashion, lifestyle and beauty\".",
+      "Netflix has announced 33 South Korean series and films for 2026, with shows like Teach You a Lesson and Can This Love Be Translated? already gaining over 20 million views.",
+      "South Korea's mandatory military service can impact male actors' careers, with many securing ambassadorships after completing their service."
+    ]
+  },
+  "live-1786525661245-5": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Sparkle In The Philippines"
+      },
+      {
+        "type": "p",
+        "text": "Kim Ji Soo's career in the Philippines is on fire - and we're not just talking about his latest fashion stint. Honestly, it's a big deal for a South Korean actor to be making such a name for himself in a different country. But was this always the plan for Kim Ji Soo, or is this a happy surprise?"
+      },
+      {
+        "type": "p",
+        "text": "The fact that he's affiliated with Sparkle talent agency is definitely a factor in his success. But what's really interesting is how he's managing to break into the Philippine scene. It's not every day you see a Korean actor attending fashion events in the Philippines, so this is definitely a noteworthy move."
+      },
+      {
+        "type": "h2",
+        "text": "Career Highlights"
+      },
+      {
+        "type": "p",
+        "text": "Kim Ji Soo's recent attendance at a fashion event is just the latest in a string of career highlights. We're curious to know what's next for this talented actor - will he be taking on more projects in the Philippines, or will he be heading back to Korea? Only time will... just kidding, we won't say that. Let's just say we're excited to see what Kim Ji Soo does next."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "It's not just about Kim Ji Soo, though - his success in the Philippines says a lot about the growing popularity of Korean talent in other countries. Are we seeing a new trend here? It's definitely possible, and we're here for it."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by instagram.com](https://www.instagram.com/p/DbxfeD_icHn/)"
+      }
+    ],
+    "takeaways": [
+      "Kim Ji Soo is a South Korean actor who's making waves in the Philippines",
+      "He's currently affiliated with Sparkle talent agency",
+      "His career in the Philippines is going strong",
+      "Kim Ji Soo recently attended a fashion event"
     ]
   }
 };
