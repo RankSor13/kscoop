@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1786612035807-1",
+    "slug": "the-last-house-netflix",
+    "title": "🎥: THE LAST HOUSE | Netflix",
+    "summary": "Jun 15, 2026 · 161K views. New Sci-Fi Horror “THE LAST HOUSE”‼️Releases on Netflix August 7th. 02:21. New Sci-Fi Horror “THE LAST HOUSE”‼️Releases on Netfli..",
+    "category": "upcoming",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/netflixus/videos/-the-last-house/2060559954551898/",
+    "date": "4 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1786612039391-2",
+    "slug": "lee-dong-wook-answers-whether-a-shop-for-killers-season",
+    "title": "Lee Dong Wook answers whether \"A Shop For Killers\" season ...",
+    "summary": "Lee Dong Wook answers whether \"A Shop For Killers\" season 3 would be possible, and what would be his conditions: \"The main condition is season 2's success, ...",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@giaallana/video/7673113646007946514",
+    "date": "21 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1786612041466-3",
+    "slug": "name-and-information-love-untangled-2025-1h",
+    "title": "👇Name & Information👇 ⠀ 🎬 Love Untangled (2025) 🎬 ⠀ ⏳ 1h ...",
+    "summary": "This guide highlights the top ten K-dramas you should definitely watch next year, including some stellar releases scheduled for December 2025. Prepare your ...",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@cinema_simple/video/7671732846632979733",
+    "date": "4 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1786612043759-4",
+    "slug": "nightmare-morning-after-now-streaming-furiousonhulu-hulu",
+    "title": "Nightmare morning after. Now streaming: #FuriousonHulu | Hulu",
+    "summary": "#FuriousonHulu premieres July 27 on Disney+. 00:30. Prepare to get FURIOUS. #FuriousonHulu premieres Ju...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/hulu/videos/nightmare-morning-afternow-streaming-furiousonhulu/1941351673519167/",
+    "date": "6 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1786612047057-5",
+    "slug": "marvel-legends-punisher-one-last-kill-disney-mcu",
+    "title": "Marvel Legends PUNISHER One Last Kill Disney+ MCU ...",
+    "summary": "If you take his arms from daredevil born again and swap them with the arms on the one last kill punisher action figure you can make the punisher from ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=VfuxfcuVjo8",
+    "date": "5 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1786612047849-6",
+    "slug": "netflix-just-dropped-this-banger-plot",
+    "title": "Netflix just dropped this banger🔥 plot ...",
+    "summary": "... new K-drama. * Title: Our Sticky Love * Also known as: Sticky Love ... Release Date: July 22, 2026. Episodes: 8✨ Runtime: Approximately 50 minutes ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DbwlsfgBg3p/",
+    "date": "2026-08-13",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1786525654306-1",
     "slug": "why-is-everyone-stuck-in-their-house-the-last-house",
     "title": "Why is everyone stuck in their house?? THE LAST HOUSE ...",
@@ -7651,7 +7753,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-08-12T09:07:43.637Z";
+export const LAST_UPDATED = "2026-08-13T09:07:30.122Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES

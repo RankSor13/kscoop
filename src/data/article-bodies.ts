@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-08-12T09:07:43.639Z
+ * Last updated: 2026-08-13T09:07:30.123Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -13293,6 +13293,200 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       "He's currently affiliated with Sparkle talent agency",
       "His career in the Philippines is going strong",
       "Kim Ji Soo recently attended a fashion event"
+    ]
+  },
+  "live-1786612035807-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Get Ready for a Thrill"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal - a brand new Sci-Fi Horror series, \"THE LAST HOUSE\", is heading to Netflix, and we don't have to wait too long for it. It's dropping on August 7th, which is just around the corner. But what's really got us hyped is that it's a genre-bender, combining sci-fi and horror elements that promise to keep us on the edge of our seats."
+      },
+      {
+        "type": "p",
+        "text": "The fact that the announcement video has already racked up 161K views on Facebook says a lot about the buzz surrounding this series. And let's be real, a 02:21-minute teaser is just enough to pique our interest without giving too much away. But was the teaser enough to give us a glimpse into what \"THE LAST HOUSE\" is all about? Unfortunately, we'll just have to wait and see."
+      },
+      {
+        "type": "h2",
+        "text": "The Wait Begins"
+      },
+      {
+        "type": "p",
+        "text": "So, what can we expect from \"THE LAST HOUSE\"? While we don't have many details, the sci-fi horror genre is always a thrilling ride. We're talking mysterious plot twists, heart-pumping action, and maybe even some supernatural elements. The question on everyone's mind is - will it live up to the hype? Only time will... no, scratch that - we'll just have to wait until August 7th to find out."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "As we count down the days until \"THE LAST HOUSE\" drops on Netflix, one thing's for sure - this series has the potential to be a game-changer. With its unique blend of sci-fi and horror, it's going to be a wild ride. So, are you ready to dive into the unknown and experience the thrill of \"THE LAST HOUSE\" for yourself? [originally reported by Netflix](https://www.facebook.com/netflixus/videos/-the-last-house/2060559954551898/)"
+      }
+    ],
+    "takeaways": [
+      "New Sci-Fi Horror series \"THE LAST HOUSE\" is coming to Netflix",
+      "The release date is set for August 7th",
+      "The announcement has garnered 161K views on Facebook",
+      "The teaser video is just 02:21 minutes long"
+    ]
+  },
+  "live-1786612039391-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Million-Dollar Question: Will \"A Shop For Killers\" Get a Season 3?"
+      },
+      {
+        "type": "p",
+        "text": "Lee Dong Wook's latest update on the show's future is what we've all been waiting for - and it's not a definite no, which is all the hope fans need. He's opened up about the possibility of a third season, and it all hinges on one thing: the success of season 2. That's right, it seems the fate of \"A Shop For Killers\" season 3 rests on how well the next installment does."
+      },
+      {
+        "type": "h2",
+        "text": "What He Said"
+      },
+      {
+        "type": "p",
+        "text": "Lee Dong Wook's condition for a potential season 3 is straightforward - season 2 needs to kill it (no pun intended, given the show's title). This isn't a surprise, considering how much effort and resources go into producing a show. But was he hinting that there's already a plan in place, or is this just a wait-and-see approach? Either way, it's clear that the success of season 2 is crucial."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "But what does this mean for fans of the show? Honestly, this is a big deal - it shows that there's still a chance for more \"A Shop For Killers\" content. And let's be real, who doesn't want that? The real question now is, what will season 2 bring to the table to ensure its success and potentially pave the way for season 3?"
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by tiktok.com](https://www.tiktok.com/@giaallana/video/7673113646007946514)"
+      }
+    ],
+    "takeaways": [
+      "Lee Dong Wook has spoken about the conditions for a possible \"A Shop For Killers\" season 3.",
+      "The main condition for season 3 is the success of season 2.",
+      "There aren't any specific details on what constitutes \"success\" for season 2.",
+      "Lee Dong Wook's statement gives fans hope for more of the show in the future."
+    ]
+  },
+  "live-1786612041466-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Love Untangled and More: 2025's Hottest K-Dramas"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, who isn't excited for 2025's K-drama lineup? We're getting a sneak peek at the top ten shows we should be watching, and it's about time - our watchlists were getting a little stale. But what's really catching our attention is that some of the most anticipated releases are scheduled for December 2025. That's right, folks, it's going to be a dramatic holiday season."
+      },
+      {
+        "type": "p",
+        "text": "The guide doesn't give us too many specifics just yet, but we're hoping for a mix of romance, thriller, and comedy to keep things interesting. And with \"Love Untangled\" making an appearance, we can't help but wonder what other gems are in store for us. Is this going to be the year of epic love stories or will we see a rise in darker, more intense plotlines?"
+      },
+      {
+        "type": "h2",
+        "text": "The Countdown Begins"
+      },
+      {
+        "type": "p",
+        "text": "We're talking about the top ten K-dramas of 2025, people - this is a big deal. The fact that some of these shows are being held back until December has us intrigued. Are they going to be worth the wait? That's what we're all wondering. But was the teaser too vague? Maybe, but it's definitely got us talking."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "As we count down to 2025, one thing's for sure: K-drama fans are in for a treat. With new releases on the horizon, we can't help but feel a little grateful for the endless entertainment options at our fingertips. So, what are you most looking forward to in 2025's K-drama lineup? Let's discuss. [originally reported by cinema_simple](https://www.tiktok.com/@cinema_simple/video/7671732846632979733)"
+      }
+    ],
+    "takeaways": [
+      "The guide highlights the top ten K-dramas to watch in 2025",
+      "Some stellar K-drama releases are scheduled for December 2025",
+      "The list includes a variety of genres, but specifics aren't mentioned",
+      "Viewers can prepare for an exciting year of K-drama watching"
+    ]
+  },
+  "live-1786612043759-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Get Ready to Get FURIOUS"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "#FuriousonHulu is coming to Disney+, not Hulu, despite the name",
+          "The premiere date is set for July 27",
+          "The show's promo promises a \"nightmare morning after\"",
+          "It's being advertised with a catchy hashtag #FuriousonHulu"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "What's in a Name?"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal - #FuriousonHulu isn't even streaming on Hulu, it's on Disney+. That's got to be confusing for some fans. But was the name chosen to grab attention, or is it just a misnomer? Either way, it's working, because we're all talking about it. The real question is, what's the show about? The \"nightmare morning after\" tagline doesn't give much away, but it sounds intriguing."
+      },
+      {
+        "type": "h2",
+        "text": "Streaming Soon"
+      },
+      {
+        "type": "p",
+        "text": "So, what can we expect from #FuriousonHulu? Not much is known, except that it's premiering on July 27. That's just around the corner, so fans don't have to wait long to find out. The promo is short and sweet, but it's enough to pique our interest. We're guessing it's a drama, given the name and the tagline, but we could be wrong."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "It's not every day that a show's name is so misleading, but hey, if it gets people talking, that's what matters, right? The fact that it's streaming on Disney+ is a big deal, though - it's a huge platform, and this show could reach a lot of new fans. But will they be confused by the name? Only time... just kidding, we won't say that. Let's just say we're excited to see what #FuriousonHulu is all about. [originally reported by Hulu](https://www.facebook.com/hulu/videos/nightmare-morning-afternow-streaming-furiousonhulu/1941351673519167/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1786612047849-6": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Netflix Is Bringing The Heat"
+      },
+      {
+        "type": "p",
+        "text": "Netflix just dropped a bombshell - they're releasing a brand new K-drama called \"Our Sticky Love\", also known as \"Sticky Love\". Honestly, this is a big deal, especially since we don't have to wait too long for it - it's coming out on July 22, 2026. But was the announcement too sudden? We're not complaining, though - 8 episodes of approximately 50 minutes each is just the right amount of content to get us hooked."
+      },
+      {
+        "type": "p",
+        "text": "The title alone, \"Our Sticky Love\", has piqued our interest. What kind of story can we expect from this drama? That's what we're all wondering. We're talking sticky situations, complicated relationships, and maybe even some heart-wrenching plot twists. With a runtime of about 50 minutes per episode, we can expect some intense, packed storylines."
+      },
+      {
+        "type": "h2",
+        "text": "What We Know So Far"
+      },
+      {
+        "type": "p",
+        "text": "We don't have a lot of details yet, but the fact that it's a Netflix original series means we can expect some high-quality production. The release date is just around the corner, so we're hoping for some teasers or trailers soon. That'll give us a better idea of what \"Our Sticky Love\" is all about. For now, we can only speculate - but that's all part of the fun, right?"
+      },
+      {
+        "type": "h2",
+        "text": "The Waiting Game"
+      },
+      {
+        "type": "p",
+        "text": "We're just a few weeks away from the release of \"Our Sticky Love\", and we can't wait to dive in. Will it live up to our expectations? Only time will... just kidding, we won't say that. Let's just say we're excited to see what this new K-drama has in store for us. [originally reported by instagram.com](https://www.instagram.com/reel/DbwlsfgBg3p/)"
+      }
+    ],
+    "takeaways": [
+      "The new K-drama is titled \"Our Sticky Love\", also known as \"Sticky Love\"",
+      "It's set to release on July 22, 2026",
+      "The drama will have 8 episodes",
+      "Each episode will be approximately 50 minutes long"
     ]
   }
 };
