@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-08-13T09:07:30.123Z
+ * Last updated: 2026-08-14T09:03:16.361Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -13487,6 +13487,172 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       "It's set to release on July 22, 2026",
       "The drama will have 8 episodes",
       "Each episode will be approximately 50 minutes long"
+    ]
+  },
+  "live-1786698186300-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The King is Back"
+      },
+      {
+        "type": "p",
+        "text": "Kim Soo-hyun's latest series is finally here, and honestly, this is a big deal. It's not every day we get new content from one of K-drama's most beloved actors. But was the comeback too fast? It feels like just yesterday we were binge-watching his last show. That being said, we're not complaining - Kim Soo-hyun's fans have been waiting patiently, and now they're being rewarded."
+      },
+      {
+        "type": "p",
+        "text": "The fact that the series release was announced on a Facebook group is a bit surprising, though. You'd think something this major would get a fancy press conference or at least a tweet from the man himself. But hey, we're not looking a gift horse in the mouth - if Facebook is where we get our K-drama news, so be it."
+      },
+      {
+        "type": "h2",
+        "text": "What We Know So Far"
+      },
+      {
+        "type": "p",
+        "text": "Not much, unfortunately. The Facebook post is pretty light on details, but that's not stopping fans from speculating. They're going wild in the comments, guessing about the plot, the cast, the whole shebang. And who can blame them? Kim Soo-hyun's track record is pretty impressive, and we're all eager to see what he's got cooking this time around."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "It's interesting to think about what this means for K-drama as a whole. Are we seeing a shift towards more social media announcements? Is this the future of K-entertainment news? Probably not, but it's fun to imagine. For now, let's just enjoy the fact that Kim Soo-hyun's back on our screens, and we get to indulge in some top-notch K-drama goodness."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by facebook.com](https://www.facebook.com/groups/1846541895834189/posts/2504368820051490/)"
+      }
+    ],
+    "takeaways": [
+      "Kim Soo-hyun's new series is out, and it's 2026 already - where did the time go?",
+      "The series release was announced on a Facebook group, which isn't exactly the typical platform for K-drama news",
+      "We're talking about Kim Soo-hyun here, one of K-drama's biggest stars, and the anticipation is real",
+      "The Facebook post itself is pretty bare-bones, but that's not stopping fans from going wild"
+    ]
+  },
+  "live-1786698188831-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "JiChangWook Is Taking Over Netflix in 2026"
+      },
+      {
+        "type": "p",
+        "text": "JiChangWook fans, it's time to get hyped - your favorite actor is coming to Netflix in 2026 with not one, but multiple projects. That's right, we're talking a full-on JiChangWook takeover, and honestly, it's about time."
+      },
+      {
+        "type": "h2",
+        "text": "What We Know So Far"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "JiChangWook has multiple dramas and a Netflix series lined up for 2026",
+          "The projects are set to release on Netflix, which is a big deal for K-drama fans",
+          "Fans are already freaking out on social media, and we don't blame them",
+          "The announcement was made on Facebook, giving fans a sneak peek at what's to come",
+          "JiChangWook's popularity is expected to soar even higher with these new projects"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "JiChangWook's upcoming projects are shrouded in mystery, but one thing's for sure - they're going to be huge. With his dedicated fan base and Netflix's massive reach, we're expecting big things from these dramas and series. But was the announcement too vague? Fans are already clamoring for more info, and we can't say we blame them."
+      },
+      {
+        "type": "h2",
+        "text": "The waited confirmation"
+      },
+      {
+        "type": "p",
+        "text": "We're still waiting for more details on JiChangWook's Netflix series and dramas, but for now, fans are just excited to know that something is coming. And let's be real, who isn't excited about more JiChangWook in their lives? The actor has built a loyal following over the years, and it's clear that his fans are ready for whatever he has in store."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by facebook.com](https://www.facebook.com/groups/572222893495150/posts/1988329755217783/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1786698190794-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Hottest K-Dramas to Hit Disney+ in 2026"
+      },
+      {
+        "type": "p",
+        "text": "The Remarried Empress is just one of the exciting releases coming to Disney+ in 2026 - and honestly, it's about time we got some new addicting titles to binge!"
+      },
+      {
+        "type": "h2",
+        "text": "What We Know So Far"
+      },
+      {
+        "type": "p",
+        "text": "We're talking top Korean dramas, people - the kind that'll keep you up all night, wondering what happens next. And with The Remarried Empress leading the charge, it's shaping up to be a great year for K-drama fans on Disney+. But was 2026 always the plan, or did something speed up the release schedule?"
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "It's not just about The Remarried Empress, though - it's about the whole slate of K-dramas coming to Disney+ in 2026. What other surprises do they have in store for us? Are we looking at a new wave of addictive, can't-miss dramas?"
+      },
+      {
+        "type": "h2",
+        "text": "Where Things Stand Now"
+      },
+      {
+        "type": "p",
+        "text": "For now, we're just excited to dive into The Remarried Empress and see what other K-drama goodness 2026 has in store. [originally reported by tiktok.com](https://www.tiktok.com/discover/k-drama-disney-2026)"
+      }
+    ],
+    "takeaways": [
+      "The Remarried Empress is one of the most anticipated releases",
+      "Disney+ is still the go-to platform for K-drama fans in 2026",
+      "The list of top dramas was last updated on 2026-08-10",
+      "There are at least 306 related posts or updates on TikTok",
+      "K-drama fans are eagerly discussing the upcoming releases on social media"
+    ]
+  },
+  "live-1786698192913-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "August K-Drama Bonanza"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal - August 2026 is bringing the heat with a slew of new K-drama releases that are sure to keep fans on the edge of their seats. My Bias, My Boss is just one of the many dramas that's got everyone talking, but it's not alone. Flex X Cop 2 is making a comeback, which raises the question - can it live up to the standards set by its predecessor?"
+      },
+      {
+        "type": "p",
+        "text": "The list of releases is long and varied, with Our Sticky Love and A Trap Called Desire offering different takes on romance and drama. But was August the right time to drop so many new shows? It's a bold move, considering the already crowded K-drama landscape."
+      },
+      {
+        "type": "h2",
+        "text": "The Lineup"
+      },
+      {
+        "type": "p",
+        "text": "New Recruit 3, Mousetrap, Four Hands, and Two Sonatas are the other K-dramas that made the cut for August 2026 releases. That's a lot of new content for fans to digest, and it's going to be interesting to see which ones rise to the top. Will the sequels like New Recruit 3 and Flex X Cop 2 dominate the scene, or will newcomers like My Bias, My Boss and Our Sticky Love steal the show?"
+      },
+      {
+        "type": "h2",
+        "text": "What Fans Are Saying"
+      },
+      {
+        "type": "p",
+        "text": "It's too early to tell how these dramas will perform, but one thing's for sure - fans are excited. With so many options to choose from, it's a great time to be a K-drama fan. But which ones will you be watching? [originally reported by instagram.com](https://www.instagram.com/reel/Db_OPekBiVC/)"
+      }
+    ],
+    "takeaways": [
+      "My Bias, My Boss is one of the K-dramas released in August 2026",
+      "Flex X Cop 2 is a sequel, implying the first part was successful enough to warrant a second installment",
+      "Our Sticky Love and A Trap Called Desire are also part of the August releases",
+      "New Recruit 3, Mousetrap, Four Hands, and Two Sonatas round out the list of K-dramas mentioned"
     ]
   }
 };

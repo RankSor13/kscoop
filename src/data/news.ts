@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1786698186300-1",
+    "slug": "kim-soo-hyuns-latest-series-released-in-2026",
+    "title": "Kim Soo-hyun's latest series released in 2026",
+    "summary": "No preview available.",
+    "category": "upcoming",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/groups/1846541895834189/posts/2504368820051490/",
+    "date": "2026-08-14",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1786698188831-2",
+    "slug": "jichangwook-fans-upcoming-2026-netflix-series-and-dramas",
+    "title": "JiChangWook Fans😍: Upcoming 2026 Netflix series and dramas",
+    "summary": "No preview available.",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/groups/572222893495150/posts/1988329755217783/",
+    "date": "2026-08-14",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1786698190794-3",
+    "slug": "k-drama-disney-2026",
+    "title": "K Drama Disney 2026",
+    "summary": "Explore the top Korean dramas on Disney+ in 2026, including addictive titles and exciting releases like The Remarried Empress! Last updated 2026-08-10. 306 ...",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/discover/k-drama-disney-2026",
+    "date": "4 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1786698192913-4",
+    "slug": "the-best-k-dramas-of-2026-so-far-part-2",
+    "title": "The best K-dramas of 2026 so far, Part 2 ...",
+    "summary": "August 2026 K-Drama release including My Bias, My Boss, Flex X Cop 2, Our Sticky Love, A Trap Called Desire, New Recruit 3, Mousetrap, Four Hands, Two Sonatas ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/Db_OPekBiVC/",
+    "date": "2026-08-14",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1786698195605-5",
+    "slug": "blackpinks-lisa-lalalalisam-and-thai-actor-blue",
+    "title": "BLACKPINK's Lisa (@lalalalisa_m) and Thai actor Blue ...",
+    "summary": "BLACKPINK's Lisa (@lalalalisa_m) and Thai actor Blue Pongtiwat are at the center of new dating rumors, and fans have started resurfacing their past interactions ...",
+    "category": "trending",
+    "author": "Mia Kwon",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/Db6KKiuBtX_/",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1786698195928-6",
+    "slug": "gen-alpha-slang-kids-teach-katseye-brainrots-on-celebrity",
+    "title": "Gen Alpha Slang: Kids Teach KATSEYE 'Brainrots' on Celebrity ...",
+    "summary": "KATSEYE learns Gen Alpha slang in a Billboard-exclusive Celebrity Substitute clip where kids Yoonchae, Lara, Daniela and Sophia take the lead.",
+    "category": "trending",
+    "author": "Rina Baek",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@billboard/video/7672494252571512094",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1786612035807-1",
     "slug": "the-last-house-netflix",
     "title": "🎥: THE LAST HOUSE | Netflix",
@@ -7753,7 +7855,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-08-13T09:07:30.122Z";
+export const LAST_UPDATED = "2026-08-14T09:03:16.358Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
