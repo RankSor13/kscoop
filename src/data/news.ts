@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1786782101345-1",
+    "slug": "the-controversy-involving-our-sticky-love-star-hayoung",
+    "title": "The controversy involving \"Our Sticky Love\" star Hayoung ...",
+    "summary": "Kim Soo-hyun, Reports allege a past connection between him and the late actress Kim Sae-ron, sparking intense scrutiny.",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/100065275819551/posts/the-controversy-involving-our-sticky-love-star-hayoung-continues-to-escalate-as-/1435235751995605/",
+    "date": "2026-08-15",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1786782103373-2",
+    "slug": "megathread-ha-young-controversy-rkdramas",
+    "title": "Megathread: Ha Young controversy : r/kdramas",
+    "summary": "actress Ha Young, who recently faced controversy regarding allegations of her great-grandfather's pro-Japanese activities, worked as a doctor",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/kdramas/comments/1vlg1ax/megathread_ha_young_controversy/",
+    "date": "2026-08-15",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1786782105217-3",
+    "slug": "during-an-event-in-chile-south-korean-actor-kang-tae",
+    "title": "During an event in Chile, South Korean actor Kang Tae",
+    "summary": "During an event in Chile, South Korean actor Kang Tae- oh, star of the hit K-drama Extraordinary Attorney Woo, was kissed without his consent by an attendee. In ...",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/upsoclthestars/posts/during-an-event-in-chile-south-korean-actor-kang-tae-oh-star-of-the-hit-k-drama-/1072469192138425/",
+    "date": "2026-08-15",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1786782107059-4",
+    "slug": "1-issue-a-public-and-official-apology-in-front-of-the-korean",
+    "title": "1. Issue a public and official apology in front of the Korean ...",
+    "summary": "South Korean police have declined to pursue allegations that actor Kim Soo Hyun violated the Child Welfare Act, concluding there was insufficient evidence",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/Db9EvanM0BH/",
+    "date": "2026-08-15",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1786782108895-5",
+    "slug": "suspended-celebrity",
+    "title": "suspended celebrity",
+    "summary": "A list of entertainers who have been caught in criminal acts and caused social controversy and could not appear in a specific broadcaster .",
+    "category": "gossip",
+    "author": "Mia Kwon",
+    "source": "en.namu.wiki",
+    "sourceUrl": "https://en.namu.wiki/w/%EC%B6%9C%EC%97%B0%EC%A0%95%EC%A7%80%20%EC%97%B0%EC%98%88%EC%9D%B8",
+    "date": "5 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1786782109148-6",
+    "slug": "the-organizers-are-so-savage-for-this-kdramas",
+    "title": "The organizers are so savage for this #kdramas ...",
+    "summary": "The 60th Baeksang Arts Awards faced significant backlash after actress Kim Ji Won was excluded from the Best Actress nominations, despite her acclaimed ...",
+    "category": "gossip",
+    "author": "Rina Baek",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/kdramafanatis/posts/the-organizers-are-so-savage-for-this-kdramas-kimjaewon-kimgoeun-shinhyesun/1015845304790335/",
+    "date": "2026-08-15",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1786698186300-1",
     "slug": "kim-soo-hyuns-latest-series-released-in-2026",
     "title": "Kim Soo-hyun's latest series released in 2026",
@@ -7855,7 +7957,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-08-14T09:03:16.358Z";
+export const LAST_UPDATED = "2026-08-15T08:21:49.311Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES

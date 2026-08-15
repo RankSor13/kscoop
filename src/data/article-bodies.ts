@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-08-14T09:03:16.361Z
+ * Last updated: 2026-08-15T08:21:49.312Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -13653,6 +13653,166 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       "Flex X Cop 2 is a sequel, implying the first part was successful enough to warrant a second installment",
       "Our Sticky Love and A Trap Called Desire are also part of the August releases",
       "New Recruit 3, Mousetrap, Four Hands, and Two Sonatas round out the list of K-dramas mentioned"
+    ]
+  },
+  "live-1786782101345-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "A Shocking Allegation"
+      },
+      {
+        "type": "p",
+        "text": "The K-drama world is reeling from some pretty shocking news: there's allegedly a past connection between Kim Soo-hyun and the late actress Kim Sae-ron. Honestly, this is a big deal - we're talking about two huge stars, and a controversy that's already sparking intense scrutiny. But what does it mean, exactly? That's the million-dollar question."
+      },
+      {
+        "type": "p",
+        "text": "We don't know a lot about the alleged connection, but we do know it's got everyone talking. The fact that it's involving \"Our Sticky Love\" star Hayoung is what's really raising eyebrows, though. What's Hayoung's involvement in all this? We're not entirely sure, but it's clear that the drama is far from over."
+      },
+      {
+        "type": "h2",
+        "text": "The Fallout"
+      },
+      {
+        "type": "p",
+        "text": "So, what's next for Hayoung? That's the question on everyone's mind. Will this controversy hurt their career, or will they be able to bounce back? It's hard to say, but one thing's for sure: the K-drama world is watching. And with Kim Sae-ron's passing still a sensitive topic, this news is bringing up a lot of emotions. But was the alleged connection really a secret, or are we just now finding out about it?"
+      },
+      {
+        "type": "h2",
+        "text": "Where Things Stand Now"
+      },
+      {
+        "type": "p",
+        "text": "We're still waiting for more details to come out, but one thing's clear: this controversy is far from over. The fact that it's involving such big stars is what's really making headlines, and we're all just waiting to see what happens next. [originally reported by facebook.com](https://www.facebook.com/100065275819551/posts/the-controversy-involving-our-sticky-love-star-hayoung-continues-to-escalate-as-/1435235751995605/)"
+      }
+    ],
+    "takeaways": [
+      "Reports are alleging a past connection between Kim Soo-hyun and the late actress Kim Sae-ron",
+      "The controversy is surrounding \"Our Sticky Love\" star Hayoung, but details are scarce",
+      "The news is sparking intense scrutiny, but we don't know what that means for Hayoung's career",
+      "Kim Sae-ron's passing is still a sensitive topic, and this news is bringing it back up"
+    ]
+  },
+  "live-1786782103373-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Ha Young Controversy Just Got Even More Complicated"
+      },
+      {
+        "type": "p",
+        "text": "Ha Young, the actress at the center of a heated controversy over her great-grandfather's alleged pro-Japanese activities, has just been revealed to have had a surprising previous career - she used to work as a doctor. That's right, before she became a household name in K-dramas, Ha Young was saving lives, not breaking hearts."
+      },
+      {
+        "type": "p",
+        "text": "But was this newfound info enough to change the public's perception of her? Honestly, it's hard to say. On one hand, it's kind of amazing that she made such a drastic career switch. On the other hand, it doesn't necessarily erase the controversy surrounding her family's past. It's a tough spot for Ha Young, and it's not clear how this will all play out."
+      },
+      {
+        "type": "h2",
+        "text": "A Career 180"
+      },
+      {
+        "type": "p",
+        "text": "Ha Young's past as a doctor is definitely an interesting twist in this whole saga. It raises questions about what motivated her to leave medicine and pursue acting instead. Was it a passion project, or was she just looking for a change of pace? We may never know for sure, but it's fun to speculate. And who knows, maybe this unexpected revelation will humanize her in the eyes of her critics."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "At the end of the day, it's up to each individual to decide how they feel about Ha Young and her past. Will this new info be enough to redeem her in the eyes of fans, or will it barely make a dent in the controversy? Only time will... no, scratch that - the truth is, we're all just waiting to see how this all plays out. [originally reported by reddit.com](https://www.reddit.com/r/kdramas/comments/1vlg1ax/megathread_ha_young_controversy/)"
+      }
+    ],
+    "takeaways": [
+      "Ha Young faced controversy over her great-grandfather's alleged pro-Japanese activities",
+      "She used to work as a doctor before becoming an actress",
+      "This new info may or may not change the public's perception of her",
+      "Ha Young's career switch from medicine to acting is a surprising one"
+    ]
+  },
+  "live-1786782105217-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "What Just Happened in Chile?"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Kang Tae-oh, the star of Extraordinary Attorney Woo, was at an event in Chile",
+          "An attendee kissed him without his consent",
+          "This incident is a big deal, especially considering Kang Tae-oh's massive following",
+          "The fact that it happened at a public event makes it even more shocking"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "The Incident Unfolds"
+      },
+      {
+        "type": "p",
+        "text": "Kang Tae-oh was just trying to interact with fans, but things took a weird turn. Honestly, it's not okay to kiss someone without their consent - that's just basic respect. But was the event staff prepared to handle something like this? That's the question on everyone's mind now. We're talking about a huge star here, and his fans are probably feeling pretty upset about the whole thing."
+      },
+      {
+        "type": "h2",
+        "text": "Fan Reaction"
+      },
+      {
+        "type": "p",
+        "text": "So, what are fans saying about this? They're not wrong to be upset - it's a pretty big invasion of personal space. But was the attendee just caught up in the moment, or was this something more? We don't have all the details, but one thing's for sure: Kang Tae-oh deserves better. He's an actor who's brought so much joy to fans with his roles, and this is just not how you treat someone you admire."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "This incident raises some important questions about fan culture and personal boundaries. It's not the first time we've seen something like this happen, and it's definitely not going to be the last. But that doesn't make it okay. We need to have a conversation about what's acceptable and what's not when it comes to interacting with celebrities. It's time to rethink how we approach these kinds of situations and make sure everyone feels safe and respected."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by facebook.com](https://www.facebook.com/upsoclthestars/posts/during-an-event-in-chile-south-korean-actor-kang-tae-oh-star-of-the-hit-k-drama-/1072469192138425/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1786782107059-4": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Bombshell Decision"
+      },
+      {
+        "type": "p",
+        "text": "The news is out, and it's a shocker: South Korean police have decided not to pursue allegations that actor Kim Soo Hyun violated the Child Welfare Act. That's right, they're not moving forward with the case, and it's all because they didn't find enough evidence to back up the claims."
+      },
+      {
+        "type": "h2",
+        "text": "What Happened"
+      },
+      {
+        "type": "p",
+        "text": "So, what does this mean for Kim Soo Hyun? Well, for now, it seems like he's off the hook. The police have made it clear that they won't be taking any further action, and that's got to be a relief for the actor and his team. But was the decision too hasty? Did they really investigate thoroughly enough? These are the questions on everyone's mind right now."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "The fact that the police didn't find sufficient evidence doesn't necessarily mean Kim Soo Hyun is innocent, but it does mean that, in the eyes of the law, there's not enough to prove he violated the Child Welfare Act. It's a complicated situation, and we're sure there are plenty of fans out there who are breathing a sigh of relief. But honestly, this isn't the end of the story - there are still a lot of unanswered questions."
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by instagram.com](https://www.instagram.com/reel/Db9EvanM0BH/)"
+      }
+    ],
+    "takeaways": [
+      "The allegations against Kim Soo Hyun were related to the Child Welfare Act",
+      "The police didn't find enough evidence to pursue the case",
+      "This decision doesn't necessarily mean Kim Soo Hyun is innocent, just that there's not enough proof",
+      "The actor and his team are likely relieved, but the situation is still complex"
     ]
   }
 };
