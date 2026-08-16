@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-08-15T08:21:49.312Z
+ * Last updated: 2026-08-16T08:22:31.861Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -13813,6 +13813,207 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       "The police didn't find enough evidence to pursue the case",
       "This decision doesn't necessarily mean Kim Soo Hyun is innocent, just that there's not enough proof",
       "The actor and his team are likely relieved, but the situation is still complex"
+    ]
+  },
+  "live-1786868541476-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Curse of Lee Je Hoon's Co-Stars"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal - Lee Je Hoon's co-stars seem to be plagued by controversy, and it's getting weird. But was it always this way? That's what's got everyone talking. It's like, what's going on here? Is Lee Je Hoon somehow cursed, or are his co-stars just having a run of bad luck?"
+      },
+      {
+        "type": "p",
+        "text": "We're not talking about minor issues, either - these are full-blown scandals that've made headlines. And it's not like Lee Je Hoon's the one causing the drama; he's just somehow always nearby when it goes down. So, what's the deal? Is this just a bizarre coincidence, or is there something more to it?"
+      },
+      {
+        "type": "h2",
+        "text": "Bad Luck or Something More?"
+      },
+      {
+        "type": "p",
+        "text": "It's pretty wild to think that Lee Je Hoon's presence in a drama could be some kind of curse. But at the same time, it's hard to ignore the pattern. Fans are starting to wonder if there's something more going on here. But what could it possibly be? That's the million-dollar question."
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "This whole thing's got us thinking - are there other K-drama actors out there with similar \"curses\"? It's not entirely unheard of for actors to be linked to bad luck or controversy, but this Lee Je Hoon situation's on a whole other level. So, we've got to ask: is this just a one-off, or is there something deeper going on in the world of K-drama?"
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by youtube.com](https://www.youtube.com/watch?v=rYDEPYYV2Fg)"
+      }
+    ],
+    "takeaways": [
+      "Lee Je Hoon's co-stars keep getting caught up in controversy",
+      "The pattern's got fans wondering if it's really just bad luck",
+      "It's not just one or two instances - it's a pretty insane trend",
+      "This isn't the first time a K-drama actor's been linked to a \"curse\""
+    ]
+  },
+  "live-1786868543990-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Bombshell Denial"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Actor Ha-young's family history is under scrutiny",
+          "The claims in question relate to her great-grandfather's actions during Japan's colonial rule of Korea",
+          "Ha-young has officially denied these claims",
+          "The denial was made on Monday"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "A Sensitive Topic"
+      },
+      {
+        "type": "p",
+        "text": "Ha-young's denial of her great-grandfather being a pro-Japanese collaborator is huge news - and honestly, this is a big deal. The issue of pro-Japanese collaboration during Japan's colonial rule of Korea is still a super sensitive topic in Korea today. It's not something you can just brush off or ignore. But was Ha-young's denial enough to put the issue to rest?"
+      },
+      {
+        "type": "h2",
+        "text": "The Backlash"
+      },
+      {
+        "type": "p",
+        "text": "We're talking about a really serious allegation here - one that could potentially damage Ha-young's career. But Ha-young isn't having it - she's come out swinging, denying the claims outright. It's a bold move, but will it be enough to convince fans and the general public?"
+      },
+      {
+        "type": "h2",
+        "text": "Where Things Stand Now"
+      },
+      {
+        "type": "p",
+        "text": "Only time will tell if Ha-young's denial will be enough to move past this controversy. For now, we're left wondering - what's next for Ha-young? Will she be able to bounce back from this, or will the allegations continue to haunt her? [originally reported by koreaherald.com](https://www.koreaherald.com)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1786868545664-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Bombshell Allegations Rock K-Drama Set"
+      },
+      {
+        "type": "p",
+        "text": "A wild story's unfolding, and it's got everyone talking - a male lead actor, Zhong Yufei, just posted a video claiming his co-star engaged in some seriously inappropriate behavior during filming. That's right, things apparently got pretty intense on set."
+      },
+      {
+        "type": "h2",
+        "text": "Getting Down to Business"
+      },
+      {
+        "type": "p",
+        "text": "So, what's really going on here? Zhong Yufei's video doesn't hold back, alleging that his co-star crossed some major boundaries. We're not talking about your run-of-the-mill drama - this is some heavy stuff. Zaobao's the one who broke the story, and now fans are scrambling to figure out what really happened."
+      },
+      {
+        "type": "h2",
+        "text": "The Fallout"
+      },
+      {
+        "type": "p",
+        "text": "But was this video a necessary move, or is Zhong Yufei stirring up drama? Honestly, it's hard to say - we don't have all the facts yet. One thing's for sure, though: this scandal's got the potential to get pretty messy. Will the co-star in question speak out, or will they keep quiet?"
+      },
+      {
+        "type": "p",
+        "text": "[originally reported by Zaobao](https://www.instagram.com/p/DcFwKYOiLR9/)"
+      }
+    ],
+    "takeaways": [
+      "The allegations are pretty serious, with Zhong Yufei claiming inappropriate intimate behavior went down during filming.",
+      "Zaobao's the source that initially reported the story, so we're waiting to see if they've got any follow-up info.",
+      "The video's sparked a lot of debate among fans - some are Team Zhong Yufei, while others think he's overreacting.",
+      "This isn't the first time a K-drama set's been rocked by scandal, but it's definitely one of the most dramatic."
+    ]
+  },
+  "live-1786868547687-5": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Actress Who Just Doesn't Click"
+      },
+      {
+        "type": "p",
+        "text": "Park Min Young is apparently a total turn-off for one K-drama fan, and honestly, it's kind of intriguing to think about why. The fan doesn't even know exactly why they don't like her - they just get a \"plastic\" or fake vibe from her acting."
+      },
+      {
+        "type": "h2",
+        "text": "Not Loving The Acting Style"
+      },
+      {
+        "type": "p",
+        "text": "It's not like Park Min Young is a bad actress or anything, but for this fan, something about her performance just doesn't feel authentic. That's a pretty interesting criticism, especially since Park Min Young has been in some pretty popular dramas. But was her acting style always this off-putting, or is it something that's developed over time?"
+      },
+      {
+        "type": "h2",
+        "text": "Instant Dislike"
+      },
+      {
+        "type": "p",
+        "text": "We're not talking about a fan who's just meh about Park Min Young - this is someone who instantly says \"nope\" when they see her name attached to a project. That's a strong reaction, and it makes you wonder what it is about her acting that's so unconvincing. Is it the way she delivers her lines, her facial expressions, or something else entirely?"
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "It's not often that you see fans being so blunt about disliking an actress, but hey, at least they're being honest. And who knows - maybe there are more fans out there who feel the same way about Park Min Young. But for now, it's just one fan's opinion, and it's definitely food for thought. [originally reported by reddit.com](https://www.reddit.com/r/KDramasWorld/comments/1vkq0g8/kdrama_actorsactresses_who_are_an_instant_nope/)"
+      }
+    ],
+    "takeaways": [
+      "Park Min Young is an instant \"nope\" for one K-drama fan",
+      "The fan thinks her acting feels \"plastic\" or fake",
+      "They're not sure why they dislike her acting style",
+      "Park Min Young has been in several popular K-dramas"
+    ]
+  },
+  "live-1786868549574-6": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "K-Drama Frenzy"
+      },
+      {
+        "type": "p",
+        "text": "Honestly, this is a big deal - the top 15 most addictive K-dramas have everyone obsessed. But what's even more exciting is that there are 16 anticipated Netflix K-dramas lined up for the second half of 2026. It's a great time to be a K-drama fan, with new content constantly being released. We're talking about the most addictive shows that everyone can't stop talking about."
+      },
+      {
+        "type": "p",
+        "text": "The fact that K-dramas are available on both Netflix and Disney+ is a game-changer. It's never been easier to get your K-drama fix, and with so many great shows to choose from, you're spoiled for choice. But was the anticipation for these new shows too high? Can they live up to the hype? We're about to find out, with the second half of 2026 promising to be an exciting time for K-drama fans."
+      },
+      {
+        "type": "h2",
+        "text": "The Streaming Wars"
+      },
+      {
+        "type": "p",
+        "text": "It's no secret that Netflix and Disney+ are competing for our attention, and K-dramas are a big part of that. With both platforms offering a range of K-dramas, it's up to the fans to decide which ones they prefer. Do you like the classic rom-coms, or are you more into the darker, more intense dramas? Whatever your preference, there's something for everyone in the world of K-dramas."
+      },
+      {
+        "type": "h2",
+        "text": "The Future of K-Dramas"
+      },
+      {
+        "type": "p",
+        "text": "So, what does the future hold for K-dramas? With so many new shows on the horizon, it's an exciting time for fans. We can't wait to see what's in store, and which shows will become the next big obsession. One thing's for sure - K-dramas are here to stay, and they're only going to get better. [originally reported by youtube.com](https://www.youtube.com/watch?v=ont7_ULBo50)"
+      }
+    ],
+    "takeaways": [
+      "The top 15 most addictive K-dramas are trending right now",
+      "There are 16 anticipated Netflix K-dramas coming in the second half of 2026",
+      "K-dramas are available to stream on both Netflix and Disney+"
     ]
   }
 };

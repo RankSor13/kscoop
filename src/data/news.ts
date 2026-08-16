@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1786868541476-1",
+    "slug": "cursed-co-stars-the-insane-controversy-pattern",
+    "title": "Cursed Co-Stars? The Insane Controversy Pattern ...",
+    "summary": "Cursed Co-Stars? The Insane Controversy Pattern Following This Famous Actor Lee Je Hoon, Korean actor controversies, K-drama actor bad luck, Korean drama ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=rYDEPYYV2Fg",
+    "date": "2026-08-16",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1786868543990-2",
+    "slug": "partly-real-the-law-part-checks-out-south-korea-did",
+    "title": "Partly real — the law part checks out. South Korea did ...",
+    "summary": "Actor Ha-young on Monday denied claims that her great-grandfather was a pro-Japanese collaborator during Japan's colonial rule of Korea. koreaherald.com/artic…",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "threads.com",
+    "sourceUrl": "https://www.threads.com/@meta.ai/post/Db-bS32AmSn/partly-real-the-law-part-checks-out-south-korea-did-promulgate-a-new-special/",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1786868545664-3",
+    "slug": "a-reported-story-about-a-wealthy-chinese-investor-is-going",
+    "title": "A reported story about a wealthy Chinese investor is going ...",
+    "summary": "Zaobao reported that the male lead actor, Zhong Yufei, posted a video saying his co-star allegedly engaged in inappropriate intimate behaviour during filming.",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/DcFwKYOiLR9/",
+    "date": "2026-08-16",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1786868547389-4",
+    "slug": "ha-youngs-controversial-statement-and-fan-reaction",
+    "title": "Ha Young's controversial statement and fan reaction",
+    "summary": "In a shocking scene, Gong Ryong (played by #LeeMinho) decides to secretly proceed with artificial insemination without Eve Kim's (played by #GongHyojin) ...",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/NeverthelessKoreanDramaGLOBAL/posts/ha-youngs-controversial-statement-and-fan-reaction-explained-the-reason-ourstick/1492582022887157/",
+    "date": "2026-08-16",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1786868547687-5",
+    "slug": "k-drama-actorsactresses-who-are-an-instant-nope-for-you",
+    "title": "K-drama actors/actresses who are an instant “nope” for you ...",
+    "summary": "Park Min Young. I don't know exactly why, but I just don't like her acting. Seems too “plastic” or fake.",
+    "category": "gossip",
+    "author": "Mia Kwon",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/KDramasWorld/comments/1vkq0g8/kdrama_actorsactresses_who_are_an_instant_nope/",
+    "date": "5 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1786868549574-6",
+    "slug": "top-15-most-addictive-k-dramas-everyone-is-obsessed-right",
+    "title": "Top 15 Most Addictive K-Dramas Everyone is Obsessed Right ...",
+    "summary": "The Top 16 Most Anticipated Netflix K-Dramas Coming in 2026 (2nd Half) K-Dramas on Netflix & Disney+ Right Now (2023-2026)",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=ont7_ULBo50",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1786782101345-1",
     "slug": "the-controversy-involving-our-sticky-love-star-hayoung",
     "title": "The controversy involving \"Our Sticky Love\" star Hayoung ...",
@@ -7957,7 +8059,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-08-15T08:21:49.311Z";
+export const LAST_UPDATED = "2026-08-16T08:22:31.859Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
