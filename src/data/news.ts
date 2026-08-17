@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1786955819503-1",
+    "slug": "korean-dramas",
+    "title": "korean dramas",
+    "summary": "BREAKING NEWS Actress Jun Ji Hyun Faces Massive Boycott Over Allegedly Controversial Scenes In “Tempest” It has already affected her brand image. Chinese ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/yeppeungudeul/posts/troubled-actress-reportedly-breaks-down-in-tears-on-k-drama-set-amid-massive-sca/1635278498203002/",
+    "date": "2026-08-17",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1786955821633-2",
+    "slug": "randomly-saw-him-and-this-video-is-on-news-o-kpop",
+    "title": "Randomly saw him and this video is on news :O! #kpop",
+    "summary": "actor Kim Soo Hyun has been officially cleared of allegations. Child welfare allegations dropped amid AI voice scandal. been officially cleared of allegations ...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DcE6qL_Sa26/",
+    "date": "2026-08-17",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1786955823530-3",
+    "slug": "shinee-members-among-celebrities-under-probe-in",
+    "title": "Shinee members among celebrities under probe in ...",
+    "summary": "The Gangnam Police Station in Seoul questioned TV personality Jun Hyun-moo, Shinee members Key and Onew, and popular YouTuber Lickerish Hatnim (Kim Mi-kyung) ...",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "straitstimes.com",
+    "sourceUrl": "https://www.straitstimes.com/life/entertainment/shinee-members-among-celebrities-under-probe-in-unlicensed-medical-practice-scandal",
+    "date": "4 days ago",
+    "image": "https://cassette.sphdigital.com.sg/image/straitstimes/03380c19ba5edf6e2f16d5834aa397fab96d696596540317412989ccab565737",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1786955826850-4",
+    "slug": "controversial-in-korean-entertainment-lifeinkorea",
+    "title": "Controversial in Korean entertainment #lifeinkorea",
+    "summary": "Koreans are pissed at Korean actress Hayoung for being the great-granddaughter of a pro-Japanese imperialist doctor back in the day. Let me explain.",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/Db6QhIzyneO/",
+    "date": "5 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1786955827138-5",
+    "slug": "shes-coming-back-the-relationship-rumor-that-broke",
+    "title": "SHE'S COMING BACK?! The Relationship Rumor That Broke ...",
+    "summary": "The relationship rumor that shook the entire K-Drama world is finally unraveled.** In this episode of **StarScope K-Report**, Eric and Minji dive deep into ...",
+    "category": "gossip",
+    "author": "Mia Kwon",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=lorhElvGjHw",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1786955827729-6",
+    "slug": "kim-soo-hyuns-2026-series-now-streaming",
+    "title": "KIM SOO HYUN's 2026 series now streaming",
+    "summary": "Suzy and Kim Seon Ho drama #Delusion is scheduled to be released on Netflix in 2026. The series explores the relationship between a painter and a mysterious ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/groups/735989114114131/posts/1729131608133205/",
+    "date": "2026-08-17",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1786868541476-1",
     "slug": "cursed-co-stars-the-insane-controversy-pattern",
     "title": "Cursed Co-Stars? The Insane Controversy Pattern ...",
@@ -8059,7 +8161,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-08-16T08:22:31.859Z";
+export const LAST_UPDATED = "2026-08-17T08:37:07.929Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES

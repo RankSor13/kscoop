@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-08-16T08:22:31.861Z
+ * Last updated: 2026-08-17T08:37:07.960Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */
@@ -14014,6 +14014,120 @@ export const ARTICLE_BODIES: Record<string, { body: import("@/data/news").BodyBl
       "The top 15 most addictive K-dramas are trending right now",
       "There are 16 anticipated Netflix K-dramas coming in the second half of 2026",
       "K-dramas are available to stream on both Netflix and Disney+"
+    ]
+  },
+  "live-1786955819503-1": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "Drama On And Off Screen"
+      },
+      {
+        "type": "p",
+        "text": "Jun Ji Hyun's latest K-drama \"Tempest\" is making waves, but not exactly for the reasons she'd hoped. The actress is at the center of a massive boycott over allegedly controversial scenes in the show. Honestly, this is a big deal - Jun Ji Hyun is a beloved star in Korea, and to see her facing such backlash is surprising. But what's even more surprising is that she's reportedly broken down in tears on set amid all the scandal."
+      },
+      {
+        "type": "p",
+        "text": "The boycott's impact on her brand image is already evident, which isn't great news for Jun Ji Hyun or her team. They're probably wondering what they could've done differently to avoid this mess. But was the comeback too fast? Did they not consider the potential fallout from these controversial scenes? We're talking about an actress who's been in the industry for years, so you'd think they'd have a better handle on what works and what doesn't."
+      },
+      {
+        "type": "h2",
+        "text": "The Fallout"
+      },
+      {
+        "type": "p",
+        "text": "It's not just Korean fans who are upset - Chinese fans are also part of the group boycotting Jun Ji Hyun. That's a significant chunk of her fanbase, and it's likely to affect her future projects. But what's next for Jun Ji Hyun? Will she be able to bounce back from this controversy, or will it haunt her for a while? Only time will... no, scratch that - the reality is, we'll just have to wait and see how this all plays out."
+      },
+      {
+        "type": "h2",
+        "text": "Where Things Stand Now"
+      },
+      {
+        "type": "p",
+        "text": "For now, Jun Ji Hyun's facing a tough road ahead. The boycott's already affecting her brand image, and it's unclear how she'll recover from this. But one thing's for sure - this controversy's got everyone talking. We're watching to see what happens next, and we're curious to know - what do you think about the whole situation? [originally reported by Facebook](https://www.facebook.com/yeppeungudeul/posts/troubled-actress-reportedly-breaks-down-in-tears-on-k-drama-set-amid-massive-sca/1635278498203002/)"
+      }
+    ],
+    "takeaways": [
+      "Actress Jun Ji Hyun is facing a massive boycott over controversial scenes in \"Tempest\"",
+      "The boycott has already affected her brand image",
+      "The controversy is significant enough to impact her work on set",
+      "Chinese fans are part of the group boycotting Jun Ji Hyun"
+    ]
+  },
+  "live-1786955821633-2": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Allegations Are Dropped"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Kim Soo Hyun's been officially cleared of those shocking child welfare allegations",
+          "The news is all over Instagram, with fans reacting to the sudden update",
+          "It's not every day you see a high-profile case like this get resolved so quickly",
+          "The whole thing's been tied to an AI voice scandal, which is just wild"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Kim Soo Hyun's fans are breathing a sigh of relief right now - the actor's just been cleared of those serious child welfare allegations. Honestly, this is a big deal, and it's not like we saw it coming. One minute we're hearing about these allegations, the next they're just... dropped. But was the resolution too fast? That's what's got everyone talking."
+      },
+      {
+        "type": "h2",
+        "text": "The Power of Social Media"
+      },
+      {
+        "type": "p",
+        "text": "The news broke on Instagram, of all places, with a video that's now making the rounds. It's crazy to think that something like this could go from a random post to a full-blown news story. But that's just how fast things move in the K-pop world, right? Fans are already weighing in, and opinions are all over the map. Some are saying it's about time the allegations were dropped, while others are questioning the whole process."
+      },
+      {
+        "type": "h2",
+        "text": "Where Things Stand Now"
+      },
+      {
+        "type": "p",
+        "text": "So, what does this mean for Kim Soo Hyun's career? That's the million-dollar question. It's not like these allegations didn't cause some damage, but now that they're gone, can he just go back to normal? It's hard to say, but one thing's for sure - this whole ordeal has been a wild ride. And let's be real, the fact that it's tied to an AI voice scandal just adds to the drama. [originally reported by instagram.com](https://www.instagram.com/reel/DcE6qL_Sa26/)"
+      }
+    ],
+    "takeaways": []
+  },
+  "live-1786955823530-3": {
+    "body": [
+      {
+        "type": "h2",
+        "text": "The Unlicensed Doc Scandal Rocks K-Pop"
+      },
+      {
+        "type": "p",
+        "text": "Onew and Key from Shinee are in hot water, and it's not because of a highly anticipated comeback - they're actually under investigation for receiving medical treatments from an unlicensed practitioner. The news broke when the Gangnam Police Station in Seoul questioned several major entertainers, including the two Shinee members, through July. But was this just a case of bad judgment, or did they really have no idea they were dealing with a fake doc?"
+      },
+      {
+        "type": "p",
+        "text": "At the center of the probe is a suspect named Lee, who's accused of giving IV infusions to celebrity clients in cars and residential officetels. Yeah, you read that right - cars and officetels. Lee's also suspected of illegally prescribing prescription medications, including antidepressants. This whole thing started gaining momentum earlier in 2026 when the police raided Lee's residence, and comedienne Park Na-rae was summoned for questioning in May."
+      },
+      {
+        "type": "h2",
+        "text": "What We Know So Far"
+      },
+      {
+        "type": "p",
+        "text": "Onew's management company, Griffin Entertainment, released a statement to clarify his connection to the case. Apparently, Onew visited a medical facility for skincare treatments after being introduced to Lee by an acquaintance. The agency claims Onew thought Lee was a real doctor or medical professional affiliated with the hospital, and there were no red flags to suggest otherwise. Onew's already cooperated with law enforcement, providing a factual account of his experience during a round of questioning in May. But the question remains - did he and the other celebrities really not know they were dealing with an unlicensed practitioner?"
+      },
+      {
+        "type": "h2",
+        "text": "The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "This scandal highlights a bigger issue - the lack of regulation and oversight in the Korean medical industry. If celebrities are seeking out unlicensed practitioners, what about regular people? It's a scary thought, and it's not just about the celebrities involved - it's about the system that allows this to happen. We'll be keeping a close eye on this case as it unfolds. [originally reported by Strait Times](https://www.straitstimes.com/life/entertainment/shinee-members-among-celebrities-under-probe-in-unlicensed-medical-practice-scandal)"
+      }
+    ],
+    "takeaways": [
+      "Shinee members Onew and Key are under investigation for allegedly receiving medical treatments from an unlicensed practitioner.",
+      "The practitioner, identified only by the surname Lee, is accused of administering IV infusions and prescribing medications without a license.",
+      "TV personality Jun Hyun-moo and YouTuber Lickerish Hatnim are also being questioned as part of the probe.",
+      "Patients who receive treatments from unlicensed practitioners can be prosecuted as accomplices if they knowingly sought out these services."
     ]
   }
 };
