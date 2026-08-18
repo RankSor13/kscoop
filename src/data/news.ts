@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1787041824209-1",
+    "slug": "lego-disney-princesa-caos-magico-trailer-oficial-doblado",
+    "title": "LEGO Disney Princesa: Caos Mágico | Tráiler Oficial Doblado ...",
+    "summary": "Caos Mágico, un especial original que llega el 21 de agosto a #DisneyPlus. Bella, Pocahontas, Tiana, Merida. Netflix Hollywood Arts | Official Teaser | Netflix",
+    "category": "upcoming",
+    "author": "Ji Yeon Park",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=TI8-ysnA7TQ",
+    "date": "15 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1787041825020-2",
+    "slug": "nivel-de-drama-troy-y-gabriella-vuelve-a-vivir",
+    "title": "Nivel de drama: Troy y Gabriella 🥺❤️ Vuelve a vivir ...",
+    "summary": "Discover The Chi on Disney+ - A South Side Drama The Chi is a compelling drama series that focuses on the lives of several residents of the South Side of ...",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@disneyplusla/video/7673951328141331742",
+    "date": "16 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1787041825362-3",
+    "slug": "2026s-most-insane-tv-shows-havent-even-arrived-yet",
+    "title": "2026's Most INSANE TV Shows Haven't Even Arrived Yet ...",
+    "summary": "MOUSETRAP (2026) PREMIERE (ON NETFLIX) AUGUST 28, LAST SEEN (2026) NEAGLEY (2026) AMERICAN HOSTAGE (2026) VISIONQUEST (2026) PREMIERE (ON DISNEY+) OCTOBER. ...",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=W1IVuY3bmCc",
+    "date": "15 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1787041826136-4",
+    "slug": "la-que-nunca-conocio-el-sindrome-del-impostor-es-moria",
+    "title": "La que nunca conoció el síndrome del impostor es Moria ...",
+    "summary": "Con más de 20.000 juegos disponibles y acceso a aplicaciones como YouTube, Netflix y Disney+, basta conectarla a la TV para transformar cualquier salón en una ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@chenetflix/video/7674751463284952333",
+    "date": "19 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1787041826783-5",
+    "slug": "upcoming-disney-releases-2026-2027-2028-d23",
+    "title": "UPCOMING DISNEY Releases 2026 - 2027 - 2028 | D23 ...",
+    "summary": "ALL the D23 premieres. Upcoming Marvel movies, Disney series, and Star Wars were announced. Series arriving in 2026, 2027, and 2028.",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=cOyWtG-uFGM",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1787041827408-6",
+    "slug": "patrick-brammall-leads-desperate-search-in-apple-tvs",
+    "title": "Patrick Brammall Leads Desperate Search in Apple TV’s ...",
+    "summary": "The series will debut globally on September 9 with its first two episodes. The South Korean studio's latest release. Ahead of Netflix Release Entertainment",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "hypebeast.com",
+    "sourceUrl": "https://hypebeast.com/2026/8/apple-tv-patrick-brammal-australian-thriller-official-trailer",
+    "date": "6 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1786955819503-1",
     "slug": "korean-dramas",
     "title": "korean dramas",
@@ -8161,7 +8263,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-08-17T08:37:07.929Z";
+export const LAST_UPDATED = "2026-08-18T08:30:27.674Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
