@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1787128267509-1",
+    "slug": "the-x-files-official-trailer-2026-new-mulder-and-sculley-4k",
+    "title": "THE X-FILES Official Trailer (2026) New Mulder & Sculley | 4K",
+    "summary": "Mulder and Scully reunite for a darker new version of *The X-Files: I Want to Believe*. Streaming August 14, 2026, on Hulu and Disney+.",
+    "category": "upcoming",
+    "author": "Ji Yeon Park",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=dbrEy6Lny-o",
+    "date": "11 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1787128268333-2",
+    "slug": "when-your-k-pop-husband-supports-your-delulu",
+    "title": "When your K-Pop husband supports your delulu ...",
+    "summary": "Lead Husbands In Action — a Korean action-comedy arriving on Netflix on 19 June 2026 — brings together a notable ensemble cast and a playful premise blending ...",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@flawlesskevin/video/7675139292951235854",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1787128268993-3",
+    "slug": "the-2026-fall-movie-lineup-is-completely-loaded",
+    "title": "The 2026 Fall Movie Lineup Is Completely Loaded!",
+    "summary": "10 upcoming movies that could make Fall 2026 one. TV shows across Netflix, Prime Video, Disney+, and more.",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=0DNAgP9r69g",
+    "date": "4 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1787128269791-4",
+    "slug": "welcome-back-to-hollywood-arts-the-next-chapter-in",
+    "title": "Welcome (back) to HOLLYWOOD ARTS! The next chapter in ...",
+    "summary": "Welcome (back) to HOLLYWOOD ARTS! The next chapter in the Victorious universe arrives October 15!",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/netflixcanada/videos/hollywood-arts-teaser/1024597347108034/",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1787128271403-5",
+    "slug": "8-years-later-just-a-couple-of-netflix-kids-excited-for-my",
+    "title": "8 years later ❤️ Just a couple of @netflix kids Excited for my ...",
+    "summary": "August 15, 2026: Netflix's new horror thriller Below. Alex Fitzalan joins the cast of the new Netflix series Queenstown. new Netflix comedy Best of the Best,",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/DcE-cQOAWeE/",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1787128271920-6",
+    "slug": "never-gets-old-stream-family-guy-on-hulu-on-disney",
+    "title": "Never gets old. Stream Family Guy on Hulu on Disney+ ...",
+    "summary": "Family Guy Season 24 Sneak Peek Revealed! Get hyped for Family Guy Season 24 returning in 2026! Check out the sneak peek and stream holiday specials on Hulu. # ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@foxfamilyguy/video/7674659997694922017",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1787041824209-1",
     "slug": "lego-disney-princesa-caos-magico-trailer-oficial-doblado",
     "title": "LEGO Disney Princesa: Caos Mágico | Tráiler Oficial Doblado ...",
@@ -8263,7 +8365,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-08-18T08:30:27.674Z";
+export const LAST_UPDATED = "2026-08-19T08:31:13.937Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
