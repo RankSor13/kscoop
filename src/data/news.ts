@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1787214722148-1",
+    "slug": "rip-hayden-panettiere-rtoddintheshadow",
+    "title": "RIP Hayden Panettiere : r/ToddintheShadow",
+    "summary": "she and Vlad broke up. 'Buffy' and 'Gossip Girl' actress Michelle Trachtenberg dead at 39. Why Michelle Trachtenberg's Death Has Prompted Such an Intense ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/ToddintheShadow/comments/1vqgszo/rip_hayden_panettiere/",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1787214722505-2",
+    "slug": "top-5-best-action-movies-on-netflix-you-should-watch",
+    "title": "Top 5 Best ACTION MOVIES On NETFLIX You Should Watch ...",
+    "summary": "Top 5 Best ACTION MOVIES On NETFLIX You Should Watch Now 2026! BEST UPCOMING MOVIES 2026 & 2027. MOST ANTICIPATED UPCOMING MOVIES 2026 & 2027",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=RIBXvLvRAVE",
+    "date": "13 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1787214723286-3",
+    "slug": "i-wanna-see-ladies-only-in-the-pit-right-now-new-lptv",
+    "title": "I wanna see ladies only in the pit right now. New LPTV ...",
+    "summary": "Coming out July 13th! The new series Rabbit Hole premieres on Hulu and Disney+ on July 13. These are the newest series dominating Netflix, Apple TV+, Prime ...",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@linkinpark/video/7675799657758395678",
+    "date": "14 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1787214723829-4",
+    "slug": "maitreyi-ramakrishnan-priyanka-kedia-and-hasan-minhaj",
+    "title": "Maitreyi Ramakrishnan, Priyanka Kedia, and Hasan Minhaj ...",
+    "summary": "Best of the Best is a Netflix coming-of-age comedy movie starring Maitreyi. MEOWZAKI' TEASER OUT NOW – 24 JULY 2026 RELEASE.",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/netflixus/videos/best-of-the-best-trailer/1600111381823956/",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1787214725530-5",
+    "slug": "lego-star-wars-the-mandalorian-official-trailer",
+    "title": "LEGO Star Wars: The Mandalorian | Official Trailer ...",
+    "summary": "LEGO Star Wars: The Mandalorian | Official Trailer | September 2 on Disney+ Trailer Play. Disney+ Streaming Release Date (September 2)",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/TheMandalorianTV/comments/1vofk3j/lego_star_wars_the_mandalorian_official_trailer/",
+    "date": "5 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1787214725680-6",
+    "slug": "theyre-trapped-inside-their-own-home-but-at-least-they-have",
+    "title": "They're trapped inside their own home, but at least they have ...",
+    "summary": "The Last House on Netflix? The Last House (2026) A family of four suddenly finds themselves sealed inside their",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/netflixus/videos/theyre-trapped-inside-their-own-home-but-at-least-they-have-each-other-the-last-/2074414970102021/",
+    "date": "4 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1787128267509-1",
     "slug": "the-x-files-official-trailer-2026-new-mulder-and-sculley-4k",
     "title": "THE X-FILES Official Trailer (2026) New Mulder & Sculley | 4K",
@@ -8365,7 +8467,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-08-19T08:31:13.937Z";
+export const LAST_UPDATED = "2026-08-20T08:32:07.292Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
