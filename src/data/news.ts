@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1787301245341-1",
+    "slug": "sama-awards-drama-faith-nketsi-khanyi-mbau-lerato-and",
+    "title": "SAMA Awards Drama: Faith Nketsi, Khanyi Mbau, Lerato & ...",
+    "summary": "Faith Nketsi and an ex getting back together, while clips suggest Khanyi Mbau may have shaded either Lerato Kganyago or Buhle Samuels.",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@_6uhle/video/7675504775886114068",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1787301245970-2",
+    "slug": "upcoming-kdramas-in-2026-2027",
+    "title": "upcoming kdramas in 2026-2027...",
+    "summary": "No preview available.",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/groups/1989755158510437/posts/2556580251827922/",
+    "date": "2026-08-21",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1787301246234-3",
+    "slug": "kim-soo-hyuns-new-series-release-in-2026",
+    "title": "Kim Soo Hyun's new series release in 2026",
+    "summary": "No preview available.",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/groups/462365035465186/posts/1590423982659280/",
+    "date": "2026-08-21",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1787301246386-4",
+    "slug": "most-buzzed-k-dramas-of-the-first-half-of-2026",
+    "title": "Most Buzzed K-Dramas of the First Half of 2026",
+    "summary": "1.The Trauma Code: Heroes on Call 2.Buried Hearts 3.Melo Movie 4.Study Group 5.When Life Gives You Tangerines 6.Resident Playbook ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/Nhacuawooseok/posts/most-buzzed-k-dramas-of-the-first-half-of-2026/1942810936655315/",
+    "date": "2026-08-21",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1787301246542-5",
+    "slug": "new-shows-on-netflix-in-2026-netflix-tudum",
+    "title": "New Shows on Netflix in 2026 - Netflix Tudum",
+    "summary": "Mark your calendar for these new and returning series coming to Netflix in 2026. From the new season of Bridgerton to anticipated animated comedies, ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "netflix.com",
+    "sourceUrl": "https://www.netflix.com/tudum/articles/new-shows-on-netflix-2026",
+    "date": "7 hours ago",
+    "image": "https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQTOqsPdwRBbAQaYoR_E7WRR46mG1U58UNrRLIfteIW4bP97eIscUY0JylRaGOi5SlTiWNAHeDrRuKKAAuSif_2e91qO-RsPuh00uDe7TRhI-s1HUB-h4awwYr0GjC8w_Jz50du3CYp58LQ-HAHTOnP3gTQg.jpg?r=8d3",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1787301247625-6",
+    "slug": "2026-tv-shows-release-dates-for-most-anticipated-series",
+    "title": "2026 TV Shows: Release Dates For Most Anticipated Series",
+    "summary": "Netflix's Stranger Things and Prime Video's The Summer I Turned Pretty. Sunday, February 8, timed to the global release on Netflix.",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "deadline.com",
+    "sourceUrl": "https://deadline.com/lists/most-anticipated-tv-shows-2026/",
+    "date": "4 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1787214722148-1",
     "slug": "rip-hayden-panettiere-rtoddintheshadow",
     "title": "RIP Hayden Panettiere : r/ToddintheShadow",
@@ -8467,7 +8569,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-08-20T08:32:07.292Z";
+export const LAST_UPDATED = "2026-08-21T08:34:07.898Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
