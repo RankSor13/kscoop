@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1787386966995-1",
+    "slug": "k-dramas-on-disney-plus-2026",
+    "title": "K Dramas on Disney Plus 2026",
+    "summary": "Discover the most addictive 2026 K-dramas streaming on Disney+ with picks like Doctor on the Edge and Perfect Crown. Reclaimed Crown of An Heiress The Captive ...",
+    "category": "upcoming",
+    "author": "Ji Yeon Park",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/discover/k-dramas-on-disney-plus-2026",
+    "date": "5 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1787386968388-2",
+    "slug": "2026-k-drama-lineup-can-this-love-be-translated",
+    "title": "2026 K-drama lineup: Can This Love Be Translated? ...",
+    "summary": "Netflix Korea 2026 Drama Lineup 1.Can This Love Be Translated ( released) 2.Boyfriend on Demand (March 02) 3.Take Charge of My Heart 4.Our Sticky Love ...",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/groups/2662037187169257/posts/28423034563976166/",
+    "date": "2026-08-22",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1787386968923-3",
+    "slug": "this-is-where-everything-changes-and-power-shifts-baek-ki",
+    "title": "This is where everything changes and power shifts. Baek Ki ...",
+    "summary": "“Made in Korea 2” premieres September 9 on Disney+, with 6 episodes releasing two at a time every Wednesday. Who are you rooting for—Baek Ki Tae, Jang Geon ...",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/DisneyPlusPH/posts/this-is-where-everything-changes-and-power-shiftsbaek-ki-tae-your-move%EF%B8%8Fwitness-m/1058838120234686/",
+    "date": "5 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1787386969107-4",
+    "slug": "halfway-through-2026-and-k-dramas-have-already-given",
+    "title": "Halfway through 2026 and K-dramas have already given ...",
+    "summary": "AUGUST 2026 K-DRAMAS 5 NEW SERIES - STREAMING AUGUST 2026 OUR STICKY LOVE - AUG 7 (NETFLIX) FLEX X COP SEASON 2 - AUG 7 (DISNEY+ / SBS) NEW RECRUIT SEASON 4 ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/nbcentral/reel/DcJgBxTtsJe/",
+    "date": "2026-08-22",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1787386969405-5",
+    "slug": "new-k-drama-releases-of-the-week-august-17-23",
+    "title": "New K-drama releases of the week (August 17-23)",
+    "summary": "2026 K-Dramas have already delivered some big surprises. Netflix and Disney+ have released major titles, while several anticipated dramas are still coming later ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "threads.com",
+    "sourceUrl": "https://www.threads.com/@simply_botanical/post/DcRCB0kFiiU/new-k-drama-releases-of-the-week-august-new-korean-dramas-streaming-on-netflix/",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1787386969626-6",
+    "slug": "top-10-new-kdrama-name-suggest",
+    "title": "Top 10 New kdrama Name Suggest 😉",
+    "summary": "Top 10 New K-Dramas You Should Watch in 2026 Our sticky love The Apartment Job Dream to You A Bona fide killer Sold Out on You Reborn Rookie We Are All ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/DcED8ElzMa-/",
+    "date": "7 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1787301245341-1",
     "slug": "sama-awards-drama-faith-nketsi-khanyi-mbau-lerato-and",
     "title": "SAMA Awards Drama: Faith Nketsi, Khanyi Mbau, Lerato & ...",
@@ -8569,7 +8671,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-08-21T08:34:07.898Z";
+export const LAST_UPDATED = "2026-08-22T08:22:49.846Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
