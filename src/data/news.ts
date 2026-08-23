@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1787473380751-1",
+    "slug": "two-weeks-ago-a-rising-korean-actress",
+    "title": "Two weeks ago, a rising Korean actress ...",
+    "summary": "Actress Jun Ji Hyun Faces Massive Boycott Over Allegedly Controversial Scenes In “Tempest” It has already affected her brand image.",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/japaninsidehq/posts/two-weeks-ago-a-rising-korean-actress-sat-in-front-of-tv-cameras-and-boasted-tha/1359614499674798/",
+    "date": "2026-08-23",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1787473381108-2",
+    "slug": "24-year-old-south-korean-actor-hong-mingi-is-facing",
+    "title": "24-year-old South Korean actor Hong Mingi is facing ...",
+    "summary": "Hong Mingi is facing allegations of violence from his ex-girlfriend, who shared a detailed account of their alleged relationship on social media.",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/zoomtv/posts/24-year-old-south-korean-actor-hong-mingi-is-facing-allegations-of-violence-from/1628067619361172/",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1787473381273-3",
+    "slug": "ai-used-to-fake-evidence-that-ended-korean-actors-career",
+    "title": "AI used to fake evidence that ended Korean actor's career, ...",
+    "summary": "AI used to fake evidence that ended Korean actor's career, say police Kim Sae-ron was found dead at her Seoul home on February 16, 2025, aged 24.",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/taleodyssey/reel/DcOYPUNhShz/",
+    "date": "2026-08-23",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1787473381717-4",
+    "slug": "choi-min-sik-defends-young-star-for-their-personal-dating",
+    "title": "Choi Min Sik defends young star for their personal dating ...",
+    "summary": "The pressure on South Korean celebrities to deny relationships is immense, as highlighted by the recent controversy surrounding Kim Soo Hyun. Many, including ...",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/100080146298347/posts/choi-min-sik-defends-young-star-for-their-personal-dating-life-veteran-actor-cho/1070885328926334/",
+    "date": "2026-08-23",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1787473381881-5",
+    "slug": "the-fact-that-he-had-to-cancel-out-several-projects-because",
+    "title": "The fact that he had to cancel out several projects because ...",
+    "summary": "Korean actor Lee Yi Kyung chat scandal. Actor Lee Yi Kyung's agency has refuted allegations about his private life and signaled legal action against what they ...",
+    "category": "gossip",
+    "author": "Mia Kwon",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/kdramafanatis/posts/the-fact-that-he-had-to-cancel-out-several-projects-because-of-this-kdramas-leey/1017449511296581/",
+    "date": "2026-08-23",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1787473382059-6",
+    "slug": "jung-ho-yeon",
+    "title": "Jung Ho-yeon",
+    "summary": "Jung Ho-yeon (Korean: 정호연 ; born June 23, 1994) is a South Korean fashion model and actress. She began her career as a freelance model in 2010, ...",
+    "category": "gossip",
+    "author": "Rina Baek",
+    "source": "en.wikipedia.org",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Jung_Ho-yeon",
+    "date": "6 days ago",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/HoYeon_Jung.jpg/960px-HoYeon_Jung.jpg?utm_source=en.wikipedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1787386966995-1",
     "slug": "k-dramas-on-disney-plus-2026",
     "title": "K Dramas on Disney Plus 2026",
@@ -8671,7 +8773,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-08-22T08:22:49.846Z";
+export const LAST_UPDATED = "2026-08-23T08:23:02.333Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
