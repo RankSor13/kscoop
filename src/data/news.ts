@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1787560900844-1",
+    "slug": "korea-life-news-and-identity",
+    "title": "Korea: Life, News, and Identity",
+    "summary": "missing Jeju woman found ・ 37-year-old woman who went missing on Jeju Island was found Monday, Kim Keon-Hee's Dior Scandal ・ celebrity gossip or ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/korea/",
+    "date": "2026-08-24",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1787560901053-2",
+    "slug": "arirang-the-korea-international-broadcasting-foundation",
+    "title": "Arirang : The Korea International Broadcasting Foundation",
+    "summary": "WEEKLY NEWS HIGHLIGHTS. Kim also criticized South Korean President Lee Jae Myung by name \"Korea passing.\"",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "arirang.com",
+    "sourceUrl": "https://www.arirang.com/",
+    "date": "3 days ago",
+    "image": "https://www.arirang.com/images/opengraph.png",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1787560902286-3",
+    "slug": "korean-actress-banned-from-airport-after-7-plastic",
+    "title": "Korean Actress BANNED From Airport After 7 Plastic ...",
+    "summary": "Korean Actress BANNED From Airport After 7 Plastic Surgeries?! Korean actress plastic surgery, plastic surgery side effects, Korean celebrity plastic ...",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=1zMaioQrUuM",
+    "date": "2026-08-24",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1787560903031-4",
+    "slug": "top-upcoming-kdramas-september-2026-watch-with",
+    "title": "TOP Upcoming Kdramas | SEPTEMBER 2026 Watch with ...",
+    "summary": "TOP Upcoming Kdramas | SEPTEMBER 2026. NEW K DRAMAS NETFLIX, DISNEY+ & MORE. AS That Became Netflix's BIGGEST HITS | Korean Dramas",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=DkfziDu1XgE",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1787560903928-5",
+    "slug": "upcoming-k-dramas-you-need-to",
+    "title": "UPCOMING K-DRAMAS YOU NEED TO ...",
+    "summary": "The second half of 2026 is bringing romance, 💥 The Scandal — Son Ye Jin × Ji Chang Wook × Nana 🎹 Four Hands, Two Sonatas — Song Kang ❤️ Love Virus. Son Ye Jin ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/100064867832914/posts/-upcoming-k-dramas-you-need-to-add-to-your-watchlist-%EF%B8%8Fk-drama-fans-get-ready-the/1517141033791477/",
+    "date": "2026-08-24",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1787560904289-6",
+    "slug": "netflixs-top-3-k-dramas-of-2026-wait-until-you-see-who",
+    "title": "Netflix's TOP 3 K-Dramas of 2026 — Wait Until You See Who ...",
+    "summary": "TOP 5 DRAMAS 1 A SHOP FOR KILLERS SEASON 2 20.07% July 22, 2026 | Disney+ 2 A BONA FIDE KILLER 11.95% July 31, 2026 | MBC 3 SPOOKY IN LOVE 11.89% July 18, 2026 ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DcYQqV5hsgR/",
+    "date": "22 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1787473380751-1",
     "slug": "two-weeks-ago-a-rising-korean-actress",
     "title": "Two weeks ago, a rising Korean actress ...",
@@ -8773,7 +8875,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-08-23T08:23:02.333Z";
+export const LAST_UPDATED = "2026-08-24T08:41:44.904Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
