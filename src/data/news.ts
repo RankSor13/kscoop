@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1787646957119-1",
+    "slug": "the-biggest-k-drama-scandals-that-nearly-destroyed",
+    "title": "The biggest K-drama scandals that nearly destroyed ...",
+    "summary": "Actor Cho Jin Woong immediately quit acting after news broke about his past crimes, including a high school felony and drunk driving.",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/61587316312494/posts/the-biggest-k-drama-scandals-that-nearly-destroyed-celebrity-careers-kdrama-kdra/122134476153243877/",
+    "date": "2026-08-25",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1787646957414-2",
+    "slug": "study-group-actor-hong-mingi-accused-by-ex",
+    "title": "Study Group actor Hong Mingi accused by ex",
+    "summary": "Hong Mingi accused of physical violence and trauma by ex-girlfriend; Korean actor Hong Mingi, is facing serious public allegations from a former partner.",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "gulfnews.com",
+    "sourceUrl": "https://gulfnews.com/entertainment/study-group-actor-hong-mingi-accused-of-physical-violence-and-trauma-by-ex-girlfriend-agency-denies-1.500645393",
+    "date": "6 days ago",
+    "image": "https://media.assettype.com/gulfnews%2F2026-08-19%2F2i3czw63%2Fhong.avif?w=1200&amp;ar=40%3A21&amp;auto=format%2Ccompress&amp;ogImage=true&amp;mode=crop&amp;enlarge=true&amp;overlay=false&amp;overlay_position=bottom&amp;overlay_width=100",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1787646957957-3",
+    "slug": "behind-the-glamorous-headlines",
+    "title": "Behind the glamorous headlines, ...",
+    "summary": "Public IU and Lee Jong Suk's breakup sparks. Singer-actress IU and actor Lee Jong Suk have ended their relationship after four years of public dating, ...",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/100064867832914/posts/behind-the-glamorous-headlines-dating-in-the-korean-entertainment-industry-can-c/1517159010456346/",
+    "date": "2026-08-25",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1787646958109-4",
+    "slug": "south-korea-says-us-cancelled-upcoming-joint-marine",
+    "title": "South Korea says US cancelled upcoming joint marine ...",
+    "summary": "South Korea says the United States has cancelled a large joint amphibious landing exercise scheduled for next month due to constraints on force availability",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "aljazeera.com",
+    "sourceUrl": "https://www.aljazeera.com/news/2026/8/24/south-korea-says-us-cancelled-upcoming-joint-marine-exercises-over-iran-war",
+    "date": "20 hours ago",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-24T055101Z_1827342676_RC25S9ADUPWQ_RTRMADP_3_SOUTHKOREA-USA-DRILLS-1787569469.jpg?resize=1920%2C1440",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1787646958475-5",
+    "slug": "south-korean-2-way-player-ks-4-in-single-a-hickory-debut",
+    "title": "South Korean 2-way player K's 4 in Single-A Hickory debut",
+    "summary": "South Korean native Seong-Jun Kim (Rangers No. 8) tossed a pair of scoreless frames with four strikeouts in his Single-A Hickory debut Wednesday night. Get ...",
+    "category": "gossip",
+    "author": "Mia Kwon",
+    "source": "mlb.com",
+    "sourceUrl": "https://www.mlb.com/news/south-korean-2-way-player-debuts-with-4-ks-in-single-a-hickory",
+    "date": "5 days ago",
+    "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/zwdwx8ei4gsi5cszybom.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1787646959420-6",
+    "slug": "10-best-k-dramas-that-are-actually-netflix-originals-in",
+    "title": "10 BEST K-DRAMAS That Are ACTUALLY Netflix Originals in ...",
+    "summary": "JUNE 2026: Korean Dramas — Premiere and Schedules PREMIERES ‍⚕️ June 1: \"Doctor On The Edge\" (Disney+) June 5: \"The Lie You Live In\" (Viki) June 5: ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/Joyandvictoriadramas/posts/10-best-k-dramas-that-are-actually-netflix-originals-in-2026-1-is-insane-part-3k/997463253255284/",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1787560900844-1",
     "slug": "korea-life-news-and-identity",
     "title": "Korea: Life, News, and Identity",
@@ -8875,7 +8977,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-08-24T08:41:44.904Z";
+export const LAST_UPDATED = "2026-08-25T08:35:59.575Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
