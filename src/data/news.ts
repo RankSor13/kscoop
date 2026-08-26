@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1787733431679-1",
+    "slug": "the-scandal-official-teaser-netflix-eng-sub",
+    "title": "The Scandal | Official Teaser | Netflix [ENG SUB]",
+    "summary": "... on Netflix: https://www.netflix.com/kr/title/81911390 Subscribe to Netflix K-Content: https ... 10 K-Drama Flops of 2026 So Far (What Went Wrong?) K-Drama List• ...",
+    "category": "upcoming",
+    "author": "Ji Yeon Park",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=vxyzFk_z-Wc",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1787733432725-2",
+    "slug": "forget-the-fairytale-this-empress-has-other-plans",
+    "title": "Forget the fairytale, this Empress has other plans. ...",
+    "summary": "#TheRemarriedEmpress is coming to Disney+ and Hulu November 4. Though watch many genres of Kdramas of series and film!! The drama is set to premiere later in ...",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/Dce3AfNlqFA/",
+    "date": "2 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1787733433117-3",
+    "slug": "kians-bizarre-bandb-season-2-official-teaser-netflix-eng-sub",
+    "title": "Kian's Bizarre B&B Season 2 | Official Teaser | Netflix [ENG SUB]",
+    "summary": "Jun Season 2 is coming September 22, only on Netflix. Upcoming Kdramas | SEPTEMBER 2026. DISNEY+ & MORE K-popdrama",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=9GIReeikoC4",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1787733433929-4",
+    "slug": "i-see-shin-minai-watch-theremarriedempress-is-coming",
+    "title": "i see shin mina...i watch #TheRemarriedEmpress is coming ...",
+    "summary": "November 4 to Hulu and Disney+. Kim (2026) Genre: Action, Thriller, Mystery Release Date:June 26, 2026 Episodes:10 Where to Watch: Netflix, SBS Synopsis",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@webtoonofficial/video/7678131084881579277",
+    "date": "8 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1787733434373-5",
+    "slug": "hulu-september-2026",
+    "title": "Hulu September 2026",
+    "summary": "Hulu is bringing some seriously big titles in September 2026. Netflix Original in September 2026. Movie Story New on Disney+ September 2026 Movie Story",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=Dt1S98WX0bk",
+    "date": "5 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1787733435187-6",
+    "slug": "forget-the-fairytale-this-empress-has-other-plans",
+    "title": "Forget the fairytale, this Empress has other plans. ...",
+    "summary": "Forget the fairytale, this Empress has other plans. #TheRemarriedEmpress is coming to Disney+ and Hulu November 4.",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@hulu/video/7678123132607106318",
+    "date": "8 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1787646957119-1",
     "slug": "the-biggest-k-drama-scandals-that-nearly-destroyed",
     "title": "The biggest K-drama scandals that nearly destroyed ...",
@@ -8977,7 +9079,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-08-25T08:35:59.575Z";
+export const LAST_UPDATED = "2026-08-26T08:37:15.662Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
