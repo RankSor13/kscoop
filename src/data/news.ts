@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1787856345454-1",
+    "slug": "korean-star-sparks-worry-with-content-of-latest",
+    "title": "Korean Star Sparks Worry With Content Of Latest ...",
+    "summary": "The controversy escalated on April 13th KST when actor Nam Yoon Soo reposted an inappropriate image of a balloon sculpture resembling female genitalia.",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/koreaboorewind/posts/korean-star-sparks-worry-with-content-of-latest-instagram-post/1111349468219473/",
+    "date": "2026-08-27",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1787856345760-2",
+    "slug": "seo-ye-ji-and-kim-soo-hyun-unpacking-the-scandal",
+    "title": "Seo Ye Ji And Kim Soo Hyun Unpacking The Scandal",
+    "summary": "The news of Seo Ye Ji and Kim Soo Hyun's alleged involvement in a scandal began circulating online in early August. Although the exact nature of the scandal has ...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "shop.aviatorppg.com",
+    "sourceUrl": "https://shop.aviatorppg.com/seo-ye-ji-and-kim-soo-hyun-unpacking-the-scandal-a-deep-dive",
+    "date": "5 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1787856346386-3",
+    "slug": "cheering-for-a-groomer-is-crazy-rkdramacasualtalk",
+    "title": "\"Cheering for a groomer is crazy!!\" : r/KdramaCasualTalk",
+    "summary": "That actress from It's Okay Not To Be Okay completely overshadowed him with her acting and presence. The police investigated whether KSR dated someone while ...",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/KdramaCasualTalk/comments/1vyyi5z/cheering_for_a_groomer_is_crazy/",
+    "date": "2026-08-27",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1787856346486-4",
+    "slug": "the-28-best-korean-shows-on-netflix-to-watch-now",
+    "title": "The 28 best Korean shows on Netflix to watch now",
+    "summary": "The series stars Son Ye-jin as South Korean businesswoman Yoon Se-ri, who gets blown to the North Korean side of the DMZ by a tornado while paragliding. Ri ...",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "ew.com",
+    "sourceUrl": "https://ew.com/best-korean-shows-on-netflix-8655646?srsltid",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1787856346588-5",
+    "slug": "lee-jae-wook",
+    "title": "Lee Jae-wook",
+    "summary": "Lee Jae-wook (Korean: 이재욱 ; born May 10, 1998) is a South Korean actor and model. He made his television debut in Memories of the Alhambra (2018–2019) ...",
+    "category": "gossip",
+    "author": "Mia Kwon",
+    "source": "en.wikipedia.org",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Lee_Jae-wook",
+    "date": "2 days ago",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/df/Lee_Jae-wook_at_Chanel_Coco_Crush_Photocall_event.jpg?utm_source=en.wikipedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail_unscaled",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1787856346720-6",
+    "slug": "alarm-in-south-korea-as-iran-dispute-with-trump-rattles-a",
+    "title": "Alarm in South Korea as Iran dispute with Trump rattles a ...",
+    "summary": "Trump's order to scale back US-South Korea drills revives doubts in Seoul over Washington's security guarantees.",
+    "category": "gossip",
+    "author": "Rina Baek",
+    "source": "aljazeera.com",
+    "sourceUrl": "https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance",
+    "date": "7 days ago",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-03-16T082617Z_1488819421_RC2E5KAH65LK_RTRMADP_3_IRAN-CRISIS-SOUTHKOREA-PROTEST-1787187535.jpg?resize=1920%2C1440",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1787733431679-1",
     "slug": "the-scandal-official-teaser-netflix-eng-sub",
     "title": "The Scandal | Official Teaser | Netflix [ENG SUB]",
@@ -9079,7 +9181,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-08-26T08:37:15.662Z";
+export const LAST_UPDATED = "2026-08-27T18:45:47.042Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
