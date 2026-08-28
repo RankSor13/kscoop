@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1787946649905-1",
+    "slug": "the-remarried-empress-k-drama-gets-premiere-date-on",
+    "title": "'The Remarried Empress' K-Drama Gets Premiere Date On ...",
+    "summary": "The 10-part historical K-drama The Remarried Empress will premiere on Disney+ in November after its world premiere at the Busan Film Festival.",
+    "category": "upcoming",
+    "author": "Ji Yeon Park",
+    "source": "deadline.com",
+    "sourceUrl": "https://deadline.com/2026/08/disney-plus-shin-mina-ju-jihoon-remarried-empress-busan-1237050148/",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1787946650189-2",
+    "slug": "2026-fall-tv-preview-every-show-you-should-know-about",
+    "title": "2026 fall TV preview: Every show you should know about",
+    "summary": "The Hunting Wives Season 2 premieres Nov. 26 on Netflix. Netflix's new Korean thriller is your next mystery obsession 'Mousetrap' will ensnare you. the best ...",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "mashable.com",
+    "sourceUrl": "https://mashable.com/entertainment/fall-tv-preview-2026",
+    "date": "11 hours ago",
+    "image": "https://helios-i.mashable.com/imagery/articles/03UxIr5c4dAIlERD348pxvD/hero-image.fill.size_1200x675.v1787668696.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1787946650784-3",
+    "slug": "medical-shows-and-dramas-to-watch-on-hulu-and-disney",
+    "title": "Medical Shows & Dramas To Watch On Hulu & Disney+",
+    "summary": "Discover heart-pounding medical dramas and shows streaming on Hulu and Disney+, from Grey's Anatomy and ER to House, Scrubs, The Good Doctor, Saving Hope, ...",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "disneyplus.com",
+    "sourceUrl": "https://www.disneyplus.com/explore/articles/medical-drama-tv-shows",
+    "date": "3 days ago",
+    "image": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/43D8421C4F339C0AC25B2717FE218F5B316D4FD5CFB370B5CDF10B68D5AF7511/scale?format=webp&amp;width=1200",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1787946652563-4",
+    "slug": "sbs-star-official-k-pop-and-korean-entertainment-news-from",
+    "title": "SBS Star – Official K-pop & Korean Entertainment News from ...",
+    "summary": "Discover the latest in K-pop and Korean entertainment with SBS Star—your. K-POP BROADCAST MOVIE. Yang Joon-mo Remarries '38' musical actor and opera singer ...",
+    "category": "trending",
+    "author": "Hana Cho",
+    "source": "sbsstar.net",
+    "sourceUrl": "https://sbsstar.net/",
+    "date": "2 days ago",
+    "image": "https://sbsstar.net/assets/images/thumb.png",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1787946652708-5",
+    "slug": "whats-on-netflix",
+    "title": "What's on Netflix",
+    "summary": "Public The Scandal is an upcoming Netflix period romance drama (Q3 2026) starring Son Ye-jin, Ji Chang-wook, and Nana. Scheduled for Q3 2026 on Netflix.",
+    "category": "casting",
+    "author": "Mia Kwon",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/whatsonnetflix/posts/netflix-has-officially-confirmed-the-release-date-for-its-upcoming-k-drama-the-s/1525722799569041/",
+    "date": "2026-08-28",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "casting",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1787946652973-6",
+    "slug": "netflix-k-dramas-2026-top-10-k",
+    "title": "Netflix K-dramas 2026 * Top 10 K ...",
+    "summary": "Here are the TOP 10 K-dramas released on @netflixkr for the first half of 2026 (January - June) ❤️ #Netflixkorea #netflix #kdrama #whattowatch #southkorea",
+    "category": "casting",
+    "author": "Rina Baek",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DclEtE5uQGj/",
+    "date": "2026-08-28",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "casting",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1787856345454-1",
     "slug": "korean-star-sparks-worry-with-content-of-latest",
     "title": "Korean Star Sparks Worry With Content Of Latest ...",
@@ -9181,7 +9283,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-08-27T18:45:47.042Z";
+export const LAST_UPDATED = "2026-08-28T19:50:53.424Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
