@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1788010404006-1",
+    "slug": "august-2026-kdrama-releases-on-viki-netflix-disney-kbs2",
+    "title": "August 2026 Kdrama releases on Viki Netflix Disney KBS2",
+    "summary": "UPCOMING KDRAMAS JULY 2026 07/04 #LoveInSync (U+Mobile TV) 07/04 #TheHusband (KBS2/Disney+) 07/11 #TheApartmentJob (Jtbc/Netflix) 07/13 #DreamToYou (ENA/Viki) ...",
+    "category": "upcoming",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/61591673707716/posts/viki-my-bias-my-bossnetflix-our-sticky-love-mousetrap-4-hands-2-sonatasdisney-fl/122125902177389123/",
+    "date": "2026-08-29",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1788010404663-2",
+    "slug": "netflix-genre-historical-romance-drama-episodes-8",
+    "title": "Netflix Genre: Historical, romance, drama Episodes: 8 ...",
+    "summary": "5 New K-dramas this September 2026 ✨September 9th- MADE IN KOREA (Season 2) Platform: Disney Genre: Political, Action Episodes: 6",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/DcnrzCUjEZY/",
+    "date": "2026-08-29",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1788010405323-3",
+    "slug": "jyu-oh-mujin-dandivine-announces-eight-new-cast",
+    "title": "Jyu-Oh Mujin Dandivine announces eight new cast ...",
+    "summary": "PRESENTING Y'ALL THE MOST ANTICIPATED KDRAMA OF 2026! Shin Min-A, Lee Jong-Suk, Ju Ji-Hoon and Lee Se- Young officially confirmed to lead the new webtoon ...",
+    "category": "casting",
+    "author": "Dana Kim",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/groups/1508375466775468/posts/2186015642344777/",
+    "date": "2026-08-29",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "casting",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1788010405596-4",
+    "slug": "comedy-workplace-cast-kim-hye-jun-kang",
+    "title": "Comedy | Workplace ⭐ Cast: Kim Hye Jun, Kang ...",
+    "summary": "My Bias, My Boss (2026) Episodes: 12/12 Release: August 3, 2026 Platform: Amazon Prime Video Genre: Romance | Comedy | Workplace ⭐ Cast: Kim ...",
+    "category": "casting",
+    "author": "Hana Cho",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/Dcko1i_xTxZ/",
+    "date": "2026-08-29",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "casting",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1788010405995-5",
+    "slug": "in-the-unheard-vengeance-has-a-cost",
+    "title": "In The Unheard, Vengeance Has a Cost",
+    "summary": "Kate Winslet and Maxine Peake star in a new limited series from writer Jack Thorne. By John DiLillo. Aug. 26, 2026.",
+    "category": "casting",
+    "author": "Mia Kwon",
+    "source": "netflix.com",
+    "sourceUrl": "https://www.netflix.com/tudum/articles/the-unheard-release-date-cast-news",
+    "date": "3 days ago",
+    "image": "https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQU3Sa2sVW-KOicVcBluN0sA7QSsCiaLTwNSQamsWMlJkh0tbYmu6iYJ8nC26hGAS5c1cXNMVSFx4rudS85n90IolGXSsU1R8QBP45ZtL1wPGWzBi2KCP5XytmQnMJLZaVKvVMvIm0pReOk_DW95RRjh6gFc.jpg?r=935",
+    "tags": [
+      "casting",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1788010407096-6",
+    "slug": "our-sticky-love-tv-series-2026-full-cast-and-crew",
+    "title": "Our Sticky Love (TV Series 2026) - Full cast & crew",
+    "summary": "Our Sticky Love (TV Series 2026) - Cast and crew credits, including actors, actresses, directors, writers and more.",
+    "category": "casting",
+    "author": "Rina Baek",
+    "source": "imdb.com",
+    "sourceUrl": "https://www.imdb.com/title/tt36955608/fullcredits/",
+    "date": "7 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "casting",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1787946649905-1",
     "slug": "the-remarried-empress-k-drama-gets-premiere-date-on",
     "title": "'The Remarried Empress' K-Drama Gets Premiere Date On ...",
@@ -9283,7 +9385,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-08-28T19:50:53.424Z";
+export const LAST_UPDATED = "2026-08-29T13:33:27.332Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
