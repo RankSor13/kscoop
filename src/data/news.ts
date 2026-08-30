@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1788096533063-1",
+    "slug": "10-new-korean-movies-and-series-of-2026-on-netflix-and-disney",
+    "title": "10 New Korean Movies & Series of 2026 on Netflix & Disney+",
+    "summary": "10 New Korean Movies & Series of 2026 on Netflix & Disney+ Hello, and Welcome to Asian Odyssey titles worth checking out on Netflix and Disney+.",
+    "category": "upcoming",
+    "author": "Ji Yeon Park",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=V8McGd9IPBE",
+    "date": "1 hour ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1788096533997-2",
+    "slug": "6-of-the-best-new-k-dramas-to-watch-in-september-2026",
+    "title": "6 of the best new K-dramas to watch in September 2026 ...",
+    "summary": "6 of the best new K-dramas to watch in September 2026, including The Scandal on Netflix · 1. Made in Korea season 2 · 2. The Ordinary Jackpot · 3. A Love Other ...",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "amp.scmp.com",
+    "sourceUrl": "https://amp.scmp.com/lifestyle/entertainment/article/3365563/6-best-new-k-dramas-watch-september-2026-including-scandal-netflix",
+    "date": "2 hours ago",
+    "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/28/91eb95f0-f175-44d0-9cc3-d5dba9729dc2_5a4e0b04.jpg?itok=ZOFXWVD8&amp;v=1787908003",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1788096534867-3",
+    "slug": "made-in-korea-2-disney-starring-hyunbin-jung-woo",
+    "title": "Made In Korea 2 (Disney+) Starring #Hyunbin , Jung Woo ...",
+    "summary": "MOST AWAITED UPCOMING K-DRAMAS OF 2026: DELUSION (Suzy & Kim Seon Ho) A fantasy mystery thriller set in the 1930s about painter Yun I-ho (Kim Seon Ho), who ...",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/KimYooJungUpdates/posts/september-2026-korean-drama-line-up-september-brings-a-diverse-lineup-of-korean-/122148733275065087/",
+    "date": "2026-08-30",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1788096535173-4",
+    "slug": "netflix-quietly-removing-shows-august-2026",
+    "title": "Netflix quietly removing shows August 2026",
+    "summary": "Netflix quietly removing shows August 2026 … have been randomly removed from the site, app, and my watch queue. New season of Naruto Shippuden coming July 10 ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/netflix/comments/1vy1n9e/netflix_quietly_removing_shows_august_2026/",
+    "date": "4 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1788096535288-5",
+    "slug": "netflixs-new-12-part-k-drama-is-officially-the-end-of-an-era",
+    "title": "Netflix's New 12-Part K-Drama Is Officially The End Of An Era",
+    "summary": "August 17, 2026 at 3:00 AM. 2026 K-Dramas have already delivered some big surprises. Netflix and Disney+ have released major titles, while several ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "threads.com",
+    "sourceUrl": "https://www.threads.com/@screenrant/post/DcihezolIje/netflixs-new-part-k-drama-is-officially-the-end-of-an-era-bit-ly-rwt-xa/",
+    "date": "2026-08-30",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1788096535568-6",
+    "slug": "korean-actor-lee-yong-joo-passes-away-at-44",
+    "title": "Korean actor Lee Yong Joo passes away at 44",
+    "summary": "South Korean actor and former model Lee Yong Joo has passed away suddenly following a cardiac arrest on August 29. have since gone viral, popular K-pop group ...",
+    "category": "trending",
+    "author": "Rina Baek",
+    "source": "gmanetwork.com",
+    "sourceUrl": "https://www.gmanetwork.com/entertainment/photos/korean-actor-lee-yong-joo-passes-away-at-44/27846/",
+    "date": "3 hours ago",
+    "image": "https://aphrodite.gmanetwork.com/entertainment/gallery/1200_675_42_30-08-2026-1825_-20260830182527.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1788010404006-1",
     "slug": "august-2026-kdrama-releases-on-viki-netflix-disney-kbs2",
     "title": "August 2026 Kdrama releases on Viki Netflix Disney KBS2",
@@ -9385,7 +9487,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-08-29T13:33:27.332Z";
+export const LAST_UPDATED = "2026-08-30T13:28:59.349Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
