@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1788191189803-1",
+    "slug": "these-korean-actors-are-set-to-make-2026-even-more",
+    "title": "These Korean actors are set to make 2026 even more ...",
+    "summary": "Korean star Kim Myung Soo, also known as L from the K-Pop group INFINITE, is set to captivate Filipino fans once again as he headlines the Korea Travel Fiesta ...",
+    "category": "trending",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/Metro.Magazine/posts/these-korean-actors-are-set-to-make-2026-even-more-unforgettable-for-their-filip/1565711818932481/",
+    "date": "2026-08-31",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1788191190476-2",
+    "slug": "princess-hours-actor-lee-yong-joo-passes-away-at-44",
+    "title": "'Princess Hours' actor Lee Yong-joo passes away at 44",
+    "summary": "South Korean actor Lee Yong-joo has passed away at the age of 44. News of the actor's sudden passing was shared by one of his close friends on social media ...",
+    "category": "trending",
+    "author": "Soo Min Lee",
+    "source": "news.abs-cbn.com",
+    "sourceUrl": "https://news.abs-cbn.com/entertainment/showbiz/celebrities/2026/8/30/-princess-hours-actor-lee-yong-joo-passes-away-at-44-1551",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1788191190796-3",
+    "slug": "south-korean-actor-kim-soo-hyun-has-made-his-first-on",
+    "title": "South Korean actor Kim Soo-hyun has made his first on",
+    "summary": "South Korean actor Kim Soo-hyun has made his first on-air television appearance in over a year, following his 2025 hiatus.",
+    "category": "trending",
+    "author": "Dana Kim",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/TheStarOnline/posts/south-korean-actor-kim-soo-hyun-has-made-his-first-on-air-television-appearance-/1552275416934978/",
+    "date": "2026-08-31",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1788191191142-4",
+    "slug": "upcoming-k-dramas-and-movies-you-cannot-miss-this",
+    "title": "Upcoming K-Drama's & Movies You Cannot Miss this ...",
+    "summary": "New K-dramas this September 2026 ✨September 9th- MADE IN KOREA (Season 2) Platform: Disney Genre: Political, Action Episodes: 6 ✨September 12th - A LOVE OTHER ...",
+    "category": "casting",
+    "author": "Hana Cho",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/Dcq6Xy-uQd0/",
+    "date": "2026-08-31",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "casting",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1788191191661-5",
+    "slug": "the-36-best-netflix-k-dramas-of-2026-so-far",
+    "title": "The 36 Best Netflix K-Dramas of 2026 (So Far)",
+    "summary": "Here are the best Netflix Korean series of 2026, including the must-watch K-dramas coming soon, from 'Can This Love Be Translated?' to 'The WONDERfools.'",
+    "category": "casting",
+    "author": "Mia Kwon",
+    "source": "marieclaire.com",
+    "sourceUrl": "https://www.marieclaire.com/culture/tv-shows/netflix-korean-tv-shows-2026/",
+    "date": "1 day ago",
+    "image": "https://cdn.mos.cms.futurecdn.net/EVJ9rkTe8sgNQjndv8L5Cj-1920-80.jpg",
+    "tags": [
+      "casting",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1788191192745-6",
+    "slug": "possible-love-marks-director-lee-chang-dongs-return",
+    "title": "Possible Love Marks Director Lee Chang-dong's Return",
+    "summary": "Acclaimed South Korean filmmaker Lee Chang-dong is back. The director returns with the relationship drama Possible Love, which South Korea has selected as ...",
+    "category": "casting",
+    "author": "Rina Baek",
+    "source": "netflix.com",
+    "sourceUrl": "https://www.netflix.com/tudum/articles/possible-love-cast-release-date-photos",
+    "date": "5 days ago",
+    "image": "https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQaurOphs5SU97sYZgdER--fqVTItHwzba3o_xy7IXMcy0cwd6N8CKlPjWRKN1PfAZpjKDYTfKVDisU9la6L5OYWTpw8JIkFI5xazmqbjCmOLdKhZjRib5S6jLr3JptP-u-W15xM2kvBzQ838bi3mKhvg5ps.jpg?r=624",
+    "tags": [
+      "casting",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1788096533063-1",
     "slug": "10-new-korean-movies-and-series-of-2026-on-netflix-and-disney",
     "title": "10 New Korean Movies & Series of 2026 on Netflix & Disney+",
@@ -9487,7 +9589,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-08-30T13:28:59.349Z";
+export const LAST_UPDATED = "2026-08-31T15:46:33.776Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
