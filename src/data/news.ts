@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1788267588285-1",
+    "slug": "new-k-drama-releases-to-watch-in-september-2026-on",
+    "title": "New K-Drama Releases To Watch In September 2026 On ...",
+    "summary": "10+ New K-Dramas / Movie / Series Coming To Netflix, Disney+, And More In August 2024. • Bad Memory Eraser (August 2) • Family By Choice (August 7) • ...",
+    "category": "upcoming",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/koreaboorewind/posts/new-k-drama-releases-to-watch-in-september-2026-on-netflix-disney-and-more/1115561534464933/",
+    "date": "2026-09-01",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1788267589096-2",
+    "slug": "new-k-drama-releases-to-watch-in-september-2026-on",
+    "title": "New K-Drama Releases To Watch In September 2026 On ...",
+    "summary": "New K-Drama Releases To Watch In September 2026 On Netflix, Disney+, And More · 1. The Scandal · 2. Made In Korea 2 · 3. A Love Other Than Yours · 4. The Ordinary ...",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "koreaboo.com",
+    "sourceUrl": "https://www.koreaboo.com/lists/new-k-drama-releases-watch-in-september-2026-netflix-disney/",
+    "date": "2 days ago",
+    "image": "https://image.koreaboo.com/2026/08/septemberKdramas-FI.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1788267589877-3",
+    "slug": "every-k-drama-coming-to-netflix-hulu-prime-video-and",
+    "title": "Every K-Drama Coming To Netflix, Hulu, Prime Video & ...",
+    "summary": "Every K-Drama Coming To Netflix, Hulu, Prime Video & More In September 2026 · Made In Korea (Season 2) · The Ordinary Jackpot · A Love Other Than Yours · The ...",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "screenrant.com",
+    "sourceUrl": "https://screenrant.com/every-k-drama-netflix-hulu-prime-video-streaming-september-2026/",
+    "date": "1 day ago",
+    "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/08/netflix-the-scandal-drama-ji-chang-wook.png?w=1600&amp;h=900&amp;fit=crop",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1788267591724-4",
+    "slug": "new-k-dramas-september-2026-netflix-prime-video",
+    "title": "New K-Dramas September 2026: Netflix, Prime Video, ...",
+    "summary": "K-Dramas September 2026: ; 1. Made In Korea Season 2 · Disney+ and Hulu · September 9 ; 2. The Ordinary Jackpot · Viki · September 10 ; 3. A Love Other Than Yours.",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "outlookindia.com",
+    "sourceUrl": "https://www.outlookindia.com/art-entertainment/k-drama/new-k-dramas-in-september-2026-the-scandal-made-in-korea-2-dive-into-you-and-more",
+    "date": "1 day ago",
+    "image": "https://cf-images.assettype.com/outlookindia/2026-08-31/8ospshee/Screenshot-2026-08-31-at-15.50.38.png?w=1200&amp;amp;ar=40%3A21&amp;amp;auto=format%2Ccompress&amp;amp;ogImage=true&amp;amp;mode=crop&amp;amp;enlarge=true&amp;amp;overlay=false&amp;amp;overlay_position=bottom&amp;amp;overlay_width=100",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1788267595405-5",
+    "slug": "made-in-korea-2-disney-sep-10-the-ordinary-jackpot",
+    "title": "Made In Korea 2, Disney+ Sep 10: The Ordinary Jackpot ...",
+    "summary": "5 New K-dramas this September 2026 ✨September 9th- MADE IN KOREA (Season 2) Platform: Disney Genre: Political, Action Episodes: 6 ✨ ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DctnB5jM3cc/",
+    "date": "19 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1788267596496-6",
+    "slug": "tving-tvn-and-hbo-max-lee-jun-hyuk-seo-hyun-woo",
+    "title": "TVING, tvN & HBO Max ⭐ Lee Jun Hyuk, Seo Hyun Woo ...",
+    "summary": "🗓️ AUGUST 2026 KDRAMA GUIDE: My Bias, My Boss Date: August 3. Cast: Kang Hoon, Kim Hye Jun, Cha Woo Min, Yuna Network / Streaming Platform: tvN ...",
+    "category": "casting",
+    "author": "Rina Baek",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/DctF0K3jX28/",
+    "date": "2026-09-01",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "casting",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1788191189803-1",
     "slug": "these-korean-actors-are-set-to-make-2026-even-more",
     "title": "These Korean actors are set to make 2026 even more ...",
@@ -9589,7 +9691,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-08-31T15:46:33.776Z";
+export const LAST_UPDATED = "2026-09-01T12:59:56.813Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
