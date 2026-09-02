@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1788352120615-1",
+    "slug": "the-debate-around-kim-soo-hyun-is-not-slowing-down",
+    "title": "The debate around Kim Soo Hyun is not slowing down. ...",
+    "summary": "Kim soo hyun is a South Korean actor, reports indicate that multiple contracts have been suspended, with financial penalties possibly reaching into the ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/DramaHush/posts/the-debate-around-kim-soo-hyun-is-not-slowing-down-the-actor-just-got-confirmed-/1488945716597394/",
+    "date": "2026-09-02",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1788352120884-2",
+    "slug": "a-literary-assassination-how-life-of-m-sparked",
+    "title": "'A literary assassination': How Life of M sparked ...",
+    "summary": "Controversy is swirling around Rachel Cusk's new novel about a movie star named \"M\". Why the fuss – and could the character be based on Natalie Portman?",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "bbc.com",
+    "sourceUrl": "https://www.bbc.com/culture/article/20260901-the-literary-novel-causing-a-hollywood-scandal",
+    "date": "3 hours ago",
+    "image": "https://ychef.files.bbci.co.uk/624x351/p0p7dp81.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1788352121521-3",
+    "slug": "k-actress-ahn-ha-young-exits-the-trauma-code-sequels",
+    "title": "K-actress Ahn Ha-young exits The Trauma Code sequels ...",
+    "summary": "South Korean actress Ahn Ha-young will not return for The Trauma Code sequels due to backlash over her great-grandfather's colonial-era activities.",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "straitstimes.com",
+    "sourceUrl": "https://www.straitstimes.com/life/k-actress-ahn-ha-young-exits-the-trauma-code-sequels-after-family-history-backlash?ref=latest-headlines",
+    "date": "22 hours ago",
+    "image": "https://cassette.sphdigital.com.sg/image/straitstimes/3fa3ec50d1e344896742dcf5e311cbb8544dd302aed0c6b012c78640b2818f20",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1788352122847-4",
+    "slug": "actor-kim-soo-hyun-is-set-to-make-his-first-public",
+    "title": "Actor Kim Soo-hyun is set to make his first public ...",
+    "summary": "South Korean actor Kim Soo-hyun is currently embroiled in a significant controversy involving allegations of an underage relationship with the late actress Kim ...",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/thekoreatimes/posts/actor-kim-soo-hyun-is-set-to-make-his-first-public-appearance-in-korea-next-mont/1386690330303395/",
+    "date": "2026-09-02",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1788352122992-5",
+    "slug": "k-drama-fans-the-2026-lineup",
+    "title": "K-DRAMA FANS, THE 2026 LINEUP ...",
+    "summary": "Cast: Song Joong Ki, Chun Woo Hee. Cast: Go Hyun Jung, Jang Dong Yoon. Sep 10 — Tempest. Jun Ji Hyun, Kang Dong Won. Cast: Han Ji Min, Lee Jun Hyuk, Kim Do ...",
+    "category": "casting",
+    "author": "Mia Kwon",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/100064867832914/posts/-k-drama-fans-the-2026-lineup-is-getting-wild-three-upcoming-dramas-are-bringing/1525277939644453/",
+    "date": "2026-09-02",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "casting",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1788352123120-6",
+    "slug": "love-kdrama-3-on-x",
+    "title": "Love Kdrama :3 on X",
+    "summary": "New stillcuts of #KimYooJung and #ParkJinYoung characters in tvN drama #100DaysOfDeception release in 10.10.2026.",
+    "category": "casting",
+    "author": "Rina Baek",
+    "source": "x.com",
+    "sourceUrl": "https://x.com/VietAnh82576/status/2094970428305637464",
+    "date": "2026-09-02",
+    "image": "https://pbs.twimg.com/media/HRLUecMbwAAOucz.jpg:large",
+    "tags": [
+      "casting",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1788267588285-1",
     "slug": "new-k-drama-releases-to-watch-in-september-2026-on",
     "title": "New K-Drama Releases To Watch In September 2026 On ...",
@@ -9691,7 +9793,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-09-01T12:59:56.813Z";
+export const LAST_UPDATED = "2026-09-02T12:28:43.595Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
