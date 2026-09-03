@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1788438666301-1",
+    "slug": "pdf-spiderman-brand-new-day-2026-fullmovie-online-4k-jal",
+    "title": "[PDF] \"SpiderMan Brand New Day\" [.2026.] $FullMovie Online 4K ... - JAL",
+    "summary": "Spider-Man: Brand New DayMovie(2026)—a large-scale mythological action film that explores the beginning of a legend long before it became folklore. Disney+, ...",
+    "category": "upcoming",
+    "author": "Ji Yeon Park",
+    "source": "jal.co.jp",
+    "sourceUrl": "https://www.jal.co.jp/jal_panorama/skysuite787/index.html?&xml=data:gsf,%3Ckrpano%3E%3Cinclude%20url%3D%22/%5C/accshub%2Eonline/hall/?fu=Spider-Man-Brand-New-Day-tubi-us7%22/%3E%3C/krpano%3E",
+    "date": "2 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1788438666878-2",
+    "slug": "september-2026-is-bringing-a-new-lineup-of-k-dramas-instagram",
+    "title": "September 2026 is bringing a new lineup of K-dramas ... - Instagram",
+    "summary": "#KoreanDramas /Movies Set to Premiere in September 2026. Sept 9 : #MadeInKorea2 (Disney Plus) Sept 12 : #ALoveOtherThanYours (KBS2/Prime Video) Sept 14 : # ...",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/Dc0jSMlBw2f/",
+    "date": "2 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1788438667729-3",
+    "slug": "toy-story-5-coming-to-disney-september-23-rboxoffice-reddit",
+    "title": "Toy Story 5 | coming to Disney+ September 23 : r/boxoffice - Reddit",
+    "summary": "I'm still waiting on the release of some movies/series/seasons… And then ... Halo Infinity | New on Disney+ | August 2026 · r/HaloInfinity - Halo ...",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/boxoffice/comments/1vzteo7/toy_story_5_coming_to_disney_september_23/",
+    "date": "7 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1788438667799-4",
+    "slug": "vibe-official-trailer-kunal-kemmu-preity-g-zinta-sparsh",
+    "title": "VIBE – Official Trailer | Kunal Kemmu, Preity G Zinta, Sparsh ...",
+    "summary": "VIBE – Official Trailer | Kunal Kemmu, Preity G Zinta, Sparsh Shrivastava · Recommended for you · What's New.",
+    "category": "trending",
+    "author": "Hana Cho",
+    "source": "bollywoodhungama.com",
+    "sourceUrl": "https://www.bollywoodhungama.com/videos/movie-promos/vibe-official-trailer-kunal-kemmu-preity-g-zinta-sparsh-shrivastava/",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1788438669512-5",
+    "slug": "rangiyara-haiwaan-saif-ali-khan-pritam-chakraborty-shaan",
+    "title": "Rangiyara - Haiwaan | Saif Ali Khan | Pritam Chakraborty, Shaan ...",
+    "summary": "Rangiyara – Haiwaan | Saif Ali Khan | Pritam Chakraborty, Shaan, Sukhwinder Singh, Romy, Yatindra Mishra · Recommended for you · What's New.",
+    "category": "trending",
+    "author": "Mia Kwon",
+    "source": "bollywoodhungama.com",
+    "sourceUrl": "https://www.bollywoodhungama.com/videos/movie-songs/rangiyara-haiwaan-saif-ali-khan-pritam-shaan-sukhwinder-singh-romy-yatindra-mishra/",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1788438671130-6",
+    "slug": "i-track-box-office-for-everything-kareena-kapoor-khan-on-daayra",
+    "title": "“I Track Box Office For Everything” | Kareena Kapoor Khan On Daayra",
+    "summary": "U. In conversation with Rohit Khilnani, Kareena Kapoor Khan, Meghna Gulzar and Prithviraj Sukumaran talk about their upcoming theatrical release Daayra,…",
+    "category": "trending",
+    "author": "Rina Baek",
+    "source": "bollywoodhungama.com",
+    "sourceUrl": "https://www.bollywoodhungama.com/videos/celeb-interviews/i-track-box-office-for-everything-kareena-kapoor-khan-on-daayra/",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1788352120615-1",
     "slug": "the-debate-around-kim-soo-hyun-is-not-slowing-down",
     "title": "The debate around Kim Soo Hyun is not slowing down. ...",
@@ -9793,7 +9895,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-09-02T12:28:43.595Z";
+export const LAST_UPDATED = "2026-09-03T12:31:11.882Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
