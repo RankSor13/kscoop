@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1788524831946-1",
+    "slug": "mabel-knows-a-thing-or-two-about-whimsy-maxing-gravity-falls-on",
+    "title": "Mabel knows a thing or two about whimsy maxing. Gravity Falls (On ...",
+    "summary": "Flex X Cop 2 is now available for streaming on Disney+, offering fans a thrilling experience every Friday and Saturday. This K-drama series continues to ...",
+    "category": "upcoming",
+    "author": "Ji Yeon Park",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@disneyplus/video/7680999138296663327",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1788524832432-2",
+    "slug": "ji-chang-wook-romcom-era-drama-name-merry-berry-love",
+    "title": "Ji Chang wook romcom era ♥️ Drama Name: Merry Berry Love ...",
+    "summary": "How many episodes? pallavineni. This should be on Netflix, man I'm dying to see him ... • Premiere: October 7, 2026 • Ji Chang-wook × Mio Imada • Disney+ ...",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DcxbxSlzvRD/",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1788524832840-3",
+    "slug": "top-10-nuevas-series-en-septiembre-2026-para-las-youtube",
+    "title": "TOP 10 NUEVAS SERIES en Septiembre 2026 Para las ... - YouTube",
+    "summary": "21:47 · Go to channel Maestro Ciego. The BEST Releases of SEPTEMBER 2026 on Netflix, HBO, Prime Video, Disney+, and Theaters. Maestro Ciego. New. 35K views.",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=dieUYslEwJM",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1788524833631-4",
+    "slug": "mark-wahlberg-talks-by-any-means-boogie-nights-ted-and-more",
+    "title": "Mark Wahlberg Talks 'By Any Means,' 'Boogie Nights, 'Ted' & More ...",
+    "summary": "Mark Wahlberg joins Rich in-studio to promote his new 'By Any Means' movie based on the true story of a mob hit man who helped investigate the murders of ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=OTQ1ALsO-T0",
+    "date": "12 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1788524834801-5",
+    "slug": "replying-to-luzz-cuales-van-a-ver-netflix-tiktok",
+    "title": "Replying to @LUZZ ¿Cuáles van a ver? ⭐️ @Netflix ... - TikTok",
+    "summary": "koreandrama. Dramas Asiaticos. Dramas Recommendation. drama series. prime video. Korean Drama Suggestions. Asian Drama Recommendations. kdrama fyp. floreciendo ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@nana3sol/video/7681110599496977671",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1788524835207-6",
+    "slug": "the-best-new-releases-of-september-2026-top-cinema",
+    "title": "The BEST NEW RELEASES of September 2026 | Top Cinema",
+    "summary": "Estrenos Septiembre 2026. Estos son los mejores estrenos de plataformas del mes de Septiembre, con muchos estrenos de netflix, hbomax, prime video, ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=MPStrrZcZHI",
+    "date": "12 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1788438666301-1",
     "slug": "pdf-spiderman-brand-new-day-2026-fullmovie-online-4k-jal",
     "title": "[PDF] \"SpiderMan Brand New Day\" [.2026.] $FullMovie Online 4K ... - JAL",
@@ -9895,7 +9997,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-09-03T12:31:11.882Z";
+export const LAST_UPDATED = "2026-09-04T12:27:16.155Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
