@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1788608021926-1",
+    "slug": "kim-soo-hyun-to-appear-at-korean-entertainment-awards",
+    "title": "Kim Soo-hyun to appear at Korean entertainment awards ...",
+    "summary": "Allegations have emerged suggesting that Kim Soo-hyun had a relationship with Kim Sae-ron when she was underage, which he denies.",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/koreaheraldofficial/posts/actor-kim-soo-hyuns-upcoming-appearances-at-two-korean-entertainment-awards-show/1388443953490300/",
+    "date": "2026-09-05",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1788608022756-2",
+    "slug": "seoinyoung-opens-up-about-past-controversies-on-my",
+    "title": "#SeoInYoung opens up about past controversies on 'My ...",
+    "summary": "South Korean actress Seo Ye-ji has addressed the ongoing controversies surrounding her, including past allegations of gaslighting and recent associations with ...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/allkpop/posts/seoinyoung-opens-up-about-past-controversies-on-my-grumpy-secretary/1495415039291391/",
+    "date": "2026-09-05",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1788608022949-3",
+    "slug": "i-feel-so-bad-for-him-just-because-celebrities-are-kind-to",
+    "title": "I feel so bad for him, just because celebrities are kind to ...",
+    "summary": "Hou Minghao has a dedicated core fan base that has brought of the Korean actors who are 'implicitly banned' in the Chinese market. y over asking for too high a ...",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/kdramafanatis/posts/i-feel-so-bad-for-him-just-because-celebrities-are-kind-to-you-doesnt-mean-you-h/1030704726637726/",
+    "date": "2026-09-05",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1788608023138-4",
+    "slug": "song-joong-ki-and-kim-tae-ri-speak-up-about-dating-rumors",
+    "title": "Song Joong-ki and Kim Tae-ri speak up about dating rumors",
+    "summary": "MANILA, Philippines – South Korean actors Song Joong-ki and Kim Tae-ri have addressed rumors that they are dating, denying that they are in a relationship ...",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "rappler.com",
+    "sourceUrl": "https://www.rappler.com/entertainment/celebrities/song-joong-ki-kim-tae-ri-speak-dating-rumors/",
+    "date": "2 days ago",
+    "image": "https://www.rappler.com/tachyon/2022/10/SpaceSweepers_UNIT_068.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1788608025755-5",
+    "slug": "which-of-these-dramas-are-you-most-excited-for-kdrama",
+    "title": "Which of these dramas are you most excited for? #Kdrama ...",
+    "summary": "Upcoming K-drama Series Scandals with Son Ye Jin, Ji Chang Wook, and Nana. Korean Random Updates ▻ Obsessed with K- drama & movie.",
+    "category": "gossip",
+    "author": "Mia Kwon",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/kdramafanatis/posts/which-of-these-dramas-are-you-most-excited-for-kdrama-kdramas-madeinkorea-thesca/1031424903232375/",
+    "date": "2026-09-05",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1788608025952-6",
+    "slug": "1-the-south-korean-actress-moon-chae-won-has-chosen-a",
+    "title": "1. the South Korean actress Moon Chae Won has chosen a ...",
+    "summary": "3 quick Mokshiri updates worth your scroll: 1. the South Korean actress Moon Chae Won has chosen a path 2. few stars have managed to maintain the enduring",
+    "category": "gossip",
+    "author": "Rina Baek",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/Dczqf38AHW2/",
+    "date": "2026-09-05",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1788524831946-1",
     "slug": "mabel-knows-a-thing-or-two-about-whimsy-maxing-gravity-falls-on",
     "title": "Mabel knows a thing or two about whimsy maxing. Gravity Falls (On ...",
@@ -9997,7 +10099,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-09-04T12:27:16.155Z";
+export const LAST_UPDATED = "2026-09-05T11:33:46.411Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
