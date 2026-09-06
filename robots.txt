@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+
+Host: https://RankSor13.github.io/kscoop
+Sitemap: https://RankSor13.github.io/kscoop/sitemap.xml
