@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1788695615879-1",
+    "slug": "netflix-finally-added-movies-with-a-hard-edge-youtube",
+    "title": "Netflix FINALLY Added Movies With a Hard-Edge - YouTube",
+    "summary": "SUBSCRIBE to my New Channel! https://www.youtube.com/@darren-van-dam SHOP My T-Shirt Designs https://www.darrenvandam.com/shop GET My Free Weekly Newsletter ...",
+    "category": "upcoming",
+    "author": "Ji Yeon Park",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=iqsidVAzE9w",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1788695616932-2",
+    "slug": "september-tv-premieres-2026-fall-watchlist-and-what-to-stream",
+    "title": "September TV Premieres 2026: Fall Watchlist & What to Stream",
+    "summary": "Top September TV premieres to watch - Highlight high-profile new series and returning seasons launching in September. ... Many shows debut on streaming services ...",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@abbeybonadies/video/7680236568270867742",
+    "date": "6 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1788695617508-3",
+    "slug": "big-changes-are-coming-to-metv-youtube",
+    "title": "Big Changes Are Coming to MeTV - YouTube",
+    "summary": "-star-treks-60th-anniversary/ Star Trek Is Coming Back to Movie Theaters for Its 60th Anniversary With Classic Movies & Original Series TV Episodes on The ...",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=CvEoTtnOZ6E",
+    "date": "6 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1788695618320-4",
+    "slug": "salt-meet-wound-stuck-in-the-suburbs-on-disney-tiktok",
+    "title": "Salt meet wound. Stuck in the Suburbs (On Disney+) - TikTok",
+    "summary": "7737 Likes, 81 Comments. TikTok video from Disney+ (@disneyplus): “Salt meet wound. Stuck in the Suburbs (On Disney+)”. stuck in the suburbs movie.",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@disneyplus/video/7680245866648718622",
+    "date": "6 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1788695618811-5",
+    "slug": "the-judge-from-hell-korean-is-a-2024-instagram",
+    "title": "The Judge from Hell (Korean:지옥에서 온 판사) is a 2024 ... - Instagram",
+    "summary": "It aired on SBS TV from September 21, to November 2, 2024, every Friday and Saturday at 22:00 (KST). It is also available for streaming on Disney+in selected ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/Dc00zT9tISE/",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1788695619192-6",
+    "slug": "the-best-releases-of-september-2026-on-netflix-hbo-prime",
+    "title": "The BEST Releases of SEPTEMBER 2026 on Netflix, HBO, Prime ...",
+    "summary": "Los estrenos de series y películas de SEPTIEMBRE de 2026 de los servicios de streaming como Netflix, HBO, Amazon Prime Video, Disney Plus, ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=AsGJ-ibVfK0",
+    "date": "5 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1788608021926-1",
     "slug": "kim-soo-hyun-to-appear-at-korean-entertainment-awards",
     "title": "Kim Soo-hyun to appear at Korean entertainment awards ...",
@@ -10099,7 +10201,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-09-05T11:33:46.411Z";
+export const LAST_UPDATED = "2026-09-06T11:53:40.240Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
