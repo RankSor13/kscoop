@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1788789295091-1",
+    "slug": "we-cannot-wait-for-this-netflix-just-shared-a-teaser-for-the-new",
+    "title": "We cannot wait for this! ⁠ ⁠ Netflix just shared a teaser for the new ...",
+    "summary": "Photo by LADbible on September 07, 2026. May be a meme of poster and ... You NEED To Watch This Show On Disney+… Mr Inbetween Is Incredible! If ...",
+    "category": "upcoming",
+    "author": "Ji Yeon Park",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/Dc-v0hpiWc9/",
+    "date": "51 minutes ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1788789295855-2",
+    "slug": "ooh-netflix-friends-the-inbetweeners-3-now-filming-instagram",
+    "title": "Ooh, Netflix friends. THE INBETWEENERS 3. Now filming. - Instagram",
+    "summary": "If you're looking for your next binge-watch, Mr Inbetween needs to be at the top of your list on Disney+. This brilliantly written Australian crime drama ...",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/Dc-mClcClyl/",
+    "date": "3 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1788789296174-3",
+    "slug": "these-major-series-are-coming-at-the-end-of-2026-to-youtube",
+    "title": "These Major Series Are Coming at the End of 2026 (to ... - YouTube",
+    "summary": "These Movies & Series Are Coming in September (Disney+, Max, Prime, Netflix, Theaters...) ... New on NETFLIX in September 2026! (50+ Movies and Series). Matteo - ...",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=HAWmolPGEeA",
+    "date": "21 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1788789297154-4",
+    "slug": "this-is-a-crazy-announcement-documentary-truecrime-a24",
+    "title": "This is a crazy announcement - #documentary - #truecrime - #a24",
+    "summary": "Last viewed on: Sep 7, 2026. More videos you may like. NATHAN FIELDER + ... Jun 26, 2026 · 1.6K views. Motor city Alan ritchinson and shailene Woodley ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/61571096114515/videos/this-is-a-crazy-announcement-documentary-truecrime-a24-nathanfielder-a24/1725721069554709/",
+    "date": "12 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1788789298619-5",
+    "slug": "tulsa-king-season-4-teaser-trailer-sylvester-stallone-fights-joblo",
+    "title": "Tulsa King Season 4 Teaser Trailer: Sylvester Stallone fights ... - JoBlo",
+    "summary": "As every hard-won gain exacts a steep price in loyalty and blood, Manfredi is forced to rely heavily on the ruthless street instincts he honed back in New York.",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "joblo.com",
+    "sourceUrl": "https://www.joblo.com/tulsa-king-season-4-teaser-trailer/",
+    "date": "6 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1788789298909-6",
+    "slug": "the-gentlemen-temporada-2-hace-algo-que-no-me-esperaba",
+    "title": "THE GENTLEMEN Temporada 2 hace ALGO que no me esperaba",
+    "summary": "The Gentlemen regresa a Netflix con una temporada 2 más oscura, ambiciosa y diferente. En este Razones Para Ver Express analizamos sin spoilers The ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=ukiCj1NQ16g",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1788695615879-1",
     "slug": "netflix-finally-added-movies-with-a-hard-edge-youtube",
     "title": "Netflix FINALLY Added Movies With a Hard-Edge - YouTube",
@@ -10201,7 +10303,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-09-06T11:53:40.240Z";
+export const LAST_UPDATED = "2026-09-07T13:54:59.869Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
