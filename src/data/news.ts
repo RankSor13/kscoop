@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1788870834387-1",
+    "slug": "coyote-vs-acme-james-gunn-lanterns-hbo-and-gta6-youtube",
+    "title": "Coyote vs Acme, James Gunn, Lanterns HBO & GTA6 ... - YouTube",
+    "summary": "Box Office today! Coyote vs Acme, Spider-Man Brand New Day, The Odyssey IMAX! Viewership Lanterns HBO, Grand Theft Auto 6 Netflix! Top Ten Box Office & Top ...",
+    "category": "upcoming",
+    "author": "Ji Yeon Park",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=VINA5K4x2vI",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1788870835204-2",
+    "slug": "netflix-the-scandal-official-trailer-premieres-september-18-reddit",
+    "title": "Netflix 'The Scandal' Official Trailer (Premieres September 18) - Reddit",
+    "summary": "They sure love that feet shot lol. I hope that is not all the sensual content in this show.",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/KDRAMA/comments/1wa9f4z/netflix_the_scandal_official_trailer_premieres/",
+    "date": "12 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1788870835296-3",
+    "slug": "la-emperatriz-divorciada-avance-disney-youtube",
+    "title": "La Emperatriz Divorciada | Avance | Disney+ - YouTube",
+    "summary": "... 2026 Disney. Todos los derechos reservados. Disney+ requiere una ... Go to channel Netflix K-Content. The Scandal | Official Trailer | Netflix ...",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=_Oq0q4rDDb8",
+    "date": "7 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1788870836172-4",
+    "slug": "austin-abrams-stars-in-this-action-packed-clip-from-zach-creggers",
+    "title": "Austin Abrams stars in this action-packed clip from Zach Cregger's ...",
+    "summary": "... K Likes, 657 Comments. TikTok video from Rotten Tomatoes ( ... Resident Evil 2026 Film Announced. new movies. Resident Evil 2026 Film ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@rottentomatoes/video/7681348653029625102",
+    "date": "5 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1788870836716-5",
+    "slug": "on-what-to-expecting-from-mahomes-in-week-1-rich-eisen-show",
+    "title": "on What to Expecting from Mahomes in Week 1 | Rich Eisen Show",
+    "summary": "The Ringer/Netflix NFL Insider Tom Pelissero joins Rich and discusse if Patrick Mahomes will be ready to go for Week 1 vs Broncos.",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=ZnCB8tnHTsM",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1788870837534-6",
+    "slug": "the-terrifying-reality-of-k-pop-sasaengs-youtube",
+    "title": "The TERRIFYING Reality of K-Pop Sasaengs - YouTube",
+    "summary": "Comments · When Korean Actors' Private Lives Suddenly Got Exposed · NOBODY KNOWS HOW TO DRESS FOR A WEDDING ANYMORE... · How 7 Towers Killed 168 People In 2 Days.",
+    "category": "trending",
+    "author": "Rina Baek",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=udhzPJZ7uRQ",
+    "date": "7 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1788789295091-1",
     "slug": "we-cannot-wait-for-this-netflix-just-shared-a-teaser-for-the-new",
     "title": "We cannot wait for this! ⁠ ⁠ Netflix just shared a teaser for the new ...",
@@ -10303,7 +10405,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-09-07T13:54:59.869Z";
+export const LAST_UPDATED = "2026-09-08T12:33:58.325Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
