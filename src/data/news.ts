@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1788957595062-1",
+    "slug": "20-best-thriller-movies-now-streaming-on-netflix-hulu-youtube",
+    "title": "20 Best Thriller Movies Now Streaming on Netflix, Hulu ... - YouTube",
+    "summary": "20 Best Thriller Movies Now Streaming on Netflix, Hulu, Peacock & Starz | September 2026 Note : Movies Availability is based on streaming info as of ...",
+    "category": "upcoming",
+    "author": "Ji Yeon Park",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=CFZ_geJyNHo",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1788957596117-2",
+    "slug": "the-universe-set-right-now-streaming-gilmoregirls-instagram",
+    "title": "The universe set right. ❤️‍ Now streaming: #GilmoreGirls - Instagram",
+    "summary": "Time to get you back to Yale. I love you, mom. Oh, Kid, you have no idea. OCR. Gilmore Girls hulu ON Disney+ Mom? © 2026 WBEI ...",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DdCLcsOjRA_/",
+    "date": "5 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1788957596626-3",
+    "slug": "steelers-cam-heyward-talks-his-podcast-mccarthy-rodgers-wk",
+    "title": "Steelers' Cam Heyward Talks His Podcast, McCarthy, Rodgers, Wk ...",
+    "summary": "Steelers Defensive Tackle Cam Heyward joins Rich and discusses Michigan's controversial win over Western Michigan, what is going on through his brain ...",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=5s0inqLYAUM",
+    "date": "13 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1788957597319-4",
+    "slug": "the-meyers-kids-share-their-favorite-school-activities-original-air",
+    "title": "The Meyers kids share their favorite school activities Original Air...",
+    "summary": "Atlantic Splash Adventure is officially opening for the 2026 season on June 13, 2026! ... New Amsterdam (2018–2023) TV Series – Medical Drama Season 2, ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/@latenightseth/video/7683196311864118541",
+    "date": "21 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1788957598357-5",
+    "slug": "hbo-just-quietly-added-15-shockingly-good-movies-youtube",
+    "title": "HBO Just Quietly Added 15 SHOCKINGLY Good Movies ... - YouTube",
+    "summary": "... movie hits available to stream on HBO Max without any big promotional push. 01:05 - THEY WILL KILL YOU (2026): Kirill Sokolov's bloody action-comedy-horror ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=5B4LwQwtbgA",
+    "date": "5 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1788957599203-6",
+    "slug": "korean-actors-and-actresses-born-in-september-facebook",
+    "title": "Korean actors and actresses born in September - Facebook",
+    "summary": "One notable fact about Suzy is that she is the first Korean female celebrity to win popularity awards in both the film, K-drama, and K-pop categories.",
+    "category": "trending",
+    "author": "Rina Baek",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/KimYooJungUpdates/posts/-september-born-korean-stars-as-we-celebrate-september-heres-a-look-at-some-tale/122149769355065087/",
+    "date": "21 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1788870834387-1",
     "slug": "coyote-vs-acme-james-gunn-lanterns-hbo-and-gta6-youtube",
     "title": "Coyote vs Acme, James Gunn, Lanterns HBO & GTA6 ... - YouTube",
@@ -10405,7 +10507,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-09-08T12:33:58.325Z";
+export const LAST_UPDATED = "2026-09-09T12:39:59.526Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
