@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1789043957360-1",
+    "slug": "school-bully-accusations-k-drama-actor-suddenly-announces",
+    "title": "\"School Bully Accusations\" K-Drama Actor Suddenly Announces ...",
+    "summary": "Uncanny Counter' actor returns to screen after bullying scandal Actor Cho Byeong-kyu will star in a new film titled, \"Even If I Die, One More Time\" (working ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/koreaboorewind/posts/school-bully-accusations-k-drama-actor-suddenly-announces-halt-in-acting-activit/1124588540228899/",
+    "date": "5 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1789043958159-2",
+    "slug": "crew-girl-stars-break-down-gossip-girl-friday-night-lights",
+    "title": "Crew Girl Stars Break Down Gossip Girl, Friday Night Lights ...",
+    "summary": "Sixteen-year-old Teagan Tao (Miku Martineau) was a rising star in single sculls rowing until a family scandal capsized her future.",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "de.eonline.com",
+    "sourceUrl": "https://de.eonline.com/news/1435898/crew-girl-stars-break-down-gossip-girl-friday-night-lights-comparison",
+    "date": "2 hours ago",
+    "image": "https://akns-images.eonline.com/eol_images/Entire_Site/20260909/c45fba32-db39-4b4a-87cd-8077e8ac141e_1788985496.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1789043959255-3",
+    "slug": "kang-han-nas-revealing-backless-dress-she-wore-to-the-2013",
+    "title": "Kang Han Na's revealing backless dress she wore to the 2013 ...",
+    "summary": "Kang Han Na's revealing backless dress she wore to the 2013 Busan International Film Festival has sparked yet another controversy #kdrama #kdramas...",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/kdramafanatis/posts/kang-han-nas-revealing-backless-dress-she-wore-to-the-2013-busan-international-f/1036850896023109/",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1789043959677-4",
+    "slug": "seo-ye-ji-and-kim-soo-hyun-unpacking-the-scandal-a-deep-dive",
+    "title": "Seo Ye Ji And Kim Soo Hyun Unpacking The Scandal: A Deep Dive",
+    "summary": "The news of Seo Ye Ji and Kim Soo Hyun's alleged involvement in a scandal began circulating online in early August. Although the exact nature of the scandal has ...",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "education1.com.br",
+    "sourceUrl": "https://www.education1.com.br/seo-ye-ji-and-kim-soo-hyun-unpacking-the-scandal-a-deep-dive",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1789043960488-5",
+    "slug": "yumcha-tea-time-tuesdays-celebs-gossip-oh-my-reddit",
+    "title": "Yumcha Tea Time Tuesdays Celebs, gossip, oh my! - Reddit",
+    "summary": "If you have breaking news, gossip, or rumours have you heard recently about cdrama celebrities, idols, and stars this weekly post is a space for you to do this!",
+    "category": "gossip",
+    "author": "Mia Kwon",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/CDrama/comments/1waqtye/yumcha_tea_time_tuesdays_celebs_gossip_oh_my/",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1789043960663-6",
+    "slug": "beloved-actress-exposed-for-date-with-top-male-idol-7-years",
+    "title": "Beloved Actress Exposed For Date With Top Male Idol — 7 Years",
+    "summary": "Public South Korean actor Kim Soo-hyun loses brand deals amid a revived dating scandal involving the late actress Kim Sae-ron, which includes allegations their ...",
+    "category": "gossip",
+    "author": "Rina Baek",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/koreaboorewind/posts/beloved-actress-exposed-for-date-with-top-male-idol-7-years-younger/1124248646929555/",
+    "date": "15 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1788957595062-1",
     "slug": "20-best-thriller-movies-now-streaming-on-netflix-hulu-youtube",
     "title": "20 Best Thriller Movies Now Streaming on Netflix, Hulu ... - YouTube",
@@ -10507,7 +10609,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-09-09T12:39:59.526Z";
+export const LAST_UPDATED = "2026-09-10T12:39:21.071Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
