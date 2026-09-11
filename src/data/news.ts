@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1789129880627-1",
+    "slug": "korean-wave-latest-korean-celebrity-news-gossip-and-photos",
+    "title": "Korean Wave - Latest Korean Celebrity News, Gossip & Photos ...",
+    "summary": "Latest Korean celebrity news, korean entertainment headlines and celeb gossip, with exclusive stories, photos, video, and more.",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "wowkorea.live",
+    "sourceUrl": "https://www.wowkorea.live/topic/",
+    "date": "12 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1789129884071-2",
+    "slug": "latest-korean-entertainment-news-celebrity-and-photos-k-pop",
+    "title": "Latest Korean Entertainment News, Celebrity & Photos - K-POP ...",
+    "summary": "Latest South Korean celebrity news, Korean entertainment news, and news about K-movie and K-drama actors and actresses.",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "wowkorea.live",
+    "sourceUrl": "https://www.wowkorea.live/news/kpop/",
+    "date": "12 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1789129885432-3",
+    "slug": "popular-actors-affair-scandal-with-fan-sees-unexpected-twist",
+    "title": "Popular Actor’s Affair Scandal With Fan Sees Unexpected Twist",
+    "summary": "A popular actor in his 50s, who was swept up in infidelity scandal involving a fan, has possibly cleared up his name for once and all.",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "koreaboo.com",
+    "sourceUrl": "https://www.koreaboo.com/news/popular-actor-affair-scandal-fan-unexpected-twist/",
+    "date": "3 days ago",
+    "image": "https://image.koreaboo.com/2026/09/hjm.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1789129886381-4",
+    "slug": "top-actors-cheating-scandal-surfaces-with-sudden-marriage",
+    "title": "Top Actor’s Cheating Scandal Surfaces With Sudden Marriage ...",
+    "summary": "Congratulations! With this news, the actor’s past dating history and related scandals have resurfaced. In September 2025, an expose by the Japanese outlet Shukan Bunshun shared claims about Sakaguchi’s alleged relationship.",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "koreaboo.com",
+    "sourceUrl": "https://www.koreaboo.com/asia/top-actors-cheating-scandal-surfaces-sudden-marriage-news/",
+    "date": "5 days ago",
+    "image": "https://image.koreaboo.com/2026/09/FEATURED-IMAGE-2026-09-06T210641.699.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1789129886878-5",
+    "slug": "celebrity-news-gossip-pictures-and-videos-latest-cover-stories",
+    "title": "Celebrity News - Gossip, Pictures & Videos | Latest Cover Stories",
+    "summary": "Dive deep into the current happenings in the industry with our candid pictures and exclusive stories. Includes relationships, lastest gossip, shows and lifestyle topics!",
+    "category": "gossip",
+    "author": "Mia Kwon",
+    "source": "theshaderoom.com",
+    "sourceUrl": "https://theshaderoom.com/category/celebs/",
+    "date": "1 day ago",
+    "image": "https://theshaderoom.com/wp-content/uploads/2019/04/Logo-For-White-Backgrounds.png",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1789129887194-6",
+    "slug": "new-k-dramas-releasing-in-september-2026-the-scandal-made",
+    "title": "New K-Dramas Releasing In September 2026: The Scandal, Made ...",
+    "summary": "ENTERTAINMENT | September 2026 brings a diverse lineup of Korean dramas across Netflix, Disney+, Prime Video and other streaming platforms. From historical romance and relationship dramas to thrillers, fantasy stories and family sagas, here are the major K-dramas scheduled to release this month.",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "pratidintime.com",
+    "sourceUrl": "https://www.pratidintime.com/entertainment/new-k-dramas-releasing-in-september-2026-the-scandal-made-in-korea-2-and-more-12518845",
+    "date": "3 hours ago",
+    "image": "https://img-cdn.publive.online/fit-in/1200x675/pratidin/media/media_files/2026/09/11/kdramaa-2026-09-11-14-10-57.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1789043957360-1",
     "slug": "school-bully-accusations-k-drama-actor-suddenly-announces",
     "title": "\"School Bully Accusations\" K-Drama Actor Suddenly Announces ...",
@@ -10609,7 +10711,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-09-10T12:39:21.071Z";
+export const LAST_UPDATED = "2026-09-11T12:31:28.843Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
