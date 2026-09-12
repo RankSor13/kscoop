@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1789214147006-1",
+    "slug": "actor-ansel-elgorts-controversy-in-korea-escalates-as-more-details",
+    "title": "Actor Ansel Elgort's Controversy In Korea Escalates As More Details ...",
+    "summary": "Shares of Lee's agency, YG Entertainment, fell more than 20 percent after his sex bribery scandal was first reported on Feb. 26, while shares of other top music ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/koreaboorewind/posts/actor-ansel-elgorts-controversy-in-korea-escalates-as-more-details-emerge/1120454410642312/",
+    "date": "7 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1789214147479-2",
+    "slug": "jung-mi-jo-a-scandal-with-andre-kim-mediafine-global",
+    "title": "Jung Mi-jo: \"A Scandal with André Kim?\" - Mediafine Global",
+    "summary": "Singer and painter Jung Mi-jo recalls her special bond with the late André Kim and the absurd scandal that led her to confront a newspaper office.",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "global.mediafine.co.kr",
+    "sourceUrl": "https://global.mediafine.co.kr/en/k-pop/jung-mi-jo-andre-kim-scandal-confrontation/",
+    "date": "6 days ago",
+    "image": "https://global.mediafine.co.kr/images/sources/17965c54-57c6-4b79-ab95-db29a3e1d36c/og-1200x630.webp",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1789214149402-3",
+    "slug": "upcoming-k-dramas-to-watch-in-2026-june-july-and-fall-premieres",
+    "title": "Upcoming K-Dramas to Watch in 2026: June, July & Fall Premieres",
+    "summary": "Track the biggest upcoming K-drama premieres of 2026, from June and July releases to fall dramas like Doctor X, Liar, Gold Digger, and more.",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "koreandramainsider.com",
+    "sourceUrl": "https://www.koreandramainsider.com/blog/korean-drama-insider-4/upcoming-k-dramas-to-watch-in-2026-48",
+    "date": "11 hours ago",
+    "image": "https://www.koreandramainsider.com/web/image/10174-0a9d2ea1/seobanner.png",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1789214151076-4",
+    "slug": "watch-10-new-korean-drama-in-netlix-hits-in-2026-film-daily",
+    "title": "Watch 10 new Korean drama in Netlix hits in 2026 - Film Daily",
+    "summary": "Discover the top 10 must‑watch Korean dramas on Netflix in 2026, from thrilling romances to gripping thrillers, all in one guide.",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "filmdaily.co",
+    "sourceUrl": "https://filmdaily.co/news/watch-10-new-korean-drama-in-netlix-hits-in-2026/",
+    "date": "5 days ago",
+    "image": "https://filmdaily.co/wp-content/uploads/2026/09/MV5BOWZmYTU2OGEtYWUzYi00MGU1LTg3MjEtY2E0ODYyM2YwOGQ5XkEyXkFqcGc@._V1__compressed.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1789214152669-5",
+    "slug": "6-upcoming-korean-dramas-releasing-in-september-2026",
+    "title": "6 Upcoming Korean Dramas Releasing in September 2026",
+    "summary": "Discover 6 upcoming Korean dramas releasing in September 2026, including Made in Korea Season 2, The Scandal, Dive Into You and more.",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "cinematimes.in",
+    "sourceUrl": "https://cinematimes.in/6-upcoming-korean-dramas-releasing-in-september-2026/",
+    "date": "4 days ago",
+    "image": "https://cinematimes.in/wp-content/uploads/2026/05/6-Upcoming-Korean-Dramas-Releasing-in-September-2026.webp",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1789214155372-6",
+    "slug": "made-in-korea-season-2-to-the-scandal-new-k-dramas-news18",
+    "title": "Made In Korea Season 2 To The Scandal: New K-Dramas ... - News18",
+    "summary": "With several much-awaited titles arriving across Netflix, Disney+, and Prime Video, here are the new K-dramas worth adding to your September watchlist.",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "news18.com",
+    "sourceUrl": "https://www.news18.com/movies/korean/made-in-korea-season-2-to-the-scandal-new-k-dramas-releasing-on-ott-in-september-2026-10318701.html",
+    "date": "3 days ago",
+    "image": "https://images.news18.com/ibnlive/uploads/2026/09/New-K-Dramas-Releasing-On-OTT-In-September-2026-2026-09-3b7fff10f473bb0bb846bb827e828a5c-1200x675.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1789129880627-1",
     "slug": "korean-wave-latest-korean-celebrity-news-gossip-and-photos",
     "title": "Korean Wave - Latest Korean Celebrity News, Gossip & Photos ...",
@@ -10711,7 +10813,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-09-11T12:31:28.843Z";
+export const LAST_UPDATED = "2026-09-12T11:55:56.716Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
