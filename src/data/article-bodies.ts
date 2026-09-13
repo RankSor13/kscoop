@@ -1,7 +1,7 @@
 /**
  * Structured article bodies for K-Scoop news items.
  * Managed by: .github/workflows/refresh-news.mjs
- * Last updated: 2026-09-12T11:55:56.721Z
+ * Last updated: 2026-09-13T13:04:06.100Z
  *
  * Each value is { body: BodyBlock[], takeaways: string[] }.
  */

@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1789304642089-1",
+    "slug": "korean-drama-newsnow",
+    "title": "Korean Drama - NewsNow",
+    "summary": "Latest K-drama news. Korean releases on Netflix, Disney+, TvN, JTBC and more. Popular K-drama actor announces marriage to actress 10 years. Korean releases on ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "newsnow.com",
+    "sourceUrl": "https://www.newsnow.com/us/Entertainment/Korean+Drama",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1789304643212-2",
+    "slug": "korean-actresses-who-are-actually-best-friends-in-real-life",
+    "title": "Korean Actresses Who Are Actually Best Friends in Real Life ...",
+    "summary": "From trending actors and new releases to behind-the-scenes stories, we bring you the latest news, honest opinions, and deep-dive profiles every week. Actors ...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=48Km2xgBjUM",
+    "date": "4 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1789304644012-3",
+    "slug": "5-new-korean-dramas-you-must-watch-in-september-2026",
+    "title": "5 New Korean Dramas You Must Watch in September 2026 ...",
+    "summary": "September 2026 K-drama releases on Disney, Netflix, and more. Kdrama recommendations. 1w · Public · SEPTEMBER 2026 KDrama list:- ✨September 9 - \"Made In Korea ...",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/ZAPZEEODK/posts/5-new-korean-dramas-you-must-watch-in-september-2026-madeinkorea2theordinaryjack/1516944157143037/",
+    "date": "5 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1789304644287-4",
+    "slug": "upcoming-k-dramas-in-september-2026-on-disney-tvn-and-netflix",
+    "title": "Upcoming K-dramas in September 2026 on Disney, TVN, and Netflix",
+    "summary": "The Scandal •Release Date: September 18, 2026 •Cast: Son Ye-jin, Ji Chang-wook, Nana •Platform: Netflix •What it's about: A steamy, high-stakes Joseon-era ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/61575339638916/posts/upcoming-september-2026-k-drama-major-series-premieresmade-in-korea-season-2rele/122185330910844654/",
+    "date": "4 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1789304644451-5",
+    "slug": "top-10-best-action-thriller-korean-dramas-of-2026-youtube",
+    "title": "Top 10 Best Action Thriller Korean Dramas of 2026 - YouTube",
+    "summary": "... series that push boundaries and redefine excitement ... Top 10 Best Action Thriller Korean Dramas of 2026 | Best Korean Drama To Watch on Netflix, Disney+.",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "m.youtube.com",
+    "sourceUrl": "https://m.youtube.com/watch?v=3qXpCjM7qXA&pp=ugUHEgVlbi1VUw%3D%3D",
+    "date": "23 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1789304645299-6",
+    "slug": "new-season-of-k-dramas-2026-tiktok",
+    "title": "New Season of K Dramas 2026 - TikTok",
+    "summary": "Here's a complete guide to 5 new Korean drama series premiering in September 2026. Check out the networks where you can watch them:",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/discover/new-season-of-k-dramas-2026",
+    "date": "6 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1789214147006-1",
     "slug": "actor-ansel-elgorts-controversy-in-korea-escalates-as-more-details",
     "title": "Actor Ansel Elgort's Controversy In Korea Escalates As More Details ...",
@@ -10813,7 +10915,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-09-12T11:55:56.716Z";
+export const LAST_UPDATED = "2026-09-13T13:04:06.053Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
