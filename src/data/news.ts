@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1789396809824-1",
+    "slug": "top-10-korean-series-of-2026-so-far-on-netflix-and-youtube",
+    "title": "Top 10 Korean Series of 2026 So Far on Netflix and YouTube",
+    "summary": "... Korean Series of 2026 So Far**, featuring some of the most exciting and binge-worthy K-dramas available across **Netflix, YouTube, Disney+, and Prime Video ...",
+    "category": "upcoming",
+    "author": "Ji Yeon Park",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=ywmYk3TCrVc",
+    "date": "4 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1789396810651-2",
+    "slug": "kdrama-premiers-in-october-2026-between-steps-kim-so-hyun",
+    "title": "Kdrama Premiers in October 2026 “Between Steps” — Kim So-hyun ...",
+    "summary": "Kdrama Premiers in October 2026. Disney+, October 5. “Take Charge of My Heart” bin, Kim Young-kwang. Netflix, October 9. “Doctor X” — Kim Ji-won. “100 Days of ...",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/DdQqf46hiy3/",
+    "date": "7 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1789396810994-3",
+    "slug": "dwts-highly-rated-k-drama-and-more-disney-releases-this-week",
+    "title": "DWTS, Highly-Rated K-Drama & More Disney+ Releases This Week",
+    "summary": "The new movie and TV releases coming to Disney+ from September 14-20, 2026, include the new episode of Flex x Cop Season 2 and the premiere of Dancing with ...",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "yahoo.com",
+    "sourceUrl": "https://www.yahoo.com/entertainment/tv/articles/dwts-highly-rated-k-drama-150000401.html",
+    "date": "24 hours ago",
+    "image": "https://s.yimg.com/lo/mysterio/api/8a6af77fb2f7f960313d2d79edde3b3e0f587a07fb0dcf9d07c29c85a379b48c/lightyear_networkapi/resizefill_w640_h360%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomingsoon_net_477%2Fd492f7ea7141d703c412d93ea248ea8a.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1789396811430-4",
+    "slug": "new-2026-action-k-drama-tiktok",
+    "title": "New 2026 Action K Drama - TikTok",
+    "summary": "Explore the full 2026 action K-drama lineup, including upcoming Netflix releases, premiere dates, genres, and streaming details for top thriller, mystery and ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/discover/new-2026-action-k-drama",
+    "date": "7 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1789396812094-5",
+    "slug": "kccupdates-former-k-pop-idol-kim-garam-has-signed-as-an",
+    "title": "#KCCUpdates ¦¦ Former K-Pop idol, Kim Garam, has signed as an ...",
+    "summary": "Kim Garam, has signed as an Actress under a South Korean Agency. Actress Ha Ji Won became the first Korean artist to sign a contract with one of the largest ...",
+    "category": "trending",
+    "author": "Mia Kwon",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/KCCMallGensan/posts/kccupdates-former-k-pop-idol-kim-garam-has-signed-as-an-actress-under-a-south-ko/1506731538155141/",
+    "date": "4 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1789396812359-6",
+    "slug": "profile-who-is-nana-the-k-pop-idol-and-star-of-netflix-k-dramas",
+    "title": "Profile | Who is Nana, the K-pop idol and star of Netflix K-dramas ...",
+    "summary": "K-pop idol turned actress Nana is back on screens this month in the hotly anticipated Netflix period drama The Scandal.",
+    "category": "trending",
+    "author": "Rina Baek",
+    "source": "scmp.com",
+    "sourceUrl": "https://www.scmp.com/lifestyle/k-drama/k-drama/article/3367157/who-nana-k-pop-idol-and-star-netflix-k-dramas-scandal-and-mask-girl",
+    "date": "2 days ago",
+    "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/11/8ebb49fb-da3c-437f-afa7-89849768fe1e_8dafcc50.jpg?itok=vnxMMT3k&amp;v=1789121645",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1789304642089-1",
     "slug": "korean-drama-newsnow",
     "title": "Korean Drama - NewsNow",
@@ -10915,7 +11017,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-09-13T13:04:06.053Z";
+export const LAST_UPDATED = "2026-09-14T14:40:13.256Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
