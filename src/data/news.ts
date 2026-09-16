@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1789563717046-1",
+    "slug": "why-some-koreans-are-still-not-ready-to-see-kim-soo-hyun-back",
+    "title": "Why Some Koreans Are Still Not Ready to See Kim Soo-hyun Back ...",
+    "summary": "This man is not merely an actor — he is a legacy wrapped in humility, precision, and power. ... Korean prestige — all graced by his name. From Dream High ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/100080146298347/posts/why-some-koreans-are-still-not-ready-to-see-kim-soo-hyun-back-on-screen-kimsoohy/1092228873458646/",
+    "date": "5 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1789563717487-2",
+    "slug": "make-it-make-sense-korea-korean-fyp-explore-viral-instagram",
+    "title": "make it make sense #korea #korean #fyp #explore #viral - Instagram",
+    "summary": "Do you want to know the difference between Ha Young's case and Kim Soo Hyun's? Ha Young brought the issue into the public conversation herself and spoke about ...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DdUCW4FqB-0/",
+    "date": "5 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1789563717896-3",
+    "slug": "new-k-dramas-on-netflix-in-october-2026-facebook",
+    "title": "New K-dramas on Netflix in October 2026 - Facebook",
+    "summary": "04 - Brewing Love (ENA/Viu) Nov. 06 - Gangnam B-Side (Disney+) Nov. 06 - Face Me (KBS2) Nov. 08 - Mr. Plankton (Netflix) Nov.",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/korean4topik/posts/-3-hot-k-dramas-are-coming-to-netflix-this-october-october-is-shaping-up-to-be-a/1768827905243841/",
+    "date": "22 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1789563718051-4",
+    "slug": "a-curated-mix-of-korean-hit-series-filling-up-your-queue-list-on-disney",
+    "title": "A curated mix of Korean hit series filling up your queue list on Disney+",
+    "summary": "Disney+ 2025 K-Drama Lineup (Sept–Dec) Disney+ just revealed their upcoming dramas for the rest of the year — and it's packed with star power! Now ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/DisneyPlusPH/posts/a-curated-mix-of-korean-hit-series-filling-up-your-queue-list-on-disney/1080014028117095/",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1789563718204-5",
+    "slug": "5-new-k-dramas-are-coming-in-october-2026-from-romance-and",
+    "title": "5 new K-Dramas are coming in October 2026! From romance and ...",
+    "summary": "1- Made in Korea – Season 2 (Disney+/ September 9) 2- The Scandal (Netflix / September 18) 3- A Love Other Than Yours (Prime Video / September 12) 4- The ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DdTv0zKT06Y/",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1789563718489-6",
+    "slug": "6-novos-k-dramas-para-assistir-em-setembro-de-2026-no-streaming",
+    "title": "6 novos k-dramas para assistir em setembro de 2026 no streaming",
+    "summary": "Entre os destaques estão o retorno de Hyun Bin em Made in Korea e a aguardada parceria entre Seo Kang Jun e Ahn Eun Jin em A Love Other Than Yours. Confira a ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "capricho.abril.com.br",
+    "sourceUrl": "https://capricho.abril.com.br/entretenimento/6-novos-k-dramas-para-assistir-em-setembro-de-2026-no-streaming/",
+    "date": "4 days ago",
+    "image": "https://capricho.abril.com.br/wp-content/uploads/2026/09/Escandalo-Intriga-Netflix-kdrama.jpg?quality=85&strip=info&resize=1080,565&crop=1",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1789477490015-1",
     "slug": "kim-soo-hyuns-drastically-changed-visuals-after-kim-sae-ron",
     "title": "Kim Soo Hyun's Drastically Changed Visuals After Kim Sae Ron ...",
@@ -11119,7 +11221,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-09-15T13:04:53.252Z";
+export const LAST_UPDATED = "2026-09-16T13:01:58.827Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
