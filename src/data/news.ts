@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1789649987193-1",
+    "slug": "woman-unknown-wins-golden-lion-in-venice-full-winners-list",
+    "title": "'Woman Unknown' Wins Golden Lion in Venice: Full Winners List",
+    "summary": "Mathilde Arcel ('Woman Unknown') won best actor and best actress, and Venice sensation 'NAZA' claimed the Special Jury Prize.",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "hollywoodreporter.com",
+    "sourceUrl": "https://www.hollywoodreporter.com/movies/movie-news/2026-venice-winners-full-list-golden-lion-1236698825/",
+    "date": "5 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1789649987504-2",
+    "slug": "hyun-bin-jung-woo-sung-and-woo-do-hwan-x-elle-korea-reddit",
+    "title": "Hyun Bin, Jung Woo-Sung & Woo Do-Hwan X ELLE Korea ... - Reddit",
+    "summary": "How would Korean public react if a famous kdrama actor/actress came out as gay? ... Find breaking K-pop news, K-Drama, korean viral videos and exclusive ...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/allthingskdramas/comments/1wfonj6/hyun_bin_jung_woosung_woo_dohwan_x_elle_korea/",
+    "date": "4 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1789649987583-3",
+    "slug": "on-this-day-kim-se-uis-garo-sero-side-stated-that-they-facebook",
+    "title": "On this day, Kim Se-ui's (Garo Sero) side stated that they ... - Facebook",
+    "summary": "She is also accused of threatening Kim Soohyun by unauthorizedly disclosing his private photos on broadcast and demanding a public apology while threatening to ...",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/KimSooHyunShiPhilippines/posts/on-this-day-kim-se-uis-garo-sero-side-stated-that-they-deny-all-chargesregarding/1687813316342257/",
+    "date": "4 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1789649987893-4",
+    "slug": "miscasting-facial-paralysis-steroids-depression-korean-actress",
+    "title": "Miscasting, Facial Paralysis, Steroids, Depression — Korean Actress ...",
+    "summary": "Ahn Eun Jin, who sparked a syndromic level of popularity with MBC's My Dearest, faced turmoil early on due to a miscasting controversy. Viewers questioned ...",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "koreaboo.com",
+    "sourceUrl": "https://www.koreaboo.com/news/miscasting-facial-paralysis-steroids-depression-korean-actress-struggles-filming/",
+    "date": "4 days ago",
+    "image": "https://image.koreaboo.com/2026/09/Ahn-Eun-Jin-FI-1.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1789649988614-5",
+    "slug": "nanas-accidental-slip-up-when-talking-about-her-character-at-the",
+    "title": "Nana's accidental slip-up when talking about her character at 'The ...",
+    "summary": "Son Ye-Jin with Ji Chang Wook and Nana at The Scandal production press conference! r/KDramasWorld - Son Ye-Jin with Ji Chang Wook and Nana at The. 15.",
+    "category": "gossip",
+    "author": "Mia Kwon",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/dramasect/comments/1wd3k3l/nanas_accidental_slipup_when_talking_about_her/",
+    "date": "6 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1789649988662-6",
+    "slug": "dive-in-you-korean-drama-premieres-on-disney-september-26-2026",
+    "title": "Dive In You Korean drama premieres on Disney+ September 26, 2026",
+    "summary": "Premiere September 26, 2026 Wow The new Disney+ Korean drama *Dive In You* has released. Scheduled to release in the 2nd half of 2026 on Disney+",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/groups/1989755158510437/posts/2581100942709186/",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1789563717046-1",
     "slug": "why-some-koreans-are-still-not-ready-to-see-kim-soo-hyun-back",
     "title": "Why Some Koreans Are Still Not Ready to See Kim Soo-hyun Back ...",
@@ -11221,7 +11323,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-09-16T13:01:58.827Z";
+export const LAST_UPDATED = "2026-09-17T12:59:48.828Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
