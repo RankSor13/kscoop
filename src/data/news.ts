@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1789735116281-1",
+    "slug": "k-actress-han-so-hee-wears-charles-and-keith-in-korean-remake-of",
+    "title": "K-actress Han So-hee wears Charles & Keith in Korean remake of ...",
+    "summary": "Discover how Han So-hee stars in the Korean remake of The Intern, featuring Charles & Keith fashion in a story of generational workplace dynamics.",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "straitstimes.com",
+    "sourceUrl": "https://www.straitstimes.com/life/style/k-actress-han-so-hee-wears-charles-keith-in-korean-remake-of-hollywood-film-the-intern?ref=latest-headlines",
+    "date": "4 hours ago",
+    "image": "https://cassette.sphdigital.com.sg/image/straitstimes/76cc089b95502b68076f941027d7e3968275bdc3a0e14667a4946ec84c806ec8",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1789735117498-2",
+    "slug": "the-cherry-orchard-sep-1626-2026-park-avenue-armory",
+    "title": "The Cherry Orchard: Sep 16–26, 2026 | Park Avenue Armory",
+    "summary": "Jeon Do-yeon is well-known for her roles in You Are My Sunshine (2005) and Secret Sunshine (2007), for which she was awarded Best Actress at the 60th Cannes ...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "armoryonpark.org",
+    "sourceUrl": "https://www.armoryonpark.org/season-events/2026-season/the-cherry-orchard/",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1789735117872-3",
+    "slug": "rkoreanvariety-reddit",
+    "title": "r/koreanvariety - Reddit",
+    "summary": "It's a Korean woman, I'm not sure if she's an actress or not. She was with a guy and they were holding hands, and the guy did something that caused her to ...",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/koreanvariety/",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1789735118012-4",
+    "slug": "celebrity-bbc-news",
+    "title": "Celebrity - BBC News",
+    "summary": "All the latest content about Celebrity from the BBC. Miley Cyrus, Cher and Madonna. Selena Gomez, Zendaya and other stars light up … 코리아 (Korean)",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "bbc.com",
+    "sourceUrl": "https://www.bbc.com/news/topics/cm6prww56w2t",
+    "date": "16 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1789735118344-5",
+    "slug": "arirang-news-youtube",
+    "title": "Arirang News - YouTube",
+    "summary": "Arirang NEWS delivers the latest news on National/Politics, North Korea, Economy, IT/Science, Foreign Policy, World, Life/Culture of the Korea. This week's Top ...",
+    "category": "gossip",
+    "author": "Mia Kwon",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/@ArirangCoKrArirangNEWS",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1789735118662-6",
+    "slug": "venezuela-consider-bernardo-call-up-gossip-yahoo-sports",
+    "title": "'Venezuela consider Bernardo call-up' - gossip - Yahoo Sports",
+    "summary": "Paulo Bernardo has surprisingly been namechecked by Venezuela as a player they are tracking ahead of a potential international allegiance",
+    "category": "gossip",
+    "author": "Rina Baek",
+    "source": "sports.yahoo.com",
+    "sourceUrl": "https://sports.yahoo.com/articles/venezuela-consider-bernardo-call-gossip-075042422.html",
+    "date": "5 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1789649987193-1",
     "slug": "woman-unknown-wins-golden-lion-in-venice-full-winners-list",
     "title": "'Woman Unknown' Wins Golden Lion in Venice: Full Winners List",
@@ -11323,7 +11425,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-09-17T12:59:48.828Z";
+export const LAST_UPDATED = "2026-09-18T12:38:39.344Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
