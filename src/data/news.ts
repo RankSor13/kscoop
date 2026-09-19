@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1789820015434-1",
+    "slug": "north-korea-dismisses-un-nuclear-watchdog-resolution-al-jazeera",
+    "title": "North Korea dismisses UN nuclear watchdog resolution - Al Jazeera",
+    "summary": "North Korean leader Kim Jong Un's sister, Kim Yo Jong, accused the nuclear watchdog of double standards.",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "aljazeera.com",
+    "sourceUrl": "https://www.aljazeera.com/news/2026/9/19/north-korea-dismisses-un-nuclear-watchdog-resolution",
+    "date": "9 hours ago",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aadf691-1789785745.jpg?resize=1920%2C1440",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1789820015743-2",
+    "slug": "lee-joon-gi-wikipedia",
+    "title": "Lee Joon-gi - Wikipedia",
+    "summary": "Lee Joon-gi (Korean: 이준기 ; born 17 April 1982) is a South Korean actor, singer, and dancer. He rose to fame on his first leading role playing a clown in ...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "en.wikipedia.org",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Lee_Joon-gi",
+    "date": "5 days ago",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/2022_Again_My_Life_Lee_Joon-gi_%EC%9D%B4%EC%A4%80%EA%B8%B0_%281%29.jpg?utm_source=en.wikipedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail_unscaled",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1789820016054-3",
+    "slug": "part-2-best-korean-drama-to-watch-on-netflix-disney-youtube",
+    "title": "Part 2 | Best Korean Drama To Watch on Netflix, Disney+ - YouTube",
+    "summary": "Comments ; 15 Best Korean Series on Netflix in 2026 | New & Must-Watch K-Dramas. Asian Odyssey · 190K views ; The Witch 2: The Other One. Free with ads. Unrated.",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "m.youtube.com",
+    "sourceUrl": "https://m.youtube.com/watch?v=PTyMxLrTEl8&pp=ugUHEgVlbi1VUw%3D%3D",
+    "date": "22 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1789820017523-4",
+    "slug": "upcoming-october-2026-kdtamas-1-between-steps-instagram",
+    "title": "Upcoming October 2026 Kdtamas: 1. Between steps - Instagram",
+    "summary": "K-DRAMAS ARE TAKING OVER NETFLIX'S GLOBAL TOP 10! K-dramas continue to prove their global power! In the 1st week of September, FOUR Korean series ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DddpcJTMOo4/",
+    "date": "3 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1789820017858-5",
+    "slug": "k-drama-fans-assemble-the-trailer-for-the-remarried-empress-is",
+    "title": "K-drama fans, assemble! The trailer for The Remarried Empress is ...",
+    "summary": "... new Hulu Original series from 4 November on Disney+ ... Drama : \"The Remarried Empress\" Release Date: 2026 Plot: Navier ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/DisneyPlusUK/videos/k-drama-fans-assemble-the-trailer-for-the-remarried-empress-is-here-stream-the-n/1611262847260937/",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1789820019678-6",
+    "slug": "new-korean-series-on-netflix-2026-tiktok",
+    "title": "New Korean Series on Netflix 2026 | TikTok",
+    "summary": "5 new K-Dramas are coming in October 2026! From romance and comedy to medical thrillers and historical suspense, here are the upcoming Korean dramas you ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/discover/new-korean-series-on-netflix-2026",
+    "date": "5 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1789735116281-1",
     "slug": "k-actress-han-so-hee-wears-charles-and-keith-in-korean-remake-of",
     "title": "K-actress Han So-hee wears Charles & Keith in Korean remake of ...",
@@ -11425,7 +11527,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-09-18T12:38:39.344Z";
+export const LAST_UPDATED = "2026-09-19T12:13:40.253Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
