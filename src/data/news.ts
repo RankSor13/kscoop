@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1789908555825-1",
+    "slug": "lifeandculture-the-korea-herald",
+    "title": "Life&Culture - The Korea Herald",
+    "summary": "1. A month on, and still canceled: Ahn Ha-young's Panasonic ad goes private · 2. 'Hope' opens to nearly $5m in North America in widest Korean release since ' ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "koreaherald.com",
+    "sourceUrl": "https://www.koreaherald.com/LifenCulture",
+    "date": "5 hours ago",
+    "image": "https://static.heraldcorp.com/wbazic/kh/www/image/sns.png",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1789908559870-2",
+    "slug": "reality-tv-stars-can-be-a-list-celebrities-heres-why-facebook",
+    "title": "Reality TV stars can be A-List celebrities, here's why - Facebook",
+    "summary": "Love Island News and Gossip. Yolanda Perry2h. Some people will project ... Why do reality shows keep hiring non-celebrities despite scandal risk? Ravi ...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/groups/836070928510060/posts/1438647644919049/",
+    "date": "5 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1789908560172-3",
+    "slug": "the-scandal-facebook",
+    "title": "THE SCANDAL - Facebook",
+    "summary": "Ji Chang Wook and Son Ye Jin confirmed to star in new drama \"SCANDAL,\" a Netflix drama remake of the 2003 film \"Untold Scandal.\" The drama is reported to begin ...",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/100090327559366/posts/-the-scandal-promised-so-much-delivered-so-little-desire-what-is-forbidden-but-t/1043898085297767/",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1789908560370-4",
+    "slug": "son-ye-jin-asianwiki",
+    "title": "Son Ye-Jin - AsianWiki",
+    "summary": "Son Ye-Jin & actor Hyun-Bin will marry March, 2022 in Seoul, South Korea. The couple starred together in 2019 tvN drama series \"Crash Landing on You.\" Movies.",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "asianwiki.com",
+    "sourceUrl": "https://asianwiki.com/Son_Ye-Jin",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1789908560589-5",
+    "slug": "korea-economic-institute-of-america",
+    "title": "Korea Economic Institute of America -",
+    "summary": "The Korea Economic Institute of America is dedicated to promoting understanding of Korea in the United States through policy analysis, research, and dialogue.",
+    "category": "gossip",
+    "author": "Mia Kwon",
+    "source": "keia.org",
+    "sourceUrl": "https://keia.org/",
+    "date": "3 days ago",
+    "image": "https://keia.org/wp-content/uploads/2025/11/54888666646_0bbf2557db_o.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1789908561000-6",
+    "slug": "celebrity-related-news-fyp",
+    "title": "Celebrity related news #fyp",
+    "summary": "The cheating former A list rapper doesn't want to pay child and spousal support money so took back her serial cheating husband. This should work well. A Korean ...",
+    "category": "gossip",
+    "author": "Rina Baek",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/61577647588223/posts/celebrity-related-news-fyp/122205428522921586/",
+    "date": "5 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1789820015434-1",
     "slug": "north-korea-dismisses-un-nuclear-watchdog-resolution-al-jazeera",
     "title": "North Korea dismisses UN nuclear watchdog resolution - Al Jazeera",
@@ -11527,7 +11629,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-09-19T12:13:40.253Z";
+export const LAST_UPDATED = "2026-09-20T12:49:21.203Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
