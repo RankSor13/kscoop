@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1790002055540-1",
+    "slug": "has-anyone-watched-the-new-korean-drama-the-scandal-what",
+    "title": "Has anyone watched the new Korean drama \"The Scandal\"? What ...",
+    "summary": "Netflix has confirmed production of the series tentatively titled Scandal, which will star Son Ye Jin, Ji Chang Wook, and After School's Nana in lead roles. Set ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/groups/love.kdrama/posts/1706610477695628/",
+    "date": "13 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1790002055804-2",
+    "slug": "actors-jumping-in-every-bollywood-controversy-rpakcelebgossip",
+    "title": "actors jumping in every Bollywood controversy : r/PAKCELEBGOSSIP",
+    "summary": "Literally A-listers! When Pk actors face controversies, it's not even on Bollywood's radar. At most Punjabi industry actress Sonam Bajwa gets asked about ...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/PAKCELEBGOSSIP/comments/1wjg0k6/actors_jumping_in_every_bollywood_controversy/",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1790002055881-3",
+    "slug": "she-exposes-womens-hypocrisy-on-the-daejon-love-scandal",
+    "title": "She Exposes Women's Hypocrisy on The Daejon Love Scandal",
+    "summary": "She Exposes Women's Hypocrisy on The Daejon Love Scandal · Recent posts · South Korea's weaponized love trend sparks concern for celebrity mental health.",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/jrwisdomunlimited/posts/she-exposes-womens-hypocrisy-on-the-daejon-love-scandal/1091402923401288/",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1790002055970-4",
+    "slug": "kang-chan-hee-wikipedia",
+    "title": "Kang Chan-hee - Wikipedia",
+    "summary": "Kang Chan-hee (Korean: 강찬희 ; born January 17, 2000), also known by his stage name Chani, is a South Korean singer and actor.",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "en.wikipedia.org",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Kang_Chan-hee",
+    "date": "3 days ago",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Chani_for_Marie_Claire_Korea_in_August_2021.png/960px-Chani_for_Marie_Claire_Korea_in_August_2021.png?utm_source=en.wikipedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1790002057634-5",
+    "slug": "netflix-just-dropped-its-biggest-remake-yet-of-a-38-year-old",
+    "title": "Netflix Just Dropped Its Biggest Remake Yet of a 38-Year-Old ...",
+    "summary": "After nearly four decades, Stephen Frears and Christopher Hampton's Dangerous Liaisons is getting a remake as a Korean drama series, and it's more scandalous ...",
+    "category": "gossip",
+    "author": "Mia Kwon",
+    "source": "screenrant.com",
+    "sourceUrl": "https://screenrant.com/the-scandal-dangerous-liasons-netflix-adaptation/",
+    "date": "3 days ago",
+    "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/09/glenn-close-and-john-malkovich-as-seen-in-dangerous-liasons-against-the-netflix-logo-backdrop.jpg?w=1600&amp;h=900&amp;fit=crop",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1790002058491-6",
+    "slug": "kim-soo-hyun-made-his-first-official-public-appearance-in-south",
+    "title": "Kim Soo-hyun made his first official public appearance in South ...",
+    "summary": "Kim Soo-hyun made his first official public appearance in South Korea in 18 months as an award presenter at the 2026 The Fact Music Awards on September...",
+    "category": "gossip",
+    "author": "Rina Baek",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/AllKoreanCelebrities/posts/kim-soo-hyun-made-his-first-official-public-appearance-in-south-korea-in-18-mont/1733876802071776/",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1789908555825-1",
     "slug": "lifeandculture-the-korea-herald",
     "title": "Life&Culture - The Korea Herald",
@@ -11629,7 +11731,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-09-20T12:49:21.203Z";
+export const LAST_UPDATED = "2026-09-21T14:47:38.592Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
