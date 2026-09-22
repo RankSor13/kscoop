@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1790082089632-1",
+    "slug": "even-k-pop-idols-seem-aware-of-the-difference-in-how-idols-and",
+    "title": "Even K-pop idols seem aware of the difference in how idols and ...",
+    "summary": "Do you think idols still feel some resentment or frustration about how they're treated compared with actors, especially considering how much K-pop now ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/kpopthoughts/comments/1wmliww/even_kpop_idols_seem_aware_of_the_difference_in/",
+    "date": "18 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1790082089819-2",
+    "slug": "singer-kwn-revealed-that-her-decision-to-name-keke-palmer-as-her",
+    "title": "Singer KWN revealed that her decision to name KeKe Palmer as her ...",
+    "summary": "\" FOR MORE OF THE LATEST IN CELEBRITY NEWS, CELEBRITY GOSSIP & FASHION FOLLOW MY INSTAGRAM BLOG: www.instagram. ... Even if the rumors come from Korean news ...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/powercolumbus/posts/singer-kwn-revealed-that-her-decision-to-name-keke-palmer-as-her-celebrity-crush/1720341703431517/",
+    "date": "22 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1790082090079-3",
+    "slug": "choderlos-de-laclos-news-imdb",
+    "title": "Choderlos de Laclos - News - IMDb",
+    "summary": "In Netflix's Scandals, top Korean actress Son will take on the role of Lady Cho, a woman of talent and charm who attempts to go against the limitations placed ...",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "imdb.com",
+    "sourceUrl": "https://www.imdb.com/name/nm0480166/news/",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1790082090264-4",
+    "slug": "jared-padalecki-and-leighton-meester-netflix-holiday-rom-com",
+    "title": "Jared Padalecki and Leighton Meester Netflix Holiday Rom-Com ...",
+    "summary": "Supernatural and Gossip Girl stars Jared Padalecki and Leighton Meester are teaming up for a new fake-dating holiday romantic comedy.",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "whats-on-netflix.com",
+    "sourceUrl": "https://www.whats-on-netflix.com/news/guarding-stars-netflix-release-date-cast/",
+    "date": "4 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1790082090436-5",
+    "slug": "highly-anticipated-k-drama-the-scandal-is-already-causing",
+    "title": "Highly-anticipated K-Drama The Scandal is already causing ...",
+    "summary": "Korean netizens are in an uproar! The latest episode of When The Stars Gossip has sparked massive controversy over a sex scene that viewers are ...",
+    "category": "gossip",
+    "author": "Mia Kwon",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/100085069734767/posts/highly-anticipated-k-drama-the-scandal-is-already-causing-controversy-following-/1053966354115679/",
+    "date": "14 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1790082090608-6",
+    "slug": "2026-global-fan-favorite-k-drama-vote-ends-sept-14-21-on-viki",
+    "title": "2026 Global Fan Favorite K-Drama Vote Ends Sept 14-21 on Viki",
+    "summary": "This video is a montage showcasing the release dates and cast details for several upcoming Korean (K-drama) films scheduled for August 2026. The reel presents a ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/viki/videos/voting-is-almost-over-for-vikis-2026-global-fan-favorite-k-drama-dont-forget-to-/1100763702703095/",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1790002055540-1",
     "slug": "has-anyone-watched-the-new-korean-drama-the-scandal-what",
     "title": "Has anyone watched the new Korean drama \"The Scandal\"? What ...",
@@ -11731,7 +11833,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-09-21T14:47:38.592Z";
+export const LAST_UPDATED = "2026-09-22T13:01:32.446Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
