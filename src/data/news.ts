@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1790169411267-1",
+    "slug": "most-shocking-korean-celebrity-breakups-recently-kdrama",
+    "title": "Most Shocking Korean Celebrity Breakups Recently - #kdrama",
+    "summary": "This video is a slideshow that presents a list of Korean celebrities, falsely claiming they will get divorced in the future year of 2025. Each slide features a ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/61586236553033/videos/most-shocking-korean-celebrity-breakups-recently-kdrama-brokeup-facebookreels/1836398211056670/",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1790169413796-2",
+    "slug": "the-scandal-tv-series-2026-imdb",
+    "title": "The Scandal (TV Series 2026) - IMDb",
+    "summary": "The Scandal: With Son Ye-jin, Ji Chang-wook, Im Jin-ah, Chani. A cunning noblewoman and a notorious playboy engage in a secret game of seduction. Stars Son Ye- ...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "imdb.com",
+    "sourceUrl": "https://www.imdb.com/title/tt36347588/",
+    "date": "5 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1790169414114-3",
+    "slug": "jung-hae-in-promise-fans-to-marry-jung-so-min-at-the-recent-event",
+    "title": "Jung Hae In Promise Fans to Marry Jung So Min at the Recent Event",
+    "summary": "Jung Hae In is making headlines with exciting new drama news in 2026, and fans have plenty to look forward to. The Korean actor has been confirmed to star ...",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=SfOoAYrPA6U",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1790169414952-4",
+    "slug": "korean-solar-stocks-jump-as-curbs-on-china-expected-to-stay-in-place",
+    "title": "Korean solar stocks jump as curbs on China expected to stay in place",
+    "summary": "South Korean solar stocks jumped as U.S. restrictions on Chinese solar products came into focus ahead of the Trump-Xi summit.",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "cnbc.com",
+    "sourceUrl": "https://www.cnbc.com/2026/09/23/korean-solar-stocks-jump-as-curbs-on-china-expected-to-stay-in-place.html",
+    "date": "10 hours ago",
+    "image": "https://image.cnbcfm.com/api/v1/image/108062629-1731530282013-gettyimages-1597689556-_dsc7391.jpeg?v=1767986176&amp;w=1920&amp;h=1080",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1790169415374-5",
+    "slug": "watch-with-trailers-new-k-dramas-netflix-disney-and-more",
+    "title": "Watch with Trailers! NEW K DRAMAS NETFLIX, DISNEY+ & MORE",
+    "summary": "koreandrama #kdrama2026 #kdrama #upcomingkdrama ✨ Top 10 Upcoming Korean Dramas in October 2026 | Cast, Plot & Release Dates | Kim So Hyun, Kim Ji Won, ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=z2hmUPTgQa0",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1790169416254-6",
+    "slug": "disney-is-keeping-the-anticipation-at-a-fever-pitch-for-facebook",
+    "title": "Disney+ is keeping the anticipation at a fever pitch for ... - Facebook",
+    "summary": "Disney+ officially announced the fantasy romance 'The Remarried Empress' as one of its K-drama for 2026 release. Based on popular web-novel and ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/HollywoodReporter/posts/disney-is-keeping-the-anticipation-at-a-fever-pitch-for-the-remarried-empress-th/1458854716099326/",
+    "date": "1 hour ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1790082089632-1",
     "slug": "even-k-pop-idols-seem-aware-of-the-difference-in-how-idols-and",
     "title": "Even K-pop idols seem aware of the difference in how idols and ...",
@@ -11833,7 +11935,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-09-22T13:01:32.446Z";
+export const LAST_UPDATED = "2026-09-23T13:16:56.400Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
