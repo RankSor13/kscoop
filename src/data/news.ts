@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1790255208948-1",
+    "slug": "that-hear-when-we-got-a-lot-of-gossip-in-kdrama-kpop-facebook",
+    "title": "That hear when we got a lot of gossip in #kdrama #kpop - Facebook",
+    "summary": "What are some known Kpop idol scandals? Shipalana Tshuxeko ▻ BTS,TXT and Enhypen >Everyone's Magic Shop .",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/asiandramanetwork/posts/that-hear-when-we-got-a-lot-of-gossip-in-kdrama-kpop/1095865596319763/",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1790255209158-2",
+    "slug": "omg-ji-ye-eun-from-kians-bizarre-bandb-season-one-is-getting-married",
+    "title": "Omg, Ji Ye-eun from Kian's Bizarre B&B season one is getting married",
+    "summary": "Ji Ye-eun, a staff member on Kian's Bizarre B&B season one, is now engaged and getting married to Vata, another reality TV star!",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "thetab.com",
+    "sourceUrl": "https://thetab.com/realityshrine/2026/09/23/omg-ji-ye-eun-from-kians-bizarre-bb-season-one-is-getting-married-to-another-reality-star/",
+    "date": "15 hours ago",
+    "image": "https://cdn.realitytvshrine.com/uploads/2026/09/Sydneys-Featured-Images-481.png",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1790255209807-3",
+    "slug": "zelenskyy-says-ukraine-sent-two-north-korean-pows-to-south-korea",
+    "title": "Zelenskyy says Ukraine sent two North Korean POWs to South Korea",
+    "summary": "Zelenskyy says Ukraine sent two North Korean POWs to South Korea. The president criticised North Korea for using citizens like 'currency' to aid Russia in its ...",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "aljazeera.com",
+    "sourceUrl": "https://www.aljazeera.com/news/2026/9/24/zelenskyy-says-ukraine-sent-two-north-korean-pows-to-south-korea",
+    "date": "5 hours ago",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab41fa38d95-1790189475.jpg?resize=1920%2C1440",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1790255210030-4",
+    "slug": "3-my-nhan-man-anh-rong-so-ke-visual-yan-news-facebook",
+    "title": "3 mỹ nhân màn ảnh rộng so kè visual | YAN News - Facebook",
+    "summary": "This is a short, silent video clip from MZ News featuring South Korean actress Kim Hyun-joong. ... actress Dilraba Dilmurat and several tall male actors.",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/yannews/videos/3-m%E1%BB%B9-nh%C3%A2n-m%C3%A0n-%E1%BA%A3nh-r%E1%BB%99ng-so-k%C3%A8-visual/1614251006721710/",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1790255211352-5",
+    "slug": "top-12-upcoming-korean-dramas-in-q4-of-2026-youtube",
+    "title": "Top 12 Upcoming Korean Dramas in Q4 of 2026 - YouTube",
+    "summary": "Get ready for an exciting final quarter of 2026! From highly anticipated romances and gripping thrillers to action-packed stories and intriguing fantasy ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=40OslsmmtNA",
+    "date": "6 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1790255212281-6",
+    "slug": "k-drama-day-2026-free-shows-on-viki-from-pirates-and-princesses",
+    "title": "K-drama day 2026: Free shows on Viki from Pirates & Princesses ...",
+    "summary": "K-Drama Day 2026 is Sept. 25, and. June 1: \"Doctor On The Edge\" (Disney+) \"The Lie You Live In\" \"Teach You A Lesson\" (Netflix) June 26: \"Notes From The Last ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/CastleInsiderNews/posts/k-drama-day-2026-is-sept-25-and-viki-is-giving-away-free-shows-from-pirates-prin/1400540525394292/",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1790169411267-1",
     "slug": "most-shocking-korean-celebrity-breakups-recently-kdrama",
     "title": "Most Shocking Korean Celebrity Breakups Recently - #kdrama",
@@ -11935,7 +12037,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-09-23T13:16:56.400Z";
+export const LAST_UPDATED = "2026-09-24T13:06:52.389Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
