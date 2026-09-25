@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1790341920748-1",
+    "slug": "south-korea-is-once-again-criticizing-actress-singer",
+    "title": "🤔😱 South Korea is once again criticizing actress, singer ...",
+    "summary": "South Korea is once again criticizing actress, singer, and model Ku Hye-sun. Netizens on various platforms began criticizing her for using the same mobile ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/61560052257505/posts/-south-korea-is-once-again-criticizing-actress-singer-and-model-ku-hye-sun-netiz/122225990642335075/",
+    "date": "2026-09-25",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1790341921326-2",
+    "slug": "dramapanda-asian-dramas-celebrities-and-entertainment",
+    "title": "DramaPanda - Asian Dramas, Celebrities and Entertainment ...",
+    "summary": "Your place for Chinese dramas, Korean dramas and entertainment news. We share opinionated commentaries on dramas, movies, celebrities, gossip and pop culture.",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "dramapanda.com",
+    "sourceUrl": "https://dramapanda.com/",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1790341922136-3",
+    "slug": "a-curated-mix-of-korean-hit-series-filling-up-your-queue-list",
+    "title": "A curated mix of Korean hit series filling up your queue list ...",
+    "summary": "2026 Lineup : • The Wonderfools • Tantara • The Remarried Empress • The Scandal • The East Palace • The Art Of Sarah • Teach You A Lesson • Take Charge Of My ...",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/DisneyPlusPH/posts/a-curated-mix-of-korean-hit-series-filling-up-your-queue-list-on-disney/1088924760559355/",
+    "date": "2026-09-25",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1790341922356-4",
+    "slug": "can-you-recommend-some-good-korean-dramas-from",
+    "title": "Can you recommend some good Korean dramas from ...",
+    "summary": "Bona Fide Killer, The Apartment Job, and Four Hands are top recommendations for 2026 Korean dramas. Netflix / Viki / Disney+ / Prime Video … for June 23-29, ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/groups/2662037187169257/posts/28700308539582099/",
+    "date": "2026-09-25",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1790341922485-5",
+    "slug": "doctor-x-mafia-in-white-official-teaser-netflix-eng-sub",
+    "title": "Doctor X: Mafia in White | Official Teaser | Netflix [ENG SUB]",
+    "summary": "Korean adaptation will be taking a darker approach, The Mother's Monster (2026) 11 Upcoming Kdramas | OCTOBER 2026🫰Watch. NEW K-DRAMAS NETFLIX, DISNEY+ & MORE ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=p8w-mvmIykc",
+    "date": "2026-09-25",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1790341923263-6",
+    "slug": "best-korean-movie-to-watch-on-netflix-disney",
+    "title": "Best Korean Movie To Watch on Netflix, Disney+",
+    "summary": "20 K-Drama Gems SO GOOD They Make Everything Else Seem Like Trash! · 8 Brand NEW Korean Movies of 2026 in Netflix, Prime video etc.",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=M5i_J5v2X9U&vl=ru",
+    "date": "2026-09-25",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1790255208948-1",
     "slug": "that-hear-when-we-got-a-lot-of-gossip-in-kdrama-kpop-facebook",
     "title": "That hear when we got a lot of gossip in #kdrama #kpop - Facebook",
@@ -12037,7 +12139,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-09-24T13:06:52.389Z";
+export const LAST_UPDATED = "2026-09-25T13:12:04.011Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
