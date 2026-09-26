@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1790426266798-1",
+    "slug": "in",
+    "title": "마리끌레르_패션위크 - 영원한 가십걸💋 레이튼 미스터 in ...",
+    "summary": "This video shows South Korean celebrity Marie Claire Korea at the Max Mara Fashion Week. She is seen posing for a live camera while wearing a white, ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/marieclairekorea/videos/marie_now-%EB%A7%88%EB%A6%AC%EB%81%8C%EB%A0%88%EB%A5%B4_%ED%8C%A8%EC%85%98%EC%9C%84%ED%81%AC%EC%98%81%EC%9B%90%ED%95%9C-%EA%B0%80%EC%8B%AD%EA%B1%B8-%EB%A0%88%EC%9D%B4%ED%8A%BC-%EB%AF%B8%EC%8A%A4%ED%84%B0-in-%EB%A7%89%EC%8A%A4%EB%A7%88%EB%9D%BC-maxmara-itsmeleighton/2159238934970299/",
+    "date": "2026-09-26",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1790426268900-2",
+    "slug": "press-releases",
+    "title": "Press Releases",
+    "summary": "First Vice Minister Lee Hyoung Il Visits a Traditional Market to Review Grocery Prices and Livelihood Conditions Ahead of Chuseok. September 18, 2026.",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "english.mofe.go.kr",
+    "sourceUrl": "https://english.mofe.go.kr/pc/selectTbPressCenterList.do?boardCd=N0001",
+    "date": "16 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1790426272159-3",
+    "slug": "latest-news-1-un-news-the-united-nations",
+    "title": "Latest News | 1 UN News - the United Nations",
+    "summary": "UN News produces daily news content in Arabic, Chinese, English, French, Kiswahili, Portuguese, Russian, Spanish, Hindi and Urdu.",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "news.un.org",
+    "sourceUrl": "https://news.un.org/en/news",
+    "date": "2 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1790426272287-4",
+    "slug": "upcoming-korean-dramas-on-netflix-in-october-2026-also",
+    "title": "Upcoming Korean Dramas On Netflix In October 2026 [also ...",
+    "summary": "Subscribe to Fancy Drama for more upcoming K-drama lists, release dates ... Upcoming Korean Dramas On Netflix In October 2026 [also Prime Video, Disney Plus] ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=8wz9qK6VvP8",
+    "date": "2026-09-26",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1790426273033-5",
+    "slug": "korean-films-rather-than-16-episode-dramas-rkdramas",
+    "title": "Korean films rather than 16 episode dramas? : r/kdramas",
+    "summary": "I’ve been enjoying K Dramas for a few months now. I’ve watched the following: The Potato LabExtraordinary Attorney WooDescendants of the Sun Are ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/kdramas/comments/1wmjsng/korean_films_rather_than_16_episode_dramas/",
+    "date": "2026-09-26",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1790426273177-6",
+    "slug": "6-new-k-dramas-in-september-2026-to-add-to-your",
+    "title": "6 New K-Dramas In September 2026 To Add To Your ...",
+    "summary": "6 New Korean Dramas Coming Out In September 2026 To Add To Your Watch List ; Made in Korea 2 (Hyun Bin, Jung Woo-Sung, Woo Do-Hwan) · September 9, 2026 · Disney+ ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "inkistyle.com",
+    "sourceUrl": "https://inkistyle.com/new-korean-dramas-september-2026/",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1790341920748-1",
     "slug": "south-korea-is-once-again-criticizing-actress-singer",
     "title": "🤔😱 South Korea is once again criticizing actress, singer ...",
@@ -12139,7 +12241,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-09-25T13:12:04.011Z";
+export const LAST_UPDATED = "2026-09-26T12:37:53.401Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
