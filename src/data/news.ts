@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1790515762721-1",
+    "slug": "nana-responds-to-lip-filler-criticism-over-her-look-in",
+    "title": "Nana Responds to Lip Filler Criticism Over Her Look in ...",
+    "summary": "It's kinda uncanny when you can see actors try their hardest to act out a scene but their faces are physically incapable of emoting due to enhancements.",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/kpop/comments/1wo10cl/nana_responds_to_lip_filler_criticism_over_her/",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1790515762917-2",
+    "slug": "while-promoting-his-new-project-ji-chang-wook-faces",
+    "title": "While promoting his new project, Ji Chang-wook faces ...",
+    "summary": "While promoting his new project, Ji Chang-wook faces an interviewer relentlessly probing for secrets about on-set romances. Navigating workplace gossip...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/61554165392231/posts/while-promoting-his-new-project-ji-chang-wook-faces-an-interviewer-relentlessly-/122265726128138846/",
+    "date": "2026-09-27",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1790515763069-3",
+    "slug": "reaction-to-korean-drama-series",
+    "title": "Reaction to Korean drama series",
+    "summary": "What people are saying. Opinions on the series are mixed, with some praising the acting and script, while others found it boring or poorly edited.",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/groups/2662037187169257/posts/28922478197365131/",
+    "date": "17 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1790515763155-4",
+    "slug": "most-anticipated-korean-dramas-of-2026",
+    "title": "Most anticipated Korean dramas of 2026",
+    "summary": "Most Anticipated Korean Dramas Of 2026 Drama list --- 1. Can This Love Be Translated 2. Yumi's Cells Season 2 3. The Wonderfools 4. The Remarried Empress 5 ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/groups/5183196318406087/posts/28750150441284010/",
+    "date": "2026-09-27",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1790515763255-5",
+    "slug": "k-dramas-coming-out-in-2026-and-when",
+    "title": "K Dramas Coming Out in 2026 and When",
+    "summary": "The Scandal (Netflix) — Historical Romance Drama, Sept 18, 2026. Details for The Scandal on Netflix: 8 episodes, release date Sept 18, 2026, cast includes Son ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/discover/k-dramas-coming-out-in-2026-and-when",
+    "date": "6 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1790515763716-6",
+    "slug": "new-k-drama-releases-of-the-week-september-21-27",
+    "title": "New K-drama releases of the week (September 21-27)",
+    "summary": "Made in Korea Season 2, Four Hands, Two Sonatas, Dive into You and The Ordinary Jackpot are new K-drama releases of the week (September 21-27, 2026) on OTT.",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "gqindia.com",
+    "sourceUrl": "https://www.gqindia.com/content/new-k-drama-releases-of-the-week-september-21-27-8-new-korean-dramas-streaming-on-netflix-and-more",
+    "date": "5 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1790426266798-1",
     "slug": "in",
     "title": "마리끌레르_패션위크 - 영원한 가십걸💋 레이튼 미스터 in ...",
@@ -12241,7 +12343,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-09-26T12:37:53.401Z";
+export const LAST_UPDATED = "2026-09-27T13:29:23.836Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
