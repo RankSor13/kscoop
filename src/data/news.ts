@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1790612607535-1",
+    "slug": "a-new-korean-actress-was-sexually-assaulted-by-12-members-of",
+    "title": "A new Korean actress was sexually assaulted by 12 members of ...",
+    "summary": "The Korean drama \"Lovers\" starring Namgong Min and other actors was originally expected by many fans. Unexpectedly, a shocking scandal broke out before the TV series was broadcast. One of the casting directors of the crew turned out to be a criminal who organized a group to sexually assault the actress. His crimes led to the destruction of the young girl's family.",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "inf.news",
+    "sourceUrl": "https://inf.news/en/entertainment/dc7c4b0823378ac68689fd3a80fe3369.html",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1790612608107-2",
+    "slug": "daily-k-pop-and-korean-entertainment-news-in-english-2026",
+    "title": "Daily K-Pop & Korean Entertainment News in English 2026",
+    "summary": "K-pop, K-drama, celebrity and variety headlines from 71 Korean news outlets, translated into English and updated daily — with a link to every original.",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "kotourlive.com",
+    "sourceUrl": "https://www.kotourlive.com/en/news",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1790612608434-3",
+    "slug": "korean-movie-drama-and-entertainment-news-hancinema",
+    "title": "Korean Movie, Drama & Entertainment News - HanCinema",
+    "summary": "Korean Movie, Drama & Entertainment News - Find Korean Movies, Korean Dramas, Korean Celebrities, Stars, Gossips, Projects and Korean entertainment latest news",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "hancinema.net",
+    "sourceUrl": "https://www.hancinema.net/korean-entertainment-news.php",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1790612608604-4",
+    "slug": "breaking-k-pop-and-k-drama-news-photos-and-videos-wowkorea",
+    "title": "Breaking k-pop and k-drama news, photos and videos - wowKorea",
+    "summary": "wowKorea is a Korean entertainment news site that covers Latest News, breaking news, and videos on K-pop and K-drama stars, movie, and trends.",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "wowkorea.live",
+    "sourceUrl": "https://www.wowkorea.live/",
+    "date": "Sep 29, 2026",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1790612612875-5",
+    "slug": "korean-actor-rain-cheats-on-woman-who-looks-like-his-wife",
+    "title": "Korean actor Rain cheats on woman who looks like his wife",
+    "summary": "On October 6, an unbelievable piece of news was revealed in the Korean entertainment industry: Rain, the 'wife-loving demon', was exposed to a scandal of cheating, and the mistress still looked like his wife Kim Tae-hee, which instantly aroused heated discussions among netizens. If this operation pr",
+    "category": "gossip",
+    "author": "Mia Kwon",
+    "source": "min.news",
+    "sourceUrl": "https://min.news/en/entertainment/a404fa85ae43f3ae35e0afa70491e006.html",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1790612613066-6",
+    "slug": "news-archives-zapzee-premier-korean-entertainment-magazine",
+    "title": "News Archives - ZAPZEE - Premier Korean Entertainment Magazine",
+    "summary": "Park Ji Hyun becomes the first Korean actress nominated for Best Actress at the International Emmy Awards for her role in 'You and Everything Else'.",
+    "category": "gossip",
+    "author": "Rina Baek",
+    "source": "zapzee.net",
+    "sourceUrl": "https://zapzee.net/category/news/",
+    "date": "16 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1790515762721-1",
     "slug": "nana-responds-to-lip-filler-criticism-over-her-look-in",
     "title": "Nana Responds to Lip Filler Criticism Over Her Look in ...",
@@ -12343,7 +12445,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-09-27T13:29:23.836Z";
+export const LAST_UPDATED = "2026-09-28T16:23:33.285Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
