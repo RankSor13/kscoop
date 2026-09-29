@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1790692402869-1",
+    "slug": "so-many-kdramas-coming-in-october-ott-details-below",
+    "title": "So many kdramas coming in October!!! OTT Details below👇 ...",
+    "summary": "... 2026-k-drama-releases. October K-Drama New Releases: 10/01: Your Personal Taxi on Netflix 10/05: Between Steps on Disney+ 10/06: Kidnap Game on Viu 10/07 ...",
+    "category": "upcoming",
+    "author": "Ji Yeon Park",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/Dd2oyyoOkQX/",
+    "date": "2026-09-29",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1790692403793-2",
+    "slug": "new-k-dramas-coming-to-netflix-in-october-2026",
+    "title": "New K-dramas coming to Netflix in October 2026",
+    "summary": "Doctor X A new medical drama arriving on SBS and Netflix. Oct 9 — Take Charge of My Heart A fresh romance series coming exclusively to Netflix.",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/korean4topik/posts/-4-new-k-dramas-are-coming-to-netflix-this-octoberoctober-is-bringing-a-fresh-li/1783949787064986/",
+    "date": "Oct 9",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1790692404132-3",
+    "slug": "4-new-k-dramas-are-coming-to-netflix-this",
+    "title": "📺✨ 4 NEW K-DRAMAS ARE COMING TO NETFLIX THIS ...",
+    "summary": "5 new K-Dramas are coming in October 2026! From romance and comedy to medical thrillers and historical suspense, here are the upcoming Korean dramas you ...",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/Dd2TixXAePU/",
+    "date": "2026-09-29",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1790692404662-4",
+    "slug": "top-10-most-addictive-k-dramas-upcoming-in-october-2026",
+    "title": "Top 10 Most Addictive K-Dramas Upcoming in October 2026",
+    "summary": "This countdown ranks the top 10 most addictive Korean dramas premiering on Netflix. Most ADDICTIVE K-Dramas on Disney+ RIGHT NOW! (2026)",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=PkbjXVdFkd8",
+    "date": "2026-09-29",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1790692405592-5",
+    "slug": "mondaytuesday-29th-september-2026-only-on-netflix",
+    "title": "Monday/Tuesday, 29th September, 2026 only on Netflix. ...",
+    "summary": "Monday/Tuesday, 29th September, 2026 only on Netflix. Korean Cinematic Odyssey ► Obsessed with K-drama & movie. Wish K-drama release on Netflix",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/61556940800367/posts/episode-5-8-next-mondaytuesday-29th-september-2026-only-on-netflixgrab-your-popc/122313457520231360/",
+    "date": "2026-09-29",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1790692405773-6",
+    "slug": "upcoming-korean-dramas-in-october-2026-in-hindi-dubbed",
+    "title": "Upcoming Korean dramas in October 2026 in hindi dubbed ...",
+    "summary": "Upcoming Korean dramas in October 2026 in hindi dubbed on #netflix • #disneyplus • #jiohotstar and #primevideo Full List !!",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/Dd0wqbpOFhL/",
+    "date": "2026-09-29",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1790612607535-1",
     "slug": "a-new-korean-actress-was-sexually-assaulted-by-12-members-of",
     "title": "A new Korean actress was sexually assaulted by 12 members of ...",
@@ -12445,7 +12547,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-09-28T16:23:33.285Z";
+export const LAST_UPDATED = "2026-09-29T14:33:26.135Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
