@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1790778710081-1",
+    "slug": "korean-dramas-set-to-premiere-in-october-2026-oct-13",
+    "title": "Korean Dramas Set to Premiere in October 2026: Oct 1/3",
+    "summary": "Korean Dramas Set to Premiere in October 2026: Oct 1/3 : #YourPersonalTaxi - Netflix Oct 5 : #BetweenSteps - Disney Oct 6 : #KidnapGame - Viu Oct 7 :...",
+    "category": "upcoming",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/KDramaBuddiesPh/posts/korean-dramas-set-to-premiere-in-october-2026oct-13-yourpersonaltaxi-netflixoct-/1088357076884234/",
+    "date": "10 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1790778710385-2",
+    "slug": "12-of-the-best-new-k-dramas-to-watch-in-october-2026",
+    "title": "12 of the best new K-dramas to watch in October 2026",
+    "summary": "12 of the best new K-dramas to watch in October 2026, including 100 Days of Deception · 1. Your Personal Taxi · 2. Between Steps · 3. Merry Berry Love · 4. Doctor X ...",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "amp.scmp.com",
+    "sourceUrl": "https://amp.scmp.com/lifestyle/k-drama/k-drama/article/3369196/12-best-new-k-dramas-watch-october-2026-including-100-days-deception",
+    "date": "4 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1790778710825-3",
+    "slug": "merry-berry-love-disney-hulu-oct-9-doctor-x",
+    "title": "Merry Berry Love | Disney+ / Hulu Oct 9 — Doctor X",
+    "summary": "Upcoming K-Dramas in October 2026✨ 1. Love Doctor / Between Steps 2. Merry Berry Love 3. Doctor X ... 4. Take Charge of my Heart 5. 100 Days of Deception 6. Dead ...",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/Dd5_q5juL7V/",
+    "date": "2026-09-30",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1790778711326-4",
+    "slug": "2026-has-been-serving-amazing-k-dramas-back-to",
+    "title": "2026 has been serving amazing K-dramas back-to ...",
+    "summary": "UPCOMING KDRAMAS for 2026-2027 that you NEED to watch!!! Kdrama Name: Love In Disguise Release Date: October 19, 2026 Kdrama Name: The Final Table Release Date ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/Dd4s46SRn23/",
+    "date": "17 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1790778711704-5",
+    "slug": "12-hottest-new-korean-dramas-releasing-in-october-2026",
+    "title": "12 Hottest New Korean Dramas Releasing in October 2026 ...",
+    "summary": "00:00 October 2026 Kdrama Releases! ; 00:24 Between Steps ; 01:06 kiDnap GAME ; 01:50 Merry Berry Love ; 02:32 Doctor X: Mafia in The White ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=jPwwP0Ky0uk",
+    "date": "4 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1790778712759-6",
+    "slug": "indian-actors-vs-korean-actors-two-different",
+    "title": "✨🇮🇳 Indian Actors vs Korean Actors 🇰🇷💖 Two different ...",
+    "summary": "South Korea leads globally with its K-drama wave, high production quality, and worldwide fanbase, making stars like Song Hye Kyo and Jun Ji Hyun internationally ...",
+    "category": "trending",
+    "author": "Rina Baek",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/61587569105621/posts/-indian-actors-vs-korean-actors-two-different-worlds-one-level-of-charm-bollywoo/122132171679252303/",
+    "date": "2026-09-30",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1790692402869-1",
     "slug": "so-many-kdramas-coming-in-october-ott-details-below",
     "title": "So many kdramas coming in October!!! OTT Details below👇 ...",
@@ -12547,7 +12649,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-09-29T14:33:26.135Z";
+export const LAST_UPDATED = "2026-09-30T14:31:52.922Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
