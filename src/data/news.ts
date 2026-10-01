@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1790866909589-1",
+    "slug": "nana-changed-her-look-almost-immediately-after",
+    "title": "Nana changed her look almost immediately after ...",
+    "summary": "Nana faced brutal scrutiny over her role in Netflix's period K-drama The Scandal, when a TikTok clip of her scenes went viral with claims her lips looked too ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/DramaHush/posts/nana-changed-her-look-almost-immediately-after-her-apology-and-korean-media-now-/1512406160918016/",
+    "date": "2026-10-01",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1790866910116-2",
+    "slug": "she-said-she-was-going-to-report-him-for-touching-her-by",
+    "title": "She said she was going to report him for touching her by ...",
+    "summary": "This video shows a comedic scene from a Korean drama where a man, after a misunderstanding, decides to report his girlfriend to the police.",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/doreen.osoria/videos/she-said-she-was-going-to-report-him-for-touching-her-by-mistake-but-she-didnt-s/1452184386975889/",
+    "date": "2026-10-01",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1790866912446-3",
+    "slug": "roh-jeong-eui-news",
+    "title": "Roh Jeong-eui - News",
+    "summary": "It's getting scandalous each day as new evidence gets introduced in front of the public regarding Kim Soo-Hyun and Kim Sae-Ron's case. After the actress passed ...",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "imdb.com",
+    "sourceUrl": "https://www.imdb.com/name/nm7591921/news/",
+    "date": "6 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1790866912880-4",
+    "slug": "october-2026-is-packed-with-exciting-new-k-dramas",
+    "title": "October 2026 is packed with exciting new K-Dramas! 🇰🇷🎬 ...",
+    "summary": "OCTOBER 2026 K-DRAMA RELEASES 1️⃣ Between Steps October 5 Disney+ 2️⃣ kiDnap GAME October 6 Viu 3️⃣ Merry Berry Love October 7 ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/Dd8nZknGQBQ/",
+    "date": "2026-10-01",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1790866913499-5",
+    "slug": "new-k-dramas-releasing-in-october-2026",
+    "title": "New K-Dramas Releasing in October 2026",
+    "summary": "New K-Dramas Releasing In October 2026: Doctor X, 100 Days Of Deception, Final Table And More · 8 new K-dramas bring fresh romances, mysteries and unexpected ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "outlookindia.com",
+    "sourceUrl": "https://www.outlookindia.com/art-entertainment/k-drama/new-k-dramas-releasing-in-october-2026-doctor-x-100-days-of-deception-final-table-and-more",
+    "date": "9 hours ago",
+    "image": "https://cf-images.assettype.com/outlookindia/2026-10-01/8tqt1l15/photo-collage.png-2026-10-01T113748.092.png?w=1200&amp;amp;ar=40%3A21&amp;amp;auto=format%2Ccompress&amp;amp;ogImage=true&amp;amp;mode=crop&amp;amp;enlarge=true&amp;amp;overlay=false&amp;amp;overlay_position=bottom&amp;amp;overlay_width=100",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1790866915395-6",
+    "slug": "top-upcoming-october-k-dramas-releasing-on-netflix",
+    "title": "Top Upcoming October K-Dramas Releasing On Netflix ...",
+    "summary": "Top Upcoming October K-Dramas Releasing On Netflix, Disney+,and viki. K-Dramas Ending in September 2026! | My Bias, My Boss, Made in Korea 2 & More.",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/shorts/5WnEnlrkXnw",
+    "date": "2026-10-01",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1790778710081-1",
     "slug": "korean-dramas-set-to-premiere-in-october-2026-oct-13",
     "title": "Korean Dramas Set to Premiere in October 2026: Oct 1/3",
@@ -12649,7 +12751,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-09-30T14:31:52.922Z";
+export const LAST_UPDATED = "2026-10-01T15:01:57.204Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
