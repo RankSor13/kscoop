@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1790951049773-1",
+    "slug": "its-official-former-bigbang-member-top-and-south",
+    "title": "IT'S OFFICIAL 💖 Former Bigbang member T.O.P and South ...",
+    "summary": "A new dating rumor involving BTS's Suga (Min Yoongi) and South Korean actress Go Ara has been circulating across social media",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/Dd-3LjbDByb/",
+    "date": "2026-10-02",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1790951050225-2",
+    "slug": "the-devils-plan-tv-series-2023-news",
+    "title": "The Devil's Plan (TV Series 2023– ) - News",
+    "summary": "It's called The Influencer, and yes, it involves some of Korea's top social media stars. The streaming giant has seen much success on the Korean competition ...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "imdb.com",
+    "sourceUrl": "https://www.imdb.com/title/tt27995115/news/",
+    "date": "4 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1790951050446-3",
+    "slug": "dead-end-job-on-netflix-earn-50x-minimum-wage-at-a-cost",
+    "title": "Dead-End Job on Netflix: Earn 50x Minimum Wage at a Cost",
+    "summary": "This is a teaser for the Korean Netflix original series 'Dead-End Job,' starring Lee Jae-wook, set to premiere on October 30. The narrative follows a ...",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/netflixph/videos/what-if-you-could-earn-50-times-the-minimum-wage-but-it-comes-at-a-cost-press-pl/1041944938842153/",
+    "date": "2026-10-02",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1790951051766-4",
+    "slug": "6-new-action-movies-to-watch-this-october-2026",
+    "title": "6 NEW ACTION MOVIES To Watch This October 2026",
+    "summary": "Hello everyone it's movie time, so get your popcorn and let's get right into it. October 2026 is Bringing some shockingly good action-packed films on your ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=g04IJQ3h1f0",
+    "date": "2026-10-02",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1790951052664-5",
+    "slug": "teaser-resmi-prime-video-yim-si-wan-seorina",
+    "title": "Teaser Resmi | Prime Video | YIM SI WAN, SEORINA",
+    "summary": "Go to channel K-popdrama · TOP 11 Upcoming Kdramas | OCTOBER 2026 Watch with Trailers!❤️ NEW K-DRAMAS NETFLIX, DISNEY+ & MORE. K-popdrama•50K views · 17: ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=HG7YyWPaF14",
+    "date": "2026-10-02",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1790951053590-6",
+    "slug": "15-series-que-se-estrenan-en-octubre-2026-que-te",
+    "title": "15 SERIES que se Estrenan en OCTUBRE 2026 que te ...",
+    "summary": "Octubre de 2026 llega cargado de nuevas series que prometen historias emocionantes, grandes repartos y propuestas capaces de convertirse en auténticas ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=WCnaIEbgOpU",
+    "date": "2026-10-02",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1790866909589-1",
     "slug": "nana-changed-her-look-almost-immediately-after",
     "title": "Nana changed her look almost immediately after ...",
@@ -12751,7 +12853,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-10-01T15:01:57.204Z";
+export const LAST_UPDATED = "2026-10-02T14:24:14.407Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
