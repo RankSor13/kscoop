@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1791032337099-1",
+    "slug": "weekly-tv-top-10-fourhandstwosonatas-and",
+    "title": "📺 Weekly TV Top 10: #FourHandsTwoSonatas & ...",
+    "summary": "The Top 10 TV Actors/Actress that Generated The Most Buzz This Week: 1. #ByeonWooSeok (“Lovely Runner”) 2. #KimHyeYoon (“Lovely Runner”) 3. #JungRyeoWon ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/ZAPZEEODK/posts/-weekly-tv-top-10-fourhandstwosonatas-leejunyoung-stay-strong-in-buzz-rankings/1540222081481911/",
+    "date": "2026-10-03",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1791032337449-2",
+    "slug": "south-korean-celebrities-top-and-nana-are-dating",
+    "title": "South Korean celebrities TOP and Nana are dating ...",
+    "summary": "TOP and Nana are dating, including their debuts, careers, rumours and the wounds they have suffered\". week's biggest news every Saturday.",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "cnalifestyle.channelnewsasia.com",
+    "sourceUrl": "https://cnalifestyle.channelnewsasia.com/entertainment/top-nana-dating-korean-stars-589901",
+    "date": "1 day ago",
+    "image": "https://dam.mediacorp.sg/image/upload/s--oPQaKDOo--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/02/top_nana_dating.jpg?itok=UYKRFSsW",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1791032339129-3",
+    "slug": "kdramas-to-watch-in-october-2026-netflix-amazon-prime",
+    "title": "KDramas To Watch In October 2026: Netflix, Amazon Prime ...",
+    "summary": "Disney Plus and Hulu will release *Between Steps* on October 5, starring Choo Young-woo and Kim So-hyun, and *Merry Berry Love* on October 7, featuring Ji ...",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "forbes.com",
+    "sourceUrl": "https://www.forbes.com/sites/hannahabraham/2026/10/02/kdramas-to-watch-in-october-2026-netflix-amazon-prime-hulu-disney/",
+    "date": "23 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1791032339336-4",
+    "slug": "6-k-drama-actresses-to-watch-this-october-from-kim-ji-won",
+    "title": "6 K-drama actresses to watch this October, from Kim Ji-won ...",
+    "summary": "Explore the top K-drama leading ladies returning in October 2026, including Kim Ji-won, Kim You-jung, Kim So-hyun and Seo Hyun-jin on Netflix, Disney+",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "tatlerasia.com",
+    "sourceUrl": "https://www.tatlerasia.com/lifestyle/entertainment/k-drama-actresses-to-watch-october-2026",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1791032339431-5",
+    "slug": "upcoming-k-dramas-this-october-october-is",
+    "title": "Upcoming K-Dramas this OCTOBER! 🫰✨ October is ...",
+    "summary": "12 of the best new K-dramas to watch in November 2024 on Disney+, Netflix and more. ✨ 1. Brewing Love [November 4] 2. Face Me [November 6] 3. Gangnam B- ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/KapusoAsianovelas/posts/upcoming-k-dramas-this-october-october-is-bringing-a-massive-wave-of-brand-new-r/1549004357251985/",
+    "date": "5 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1791032339533-6",
+    "slug": "clear-your-schedules-include-these-k-dramas-on",
+    "title": "Clear your schedules! Include these k-dramas on ...",
+    "summary": "If you're ever stuck wondering what to watch next, consider this your sign to start a new Kdrama on Disney+ as they have so many K-titles to choose from! I'm ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/Dd-tY7SyK_s/",
+    "date": "2026-10-03",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1790951049773-1",
     "slug": "its-official-former-bigbang-member-top-and-south",
     "title": "IT'S OFFICIAL 💖 Former Bigbang member T.O.P and South ...",
@@ -12853,7 +12955,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-10-02T14:24:14.407Z";
+export const LAST_UPDATED = "2026-10-03T12:58:59.932Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
