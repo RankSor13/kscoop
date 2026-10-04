@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1791121070579-1",
+    "slug": "south-korean-stars-top-and-nana-are-dating-their",
+    "title": "South Korean stars T.O.P and Nana are dating, their ...",
+    "summary": "WR U AT? BIGBANG's T.O.P has been rumored to be DATING SM C&C actress Kim Gavin after couple photos of the two and their couple items spread online.",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/TheManilaTimes/posts/manila-philippines-south-korean-stars-top-and-nana-are-dating-their-agencies-con/1559781839523325/",
+    "date": "2026-10-04",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1791121070972-2",
+    "slug": "choi-jun-hee-woke-up-in-new-york-and-found-her-online",
+    "title": "Choi Jun-hee woke up in New York and found her online ...",
+    "summary": "Choi Jun-hee woke up in New York and found her online life wiped out. The daughter of late actress Choi Jin-sil had her Instagram account, home to 230,000 ...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/DramaHush/posts/choi-jun-hee-woke-up-in-new-york-and-found-her-online-life-wiped-out-the-daughte/1518654056959893/",
+    "date": "2026-10-04",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1791121071110-3",
+    "slug": "just-10-days-after-announcing-his-marriage-actor",
+    "title": "Just 10 days after announcing his marriage, actor ...",
+    "summary": "*** The famous actress is said to be Takahata Mitsuki whom Kentaro dated from 2016 to 2021. Bunshun news said they will reveal more tomorrow. Credit: Aaron John ...",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/sarangKLove/posts/just-10-days-after-announcing-his-marriage-actor-kentarosakaguchi-is-reportedly-/1627515532719685/",
+    "date": "2026-10-04",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1791121071238-4",
+    "slug": "bint-just-out-there-actressing-and-improvising-what-do-you",
+    "title": "Bint just out there actressing and improvising. What do you ...",
+    "summary": "I low-key enjoy her freeness ... she let's her emotions just flow through her acting it seems",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/ThaiGL/comments/1wtb9wz/bint_just_out_there_actressing_and_improvising/",
+    "date": "2026-10-04",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1791121071353-5",
+    "slug": "penn-badgleys-wife-domino-kirke-says-she-still-gets",
+    "title": "Penn Badgley's Wife Domino Kirke Says She Still Gets ...",
+    "summary": "Penn Badgley's wife, Domino Kirke, has a simple message for fans who blame her for Badgley's 2023 decision to quit filming intimate scenes.",
+    "category": "gossip",
+    "author": "Mia Kwon",
+    "source": "aol.com",
+    "sourceUrl": "https://www.aol.com/articles/penn-badgleys-wife-domino-kirke-215458000.html",
+    "date": "3 days ago",
+    "image": "https://hermes.media.transform.aol.com/8a7bb475fb3b525b8967b2a8f6e542850d596db3/w_1200,c_scale,f_auto,q_auto/https://hermes.media.static.aol.com/media/2026/10/01/4de2e51d-def5-319d-84f9-147c5b66e23c/6d1d40a9-4c65-4c13-a9be-3829d12d4746.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1791121072028-6",
+    "slug": "shim-eun-ha",
+    "title": "Shim Eun-ha",
+    "summary": "In 2001 , news of her plans to marry businessman Jeong Ho-young and a major scandal broke out two days before the wedding , causing great emotional turmoil. In ...",
+    "category": "gossip",
+    "author": "Rina Baek",
+    "source": "en.namu.wiki",
+    "sourceUrl": "https://en.namu.wiki/w/%EC%8B%AC%EC%9D%80%ED%95%98",
+    "date": "7 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1791032337099-1",
     "slug": "weekly-tv-top-10-fourhandstwosonatas-and",
     "title": "📺 Weekly TV Top 10: #FourHandsTwoSonatas & ...",
@@ -12955,7 +13057,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-10-03T12:58:59.932Z";
+export const LAST_UPDATED = "2026-10-04T13:37:52.235Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
