@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1791218625596-1",
+    "slug": "kim-hyun-joong",
+    "title": "Kim Hyun-joong",
+    "summary": "Kim Hyun-joong (Korean: 김현중 ; born June 6, 1986) is a South Korean actor, singer and songwriter. He is leader of the boy band SS501 and played roles in ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "en.wikipedia.org",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Kim_Hyun-joong",
+    "date": "4 days ago",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Kim_Hyun_Joong_2018_Press_Conference_Still_Image.png?utm_source=en.wikipedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail_unscaled",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1791218626001-2",
+    "slug": "new-idol-and-actor-couple",
+    "title": "New idol & actor couple❤️",
+    "summary": "Choi Seung-hyun (T.O.P) and Nana (Im Jin-ah) have officially confirmed their romantic relationship on October 2, 2026! According to reports, the two celebrities ...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DeB7A7Qh187/",
+    "date": "2026-10-05",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1791218626429-3",
+    "slug": "yonsei-international-summer-school-seoul-korea-yonsei",
+    "title": "Yonsei International Summer School, Seoul, Korea – Yonsei ...",
+    "summary": "Wide Choice of Courses. Over 100 classes in 7 academic fields. 6-Week: June 28 - August 4, 2027 · Yonsei International Summer School. The biggest and oldest in ...",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "summer.yonsei.ac.kr",
+    "sourceUrl": "https://summer.yonsei.ac.kr/summer/index.do",
+    "date": "6 days ago",
+    "image": "https://summer.yonsei.ac.kr/_res/summer/img/YISS_thumbnail.png",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1791218632331-4",
+    "slug": "dead-end-job-official-teaser-netflix-eng-sub",
+    "title": "Dead-End Job | Official Teaser | Netflix [ENG SUB]",
+    "summary": "Dead-End Job is coming October 30, only on Netflix. Upcoming K-Dramas Sep–Dec 2026. NEW K-DRAMAS NETFLIX, DISNEY+ & MORE K-popdrama•61K",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=Pv9aII3wd5c",
+    "date": "2026-10-05",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1791218633594-5",
+    "slug": "koreanophiles",
+    "title": "Koreanophiles",
+    "summary": "\"Between Steps,\" the new youth romance K-drama starring Kim So Hyun and Choo Young Woo, debuts tonight, October 5, 2026, at 10:00 PM KST. Streaming: Disney+ ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/koreanophiles/posts/between-steps-is-finally-here-between-steps-the-new-youth-romance-k-drama-starri/1549579173876676/",
+    "date": "2026-10-05",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1791218634090-6",
+    "slug": "top-10-best-korean-series-of-all-time-on-netflix-prime",
+    "title": "Top 10 Best Korean Series of All Time on Netflix, Prime ...",
+    "summary": "Top 10 Best Korean Series of All Time on Netflix, Prime Video & Disney + | Mind-Blowing Series P-4 Hello and Welcome to Asian Odyssey. BEST 2026 Korean Dramas ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=1Gor2LzVu8w",
+    "date": "2026-10-05",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1791121070579-1",
     "slug": "south-korean-stars-top-and-nana-are-dating-their",
     "title": "South Korean stars T.O.P and Nana are dating, their ...",
@@ -13057,7 +13159,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-10-04T13:37:52.235Z";
+export const LAST_UPDATED = "2026-10-05T16:43:54.900Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
