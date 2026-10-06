@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1791297663386-1",
+    "slug": "nana-seemingly-reverses-lip-procedure-following-recent",
+    "title": "Nana seemingly reverses lip procedure following recent ...",
+    "summary": "After School member turned actress Nana publicly apologized to fans, admitting her cosmetic choice hindered her performance.",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/dramasect/comments/1ww57ss/nana_seemingly_reverses_lip_procedure_following/",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1791297663568-2",
+    "slug": "top-10-most-anticipated-k-dramas-2026-q3-and-q4",
+    "title": "Top 10 Most Anticipated K-Dramas 2026 (Q3 & Q4)",
+    "summary": "... Korean dramas coming in Q3 and Q4 (September through December 2026). ... Top 10 New Korean Dramas of October 2026 | Best Korean Drama To Watch on Netflix, Disney+.",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=eeusaY91VB0",
+    "date": "2026-10-06",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1791297664422-3",
+    "slug": "who-else-is-not-sleeping-this-month-we",
+    "title": "Who else is not sleeping this month? We ...",
+    "summary": "Korean Dramas Set to Premier in October 2026 ✨ Oct 1 — Your Personal Taxi (Netflix) Oct 5 — Between Steps (ENA/Disney+). Oct ...",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/DeIgEHwlDKo/",
+    "date": "14 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1791297664723-4",
+    "slug": "nahidflix-which-one-is-at-the-top-of-your-october-watchlist",
+    "title": "nahidflix | Which one is at the TOP of your October watchlist ...",
+    "summary": "Drop your October watchlist below! October 2026 Kdramas, new Kdramas 2026, upcoming Korean dramas, October Kdrama releases, Netflix Kdramas 2026, Disney Plus ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DeH0bLKzN78/",
+    "date": "20 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1791297665025-5",
+    "slug": "korean-star-who-have-businesses-alongside-their-acting",
+    "title": "Korean star who have businesses alongside their acting ...",
+    "summary": "Korean star who have a business test alongside their acting career. Lee Chung So owns the Cafe Itinan Mansion in Seoul. The cafe became popular with fans and ...",
+    "category": "trending",
+    "author": "Mia Kwon",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/100080146298347/videos/korean-star-who-have-businesses-alongside-their-acting-career-%EF%B8%8F/2360278274800043/",
+    "date": "2026-10-06",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1791297666250-6",
+    "slug": "michelle-garcia-draws-attention-in-korea-amid-fathers",
+    "title": "Michelle Garcia draws attention in Korea amid father's ...",
+    "summary": "Filipino K-pop trainee Michelle Garcia has drawn attention on a Korean entertainment platform amid renewed discussion surrounding her father, Filipino actor ...",
+    "category": "trending",
+    "author": "Rina Baek",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/tsismosang.ajumma/posts/filipino-k-pop-trainee-michelle-garcia-has-drawn-attention-on-a-korean-entertain/122260969736134272/",
+    "date": "2026-10-06",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1791218625596-1",
     "slug": "kim-hyun-joong",
     "title": "Kim Hyun-joong",
@@ -13159,7 +13261,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-10-05T16:43:54.900Z";
+export const LAST_UPDATED = "2026-10-06T14:41:06.370Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
