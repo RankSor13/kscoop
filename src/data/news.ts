@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1791385251804-1",
+    "slug": "weekly-insights",
+    "title": "Weekly Insights",
+    "summary": "Barclays Investment Bank analyses key macroeconomic developments and prepares readers for related data and events in the week ahead.",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "ib.barclays",
+    "sourceUrl": "https://www.ib.barclays/our-insights/weekly-insights.html",
+    "date": "5 days ago",
+    "image": "https://www.ib.barclays/content/dam/barclaysmicrosites/ibpublic/Images/investment-bank/research/ResearchpagesNov2019/IB-1024x576_Weekly_Insights_Hero.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1791385252612-2",
+    "slug": "what-are-the-best-k-dramas-or-j-dramas-released-in-2026",
+    "title": "What are the best K-dramas or J-dramas released in 2026?",
+    "summary": "What is your favorite K-drama or J-drana released in 2026 so far? #kdrama #jdrama",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/groups/netflixkdrama/posts/1594335345770880/",
+    "date": "18 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1791385252868-3",
+    "slug": "9-korean-dramas-releasing-in-october-2026",
+    "title": "9 Korean Dramas Releasing in October 2026",
+    "summary": "9 Korean Dramas Releasing in October 2026 · 1. Between Steps · 2. kiDnap GAME · 3. Doctor X · 4. 100 Days of Deception · 5. Make Me Tingle · 6. Love in Disguise · 7.",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "gqmiddleeast.com",
+    "sourceUrl": "https://www.gqmiddleeast.com/article/9-korean-dramas-releasing-in-october-2026",
+    "date": "1 day ago",
+    "image": "https://media.gqmiddleeast.com/photos/6ac4f7f14095ad58014c2a3b/16:9/w_1280,c_limit/Upcoming-Korean-dramas-releasing-in-October-2026.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1791385253469-4",
+    "slug": "popular-actor-goes-out-of-his-way-to-fix-female-idols",
+    "title": "Popular Actor Goes Out Of His Way To Fix Female Idol's ...",
+    "summary": "The post criticized idol-turned-actress Hyeri for being physically affectionate with male co-stars throughout the years.",
+    "category": "trending",
+    "author": "Hana Cho",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/koreaboorewind/posts/popular-actor-goes-out-of-his-way-to-fix-female-idols-bad-habit-sparks-massive-r/1148297681191318/",
+    "date": "2026-10-07",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1791385253632-5",
+    "slug": "as-the-genre-grows-and-spreads-around-the-world-an",
+    "title": "As the genre grows and spreads around the world, an ...",
+    "summary": "This video provides a roundup of recent K-pop news and celebrity updates. Key stories include Santos Bravos, a rookie group, ignoring a performance due to fan ...",
+    "category": "trending",
+    "author": "Mia Kwon",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/VICE/videos/as-the-genre-grows-and-spreads-around-the-world-an-important-question-has-popped/1613097286952383/",
+    "date": "2026-10-07",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1791385255527-6",
+    "slug": "korean-celebrities-who-lost-their-parents",
+    "title": "Korean Celebrities Who Lost Their Parents ...",
+    "summary": "South Korean actress Park Shin-hye and actor Choi Tae-joon have welcomed their second child ・ the news was confirmed ・ kpopfacttt Nana and Son Ye Jin are ...",
+    "category": "trending",
+    "author": "Rina Baek",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/Dd_p7udK5hD/",
+    "date": "2026-10-07",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1791297663386-1",
     "slug": "nana-seemingly-reverses-lip-procedure-following-recent",
     "title": "Nana seemingly reverses lip procedure following recent ...",
@@ -13261,7 +13363,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-10-06T14:41:06.370Z";
+export const LAST_UPDATED = "2026-10-07T15:00:55.951Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
