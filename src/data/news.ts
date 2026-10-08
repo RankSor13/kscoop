@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1791472148255-1",
+    "slug": "actor-yoo-hae-jin-lead-star-of-the-controversial-film",
+    "title": "Actor Yoo Hae-jin, lead star of the controversial film ...",
+    "summary": "Actor Yoo Hae-jin, lead star of the controversial film The Assassin(s), plans to take a firm stance against protesters who gathered outside his Seoul residence ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/pnglnvnsskm89/posts/actor-yoo-hae-jin-lead-star-of-the-controversial-film-the-assassins-plans-to-tak/28966945566251959/",
+    "date": "2026-10-08",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1791472148748-2",
+    "slug": "actor-yoo-seung-hodandyoo93cokr-is-reportedly-in",
+    "title": "️ Actor Yoo Seung-ho(@dandyoo93.co.kr) is reportedly in ...",
+    "summary": "❤️ Actor Yoo Seung-ho(@dandyoo93.co.kr) is reportedly in a six-year relationship with fellow actor Im Se-joo(@r0salim), according to Korean outlet Edaily.",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/DeN6iVrzbEt/",
+    "date": "2026-10-08",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1791472149113-3",
+    "slug": "lee-jong-suk",
+    "title": "Lee Jong-suk",
+    "summary": "Lee Jong-suk (Korean: 이종석 , born 14 September 1989) is a South Korean actor and model. He debuted in 2005 as a runway model and gained recognition as an ...",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "en.wikipedia.org",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Lee_Jong-suk",
+    "date": "2 days ago",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/240725_Lee_Jong-suk.png?utm_source=en.wikipedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail_unscaled",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1791472149320-4",
+    "slug": "is-this-a-scandal-hahahaha-why-cover-face-asked-a",
+    "title": "“Is this a scandal? Hahahaha why cover face,” asked a ...",
+    "summary": "Recently, actress Wang Churan, often referred to as \"Little Liu Yifei,\" found herself at the center of a social media firestorm following a major entertainment ...",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/thenewpaper/posts/is-this-a-scandal-hahahaha-why-cover-face-asked-a-netizen/1562911052539984/",
+    "date": "2026-10-08",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1791472149495-5",
+    "slug": "former-bigbang-member-top-choi-seung-hyun-and",
+    "title": "Former BIGBANG member T.O.P (Choi Seung-hyun) and ...",
+    "summary": "Former BIGBANG member T.O.P (Choi Seung-hyun) and actress-singer Nana (Im Jin-ah) have officially confirmed their relationship, with both agencies acknowledging ...",
+    "category": "gossip",
+    "author": "Mia Kwon",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/Dd_Q0fGKvAt/",
+    "date": "2026-10-08",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1791472149832-6",
+    "slug": "october-2026-k-drama-releases-on-netflix-and-viki",
+    "title": "October 2026 K-drama releases on Netflix and Viki",
+    "summary": "October 2026 is packed for K-drama fans 01 Your Personal Taxi 05 Between Steps 06 Kidnap Game 07 Merry Berry Love 09 Doctor X / Take Charge of My...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/groups/netflixkdrama/posts/1595293139008434/",
+    "date": "2026-10-08",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1791385251804-1",
     "slug": "weekly-insights",
     "title": "Weekly Insights",
@@ -13363,7 +13465,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-10-07T15:00:55.951Z";
+export const LAST_UPDATED = "2026-10-08T15:09:09.972Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
