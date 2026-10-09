@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1791557676644-1",
+    "slug": "6-worst-korean-drama-scandals-from-2024-so-far",
+    "title": "6 Worst Korean Drama Scandals From 2024 So Far",
+    "summary": "Byeon Woo Seok and Kim Hye Yoon Compete for the Award, Their New Rankings Catch Fans' Attention! Korea Gossip Daily. 2 weeks ago.",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "dailymotion.com",
+    "sourceUrl": "https://www.dailymotion.com/video/xbjotem",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1791557677150-2",
+    "slug": "singapore-film-festival-rejects-south-korean-partys-calls-to",
+    "title": "Singapore film festival rejects South Korean party's calls to ...",
+    "summary": "Singapore film festival rejects South Korean party's calls to drop The Assassin(s). Organisers said the political thriller will open the festival amid growing ...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "scmp.com",
+    "sourceUrl": "https://www.scmp.com/news/asia/southeast-asia/article/3370256/singapore-film-festival-rejects-south-korean-partys-calls-drop-assassins",
+    "date": "12 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1791557677334-3",
+    "slug": "every-k-drama-coming-out-in-october-2026-theres-so",
+    "title": "Every K-drama coming out in October 2026! There's so ...",
+    "summary": "Check out the full list of new Korean dramas coming out October 2026 here: October 1: Your Personal Taxi October 5: Between Steps October 6: kiDnap GAME ( ...",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DeCi1ujgw5N/",
+    "date": "2026-10-09",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1791557677723-4",
+    "slug": "october-kdrama-lineup-13-new-releases-which-one-are",
+    "title": "October KDrama Lineup: 13 New Releases! Which one are ...",
+    "summary": "Your Personal Taxi - October 1st, Netflix, 8 episodes, Between Steps - October 5th, Disney+, 12 episodes, Romance Between Steps - ception - October 10th, the ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/kdramas/comments/1wwbmsj/october_kdrama_lineup_13_new_releases_which_one/",
+    "date": "2026-10-09",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1791557677842-5",
+    "slug": "korean-dramas-premiering-in-october-2026",
+    "title": "Korean Dramas Premiering in October 2026",
+    "summary": "Between Steps (October 5, Disney+) – Starring Choo Young-woo and Kim So-hyun in a youth romance about second chances. • kiDnap GAME (October 6, Viu) – A high- ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/groups/1610440892464577/posts/3544291699079477/",
+    "date": "2026-10-09",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1791557678030-6",
+    "slug": "kim-young-kwang-and-chae-soo-bin-lead-this-12-episode",
+    "title": "Kim Young-kwang and Chae Soo-bin lead this 12-episode ...",
+    "summary": "2026 K-DRAMA RELEASES 1️⃣ Between Steps 📅 October 5 📺 Disney+ 2️⃣ kiDnap GAME 📅 October 6 📺 Viu 3️⃣ Merry Berry Love 📅 October 7 📺 Disney+",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/DeH6FMhEvSv/",
+    "date": "2026-10-09",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1791472148255-1",
     "slug": "actor-yoo-hae-jin-lead-star-of-the-controversial-film",
     "title": "Actor Yoo Hae-jin, lead star of the controversial film ...",
@@ -13465,7 +13567,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-10-08T15:09:09.972Z";
+export const LAST_UPDATED = "2026-10-09T14:54:38.328Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
