@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1791641398707-1",
+    "slug": "south-korea-todays-latest-from-al-jazeera",
+    "title": "South Korea | Today's latest from Al Jazeera",
+    "summary": "Stay on top of South Korea latest developments on the ground with Al Jazeera's fact-based news, exclusive video footage, photos and updated maps.",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "aljazeera.com",
+    "sourceUrl": "https://www.aljazeera.com/where/south-korea/",
+    "date": "1 day ago",
+    "image": "https://www.aljazeera.com/images/logo_aje_social.png",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1791641399179-2",
+    "slug": "9-korean-dramas-releasing-in-october-2026-starring-kim",
+    "title": "9 Korean dramas releasing in October 2026 — starring Kim ...",
+    "summary": "1. Between Steps · 2. kiDnap GAME Release date: October 6 · 3. Doctor X Release date: October 9 · 4. 100 Days of Deception Release date: October 10 · 5. Make Me ...",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "gqindia.com",
+    "sourceUrl": "https://www.gqindia.com/content/9-korean-dramas-releasing-in-october-2026-starring-kim-ji-won-ahn-hyo-seop-kim-yoo-jung-and-more",
+    "date": "4 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1791641399462-3",
+    "slug": "upcoming-k-dramas-this-october-2026",
+    "title": "Upcoming k-dramas this October 2026",
+    "summary": "04 - Brewing Love (ENA/Viu) Nov. 06 - Gangnam B-Side (Disney+) Nov. 06 - Face Me (KBS2) Nov. 08 - Mr. Plankton (Netflix) Nov.",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/61571825696255/posts/upcoming-k-dramas-this-october-october-is-bringing-a-massive-wave-of-brand-new-r/122164468688727523/",
+    "date": "2026-10-10",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1791641399871-4",
+    "slug": "dont-forget-these-must-watch-k-dramas-in-october",
+    "title": "Don't forget these 'MUST WATCH' K-dramas in October! ...",
+    "summary": "The video previews 11 new K-dramas scheduled for release in October 2026. It provides brief plot summaries, cast details, and streaming platform information ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/ZAPZEEODK/videos/dont-forget-these-must-watch-k-dramas-in-october-part-1/1155563913808386/",
+    "date": "2026-10-10",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1791641401695-5",
+    "slug": "top-7-korean-action-short-series-on-netflix-and-disney",
+    "title": "Top 7 Korean Action Short Series on Netflix and Disney+ ...",
+    "summary": "CONFIRMED: 16 Must-Watch Korean Dramas in October 2026! · NEW UPCOMING MOVIES 2026 & 2027 (Trailers) · CEO Rejected 99 Princesses, Chose Poor Nanny—She Cured His ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=KFVZWvn3g5s",
+    "date": "2026-10-10",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1791641402645-6",
+    "slug": "k-dramas-releasing-in-october-2026-doctor-x-100-days-of",
+    "title": "K-dramas releasing in October 2026: Doctor X, 100 Days of ...",
+    "summary": "K-drama OTT releases in October 2026: From Kim So-hyun's Between Steps and Kim Ji-won's Doctor X to Kim Yoo-jung's 100 Days of Deception and Ahn Hyo-seop's ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "livemint.com",
+    "sourceUrl": "https://www.livemint.com/entertainment/kdramas-releasing-in-october-2026-doctor-x-100-days-of-deception-final-table-and-more-11791099261057.html",
+    "date": "6 days ago",
+    "image": "https://www.livemint.com/lm-img/img/2026/10/04/1600x900/logo/MixCollage-04-Oct-2026-01-22-PM-8971_1791100377318_Q8PI_1791100385444_Dij8_be1a5fe3-0df5-4c28-8712-cbf95b4bab5b_856w.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1791557676644-1",
     "slug": "6-worst-korean-drama-scandals-from-2024-so-far",
     "title": "6 Worst Korean Drama Scandals From 2024 So Far",
@@ -13567,7 +13669,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-10-09T14:54:38.328Z";
+export const LAST_UPDATED = "2026-10-10T14:10:02.881Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
