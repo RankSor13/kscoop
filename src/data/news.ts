@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1791729287421-1",
+    "slug": "song-joong-ki-and-yoo-ah-in-starred-together-in-the-hit",
+    "title": "Song Joong-ki and Yoo Ah-in starred together in the hit ...",
+    "summary": "'Sungkyungkwan Scandal' Cast Update 2021: Here's What Song Joong Ki, Park Min Young, Park Yoo Chun, and Yoo Ah In Are Up To Now. 933 reactions ·.",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/AllKoreanCelebrities/posts/song-joong-ki-and-yoo-ah-in-starred-together-in-the-hit-2010-south-korean-histor/1757022083090581/",
+    "date": "2026-10-11",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1791729287847-2",
+    "slug": "what-is-the-absolute-worst-role-your-favorite-actress-or",
+    "title": "What is the absolute worst role your favorite actress or ...",
+    "summary": "Who do you love ... but hate for agreeing to the part?😭",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/KDramasWorld/comments/1x07h4i/what_is_the_absolute_worst_role_your_favorite/",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1791729288169-3",
+    "slug": "han-ji-min",
+    "title": "Han Ji-min",
+    "summary": "Han Ji-min (Korean: 한지민 ; born November 5, 1982) is a South Korean actress. After minor roles in All In (2003) and Dae Jang Geum (2003–2004), Han had her ...",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "en.wikipedia.org",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Han_Ji-min",
+    "date": "3 days ago",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Han_Ji-min_in_October_2025.png?utm_source=en.wikipedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail_unscaled",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1791729288291-4",
+    "slug": "mydramalist-discover-discuss-and-organize-the-best-asian",
+    "title": "MyDramaList: Discover, Discuss, and Organize the Best Asian ...",
+    "summary": "'Doctor Cha' actor Song Ji Ho announces marriage to Kim So Ri. Actor Song Ji Ho and singer-actress Kim So Ri are getting married! 5 days ago. 40. 4.",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "mydramalist.com",
+    "sourceUrl": "https://mydramalist.com/",
+    "date": "23 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1791729288459-5",
+    "slug": "10-k-drama-collaborations-between-korean-and",
+    "title": "10 K-Drama Collaborations Between Korean and ...",
+    "summary": "Discover 10 of the best K-drama collaborations between Korean and Japanese actors, ranging from romance and comedy to mystery with captivating chemistry.",
+    "category": "gossip",
+    "author": "Mia Kwon",
+    "source": "aktualita.co",
+    "sourceUrl": "https://aktualita.co/en/entertainment/10-k-drama-collaborations-between-korean-and-japanese-actors",
+    "date": "12 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1791729288587-6",
+    "slug": "upcoming-korean-dramas-on-netflix-disney-and-more-in",
+    "title": "Upcoming Korean dramas on Netflix, Disney, and more in ...",
+    "summary": "Korean dramas premiering this October 2026. BETWEEN STEPS 📅 October 5 📱Available on Disney+ MERRY BERRY LOVE 📅 October 5 📱Available on Disney+. October 30: The ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/hallyulifeAMG/posts/no-tricks-just-k-drama-treats-be-treated-with-upcoming-korean-dramas-premiering-/1623414779798264/",
+    "date": "2026-10-11",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1791641398707-1",
     "slug": "south-korea-todays-latest-from-al-jazeera",
     "title": "South Korea | Today's latest from Al Jazeera",
@@ -13669,7 +13771,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-10-10T14:10:02.881Z";
+export const LAST_UPDATED = "2026-10-11T14:34:48.738Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
