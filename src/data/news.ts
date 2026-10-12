@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1791825409906-1",
+    "slug": "idol-turned-actor-who-previously-dated-an-actress-gets",
+    "title": "Idol-Turned-Actor, Who Previously Dated An Actress, Gets ...",
+    "summary": "Idol-Turned-Actor, Who Previously Dated An Actress, Gets Candid About Dating Within The Industry.",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/koreaboorewind/posts/idol-turned-actor-who-previously-dated-an-actress-gets-candid-about-dating-withi/1153901900630896/",
+    "date": "2026-10-12",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1791825410458-2",
+    "slug": "north-korea-professional-research-platform-nk-pro",
+    "title": "North Korea Professional Research Platform | NK PRO",
+    "summary": "NK Pro offers an unparalleled suite of research tools and cutting edge analysis to provide forefront expertise on Korean Peninsula issues and the DPRK.",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "nknews.org",
+    "sourceUrl": "https://www.nknews.org/pro/",
+    "date": "3 days ago",
+    "image": "https://assets.korearisk.com/uploads/sites/4/2024/01/nkpro-home.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1791825411752-3",
+    "slug": "19-most-anticipated-k-drama-of-october-december-2026",
+    "title": "19 Most Anticipated K-Drama of October - December 2026 ...",
+    "summary": "... dramas releasing in Q4 2026 on Netflix, Disney+, SBS, and more! ✨ Which ... 19 Most Anticipated K-Drama of October - December 2026 (Netflix, Disney+ & More).",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=WKUh526A8dU",
+    "date": "2026-10-12",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1791825413115-4",
+    "slug": "disney-australia-new-releases-in-september-2026",
+    "title": "Disney+ Australia New Releases In September 2026",
+    "summary": "Explore new releases on Disney+, Hulu and ESPN in September 2026, including Star Wars: The Mandalorian and Grogu, plus new seasons of Chad Powers, Futurama, ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "disneyplus.com",
+    "sourceUrl": "https://www.disneyplus.com/en-au/explore/articles/new-to-disney-plus",
+    "date": "6 days ago",
+    "image": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/AE2F28B760CAC7E17B53DD6C246DE0F8BF0EC20CCD37BCAE1DAC7040E09A0C60/scale?format=webp&amp;width=1200",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1791825414579-5",
+    "slug": "no-tricks-just-k-drama-treats-be-treated-with",
+    "title": "NO TRICKS, JUST K-DRAMA TREATS! 😍 Be treated with ...",
+    "summary": "Be treated with upcoming Korean dramas premiering this October 2026. YOUR PERSONAL TAXI October 1 Available on Netflix",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/DeTIEtwT5_4/",
+    "date": "2026-10-12",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1791825414922-6",
+    "slug": "byeon-woo-seoks-full-performance-of-fate-line-the-ost",
+    "title": "Byeon Woo Seok's full performance of “Fate Line,” the OST ...",
+    "summary": "IU and Byeon Woo Seok's scriptreading photos for upcoming drama \"Perfect Crown\" Premieres on April 3 via Disney+.",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/BYNELSONADRIAN/posts/byeon-woo-seoks-full-performance-of-fate-line-the-ost-he-sang-for-his-k-drama-wi/10241334734888029/",
+    "date": "2026-10-12",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1791729287421-1",
     "slug": "song-joong-ki-and-yoo-ah-in-starred-together-in-the-hit",
     "title": "Song Joong-ki and Yoo Ah-in starred together in the hit ...",
@@ -13771,7 +13873,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-10-11T14:34:48.738Z";
+export const LAST_UPDATED = "2026-10-12T17:16:55.133Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
