@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1791905459606-1",
+    "slug": "lee-seung-gi",
+    "title": "Lee Seung-gi",
+    "summary": "Lee Seung-gi is a South Korean singer, actor, host, lyricist and entertainer. As one of the highest paid celebrities of South Korea and recipient of ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "en.wikipedia.org",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Lee_Seung-gi",
+    "date": "6 days ago",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/LeeSeungGi4.jpg?utm_source=en.wikipedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail_unscaled",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1791905459821-2",
+    "slug": "rose-byrne-and-kelli-ohara-bond-over-a-gossip-filled",
+    "title": "Rose Byrne and Kelli O'Hara Bond Over a Gossip-Filled ...",
+    "summary": "Rose Byrne and Kelli O'Hara Bond Over a Gossip-Filled Dinner in “Fallen Angels” follows two wives revisiting a shared romantic history while their husbands are ...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "yahoo.com",
+    "sourceUrl": "https://www.yahoo.com/entertainment/tv/articles/rose-byrne-kelli-o-hara-120000778.html",
+    "date": "4 hours ago",
+    "image": "https://s.yimg.com/lo/mysterio/api/73d17b5a1a911df09fd19c7d8f08339fe5436551d3f6bf020e38bab68d62c76d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F628f0bb22237c1b8360dd039dd60792e.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1791905460517-3",
+    "slug": "the-top-10-kdrama-actors-who-generated-the-most-buzz",
+    "title": "The top 10 #KDrama actors who generated the most buzz ...",
+    "summary": "Top 10 TV and OTT drama actors who Generated the Most Buzz Last Week: 1. Seo Kang Jun (“Undercover High School”) 2. Park Hyung Sik (“Buried Hearts”) 3. Hyeri (“ ...",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/MyDramaclip/posts/the-top-10-kdrama-actors-who-generated-the-most-buzz-this-weektop-1-leejunyoung-/1087459310794346/",
+    "date": "2026-10-13",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1791905460841-4",
+    "slug": "what-k-dramas-are-being-released-in-november-2026",
+    "title": "What K-dramas are being released in November 2026?",
+    "summary": "Explore the November 2026 K-drama release schedule, from The Remarried Empress and Possible Love to Good Partner 2 and Blue Road across Netflix, Disney+ and ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "legit.ng",
+    "sourceUrl": "https://www.legit.ng/entertainment/tv-shows/1735852-what-k-dramas-released-november-2026/",
+    "date": "3 hours ago",
+    "image": "https://cdn.legit.ng/images/1200x675/42212ef742bdf0dd.jpeg?v=1",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1791905462674-5",
+    "slug": "new-k-drama-releases-of-the-week-october-12-18",
+    "title": "New K-drama releases of the week (October 12-18)",
+    "summary": "Mafia in White, Merry Berry Love, 100 Days of Deception & Make Me Tingle are new K-drama releases of the week (October 12-18, 2026) Between Steps - Disney+ ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "gqindia.com",
+    "sourceUrl": "https://www.gqindia.com/content/new-k-drama-releases-of-the-week-october-12-18-12-new-korean-dramas-streaming-on-netflix-and-more",
+    "date": "8 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1791905462853-6",
+    "slug": "k-drama-recommendations-on-disney-rseriesph",
+    "title": "K-Drama Recommendations on Disney+? : r/SeriesPH",
+    "summary": "Meron kayong K-Drama recos/suggestions on Disney+? I want to try other apps besides netflix for kdramas haha been binging on Abbot and Star Wars on Disney ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/SeriesPH/comments/1x0g1dd/kdrama_recommendations_on_disney/",
+    "date": "2026-10-13",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1791825409906-1",
     "slug": "idol-turned-actor-who-previously-dated-an-actress-gets",
     "title": "Idol-Turned-Actor, Who Previously Dated An Actress, Gets ...",
@@ -13873,7 +13975,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-10-12T17:16:55.133Z";
+export const LAST_UPDATED = "2026-10-13T15:31:02.926Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
