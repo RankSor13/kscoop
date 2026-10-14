@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1791983769680-1",
+    "slug": "south-korean-fa-condemns-personal-attacks-as-rift",
+    "title": "South Korean FA condemns 'personal attacks' as rift ...",
+    "summary": "South Korea's football association has told fans to stop \"excessive personal attacks\", warning of the \"psychological burden\" it could inflict on national team ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "sports.yahoo.com",
+    "sourceUrl": "https://sports.yahoo.com/articles/south-korean-fa-condemns-personal-050422670.html",
+    "date": "8 hours ago",
+    "image": "https://s.yimg.com/lo/mysterio/api/18ed5d35784ee897a2568d4de5901c46402e2dc97bf30f114925a2b578e752d8/lightyear_networkapi/resizefill_w768_h511%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F329a5156f587759cf3d3629d336c67e5.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1791983770415-2",
+    "slug": "dispatch-reports-another-celebrity-sent-the-2016-messages",
+    "title": "Dispatch reports another celebrity sent the 2016 messages ...",
+    "summary": "A new report has challenged evidence previously cited in allegations that actor Kim Soo Hyun dated the late Kim Sae Ron when she was underage, ...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/dramasect/comments/1x4q03v/dispatch_reports_another_celebrity_sent_the_2016/",
+    "date": "2026-10-14",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1791983771055-3",
+    "slug": "latest-news",
+    "title": "Latest News",
+    "summary": "Meet high-quality contents on KBS WORLD Radio in 11 languages, including news, K-pop, and online Korean-language classes. Also available are programs ...",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "world.kbs.co.kr",
+    "sourceUrl": "https://world.kbs.co.kr/service/news_today.htm",
+    "date": "4 hours ago",
+    "image": "https://world.kbs.co.kr/service/common/images/kwr_profile_2021.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1791983772935-4",
+    "slug": "merry-berry-love-korean-drama-premieres-on-disney",
+    "title": "Merry Berry Love Korean drama premieres on Disney+ ...",
+    "summary": "On the first day btw😂😂😂 🍓 Merry Berry Love (2026) 📺 Genre: Romantic Comedy, Romance, Drama 📅 Premiere: October 7, 2026 📍 Streaming: ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/groups/netflixkoreanseries/posts/40309482968651218/",
+    "date": "4 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1791983773181-5",
+    "slug": "new-movies-and-series-on-disney-uk-in-september-2026",
+    "title": "New movies and series on Disney+ UK in September 2026",
+    "summary": "Explore what's new on Disney+ UK this September, including The Real Rooneys, The Secret Lives of Mormon Wives season 5, Star Wars: The Mandalorian and Grogu ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "disneyplus.com",
+    "sourceUrl": "https://www.disneyplus.com/en-gb/explore/articles/new-to-disney-plus",
+    "date": "6 days ago",
+    "image": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/AE2F28B760CAC7E17B53DD6C246DE0F8BF0EC20CCD37BCAE1DAC7040E09A0C60/scale?format=webp&amp;width=1200",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1791983776018-6",
+    "slug": "k-pop-stars-are-taking-over-the-small-screen-a-trend",
+    "title": "K-pop stars are taking over the small screen, a trend ...",
+    "summary": "One of the latest examples is Itzy member Yuna, who made her small-screen acting debut earlier in the year with a cameo in “Undercover Miss Hong.” Ryujin is ...",
+    "category": "trending",
+    "author": "Rina Baek",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/koreaheraldofficial/posts/k-pop-stars-are-taking-over-the-small-screen-a-trend-industry-experts-warn-could/1425990753068953/",
+    "date": "2026-10-14",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1791905459606-1",
     "slug": "lee-seung-gi",
     "title": "Lee Seung-gi",
@@ -13975,7 +14077,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-10-13T15:31:02.926Z";
+export const LAST_UPDATED = "2026-10-14T13:16:16.167Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
