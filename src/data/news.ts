@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1792069302765-1",
+    "slug": "ssamkkura-spotted-in-new-york-for-android-commercial",
+    "title": "Ssamkkura spotted in New York for Android commercial",
+    "summary": "After Chaewon's cheating scandal, ssamkkura divorced couple was spotted in New York and will be appearing together in a commercial for Android.",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/cooooorn89/posts/remember-this-divorced-couple-after-chaewons-cheating-scandal-ssamkkura-divorced/1805430040694419/",
+    "date": "2026-10-15",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1792069302971-2",
+    "slug": "kiran-rao-has-expressed-her-love-for-korean-dramas-and",
+    "title": "Kiran Rao has expressed her love for Korean dramas and ...",
+    "summary": "Kiran Rao has expressed her love for Korean dramas and revealed her interest in remaking one. Korean Dramas Declined by Actors",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/HungamaExpress/posts/kiran-rao-has-expressed-her-love-for-korean-dramas-and-revealed-her-interest-in-/1154278180596592/",
+    "date": "2026-10-15",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1792069303101-3",
+    "slug": "park-geun-hye-biography-facts-and-impeachment",
+    "title": "Park Geun-Hye | Biography, Facts, & Impeachment",
+    "summary": "In 2016, a scandal involving Park and a close friend, Choi Soon-Sil, led to Park's impeachment by the National Assembly. including abuse of power.",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "britannica.com",
+    "sourceUrl": "https://www.britannica.com/biography/Park-Geun-Hye",
+    "date": "6 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1792069303235-4",
+    "slug": "k-pop-news-and-reviews",
+    "title": "K-Pop News & Reviews",
+    "summary": "The latest K-pop coverage — Korean artist news, album releases, concerts, chart updates and features on the global K-pop industry.",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "koreajoongangdaily.com",
+    "sourceUrl": "https://www.koreajoongangdaily.com/entertainment/k-pop",
+    "date": "1 hour ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1792069303868-5",
+    "slug": "forget-squid-game-netflix-is-officially-entering-a-new-k",
+    "title": "Forget Squid Game, Netflix Is Officially Entering A New K ...",
+    "summary": "Plus, with numerous Netflix originals still on the horizon, 2026 seems to be one of the best years for K-dramas in recent memory. Regardless, Netflix isn't ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "screenrant.com",
+    "sourceUrl": "https://screenrant.com/netflix-k-dramas-streaming-success-october-2026/",
+    "date": "14 hours ago",
+    "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/lee-jung-jae-in-squid-game-2x4.jpg?w=1600&amp;h=900&amp;fit=crop",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1792069304531-6",
+    "slug": "heart-of-the-beast-fullmovie-online-4khd-free-available",
+    "title": "\"Heart of the Beast\" FullMovie Online 4KHD! Free Available ...",
+    "summary": "Welcome to the official project space dedicated to Heart of the Beast𝙼𝚘𝚟𝚒𝚎(2026)—a large-scale mythological action film that explores the beginning of ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "shermancountyks.gov",
+    "sourceUrl": "https://www.shermancountyks.gov/document/Attachments/639276381591768647.pdf",
+    "date": "6 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1791983769680-1",
     "slug": "south-korean-fa-condemns-personal-attacks-as-rift",
     "title": "South Korean FA condemns 'personal attacks' as rift ...",
@@ -14077,7 +14179,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-10-14T13:16:16.167Z";
+export const LAST_UPDATED = "2026-10-15T13:01:45.684Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
