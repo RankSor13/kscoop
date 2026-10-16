@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1792155496155-1",
+    "slug": "peoplecom-celebrity-news-exclusives-photos-and-videos",
+    "title": "People.com | Celebrity News, Exclusives, Photos and Videos",
+    "summary": "Val Chmerkovskiy Apologizes to DWTS Judge Carrie Ann Inaba for Referencing Will Smith's Oscar Slap in Response to Her Criticism of Jenna Johnson.",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "people.com",
+    "sourceUrl": "https://people.com/",
+    "date": "3 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1792155496409-2",
+    "slug": "do-you-think-any-of-the-bts-members-would-date-a-non",
+    "title": "do you think any of the bts members would date a non ...",
+    "summary": "this isn’t made to pry into their lives or theorize on who they are specifically dating, but i’ve always been curious about super famous people ...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/ARMYNeutral/comments/1x6ljen/do_you_think_any_of_the_bts_members_would_date_a/",
+    "date": "2026-10-16",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1792155496578-3",
+    "slug": "latest-entertainment-news-and-headlines-top-stories-today",
+    "title": "Latest Entertainment News & Headlines, Top Stories Today",
+    "summary": "actress Hilary Swank, 52, pregnant with third child. K-actors Ha Jung-woo, South Korean actor Ha Jung-woo (left) and actress Cha Jung-won",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "straitstimes.com",
+    "sourceUrl": "https://www.straitstimes.com/life/entertainment",
+    "date": "2 days ago",
+    "image": "https://www.straitstimes.com/og/st-bg-1200x630.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1792155497537-4",
+    "slug": "cbs-news-breaking-news-top-stories-and-exclusive-coverage",
+    "title": "CBS News | Breaking News, Top Stories & Exclusive Coverage",
+    "summary": "Stay informed on today's latest breaking news and exclusive scoops from CBS News. Follow current events in the U.S. and around the world, ...",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "cbsnews.com",
+    "sourceUrl": "https://www.cbsnews.com/",
+    "date": "3 hours ago",
+    "image": "https://assets1.cbsnewsstatic.com/hub/i/2022/01/22/4fc70efe-a2d7-4eb3-8f23-05db514ef3bb/news-slate-stream.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1792155497848-5",
+    "slug": "new-releases-on-disney-in-september-2026",
+    "title": "New Releases on Disney+ In September 2026",
+    "summary": "Discover latest releases on Disney+, Hulu this September 2026, including Star Wars: The Mandalorian and Grogu, plus new seasons of Chad Powers, Futurama, ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "disneyplus.com",
+    "sourceUrl": "https://www.disneyplus.com/en-sg/explore/articles/new-to-disney-plus",
+    "date": "3 days ago",
+    "image": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/AE2F28B760CAC7E17B53DD6C246DE0F8BF0EC20CCD37BCAE1DAC7040E09A0C60/scale?format=webp&amp;width=1200",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1792155499651-6",
+    "slug": "watch-mirzapur-the-movie-fullmovie-online-4khd-free",
+    "title": "*Watch » \"Mirzapur: The Movie\" FullMovie Online 4KHD! Free ...",
+    "summary": "Mirzapur: The MovieMovie(2026)—a large-scale mythological action film (Netflix, Amazon Prime, Disney+) now dominate.",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "milwaukie.govbuilt.com",
+    "sourceUrl": "https://milwaukie.govbuilt.com/document/Report%20A%20Tree%20Concern/639277070624020102.pdf",
+    "date": "12 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1792069302765-1",
     "slug": "ssamkkura-spotted-in-new-york-for-android-commercial",
     "title": "Ssamkkura spotted in New York for Android commercial",
@@ -14179,7 +14281,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-10-15T13:01:45.684Z";
+export const LAST_UPDATED = "2026-10-16T12:58:20.420Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
