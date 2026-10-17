@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1792238182518-1",
+    "slug": "12-k-drama-actors-who-unexpectedly-found-love-on-set",
+    "title": "12 K-Drama Actors Who Unexpectedly Found Love on Set",
+    "summary": "Lee Sung-kyung and Nam-ju Hyuk, Weightlifting Fairy Kim Bak-ju. Jun-yol and Hyeri became one of the most beloved days ago. Korea Gossip Daily 1 week ago. ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "dailymotion.com",
+    "sourceUrl": "https://www.dailymotion.com/video/xbmcggu",
+    "date": "4 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1792238182859-2",
+    "slug": "honorary-reporters",
+    "title": "Honorary Reporters",
+    "summary": "Honorary Reporters: Korea.net : The official website of the Republic of Korea. NEWS FOCUS Policies Business Sci/Tech. Sports People Opinion Korea in photos. ...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "korea.net",
+    "sourceUrl": "https://www.korea.net/NewsFocus/HonoraryReporters",
+    "date": "4 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1792238183697-3",
+    "slug": "why-are-new-korean-dramas-not-available-on-netflix",
+    "title": "Why are new Korean dramas not available on Netflix?",
+    "summary": "The image shows a news headline about Netflix cancelling five new 2025 K-dramas. A photo of two people in traditional Korean clothing is below the headline. The ...",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/groups/netflixkoreanseries/posts/40453268264272687/",
+    "date": "2026-10-17",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1792238183931-4",
+    "slug": "disney-synopsis-lee-yoo-bin-ji-chang",
+    "title": "Disney+ Synopsis: Lee Yoo-bin (Ji Chang- ...",
+    "summary": "Merry Berry Love (2026) Genre: Romantic Comedy, Romance, Drama Premiere: October 7, 2026 Streaming: Disney+ Synopsis: Lee Yoo-bin (Ji Chang-wook), ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/Deerk8UoXAe/",
+    "date": "2026-10-17",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1792238184337-5",
+    "slug": "moving-south-korean-tv-series",
+    "title": "Moving (South Korean TV series)",
+    "summary": "In November 2024, it was announced that production of a second season had begun, with an aim to release sometime in 2026. Moving. The Korean logo of the series ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "en.wikipedia.org",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Moving_(South_Korean_TV_series)",
+    "date": "2 days ago",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Moving_%28South_Korean_TV_series%29_logo.svg/1280px-Moving_%28South_Korean_TV_series%29_logo.svg.png?utm_source=en.wikipedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1792238184709-6",
+    "slug": "insidious-out-of-the-further-fullmovie-online-4khd-free-tv",
+    "title": "\"Insidious: Out of the Further\" FullMovie Online 4KHD! Free TV ...",
+    "summary": "2026 is in the future. No movies released in 2026 have been evaluated yet. ○ Predictions are unreliable, as box-office performance depends on content, ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "mooreok.govbuilt.com",
+    "sourceUrl": "https://mooreok.govbuilt.com/document%2FAttachments%2F639276665038228799.pdf",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1792155496155-1",
     "slug": "peoplecom-celebrity-news-exclusives-photos-and-videos",
     "title": "People.com | Celebrity News, Exclusives, Photos and Videos",
@@ -14281,7 +14383,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-10-16T12:58:20.420Z";
+export const LAST_UPDATED = "2026-10-17T11:56:25.472Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
