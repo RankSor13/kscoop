@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1792326269618-1",
+    "slug": "dating-rumors-about-the-stars-of-netflixs-a-different-world",
+    "title": "Dating rumors about the stars of Netflix's A Different World ...",
+    "summary": "This video presents a series of rumored romantic relationships involving popular South Korean celebrities from the drama and music industries. It highlights ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/Bossip/posts/dating-rumors-about-the-stars-of-netflixs-a-different-world-are-only-getting-lou/1632826681543658/",
+    "date": "2026-10-18",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1792326270025-2",
+    "slug": "celebrity-gossip-lifestyle-fashion-and-beauty-news-from",
+    "title": "Celebrity Gossip, Lifestyle, Fashion & Beauty News From ...",
+    "summary": "Val Chmerkovskiy has been temporarily suspended from Dancing with the Stars after sharing an offensive post on social media. The 40-year-old ballroom dancer - ...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "femalefirst.co.uk",
+    "sourceUrl": "https://www.femalefirst.co.uk/",
+    "date": "4 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1792326270889-3",
+    "slug": "seeing-his-ex-elsa-pataky-revealed-his-sadness",
+    "title": "Seeing his ex Elsa Pataky revealed his sadness...",
+    "summary": "This celebrity gossip video details the historical romantic relationship between Elsa Pataky and Adrien Brody, mentioning that Brody gifted her a castle during ...",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/upsoclcelebs/videos/this-was-the-worst-red-carpet-for-adrien-brody/2535045160329783/",
+    "date": "2026-10-18",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1792326272293-4",
+    "slug": "k-dramas-to-watch-october-to-december-2026",
+    "title": "K-dramas to watch October to December 2026",
+    "summary": "K-Drama: The King: Eternal Monarch Comedy: Ang Pangarap Kong Holdap Kids & Family: Over The Moon Action: Netflix and Disney+ have revealed their lineup of ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/TatlerPhilippines/posts/ready-for-your-next-binge-a-packed-lineup-of-romance-legal-drama-and-historical-/1548457670656645/",
+    "date": "2026-10-18",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1792326272465-5",
+    "slug": "hulu-on-reels",
+    "title": "Hulu on Reels",
+    "summary": "\"The Remarried Empress,\" upcoming Korean drama series, \"The Remarried Empress.\" it is available for streaming on Disney Plus on November 4th.",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/hulu/videos/2049276099039040/",
+    "date": "2026-10-18",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1792326273663-6",
+    "slug": "korean-drama",
+    "title": "Korean Drama",
+    "summary": "K-Dramas 'Temperature of Love' and 'Remember' Coming to Netflix in October 2026. Disney+ and Hulu November",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "imdb.com",
+    "sourceUrl": "https://www.imdb.com/interest/in0000209/",
+    "date": "14 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1792238182518-1",
     "slug": "12-k-drama-actors-who-unexpectedly-found-love-on-set",
     "title": "12 K-Drama Actors Who Unexpectedly Found Love on Set",
@@ -14383,7 +14485,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-10-17T11:56:25.472Z";
+export const LAST_UPDATED = "2026-10-18T12:24:33.943Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
