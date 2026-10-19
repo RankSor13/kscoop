@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1792422819655-1",
+    "slug": "us-actress-selma-blair-accused-of-assault-after-incident",
+    "title": "US actress Selma Blair accused of assault after incident ...",
+    "summary": "US actress Selma Blair has been issued with a summons accusing her of assault after she allegedly attacked attendants on a plane, officials say.",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "bbc.com",
+    "sourceUrl": "https://www.bbc.com/news/articles/cw80z7edrk80o",
+    "date": "6 days ago",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b1cb/live/862b16a0-c6bf-11f1-a64c-550be9e3c66b.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1792422820907-2",
+    "slug": "the-guilfoyle-scandals-finally-caught-up-with-her",
+    "title": "The Guilfoyle Scandals Finally Caught Up With Her",
+    "summary": "Kimberly Guilfoyle, the embattled US ambassador to Greece, resigned from her post Tuesday amid multiple alleged instances of corruption.",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "motherjones.com",
+    "sourceUrl": "https://www.motherjones.com/politics/2026/10/the-white-house-asks-scandal-ridden-kimberly-guilfoyle-to-resign/",
+    "date": "6 days ago",
+    "image": "https://www.motherjones.com/wp-content/uploads/2026/10/Kimberly-guilfoyle_trump_at-white-house_2000.jpg?w=1200&amp;h=630&amp;crop=1",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1792422821708-3",
+    "slug": "friends-and-co-stars-pay-tribute-to-sweetheart-breaking",
+    "title": "Friends and co-stars pay tribute to 'sweetheart' Breaking ...",
+    "summary": "US actor RJ Mitte, best known for his role as the defiant son of drug kingpin Walter White in the drama series Breaking Bad, has died at the age of 34.",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=_NSPhuBB5U4",
+    "date": "2026-10-19",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1792422822561-4",
+    "slug": "justice-department-announces-coordinated-actions-to",
+    "title": "Justice Department Announces Coordinated Actions to ...",
+    "summary": "Justice Department Announces Coordinated Actions to Combat North Korean Remote IT Worker Schemes Affecting More than 70 U.S. Companies. Tuesday, October 13, ...",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "justice.gov",
+    "sourceUrl": "https://www.justice.gov/opa/pr/justice-department-announces-coordinated-actions-combat-north-korean-remote-it-worker",
+    "date": "6 days ago",
+    "image": "https://www.justice.gov/themes/custom/usdoj_uswds/images/metatag-image--press-release.png",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1792422822706-5",
+    "slug": "new-2026-asian-dramas-on-netflix-disneyhulu-and",
+    "title": "New 2026 Asian dramas on Netflix, Disney/Hulu, and ...",
+    "summary": "The video presents a preview of seven highly anticipated Korean dramas scheduled for release in 2026. A narrator details the plots, genres, and star- studded ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/groups/1610440892464577/posts/3561886893986624/",
+    "date": "2026-10-19",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1792422822950-6",
+    "slug": "14-most-anticipated-korean-dramas-airing-in-october-2026",
+    "title": "14 Most Anticipated Korean Dramas Airing in October 2026",
+    "summary": "Between Steps (Disney+) • 6/10 — Kidnap Game (Channel A • Viu) • 7/10 — Merry Berry Love (Disney+ • Hulu) • 9/10 — Doctor X (SBS • Netflix) • 9/10 ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=cxH0KALtdNg",
+    "date": "5/10",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1792326269618-1",
     "slug": "dating-rumors-about-the-stars-of-netflixs-a-different-world",
     "title": "Dating rumors about the stars of Netflix's A Different World ...",
@@ -14485,7 +14587,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-10-18T12:24:33.943Z";
+export const LAST_UPDATED = "2026-10-19T15:13:43.751Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
