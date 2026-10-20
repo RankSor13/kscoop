@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1792502083795-1",
+    "slug": "actress-selma-blair-faces-additional-charges-for-assault",
+    "title": "Actress Selma Blair faces additional charges for assault ...",
+    "summary": "The Legally Blonde actress faces two counts of assault for allegedly kicking a police officer and a nurse after allegedly attacking attendants on a flight.",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "bbc.com",
+    "sourceUrl": "https://www.bbc.com/news/articles/ck86zje2z4pwo",
+    "date": "7 days ago",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1604/live/01ecf900-c74e-11f1-b4d5-87f9c6c95a29.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1792502084036-2",
+    "slug": "korean-actress-kim-yong-ji-announces-shes-now-married",
+    "title": "Korean actress Kim Yong Ji announces she's now married",
+    "summary": "According to several Korean media outlets, Kim Yong Ji exchanged vows with her Japanese non-celebrity partner in an intimate outdoor ceremony on October 11.",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "pep.ph",
+    "sourceUrl": "https://www.pep.ph/news/foreign/194239/kim-yong-ji-now-married-a5132-20261015",
+    "date": "6 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1792502087075-3",
+    "slug": "celebrity-news",
+    "title": "Celebrity News",
+    "summary": "From the latest celebrity news and gossip to older articles, you\\'ll find everything you could ever want here; start reading now.",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "femalefirst.co.uk",
+    "sourceUrl": "https://www.femalefirst.co.uk/celebrity/?playVideo=2&page=2",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1792502087777-4",
+    "slug": "these-are-the-most-anticipated-kdramas-of-q4october",
+    "title": "These are the MOST anticipated #kdramas of Q4(October- ...",
+    "summary": "... 2026-k-drama-releases. October K-Drama New Releases: 10/01: Your Personal Taxi on Netflix 10/05: Between Steps on Disney+ 10/06: Kidnap Game on Viu 10/07 ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DepIeQjIvw5/",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1792502088105-5",
+    "slug": "4-disney-k-dramas-you-cant-miss-in-october-2026",
+    "title": "4 Disney+ K-Dramas You Can't Miss in October 2026🍿✨",
+    "summary": "4 Korean dramas bring something exciting to your October watchlist! 4 Disney+ K-Dramas You Can't Miss in October 2026🍿✨. Upcoming Korean Dramas on Netflix",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=zb8ULiK8Z8c",
+    "date": "2026-10-20",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1792502088925-6",
+    "slug": "new-k-drama-releases-of-the-week-october-19-25",
+    "title": "New K-drama releases of the week (October 19-25)",
+    "summary": "Final Table, Love in Disguise, Doctor X and Make Me Tingle are new K-drama releases of the week (October 19-25, 2026) on OTT to look forward to.",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "gqindia.com",
+    "sourceUrl": "https://www.gqindia.com/content/new-k-drama-releases-of-the-week-october-19-25-14-new-korean-dramas-streaming-on-netflix-and-more",
+    "date": "6 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1792422819655-1",
     "slug": "us-actress-selma-blair-accused-of-assault-after-incident",
     "title": "US actress Selma Blair accused of assault after incident ...",
@@ -14587,7 +14689,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-10-19T15:13:43.751Z";
+export const LAST_UPDATED = "2026-10-20T13:14:49.041Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
