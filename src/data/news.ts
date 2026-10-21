@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1792588956993-1",
+    "slug": "k-drama-fans-react-to-public-humiliation-story",
+    "title": "K-Drama fans react to public humiliation story",
+    "summary": "Kim Soo-hyun's fanbase is facing significant backlash after allegedly mocking the late actress Kim Sae-ron. Reports indicate that some fans posted disrespectful ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/groups/696863029903952/posts/1131397973117120/",
+    "date": "2026-10-21",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1792588957269-2",
+    "slug": "korean-star-sparks-anger-by-carrying-photos-of-his-ex",
+    "title": "Korean Star Sparks Anger By Carrying Photos Of His Ex",
+    "summary": "Recently, actress Koo Hye Sun made a lengthy Instagram post slamming her ex-husband, actor Ahn Jae Hyun, for using their divorce as entertainment. She expressed ...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/koreaboorewind/posts/korean-star-sparks-anger-by-carrying-photos-of-his-ex-girlfriend/1160612326626520/",
+    "date": "2026-10-21",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1792588957416-3",
+    "slug": "e-news-celebrity-news-photos-and-video",
+    "title": "E! News: Celebrity News, Photos and Video",
+    "summary": "E! Online delivers breaking entertainment news, celebrity updates, red carpet and award show coverage, fashion trends, and the latest in TV and movies.",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "eonline.com",
+    "sourceUrl": "https://www.eonline.com/",
+    "date": "1 day ago",
+    "image": "https://akns-images.eonline.com/eol_images/Entire_Site/2020330/rs_112x112-200430123021-112X112-e-logo.png",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1792588957761-4",
+    "slug": "entertainment-english-section-the-chosun-daily",
+    "title": "Entertainment+ English Section - The Chosun Daily",
+    "summary": "Entertainment+ Secion - The Chosun Daily is an English-language news website that provides a selection of articles from The Chosunilbo, a major Korean ...",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "chosun.com",
+    "sourceUrl": "https://www.chosun.com/english/kpop-culture-en/",
+    "date": "3 hours ago",
+    "image": "https://www.chosun.com/pf/resources/images/thumb_meta.png?d=2413",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1792588958090-5",
+    "slug": "kim-ji-won-the-unstoppable-korean-actress-taking-over",
+    "title": "Kim Ji Won: The Unstoppable Korean Actress Taking Over ...",
+    "summary": "In this article, we will delve into the fascinating life and career of Kim Ji Won, exploring her early life, rise to fame, and the remarkable accomplishments ...",
+    "category": "gossip",
+    "author": "Mia Kwon",
+    "source": "staging.elkford.ca",
+    "sourceUrl": "https://staging.elkford.ca/kim-ji-won-the-unstoppable-korean-actress-taking-over-the-screen",
+    "date": "3 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1792588958520-6",
+    "slug": "pop-culture-news-updates-on-music-movies-tv-and",
+    "title": "Pop Culture News: Updates on Music, Movies, TV and ...",
+    "summary": "The latest news on all-things popular culture. Get updates on the icons of pop culture, including celebrities, musicians, social media influencers and more.",
+    "category": "gossip",
+    "author": "Rina Baek",
+    "source": "nbcnews.com",
+    "sourceUrl": "https://www.nbcnews.com/pop-culture/pop-culture-news",
+    "date": "21 hours ago",
+    "image": "https://media1.s-nbcnews.com/j/newscms/2020_27/3393326/culture-matters_dfcfcfcb5559c96e3677d3339926baca.nbcnews-fp-1200-630.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1792502083795-1",
     "slug": "actress-selma-blair-faces-additional-charges-for-assault",
     "title": "Actress Selma Blair faces additional charges for assault ...",
@@ -14689,7 +14791,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-10-20T13:14:49.041Z";
+export const LAST_UPDATED = "2026-10-21T13:22:39.857Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
