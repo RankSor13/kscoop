@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1792675389986-1",
+    "slug": "eighth-army-hosts-2026-best-medic-competition-at-camp",
+    "title": "Eighth Army Hosts 2026 Best Medic Competition at Camp ...",
+    "summary": "CAMP HUMPHREYS, South Korea — Eighth Army began its annual Best Medic Competition here Oct. 5, 2026, testing Soldiers from various medical military ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "army.mil",
+    "sourceUrl": "https://www.army.mil/article-amp/296273/eighth_army_hosts_2026_best_medic_competition_at_camp_humphreys",
+    "date": "11 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1792675390519-2",
+    "slug": "kpop-demon-hunters-ejae-weds-samuel-kim-in-seoul-but",
+    "title": "KPop Demon Hunters' Ejae weds Samuel Kim in Seoul, but ...",
+    "summary": "KPop Demon Hunters, recently tied the knot with her long-time partner, Samuel Kim, on October 17.",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "scmp.com",
+    "sourceUrl": "https://www.scmp.com/magazines/style/people/celebrities/article/3371638/kpop-demon-hunters-ejae-weds-samuel-kim-seoul-what-do-we-know-about-him",
+    "date": "11 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1792675390640-3",
+    "slug": "north-korea-bbc-news",
+    "title": "North Korea - BBC News",
+    "summary": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row. Last week Zelensky revealed Ukraine had sent two captured North Koreans to South Korea - ...",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "bbc.com",
+    "sourceUrl": "https://www.bbc.com/news/topics/cywd23g0gz5t",
+    "date": "5 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1792675390850-4",
+    "slug": "every-new-k-drama-coming-to-netflix-prime-video-and-disney",
+    "title": "Every New K-Drama Coming To Netflix, Prime Video, And Disney+ ...",
+    "summary": "Every New K-Drama Coming To Netflix, Prime Video, And Disney+ In June 2026 - Read More Here!",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/adultswholovecartoons/posts/every-new-k-drama-coming-to-netflix-prime-video-and-disney-in-june-2026-read-mor/1448937343946615/",
+    "date": "May 25, 2026",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1792675391084-5",
+    "slug": "disney-2026-drama-lineup-teaser-rkdrama-reddit",
+    "title": "Disney+ '2026 Drama Lineup' Teaser : r/KDRAMA - Reddit",
+    "summary": "Comments Section · Bloody Flower (not shown in the Disney+ Singapore lineup, but featured in the Disney+ Korea lineup) · In Your Radiant Season.",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/KDRAMA/comments/1qjgcm8/disney_2026_drama_lineup_teaser/",
+    "date": "Jan 22, 2026",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1792675391230-6",
+    "slug": "upcoming-k-dramas-releasing-in-september-2026-lifestyle-asia",
+    "title": "Upcoming K-dramas releasing in September 2026 - Lifestyle Asia",
+    "summary": "September 2026 brings another exciting lineup of Korean dramas across Disney+, Netflix and Prime Video. ... The series is set to premiere on ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "lifestyleasia.com",
+    "sourceUrl": "https://www.lifestyleasia.com/ind/entertainment/streaming/upcoming-k-dramas-september-2026/",
+    "date": "Sep 1, 2026",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1792588956993-1",
     "slug": "k-drama-fans-react-to-public-humiliation-story",
     "title": "K-Drama fans react to public humiliation story",
@@ -14791,7 +14893,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-10-21T13:22:39.857Z";
+export const LAST_UPDATED = "2026-10-22T13:23:11.425Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
