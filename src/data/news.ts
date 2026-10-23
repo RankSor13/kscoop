@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1792760512816-1",
+    "slug": "korean-actor-gets-sued-for-hundreds-of-millions-in",
+    "title": "Korean Actor Gets Sued For Hundreds Of Millions In ...",
+    "summary": "Korean actor Kim Soo Hyun is reportedly facing a wave of lawsuits from advertisers, with claims totaling approximately 3 billion won (around $2.1 million USD). ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/koreaboorewind/posts/korean-actor-gets-sued-for-hundreds-of-millions-in-shocking-case/1163233579697728/",
+    "date": "2026-10-23",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1792760513041-2",
+    "slug": "do-you-agree-if-we-say-chinese-is-one-of-country-produce",
+    "title": "Do you agree, if we say Chinese is one of country produce ...",
+    "summary": "This video features a fan discussion comparing the beauty of two popular Korean actors, Zhang Ling He and Song WeiLong. The creator poses a question to the ...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/61562744665921/videos/do-you-agree-if-we-say-chinese-is-one-of-country-produce-many-beautiful-and-hand/1806233387327193/",
+    "date": "2026-10-23",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1792760514013-3",
+    "slug": "top-12-upcoming-kdramas-november-2026watch",
+    "title": "🚨TOP 12 Upcoming Kdramas | NOVEMBER 2026🫰Watch ...",
+    "summary": "November is bringing new releases. Netflix Korean dramas, Disney Plus Korean dramas 🚨TOP 12 Upcoming Kdramas | NOVEMBER 2026🫰Watch",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=0CzTB-MjyIc",
+    "date": "2026-10-23",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1792760514858-4",
+    "slug": "november-2026-k-dramas-are-coming-k",
+    "title": "NOVEMBER 2026 K-DRAMAS ARE COMING! 🇰🇷✨ K ...",
+    "summary": "The post announces the premiere date is November 4, 2026, and notes that the show is available for streaming on Disney+ and Hulu. Drama name - The Remarried ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/61560672879870/videos/-november-2026-k-dramas-are-coming-k-drama-lovers-get-ready-november-is-bringing/1645919790544922/",
+    "date": "2026-10-23",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1792760515842-5",
+    "slug": "from-undercover-investigations-and-medical-conspiracies",
+    "title": "From undercover investigations and medical conspiracies ...",
+    "summary": "Check out the full list of new Korean dramas coming out October 2026 here: October 1: Your Personal Taxi October 5: Between Steps October 6: kiDnap GAME ( ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/DexF_SHgcEl/",
+    "date": "2026-10-23",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1792760516099-6",
+    "slug": "8-new-k-dramas-in-october-2026-to-add-to-your-watch-list",
+    "title": "8 New K-Dramas In October 2026 To Add To Your Watch List",
+    "summary": "8 New Korean Dramas Coming Out In October 2026 To Add To Your Watch List ; October 5, 2026 · ENA, Disney+ · Monday & Tuesday, 22:00 ; October 9, 2026 · SBS · Friday & ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "inkistyle.com",
+    "sourceUrl": "https://inkistyle.com/new-korean-dramas-october-2026/",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1792675389986-1",
     "slug": "eighth-army-hosts-2026-best-medic-competition-at-camp",
     "title": "Eighth Army Hosts 2026 Best Medic Competition at Camp ...",
@@ -14893,7 +14995,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-10-22T13:23:11.425Z";
+export const LAST_UPDATED = "2026-10-23T13:01:56.312Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
