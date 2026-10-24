@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1792844703987-1",
+    "slug": "singing-dancing-and-getting-dumped-by-ai-on-korean-tv",
+    "title": "Singing, Dancing and Getting Dumped by A.I. on Korean TV",
+    "summary": "Three celebrities date artificial intelligence avatars on a reality show made in South Korea, where A.I. is hugely popular.",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "nytimes.com",
+    "sourceUrl": "https://www.nytimes.com/2026/10/18/world/asia/korea-ai-dating-show.html",
+    "date": "6 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1792844704425-2",
+    "slug": "suggest-me-some-good-romantic-k-dramas-released-in-2026",
+    "title": "Suggest me some good romantic K-dramas released in 2026",
+    "summary": "Merry Berry Love (jdrama/kdrama cross over on disney+). Make Me Tingle (risqué topic with CEO of sex toy company but very well done so far). No_Associate1514.",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/kdramas/comments/1xccmpj/suggest_me_some_good_romantic_kdramas_released_in/",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1792844704616-3",
+    "slug": "ji-chang-wook-got-his-big-break-10-days-before-filming",
+    "title": "Ji Chang-wook Got His Big Break 10 Days Before Filming. ...",
+    "summary": "No. 2 on Disney+ worldwide. Upcoming Korean Dramas Release In November 2026 … 12 Upcoming Kdramas | NOVEMBER 2026🫰Watch. NEW K-DRAMAS NETFLIX, DISNEY+ & MORE",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=kqB5-bpHh08&vl=it",
+    "date": "13 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1792844705504-4",
+    "slug": "jichangwooks-upcoming-dramas-from-2023-to-2026",
+    "title": "Jichangwook's upcoming dramas from 2023 to 2026",
+    "summary": "Merry Berry Love is an upcoming romantic comedy series starring Ji Chang Wook and Mio Imada, set to premiere on Disney+ in 2026. The show follows a struggling ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/groups/790465409314477/posts/1720675219626820/",
+    "date": "12 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1792844705809-5",
+    "slug": "what-to-watch-movies-and-shows-to-watch",
+    "title": "What to Watch | Movies & Shows to Watch",
+    "summary": "Discover the best movies and shows to watch on Disney+. Explore top picks, new releases, and fan favorites all in one place.",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "disneyplus.com",
+    "sourceUrl": "https://www.disneyplus.com/explore/what-to-watch",
+    "date": "5 hours ago",
+    "image": "https://static-assets.bamgrid.com/product/disneyplus/images/share-default.8bf3102623e935e7bc126df36b956b98.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1792844706535-6",
+    "slug": "popular-actress-confesses-her-love-for-a-k-pop-idol",
+    "title": "Popular Actress Confesses Her Love For A K-Pop Idol ...",
+    "summary": "It highlights specific pairings like V and Jennie or Lee Min-ho and Song Hye-kyo, catering to fans interested in celebrity gossip and dating news",
+    "category": "trending",
+    "author": "Rina Baek",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/koreaboorewind/posts/popular-actress-confesses-her-love-for-a-k-pop-idol-despite-being-in-a-relations/1164799489541137/",
+    "date": "2026-10-24",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1792760512816-1",
     "slug": "korean-actor-gets-sued-for-hundreds-of-millions-in",
     "title": "Korean Actor Gets Sued For Hundreds Of Millions In ...",
@@ -14995,7 +15097,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-10-23T13:01:56.312Z";
+export const LAST_UPDATED = "2026-10-24T12:25:06.800Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
