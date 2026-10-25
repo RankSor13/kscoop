@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1792932894449-1",
+    "slug": "most-painful-korean-celebrity-deaths-kdrama",
+    "title": "Most Painful Korean Celebrity Deaths. #kdrama",
+    "summary": "Specific allegations mentioned include Kim Sae-ron being found guilty of sexual assault, and Lee Seo-won being accused of sexual assault.",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/61566168023726/videos/most-painful-korean-celebrity-deaths-kdrama/1742351706834600/",
+    "date": "2026-10-25",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1792932895727-2",
+    "slug": "sbs-drama-excluded-kim-soo-hyuns-return-uncertain",
+    "title": "SBS Drama Excluded: Kim Soo-hyun's Return Uncertain ...",
+    "summary": "Hallyu star Kim Soo-hyun faced immense hardship after being falsely accused of dating late child actor Kim Sae-ron during her minority.",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "chosun.com",
+    "sourceUrl": "https://www.chosun.com/english/kpop-culture-en/2026/10/20/N47PIGJ7GRBWPDH7BVWM3LG2XI/",
+    "date": "5 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1792932896707-3",
+    "slug": "kim-jong-un-why-do-rumours-about-his-death-keep",
+    "title": "Kim Jong Un: Why do rumours about his death keep ...",
+    "summary": "Kim Jong Un has appeared in North Korean state media looking remarkably healthy for a man rumoured to have died from a brain haemorrhage.",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "bbc.com",
+    "sourceUrl": "https://www.bbc.com/news/articles/cmvg6qv1jdydo",
+    "date": "5 days ago",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1f2b/live/cb87ca70-cc75-11f1-baeb-8d65d4bcd7ab.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1792932897000-4",
+    "slug": "5-k-dramas-taking-over-october-2026-if-youre-looking-for",
+    "title": "5 K-Dramas Taking Over October 2026 If you're looking for ...",
+    "summary": "October 5, 2026 – Between Steps | Disney+ 📅 October 7, 2026 – Merry Berry Love | Disney+ 📅 October 9, 2026 – Take Charge of My Heart | Netflix",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/De6SAtfEh_O/",
+    "date": "4 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1792932897409-5",
+    "slug": "upcoming-korean-dramas-in-november-2026",
+    "title": "Upcoming Korean dramas in November 2026",
+    "summary": "2026: - THE REMARRIED EMPRESS (4 Nov) - HAPPY ANDING (6 Nov) - ONE OF A KIND ROMANCE (9 Nov) - WHAT A BOSS WANTS (11 Nov) - SWORD & SILENCE (14 Nov) - CRASH 2 ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/groups/5183196318406087/posts/29144901825142201/",
+    "date": "2026-10-25",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1792932897583-6",
+    "slug": "new-on-hulu-and-disney-in-november-2026",
+    "title": "New on Hulu and Disney+ in November 2026",
+    "summary": "Dropping that same day on Disney+ and Hulu is “The Remarried Empress,” a live-action K-drama adaptation of the wildly popular webtoon about an empress who ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "tomsguide.com",
+    "sourceUrl": "https://www.tomsguide.com/entertainment/hulu/new-on-hulu-and-disney-in-november-2026-all-the-new-shows-and-movies-to-watch",
+    "date": "2 hours ago",
+    "image": "https://cdn.mos.cms.futurecdn.net/t8kVD5P8GzefdNnLYezuGY-2000-80.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1792844703987-1",
     "slug": "singing-dancing-and-getting-dumped-by-ai-on-korean-tv",
     "title": "Singing, Dancing and Getting Dumped by A.I. on Korean TV",
@@ -15097,7 +15199,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-10-24T12:25:06.800Z";
+export const LAST_UPDATED = "2026-10-25T12:54:58.171Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
