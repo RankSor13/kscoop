@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1793026048959-1",
+    "slug": "there-isnt-rumor-its-all-truemovie-my-love-from-the",
+    "title": "There isn't rumor 🥴its all true🤣🥰🥴Movie My love from the ...",
+    "summary": "This video presents a series of rumored romantic relationships involving popular South Korean celebrities. V and Jennie or Lee Min-ho and Song Hye-kyo, ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/aryenty/posts/there-isnt-rumor-its-all-truemovie-my-love-from-the-star%EF%B8%8Fmy-favourite-actress-ko/10249228069619675/",
+    "date": "2026-10-26",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1793026049419-2",
+    "slug": "hyun-bin",
+    "title": "Hyun Bin",
+    "summary": "Kim Tae-pyung (Korean: 김태평 ; born September 25, 1982), better known by his stage name Hyun Bin (현빈 ), is a South Korean actor.",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "en.wikipedia.org",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Hyun_Bin",
+    "date": "3 days ago",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Hyun_Bin_at_the_2024_Toronto_International_Film_Festival_2_%28cropped%29.jpg/960px-Hyun_Bin_at_the_2024_Toronto_International_Film_Festival_2_%28cropped%29.jpg?utm_source=en.wikipedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1793026049860-3",
+    "slug": "actress-sparks-heated-debate-by-talking-about-her-boy",
+    "title": "Actress Sparks Heated Debate By Talking About Her Boy ...",
+    "summary": "This post reports on a celebrity scandal involving a Korean actor. He is accused of having an affair, which allegedly caused his family to break up.",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/koreaboorewind/posts/actress-sparks-heated-debate-by-talking-about-her-boy-group-member-ex-boyfriend/1165626512791768/",
+    "date": "2026-10-26",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1793026050067-4",
+    "slug": "gossip-news-pictures-and-videos",
+    "title": "Gossip News, Pictures, and Videos",
+    "summary": "Kristi Noem Files for Divorce From Bryon Noem 6 Months After Photo Scandal.",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "eonline.com",
+    "sourceUrl": "https://www.eonline.com/news/gossip",
+    "date": "5 days ago",
+    "image": "https://akns-images.eonline.com/eol_images/Entire_Site/2020330/rs_112x112-200430123021-112X112-e-logo.png",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1793026051336-5",
+    "slug": "south-korean-firms-debut-plunge-adds-to-investor",
+    "title": "South Korean firm's debut plunge adds to investor ...",
+    "summary": "A 32% drop in shares of South Korea's Elice Group ​on Tuesday renewed investor concerns about the sustainability and the payoff cycle for the vast amount of ...",
+    "category": "gossip",
+    "author": "Mia Kwon",
+    "source": "reuters.com",
+    "sourceUrl": "https://www.reuters.com/world/asia-pacific/south-korean-ai-data-centre-firm-elice-shares-tumble-ipo-debut-2026-10-20/",
+    "date": "6 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1793026051676-6",
+    "slug": "netflix-k-drama-news-and-new-releases",
+    "title": "Netflix K-Drama News and New Releases",
+    "summary": "'Tantara' Netflix Period K-Drama Series Officially Confirmed for December 2026 Release ... Song Hye Kyo and Gong Yoo team up to conquer the music business in a ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "whats-on-netflix.com",
+    "sourceUrl": "https://www.whats-on-netflix.com/news/k-dramas/",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1792932894449-1",
     "slug": "most-painful-korean-celebrity-deaths-kdrama",
     "title": "Most Painful Korean Celebrity Deaths. #kdrama",
@@ -15199,7 +15301,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-10-25T12:54:58.171Z";
+export const LAST_UPDATED = "2026-10-26T14:47:31.875Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
