@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1793109187055-1",
+    "slug": "constance-wu-wears-cult-gaia-feathered-mini-dress-at",
+    "title": "Constance Wu Wears Cult Gaia Feathered Mini Dress at ...",
+    "summary": "This video shows Filipino-American actress Liza Soberano and South Korean actor Lee Dong-wook interacting and posing for photos at an event.",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/thefashionbomb/videos/constance-wu-stepped-out-for-the-nyc-premiere-of-the-terminal-list-wearing-the-1/1087204227256740/",
+    "date": "2026-10-27",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1793109188798-2",
+    "slug": "f4-thailand-boys-over-flowers-cast-then-and-now-2026",
+    "title": "F4 Thailand Boys Over Flowers Cast Then & Now 2026 ! ...",
+    "summary": "F4 Thailand: Boys Over Flowers gave us one of the most iconic Thai drama casts ever assembled — and five years later the comments. Gossip \"F4 THAILAND\"",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=Pu5LKOkjHjM&vl=uk",
+    "date": "2026-10-27",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1793109189782-3",
+    "slug": "did-mei-nagano-and-kei-tanaka-confirm-their",
+    "title": "DID MEI NAGANO AND KEI TANAKA CONFIRM THEIR ...",
+    "summary": "Japanese actor Kentaro Sakaguchi has been swept up in a love-triangle scandal involving top actress Mei Nagano, acording to a news reported by Shūkan Bunshun ...",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/filipinosingermanyfb/posts/%EF%B8%8F-fact-check-did-mei-nagano-and-kei-tanaka-confirm-their-relationship-heres-what/1585919466907107/",
+    "date": "2026-10-27",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1793109189935-4",
+    "slug": "intro-for-october-26-2026",
+    "title": "Intro for October 26, 2026",
+    "summary": "I just posted about these two last week - two of Korea's most enduring actors working together for the first time in Netflix's upcoming Tantara. For Song ...",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "laineygossip.com",
+    "sourceUrl": "https://www.laineygossip.com/netflix-celebrates-ten-years-of-netflix-in-korea-with-party-that-was-organised-like-a-festival/",
+    "date": "23 hours ago",
+    "image": "https://storage.ghost.io/c/7e/6e/7e6e3b5c-d911-4df2-9db3-413ceb2beb4c/content/images/size/w1200/2026/10/possible-love-open-26oct26.png",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1793109190196-5",
+    "slug": "korean-actresses-who-are-proud-mothers-claudiakim",
+    "title": "Korean Actresses Who Are Proud Mothers✨ #claudiakim ...",
+    "summary": "In this video, we honor 12 legendary actors whose careers are beautifully intertwined with unforgettable portrayals of parental love, pain, and resilience the ...",
+    "category": "gossip",
+    "author": "Mia Kwon",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/61566897934418/posts/korean-actresses-who-are-proud-mothers-claudiakim-leeyoungae-kangsora-leeboyoung/122264778842563264/",
+    "date": "2026-10-27",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1793109190358-6",
+    "slug": "kim-ji-won-from-k-pop-trainee-to-k-drama-star",
+    "title": "KIM JI-WON: FROM K-POP TRAINEE TO K-DRAMA STAR ...",
+    "summary": "Kim Ji Won is starring … she leads as Gye Su Jeong, a fearless, highly skilled surgeon exposing deep-seated hospital corruption.",
+    "category": "gossip",
+    "author": "Rina Baek",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/DezM3rBgSwG/",
+    "date": "2026-10-27",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1793026048959-1",
     "slug": "there-isnt-rumor-its-all-truemovie-my-love-from-the",
     "title": "There isn't rumor 🥴its all true🤣🥰🥴Movie My love from the ...",
@@ -15301,7 +15403,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-10-26T14:47:31.875Z";
+export const LAST_UPDATED = "2026-10-27T13:53:10.778Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
