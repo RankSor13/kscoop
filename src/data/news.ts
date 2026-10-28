@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1793198868071-1",
+    "slug": "k-pop-idols-who-faced-backlash-for-dating-kdrama",
+    "title": "K-Pop Idols Who Faced Backlash For Dating! kdrama",
+    "summary": "For the longest time, the idea of Korean celebrities dating is considered a 'scandal' over in the land of Hallyu. While the Korean Wave's recent globalization ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/61566168023726/posts/k-pop-idols-who-faced-backlash-for-dating-kdrama/122252886710538934/",
+    "date": "2026-10-28",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1793198868254-2",
+    "slug": "its-official-lee-min-ho-finally-announces-his-white",
+    "title": "It's Official! Lee Min Ho Finally Announces His White ...",
+    "summary": "Lee Min Ho and Song Hye Kyo are attracting attention among Korean entertainment fans as online discussions about the two popular South Korean stars continue ...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=wp3wfN05dYs",
+    "date": "2026-10-28",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1793198869167-3",
+    "slug": "top-4-most-awkward-dating-rumours-in-kibiz",
+    "title": "Top 4 MOST AWKWARD DATING RUMOURS IN KIBIZ!",
+    "summary": "This video is a slideshow compilation listing Korean actors and actresses who were allegedly cheated on by their partners. Using still photos and on-screen text ...",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/chingunatics/videos/top-4-most-awkward-dating-rumours-in-kibiz-koreanstars/2089562578348514/",
+    "date": "2026-10-28",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1793198869343-4",
+    "slug": "jung-hae-ins-love-life-exposed-who-is-his-girlfriend",
+    "title": "Jung Hae-in's Love Life EXPOSED! 😍 Who Is His Girlfriend ...",
+    "summary": "Jung Hae-in's Love Life EXPOSED! Who Is His Girlfriend? Dating Rumours & Relationship Truth · Comments.",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=23jNCGZYGD8",
+    "date": "2026-10-28",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1793198870193-5",
+    "slug": "a-massive-korean-blockbuster-is-officially-cleared-to-air",
+    "title": "A massive Korean blockbuster is officially cleared to air ...",
+    "summary": "A massive Korean blockbuster is officially cleared to air despite its lead actor's explosive scandal, CONFIRMED: zero recastings, zero AI face-swapping!",
+    "category": "gossip",
+    "author": "Mia Kwon",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/61572977405521/posts/a-massive-korean-blockbuster-is-officially-cleared-to-air-despite-its-lead-actor/122204726792765913/",
+    "date": "2026-10-28",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1793198870365-6",
+    "slug": "new-k-drama-releases-to-stream-in-november-2026-on",
+    "title": "New K-Drama Releases To Stream In November 2026 On ...",
+    "summary": "New K-Drama Releases To Stream In November 2026 On Netflix, Disney+, Hulu, And More · 1. Remarried Empress – November 4 · 2. Happy Anding – November 6 · 3. One of ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "koreaboo.com",
+    "sourceUrl": "https://www.koreaboo.com/lists/new-k-drama-release-dates-november-2026-netflix-disney-watch/",
+    "date": "1 day ago",
+    "image": "https://image.koreaboo.com/2026/10/new-k-dramas-november-2026-to-watch-netflix-disney-streaming-where-to-watch.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1793109187055-1",
     "slug": "constance-wu-wears-cult-gaia-feathered-mini-dress-at",
     "title": "Constance Wu Wears Cult Gaia Feathered Mini Dress at ...",
@@ -15403,7 +15505,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-10-27T13:53:10.778Z";
+export const LAST_UPDATED = "2026-10-28T14:47:51.120Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
