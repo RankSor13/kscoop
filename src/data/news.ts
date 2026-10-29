@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1793285639719-1",
+    "slug": "5-korean-celebrities-who-disappeared-from-the-media",
+    "title": "5 Korean Celebrities Who Disappeared From the Media ...",
+    "summary": "Specific allegations mentioned include Kim Sae-ron being found guilty of sexual assault, and Lee Seo-won being accused of sexual assault.",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/kdramafans01/videos/5-korean-celebrities-who-have-seemingly-disappeared-from-media-spotlight-koreanc/1452605789566185/",
+    "date": "2026-10-29",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1793285641097-2",
+    "slug": "netflix-sets-korean-series-scandals-starring-son-ye-jin",
+    "title": "Netflix Sets Korean Series 'Scandals' Starring Son Ye-jin ...",
+    "summary": "Netflix has confirmed the production of an upcoming Korean series, Scandals (working title), which will star Son Ye-jin (Crash Landing on You), Ji Chang-wook ...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "imdb.com",
+    "sourceUrl": "https://www.imdb.com/it/news/ni65203438/",
+    "date": "15 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1793285641264-3",
+    "slug": "upcoming-k-dramas-for-november-2026-romance",
+    "title": "Upcoming K-Dramas for November 2026: Romance ...",
+    "summary": "Upcoming K-Dramas for November 2026: Romance, Comedy & More on Netflix, Disney+ 'The Remarried Empress', the historical war drama 'The Great King Munmu', and ...",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/Kdrama44hub6/videos/-upcoming-k-dramas-to-look-forward-to-in-november-2026-%EF%B8%8Fnovember-is-bringing-new/1806646693912911/",
+    "date": "2026-10-29",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1793285641901-4",
+    "slug": "new-kdramas-coming-in-november-2026add-to",
+    "title": "NEW kDRAMAS COMING IN NOVEMBER 2026.ADD TO ...",
+    "summary": "The Remarried Empress – November 4 | Disney+ 💕 Possible Love – November 6 | Netflix ⚔️ Sword & Silence – November 14 | KBS2 🌊 Blue Road – Netflix",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/groups/261711786611176/posts/1164033396379006/",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1793285642003-5",
+    "slug": "new-k-drama-releases-of-the-week-october-26",
+    "title": "New K-drama releases of the week (October 26",
+    "summary": "The Perfect Lie, Dead-End Job, A Love Other Than Yours and Doctor X are new K-drama releases of the week (October 26 - November 1, 2026) on OTT to bookmark.",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "gqindia.com",
+    "sourceUrl": "https://www.gqindia.com/content/new-k-drama-releases-of-the-week-october-26-november-1-16-new-korean-dramas-streaming-on-netflix-and-more",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1793285642115-6",
+    "slug": "wife-and-i-are-hooked-on-korean-thrillers-what-should-we",
+    "title": "Wife and I are hooked on Korean thrillers. What should we ...",
+    "summary": "My wife and I have been binge-watching Korean dramas lately, and we're looking for our next show! Here's what we've watched so far: - The Glory - The ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/netflix/comments/1xek20x/wife_and_i_are_hooked_on_korean_thrillers_what/",
+    "date": "2026-10-29",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1793198868071-1",
     "slug": "k-pop-idols-who-faced-backlash-for-dating-kdrama",
     "title": "K-Pop Idols Who Faced Backlash For Dating! kdrama",
@@ -15505,7 +15607,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-10-28T14:47:51.120Z";
+export const LAST_UPDATED = "2026-10-29T14:54:02.186Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
