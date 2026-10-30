@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1793371573977-1",
+    "slug": "netflix-sets-korean-series-scandals-starring-son-ye-jin-ji",
+    "title": "Netflix Sets Korean Series 'Scandals' Starring Son Ye-jin, Ji ...",
+    "summary": "Netflix has confirmed the production of an upcoming Korean series, Scandals (working title), which will star Son Ye-jin (Crash Landing on You), Ji Chang-wook ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "google.com",
+    "sourceUrl": "https://www.google.com/goto?url=CAESYwHrOzAV7aTt5SXuFSl4g3bI1fRHWsNz9FdlkyDE73D1cWT5MqBx3bVGov2QJxHE-kYEw2t52e_Y-k6-uxoMVKMLXHdZg7YBqFFDt0s6JvYlCpzQWD7b-nB5y_j7AYfYvEKOgA",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1793371574288-2",
+    "slug": "11-new-k-dramas-coming-november-2026-watchlist",
+    "title": "11 New K-Dramas Coming November 2026: Watchlist ...",
+    "summary": "This post is a promotional announcement for the new Korean romantic drama series, \"Remarriage and Desires,\" which is set to be released on Netflix on July 15th.",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/61589911902684/videos/here-is-more-to-make-your-watchlist-longerdramas-coming-this-novemberremarriedem/2306481823484365/",
+    "date": "2026-10-30",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1793371575756-3",
+    "slug": "7-new-korean-ott-releases-in-november-2026",
+    "title": "7 new Korean OTT releases in November 2026",
+    "summary": "Seven new Korean OTT releases arrive in November 2026. See 'Possible Love', 'The Blue Road' and more on Netflix, Disney+ and SBS.",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "google.com",
+    "sourceUrl": "https://www.google.com/goto?url=CAES6AEB6zswFQX6JO0jy0pLw5HSsFb7Rpve2vWhMCltNR3KWglpUWAGZD_aJwYMnajKyFrrJ9ajX_4Wdn7Quzl_fRP-BdAF1AS0tWSlRg-VimGLum8wg5hLh5qaVol5dWZw51lXHtxzNPSWoeQFFhJxZtXhFwJuzxNANpghRPB6hrKoEQL0B9MBh4V-0oZQghRoNejijRy_HrEJLN2fryUxzr5pbCXf8LnIo-c5Xtg5EKReaTh9B2yNYJwWseTnnRnO8HKe0apDhcusjuqpOp7WvkugTnB-_Dn-pbL3Hh7Os4CP73AC1BVKkUB0",
+    "date": "11 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1793371575957-4",
+    "slug": "top-10-netflix-dramas-of-2026-kdrama-and-cdrama-picks",
+    "title": "Top 10 Netflix Dramas of 2026: Kdrama and Cdrama Picks",
+    "summary": "Q4(October-December) of 2026 'The Remarried Empress', '100 Days of Deception', and 'Study Group Season 2', their expected premiere dates between October and ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "google.com",
+    "sourceUrl": "https://www.google.com/goto?url=CAESrQEB6zswFbSCZFnLnmwUZ70jhWNA9gM4Fcrb80vOuylMGLaEwj1NNz5qQ-TJUWTHbCgxayEqI3CmMXpT_stZxplRSSplJzXAvCtuneqM3SOc3CcB9TCaimfAC1kgbg0A_b5qR5jpq7dgzWuy-pR1u4Jv7BuR-m7THiS7ioC7g3dABFGc8pC8kWVl75BL7BaGYOPooWrKXPrn06GlTYRByjsEYo9QnyznzpX1kB9bBA",
+    "date": "2026-10-30",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1793371576848-5",
+    "slug": "october-best-korean-movie-to-watch-on-netflix-disney",
+    "title": "October) | Best Korean Movie To Watch on Netflix Disney",
+    "summary": "15 Best Korean Series on Netflix in 2026 | New & Must-Watch K-Dramas. Asian Odyssey · 309K views ; Lost Paradise (2026) 실낙원 Movie Trailer | EONTALK. EonTalk ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "google.com",
+    "sourceUrl": "https://www.google.com/goto?url=CAESZgHrOzAV--MMyDvEEqjZO0Kxu8DQQ_iq3hUS0wrn_tGK3Vo3up8Jy1XTyWsGFGpTltJyE_O9s5pH2GIqL-sK7MLdY8FRwdvxuvOye2cpD0--7icoUhovY6WRRqnDIt7zbK9TTEp6sQ",
+    "date": "2026-10-30",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1793371577745-6",
+    "slug": "made-in-korea-tv-series",
+    "title": "Made in Korea (TV series)",
+    "summary": "The second season was released on September 9, 2026. Made in Korea. The Korean logo of the series.",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "google.com",
+    "sourceUrl": "https://www.google.com/goto?url=CAEScgHrOzAVRnTBiuk2QC9DciEzaCIA2fbQF9c_BQFgR9vs_I5dD26jB0FeRqFe5QXeq4iiMltIhgDIN4PoXgSXDePPjTjuhPOvhaN_6toZaX2JoAFmGsOXZk7JbKomkO-a6T4qexgd55dRxcTnMzx6kf5uNw",
+    "date": "5 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1793285639719-1",
     "slug": "5-korean-celebrities-who-disappeared-from-the-media",
     "title": "5 Korean Celebrities Who Disappeared From the Media ...",
@@ -15607,7 +15709,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-10-29T14:54:02.186Z";
+export const LAST_UPDATED = "2026-10-30T14:46:17.861Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
