@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1793456090957-1",
+    "slug": "jeon-do-yeon",
+    "title": "Jeon Do-yeon",
+    "summary": "Jeon Do-yeon (Korean: 전도연 ; born February 11, 1973) is a South Korean actress. She began her career in television before making her film debut with The ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "google.com",
+    "sourceUrl": "https://www.google.com/goto?url=CAESZQHrOzAVxM0-TzPUMTsXq6gr3bGZEZignFfgTce9Var3blFPJjQTeKasX3aV6PhwdgjxInoivrAmH6JYt6itzoClJifzS-XWEgOBno2QMffa3SnvqQBdhVvSrBT5XU55VtUG3IHY",
+    "date": "3 days ago",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Jeon_Do-yeon_in_2026.jpg/960px-Jeon_Do-yeon_in_2026.jpg?utm_source=en.wikipedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1793456092823-2",
+    "slug": "did-you-know-that-celebrity-pregnancy-rumors-often-spread",
+    "title": "Did you know that celebrity pregnancy rumors often spread ...",
+    "summary": "Did you know that celebrity pregnancy rumors often spread like wildfire before any official announcement? Stars like Beyonce and Kylie Jenner faced intense ...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "google.com",
+    "sourceUrl": "https://www.google.com/goto?url=CAESYwHrOzAVOU9fuhRpAOEc3dcpBL-u0YXNILGD02agFrV5hsMDOLnDDot-tJjvQRVnKU1R2brwsdUZsIvIEIVnAP7lfnWohK4q1gf79_bsubANKmQui6W8KjTPi8mOpF2j63IscA",
+    "date": "2026-10-31",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1793456093523-3",
+    "slug": "12-of-the-best-new-k-dramas-to-watch-in-november-2026",
+    "title": "12 of the best new K-dramas to watch in November 2026",
+    "summary": "12 of the best new K-dramas to watch in November 2026, including The Blue Road on Netflix · 1. The Remarried Empress · 2. Francesca Next Door · 3. One-of-a-Kind ...",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "scmp.com",
+    "sourceUrl": "https://www.scmp.com/lifestyle/k-drama/k-drama/article/3372714/12-best-new-k-dramas-watch-november-2026-including-blue-road-netflix",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1793456093777-4",
+    "slug": "these-are-the-ten-best-netflix-kdramas-cdrama-of-2026",
+    "title": "These are the ten best #Netflix #Kdramas #cdrama of 2026!",
+    "summary": "This video provides a curated list of ten highly anticipated Korean dramas scheduled for release on Netflix in 2026. It ranks them based on MyDramaList ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/MyDramaListdotcom/posts/these-are-the-ten-best-netflix-kdramas-cdrama-of-2026/1793470118870555/",
+    "date": "2026-10-31",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1793456094115-5",
+    "slug": "best-korean-drama-to-watch-on-netflix",
+    "title": "Best Korean Drama To Watch on Netflix",
+    "summary": "Korean Netflix Dramas November 2026. Korean Dramas October 2026 | Best Korean Drama To Watch on Netflix, Disney+. Love in 60 Seconds",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "google.com",
+    "sourceUrl": "https://www.google.com/goto?url=CAESbAHrOzAVmQT-MhGldupLMD-zdq9VnINaYLxiJAyJj4pymi0OVTWHXghAoSV0JSuKal913JgtfKmGBh2Klwjd1XuSEyv1rTLE0KC5_rdPquThuJNUF_4TGfhWVYwz2uNP4YswftqrlX1eHmHTxQ&gsessionid=EgiwRzBITdew8HiNs4IcYhs65m6DNTZ719PexZ7CYIQj98fpaF9pVA",
+    "date": "2026-10-31",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1793456095714-6",
+    "slug": "k-drama-cast-strikes-girl-group-pose-at-kim-bujang-press",
+    "title": "K-Drama Cast Strikes Girl Group Pose at Kim Bujang Press ...",
+    "summary": "This is a fan-made video tribute to South Korean K-pop star Kim Hyun- joong. , including Lee Jin-uk, Kim Jo-royung, Lee Sang-jun, Park Gyu- young, Kang Ae-sim, ...",
+    "category": "trending",
+    "author": "Rina Baek",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/DatJoeDoe/videos/k-drama-legends-by-day-girl-group-members-by-night-/1100614896149140/",
+    "date": "2026-10-31",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1793371573977-1",
     "slug": "netflix-sets-korean-series-scandals-starring-son-ye-jin-ji",
     "title": "Netflix Sets Korean Series 'Scandals' Starring Son Ye-jin, Ji ...",
@@ -15709,7 +15811,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-10-30T14:46:17.861Z";
+export const LAST_UPDATED = "2026-10-31T14:14:57.312Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
