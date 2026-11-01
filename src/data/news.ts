@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1793544054358-1",
+    "slug": "5-popular-korean-actors-with-huge-estimated",
+    "title": "5 POPULAR KOREAN ACTORS WITH HUGE ESTIMATED ...",
+    "summary": "This video addresses the long-standing rumor that South Korean actor Yong Hae-in is dating his co-star Kim Go-eun. It details their history as a couple, ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/kdramafans01/videos/5-popular-korean-actors-with-huge-estimated-net-worth-koreanactors/2138303430226912/",
+    "date": "2026-11-01",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1793544055656-2",
+    "slug": "on-october-30-2026-actress-and-singer-victoriasong",
+    "title": "On October 30, 2026, actress and singer #VictoriaSong ...",
+    "summary": "A short paparazzi video allegedly showing C-drama actress #ZhouYe hugging and kissing a rumored boyfriend quickly spread across X, Weibo, and fan communities,",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/MyDramaclip/posts/on-october-30-2026-actress-and-singer-victoriasong-took-to-weibo-to-issue-a-brie/1103875512486059/",
+    "date": "2026-11-01",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1793544055834-3",
+    "slug": "new-k-dramas-releasing-in-november-2026",
+    "title": "NEW K-DRAMAS RELEASING IN NOVEMBER 2026!",
+    "summary": "NEW K-DRAMAS RELEASING IN NOVEMBER 2026! Two crime dramas, \"Crash 2: Fury Road\" 11 upcoming Korean dramas, release dates, OTT streaming platforms (Netflix, ...",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/KdramaCasualTalk/comments/1xl1zof/new_kdramas_releasing_in_november_2026/",
+    "date": "2026-11-01",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1793544056062-4",
+    "slug": "november-2026-is-stacked-with-new-k-dramas",
+    "title": "November 2026 is stacked with new K-dramas",
+    "summary": "November 2026 is stacked with new K-dramas — which of these 12 premieres is going straight to the top of your watchlist? @everyone #TheRemarriedEmpress ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/groups/netflixkdrama/posts/1618469360024145/",
+    "date": "13 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1793544056244-5",
+    "slug": "korean-actors-then-vs-now-jichangwook-goongyoo",
+    "title": "Korean Actors Then Vs Now: Jichangwook, Goongyoo ...",
+    "summary": "The reel showcases images of iconic characters, including Lee Min Ho, Ji Chang Wook, Kim Soo Hyun, Park Bo-gum, Song Kang, and Lee Byung Hun, highlighting their ...",
+    "category": "trending",
+    "author": "Mia Kwon",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/61572510481305/videos/korean-actors-then-vs-now-look-how-much-theyve-changed-jichangwook-goongyoo-leem/1099916996120058/",
+    "date": "2026-11-01",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1793544057378-6",
+    "slug": "six-korean-actresses-rumored-pregnant-before-marriage",
+    "title": "Six Korean Actresses Rumored Pregnant Before Marriage",
+    "summary": "1) Trot singer Jang Yoon-jung announced her pregnancy shortly after marrying Do Kyung-wan, revealing they were expecting before the ceremony. 2) Actress Kim Hyo ...",
+    "category": "trending",
+    "author": "Rina Baek",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/kdramafans01/videos/korean-actress-who-were-rumored-to-be-pregnant-before-marriage/1104618349155525/",
+    "date": "2026-11-01",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1793456090957-1",
     "slug": "jeon-do-yeon",
     "title": "Jeon Do-yeon",
@@ -15811,7 +15913,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-10-31T14:14:57.312Z";
+export const LAST_UPDATED = "2026-11-01T14:40:58.306Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
