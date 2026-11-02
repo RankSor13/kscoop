@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1793641413657-1",
+    "slug": "korean-celebrity-couples-who-dated-in-real-life-kdrama",
+    "title": "Korean Celebrity Couples Who Dated in Real Life! #kdrama",
+    "summary": "This video is a slideshow compilation listing Korean actors and actresses who were allegedly cheated on by their partners. Using still photos and on-screen text ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/61566168023726/videos/korean-celebrity-couples-who-dated-in-real-life-kdrama/1664815268324639/",
+    "date": "2026-11-02",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1793641415296-2",
+    "slug": "what-is-the-most-talked-about-k-drama-this-week",
+    "title": "What is the most talked-about K-drama this week?",
+    "summary": "TvN's “When the Stars Gossip” held onto its spot at No. 2 on the drama list, 's “When the Stars Gossip” took No. 4 on the drama list, with stars Lee Min Ho and ...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/groups/239469635396657/posts/1153212150689063/",
+    "date": "2026-11-02",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1793641415461-3",
+    "slug": "did-you-know-that-the-phenomenon-of-celebrity-pregnancy",
+    "title": "Did you know that the phenomenon of celebrity pregnancy ...",
+    "summary": "For instance, in South Korea, celebrity scandals and rumors can dominate news cycles, impacting everything from popularity to branding. While some stars ...",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/DfIHPKPHO21/",
+    "date": "2026-11-02",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1793641415830-4",
+    "slug": "the-remarried-empress-exclusive-clip-premieres",
+    "title": "The Remarried Empress Exclusive Clip Premieres ...",
+    "summary": "South Korean drama \"The Remarried Empress,\" announcing that it is available for streaming on Disney Plus on November 4th.",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/rottentomatoes/videos/check-out-this-exclusive-clip-from-the-new-romance-series-theremarriedempressthe/1129436376595492/",
+    "date": "3 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1793641417079-5",
+    "slug": "here-are-the-upcoming-k-dramas-releasing-this-november",
+    "title": "Here are the upcoming K-dramas releasing this November. ...",
+    "summary": "Network: Disney+ Date: November 4, 2026. NOVEMBER 6 | Francesca Next Door Genre: Fantasy, Youth, Romance Also known as: Next ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/DfPTBfOiYuz/",
+    "date": "2026-11-02",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1793641417396-6",
+    "slug": "korean-dramas-premiering-in-november-2026",
+    "title": "Korean dramas premiering in November 2026",
+    "summary": "This post announces the release dates for four upcoming K-Dramas set to be released in November 2026. ... releasing across Netflix, Disney+, Prime Video ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/groups/5183196318406087/posts/29249068988058817/",
+    "date": "2026-11-02",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1793544054358-1",
     "slug": "5-popular-korean-actors-with-huge-estimated",
     "title": "5 POPULAR KOREAN ACTORS WITH HUGE ESTIMATED ...",
@@ -15913,7 +16015,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-11-01T14:40:58.306Z";
+export const LAST_UPDATED = "2026-11-02T17:43:37.562Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
