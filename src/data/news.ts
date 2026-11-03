@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1793720761314-1",
+    "slug": "what-are-the-worst-received-k-dramas-of-2026-according",
+    "title": "What are the worst-received K-dramas of 2026 according ...",
+    "summary": "Perfect Crown, The Scandal, and Our Sticky Love were named among the three least-favoured K-dramas of 2026 by industry insiders.",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/groups/1611445255793545/posts/4582368105367897/",
+    "date": "2026-11-03",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1793720761644-2",
+    "slug": "culture-koreanet-the-official-website-of-the-republic",
+    "title": "Culture: Korea.net : The official website of the Republic ...",
+    "summary": "News Focus; Culture. Policies · Business · Sci/Tech · Society · Culture · Food/Travel · Sports · People · Opinion · Korea in photos · Honorary Reporters.",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "korea.net",
+    "sourceUrl": "https://www.korea.net/NewsFocus/Culture",
+    "date": "5 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1793720762897-3",
+    "slug": "part-1-with-cdrama-version-is-on-my-profile-november-is",
+    "title": "Part 1 with cdrama version is on my profile🫶 November is ...",
+    "summary": "NOVEMBER 2026 K-DRAMA & C-DRAMA CALENDAR! New premieres, romantic chaos, and some very swoonworthy leading men! YOUR NOVEMBER WATCHLIST: Nov 4 ...",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DfRPZrHPkhD/",
+    "date": "2026-11-03",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1793720763256-4",
+    "slug": "new-k-dramas-on-netflix-in-november-2026",
+    "title": "New K-Dramas on Netflix in November 2026",
+    "summary": "'Tantara' Netflix Period K-Drama Series Officially Confirmed for December 2026 Release ... Korean Drama Film 'Possible Love' Sets November 2026 Netflix Release ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "whats-on-netflix.com",
+    "sourceUrl": "https://www.whats-on-netflix.com/news/k-dramas/k-dramas-coming-to-netflix-november-2026/",
+    "date": "4 days ago",
+    "image": "https://www.whats-on-netflix.com/wp-content/uploads/2026/09/new-k-dramas-on-netflix-in-november-2026.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1793720763486-5",
+    "slug": "14-new-k-dramas-to-watch-in-november-2026",
+    "title": "14 New K-Dramas To Watch In November 2026",
+    "summary": "14 New K-Dramas To Watch In November 2026 · “The Remarried Empress” · “Francesca Next Door” · “One-of-a-Kind Romance” · “What a Boss Wants” · “Happy Anding” · “Sword ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "soompi.com",
+    "sourceUrl": "https://www.soompi.com/article/1883792wpp/14-new-k-dramas-to-watch-in-november-2026",
+    "date": "9 hours ago",
+    "image": "https://0.soompi.io/wp-content/uploads/2026/11/03142620/november.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1793720764151-6",
+    "slug": "k-pop-and-k-drama-stars-facing-unfair-online-hate-and",
+    "title": "K-pop and K-drama stars — Facing Unfair Online Hate and ...",
+    "summary": "Recent events surrounding actors Kim Soo-hyun and Kim Sae- ron highlight the devastating consequences, prompting serious questions about the price of fame in ...",
+    "category": "trending",
+    "author": "Rina Baek",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/KoreadailyUS/posts/k-pop-and-k-drama-stars-facing-unfair-online-hate-and-rumors/1451148080440909/",
+    "date": "2026-11-03",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1793641413657-1",
     "slug": "korean-celebrity-couples-who-dated-in-real-life-kdrama",
     "title": "Korean Celebrity Couples Who Dated in Real Life! #kdrama",
@@ -16015,7 +16117,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-11-02T17:43:37.562Z";
+export const LAST_UPDATED = "2026-11-03T15:46:04.308Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
