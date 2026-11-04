@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1793807734746-1",
+    "slug": "shocking-k-drama-reveal-4-major-2026-hits",
+    "title": "SHOCKING K-DRAMA REVEAL: 4 Major 2026 Hits ...",
+    "summary": "Lee Min-ho's When the Stars Gossip may be one of the biggest examples that a huge budget doesn't guarantee success. Despite years of anticipation, the ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/chingunatics/posts/shocking-k-drama-reveal-4-major-2026-hits-named-industry-disappointments-south-k/1166126116191833/",
+    "date": "2026-11-04",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1793807735427-2",
+    "slug": "ministry-of-trade-industry-and-resource",
+    "title": "Ministry of Trade, Industry and Resource",
+    "summary": "This website is the official electronic government website of the Republic of Korea ...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "english.motir.go.kr",
+    "sourceUrl": "https://english.motir.go.kr/",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1793807737136-3",
+    "slug": "kbs-world",
+    "title": "KBS WORLD",
+    "summary": "Meet high-quality contents on KBS WORLD Radio in 11 languages, including news, K-pop, and online Korean-language classes. Also available are programs ...",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "world.kbs.co.kr",
+    "sourceUrl": "http://world.kbs.co.kr/",
+    "date": "1 day ago",
+    "image": "http://world.kbs.co.kr/service/common/images/kwr_profile.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1793807737986-4",
+    "slug": "yet-another-accusation-post-is-being-posted-on-the-forum",
+    "title": "Yet another accusation post is being posted on the forum! ...",
+    "summary": "This post is a defense of actor Kim Soo-Hyun against online critics and \"haters.\" The author argues that the negativity and \"Schadenfreude\" directed at Soo-Hyun ...",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/kplusnetwork/posts/yet-another-accusation-post-is-being-posted-on-the-forum-who-is-the-real-culprit/1457843779862578/",
+    "date": "2026-11-04",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1793807738194-5",
+    "slug": "the-remarried-empress-korean-romantic-drama-to",
+    "title": "'The Remarried Empress' Korean Romantic Drama To ...",
+    "summary": "Epic romantic K-drama The Remarried Empress will premiere on Tuesday, Nov. 3 on Disney+ and Hulu, a day earlier than the original Nov. 4 premiere date.",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "deadline.com",
+    "sourceUrl": "https://deadline.com/2026/11/the-remarried-empress-korean-romantic-drama-early-release-1237211813/",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1793807738809-6",
+    "slug": "a-new-era-of-love-betrayal-revenge-and-royalty-begins",
+    "title": "A new era of love, betrayal, revenge & royalty begins! ❤️‍🔥 ...",
+    "summary": "The much-awaited K-drama The Remarried Empress is coming TODAY! Premiere Date: November 4, 2026, debuting. Release Date: November 4, 2026. Disney Plus Kdrama, ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DfT2LGIKTWT/",
+    "date": "9 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1793720761314-1",
     "slug": "what-are-the-worst-received-k-dramas-of-2026-according",
     "title": "What are the worst-received K-dramas of 2026 according ...",
@@ -16117,7 +16219,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-11-03T15:46:04.308Z";
+export const LAST_UPDATED = "2026-11-04T15:55:39.447Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
