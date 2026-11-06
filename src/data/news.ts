@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1793979393654-1",
+    "slug": "a-seoul-court-asked-actor-kim-soo-hyun-to-narrow-his",
+    "title": "A Seoul court asked actor Kim Soo-hyun to narrow his ...",
+    "summary": "A Seoul court asked actor Kim Soo-hyun to narrow his request to have 45 YouTube videos about him taken down. The court also doubted it could rule the...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/KoreaJoongAngDaily/posts/a-seoul-court-asked-actor-kim-soo-hyun-to-narrow-his-request-to-have-45-youtube-/1542994331199452/",
+    "date": "2026-11-06",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1793979394152-2",
+    "slug": "lifeandculture",
+    "title": "Life&Culture",
+    "summary": "1. Social media's latest obsession is a scarf seller at Namdaemun Market · 2. K-drama's beloved duo Yoo Yeon-seok, Seo Hyeon-jin reunites after 10 years · 3.",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "google.com",
+    "sourceUrl": "https://www.google.com/goto?url=CAESZQHEIkXXfNEZ2LjD9OZTBlpfg30l6tzNPsGxU0wvOERw0bt-wyKROg6ytKkOYhavx4QYxAAQlAtSI2czR4bpWbqiiSfxhWhAzqB94UZELYyImI0-AxKVieJC63sQtDOzWsvwUU1n",
+    "date": "12 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1793979394325-3",
+    "slug": "is-ji-chang-wook-married-debunking-the-smear-that",
+    "title": "Is Ji Chang Wook Married? Debunking the Smear That ...",
+    "summary": "Is Ji Chang Wook Married? Debunking the Smear That Rattled Korea's Scandal Scene Source-wide speculation has cast a long shadow over actor Ji Chan.",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "google.com",
+    "sourceUrl": "https://www.google.com/goto?url=CAESpgEBxCJF1y3XfgjXmvJnzhAWqTWstLHLPx1D1Zz-5Vxk0233NtnYuGtJuUhK5-OufmiwThOKfPPyVs7HYI3WjsuplD-EBnZs3J8oBj7_9BwWVRvbkc5wdnXQnZvRWbKwiZx6X7UWRhSk1xjUN0AsqCE67YZRlpgHbdPhqKw9a6_o6jZaFs3TBUbxb3p9c1jcAJAAS38XJBqFQbC-NcIxWuCcRmxa_St4",
+    "date": "1 day ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1793979394476-4",
+    "slug": "latest-news-1-un-news",
+    "title": "Latest News | 1 UN News",
+    "summary": "World News in Brief: Korea tensions mount, UN demands answers over staff death in Yemen, Guterres in Spain, Nepal alert ahead of COP31. 5 November 2026. Peace ...",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "google.com",
+    "sourceUrl": "https://www.google.com/goto?url=CAESWAHEIkXXuiCQBv-d17xA2FrfUqirjNeCmqx5Me6epbxPQ4tcJ0fjqm4qkGXRpRfR0B_IYOUOGLoCjeBTKAqsVc9BCsTeIWDhMWHfcMOJDLhP_54l8e_iAu0",
+    "date": "4 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1793979394633-5",
+    "slug": "united-states-forces-korea",
+    "title": "United States Forces Korea",
+    "summary": "Official homepage of United States Forces Korea (USFK) – your authoritative source for information on joint ROK-U.S. military operations, leadership, news, ...",
+    "category": "gossip",
+    "author": "Mia Kwon",
+    "source": "usfk.mil",
+    "sourceUrl": "https://www.usfk.mil/",
+    "date": "1 hour ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1793979395930-6",
+    "slug": "k-drama-november-2026-is-here-and-its-loaded",
+    "title": "K-DRAMA NOVEMBER 2026 IS HERE AND IT'S LOADED! ...",
+    "summary": "Nov 4: The Remarried Empress (Disney+) Nov 14: Sword and Silence (Netflix) \"The Remarried Empress\" (Disney+), \"Possible Love\" (Netflix), \"Sword & Silence\" (KBS ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/MyKDramas/posts/-k-drama-november-2026-is-here-and-its-loaded-clear-your-schedule-grab-your-snac/1139750808755269/",
+    "date": "2026-11-06",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1793807734746-1",
     "slug": "shocking-k-drama-reveal-4-major-2026-hits",
     "title": "SHOCKING K-DRAMA REVEAL: 4 Major 2026 Hits ...",
@@ -16219,7 +16321,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-11-04T15:55:39.447Z";
+export const LAST_UPDATED = "2026-11-06T15:36:36.163Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
