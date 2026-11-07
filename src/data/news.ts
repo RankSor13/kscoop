@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1794062241356-1",
+    "slug": "popular-actors-changed-appearance-sparks-plastic-surgery",
+    "title": "Popular Actor's Changed Appearance Sparks Plastic Surgery ...",
+    "summary": "A popular Korean attracted attention with his more defined eyes, sparking rumors that he got plastic surgery for double eyelids.",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "collector.com.tr",
+    "sourceUrl": "https://www.collector.com.tr/1024541128",
+    "date": "7 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1794062241705-2",
+    "slug": "the-remarried-empress-is-now-streaming-cast-plot-and-more",
+    "title": "The Remarried Empress Is Now Streaming: Cast, Plot & More",
+    "summary": "November 4, 2026 Discover the fantasy romance K-drama now streaming on Disney+ and Hulu, stream now on Hulu and Disney+. a 4-episode premiere on November 4. ...",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "disneyplus.com",
+    "sourceUrl": "https://www.disneyplus.com/explore/articles/the-remarried-empress",
+    "date": "3 days ago",
+    "image": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/6D2F22B999B67F641A6BA870257AB1F0771354B3909E0D23C51063BA3B68EB47/scale?format=webp&amp;width=1200",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1794062242317-3",
+    "slug": "surprise-the-wait-is-over-the-remarried-empress-premieres-today",
+    "title": "Surprise! The wait is over... The Remarried Empress premieres today!",
+    "summary": "No preview available.",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/DisneyPlusIE/posts/surprise-the-wait-is-overthe-remarried-empress-premieres-today/1777037654432990/",
+    "date": "2026-11-07",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1794062242531-4",
+    "slug": "the-best-new-k-drama-releases-in-december-2026-and-where-you-can",
+    "title": "The best new K-drama releases in December 2026 and where you can ...",
+    "summary": "The confirmed December 2026 slate includes Sacred Jewel (JTBC, 5 December), Gift (tvN, 5 December), Tantara (Netflix, 11 December), Your Ground and Portraits ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "legit.ng",
+    "sourceUrl": "https://www.legit.ng/entertainment/tv-shows/1739211-the-k-drama-releases-december-2026-watch-them/",
+    "date": "3 days ago",
+    "image": "https://cdn.legit.ng/images/1200x675/b7af04baf5edbd94.jpeg?v=1",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1794062244589-5",
+    "slug": "12-upcoming-korean-dramas-to-watch-in-november-2026-starring-park",
+    "title": "12 upcoming Korean dramas to watch in November 2026 — starring Park ...",
+    "summary": "12 upcoming Korean dramas to watch in November 2026 · 1. The Remarried Empress · 2. Francesca Next Door · 3. One of a Kind Romance · 4. Happy Anding · 5. What a Boss ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "gqindia.com",
+    "sourceUrl": "https://www.gqindia.com/content/12-upcoming-korean-dramas-to-watch-in-november-2026-starring-park-min-young-kim-hye-yoon-lee-jong-suk-and-more",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1794062244778-6",
+    "slug": "new-k-dramas-releasing-in-november-2026-your",
+    "title": "🍿 NEW K-DRAMAS RELEASING IN NOVEMBER 2026! ✨ Your ...",
+    "summary": "November 2026: The Remarried Empress: Nov 4 (Hulu/Disney +) Francesca Next Door: Nov 6 (Kocowa) One-of-A-Kind Romance: Nov 9 (Kocowa) What a Boss Wants: Nov 11 ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/DfMvGTxEc6k/",
+    "date": "2026-11-07",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1793979393654-1",
     "slug": "a-seoul-court-asked-actor-kim-soo-hyun-to-narrow-his",
     "title": "A Seoul court asked actor Kim Soo-hyun to narrow his ...",
@@ -16321,7 +16423,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-11-06T15:36:36.163Z";
+export const LAST_UPDATED = "2026-11-07T14:37:25.175Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
