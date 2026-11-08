@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1794148976794-1",
+    "slug": "korean-celebrities-are-increasingly-finding-themselv",
+    "title": "Korean celebrities are increasingly finding themselv",
+    "summary": "Among them is the recent scandal surrounding actor Kim Soo-hyun and the late actress Kim Sae-ron. Allegations have emerged suggesting that Kim February 2025,",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/thekoreatimes/posts/korean-celebrities-are-increasingly-finding-themselves-at-the-center-of-controve/1452180680421026/",
+    "date": "2026-11-08",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1794148977266-2",
+    "slug": "han-ji-min-has-proven-time-and-time-again-why-shes-one",
+    "title": "Han Ji-min has proven time and time again why she's one ...",
+    "summary": "Happy 44th birthday to South Korean actress Han Ji-min! ✨ Born on November 5, 1982, Han Ji-min made her acting debut in All In and Dae Jang Geum ...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/DfUik6sjIdB/",
+    "date": "2026-11-08",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1794148977652-3",
+    "slug": "new-bad-girls-in-the-group-pick-me-girl-kdrama-moments",
+    "title": "New Bad Girls in the Group: Pick Me Girl Kdrama Moments",
+    "summary": "dark hair actress Lisa Young, who plays the character Rashto. sparking gossip and concern among palace ladies about a potential betrayal of the Empress.",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/bestregardsfarhana/videos/new-bad-girls-in-the-group-bestregardsfarhana-kdramarecommendations-koreandrama-/1802956887643369/",
+    "date": "2026-11-08",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1794148978818-4",
+    "slug": "ucla-center-for-korean-studies",
+    "title": "UCLA Center for Korean Studies",
+    "summary": "The UCLA Center for Korean Studies mission is to educate the American scholarly community and the broader American and Korean public about Korean ...",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "international.ucla.edu",
+    "sourceUrl": "https://www.international.ucla.edu/korea/",
+    "date": "4 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1794148981048-5",
+    "slug": "upcoming-kdrama-premieres-in-november-2026",
+    "title": "Upcoming Kdrama Premieres in November 2026",
+    "summary": "Nov 4: The Remarried Empress on Disney+ \"The Remarried Empress\" (Disney+), \"Possible Love\" (Netflix), \"Sword & Silence\" (KBS2), and \"Blue Road\" (Netflix).",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/groups/love.kdrama/posts/1755934579429884/",
+    "date": "2026-11-08",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1794148981190-6",
+    "slug": "best-new-korean-dramas-of-2026",
+    "title": "Best New Korean Dramas of 2026",
+    "summary": "Discover the best new Korean dramas of 2026 (October & November) on Netflix, Disney+, and Prime Video. From romance and thrillers to mystery, fantasy, and ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/shorts/5Je-y-n52qc",
+    "date": "9 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1794062241356-1",
     "slug": "popular-actors-changed-appearance-sparks-plastic-surgery",
     "title": "Popular Actor's Changed Appearance Sparks Plastic Surgery ...",
@@ -16423,7 +16525,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-11-07T14:37:25.175Z";
+export const LAST_UPDATED = "2026-11-08T14:43:02.823Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
