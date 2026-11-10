@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1794326486235-1",
+    "slug": "6-high-profile-korean-couple-whose-partner",
+    "title": "6 HIGH PROFILE KOREAN COUPLE WHOSE PARTNER ...",
+    "summary": "This video is a slideshow-style gossip post about six Korean celebrities who have allegedly dated someone scandalously. features Moon Geun Young and Jung Geun ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/kdramafans01/posts/6-high-profile-korean-couple-whose-partner-was-accused-of-cheating-koreanstars-k/1689913466079923/",
+    "date": "2026-11-10",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1794326486657-2",
+    "slug": "this-week-marks-one-year-since-the-passing-of-virginia",
+    "title": "This week marks one year since the passing of Virginia ...",
+    "summary": "This week marks one year since the passing of Virginia Jones (11/11/25), Lemnitzer leader in Korean War. Actress Diane Brewster",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/oakcrestfuneralservices/posts/this-week-marks-one-year-since-the-passing-of-virginia-jones-111125-john-norman-/1754512813340478/",
+    "date": "2026-11-10",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1794326486839-3",
+    "slug": "what-is-the-best-literary-tv-adaptation-of-all-time",
+    "title": "What is the Best Literary TV Adaptation of All Time?",
+    "summary": "Earlier this year, we asked for your help determining the best modern literary film adaptation, and now we're back to consider the best literary adaptations* ...",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "lithub.com",
+    "sourceUrl": "https://lithub.com/what-is-the-best-literary-tv-adaptation-of-all-time/",
+    "date": "1 day ago",
+    "image": "https://s26162.pcdn.co/wp-content/uploads/2026/11/tvheaderstaticblank.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1794326487489-4",
+    "slug": "it-was-a-total-miracle-how-rejection-led-sylvester-stallone",
+    "title": "'It was a total miracle': How rejection led Sylvester Stallone ...",
+    "summary": "In 1976, boxing drama Rocky turned its \"absolutely broke\" and unknown star and screenwriter, Sylvester Stallone, into an A-list sensation.",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "bbc.com",
+    "sourceUrl": "https://www.bbc.com/culture/article/20261104-how-sylvester-stallone-created-underdog-icon-rocky",
+    "date": "4 days ago",
+    "image": "https://ychef.files.bbci.co.uk/624x351/p0plmjc9.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1794326488494-5",
+    "slug": "this-week-in-tech-1109-transcript",
+    "title": "This Week in Tech 1109 Transcript",
+    "summary": "Fr. Robert Ballecer, Alan Malventano, joining us for a panel about the top tech stories of the week. the news broke on Friday night",
+    "category": "gossip",
+    "author": "Mia Kwon",
+    "source": "twit.tv",
+    "sourceUrl": "https://twit.tv/posts/transcripts/week-tech-1109-transcript",
+    "date": "21 hours ago",
+    "image": "https://twit.tv/images/meta-image-default-v4.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1794326489412-6",
+    "slug": "nba-latest-updates-yahoo-sports",
+    "title": "NBA Latest Updates - Yahoo Sports",
+    "summary": "Jalen Duren will miss at least another 2 weeks due to hamstring injury, Pistons report. Duren has been sidelined since Detroit's October 23 game against Miami.",
+    "category": "gossip",
+    "author": "Rina Baek",
+    "source": "sports.yahoo.com",
+    "sourceUrl": "https://sports.yahoo.com/nba/news/",
+    "date": "1 day ago",
+    "image": "https://s.yimg.com/cv/apiv2/sports/share/PD_010626-Social_Share_GENRIC_YAHOO_SPORTS-1200x630.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1794148976794-1",
     "slug": "korean-celebrities-are-increasingly-finding-themselv",
     "title": "Korean celebrities are increasingly finding themselv",
@@ -16525,7 +16627,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-11-08T14:43:02.823Z";
+export const LAST_UPDATED = "2026-11-10T16:01:30.297Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
