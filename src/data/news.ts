@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1794412066751-1",
+    "slug": "top-5-korean-actors-who-are-biggest-red-flags",
+    "title": "Top 5 Korean actors who are biggest Red Flags ...",
+    "summary": "1. Yoon Eun Hye 2. Goo Hye Sun 3. Yoon Shi Yoon 4. Go Ara 5. Kim Hyun Joong. Kim Hyun-joong – Scandal with ex-partner",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/kdramafans01/posts/top-5-korean-actors-who-are-biggest-red-flags-koreanactor/1689913899413213/",
+    "date": "2026-11-11",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1794412067154-2",
+    "slug": "5-famous-korean-actresses-who-suffered",
+    "title": "5 FAMOUS KOREAN ACTRESSES WHO SUFFERED ...",
+    "summary": "Parkhan Yul, Bei Susie, Lisa Young, and Huang Yum Yum. Hong Seng-soo and Kim Min-hee, who faced a public accusation of infidelity; Lee Byung and Lee Min Young, ...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/kdramafans01/videos/5-famous-korean-actresses-who-suffered-difficult-break-ups-koreanactress/1006073775159658/",
+    "date": "2026-11-11",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1794412067849-3",
+    "slug": "5-things-to-know-about-shin-min-a-k-dramas-long-reigning",
+    "title": "5 things to know about Shin Min-a, K-drama's long-reigning ...",
+    "summary": "Shin Min-a, who plays Navier, a jilted empress with her eye on a second marriage, is a reassuring presence that Korean viewers have known for more than two ...",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "koreaherald.com",
+    "sourceUrl": "https://www.koreaherald.com/article/10930959",
+    "date": "2 days ago",
+    "image": "https://wimg.heraldcorp.com/news/cms/2026/11/09/news-p.v1.20261109.72adf0ebbd13477d9f8593d72818b393_P1.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1794412071575-4",
+    "slug": "no-dating-rumors-no-public-scandals-just-pure-mystery",
+    "title": "No dating rumors, no public scandals, just pure mystery! 👀 ...",
+    "summary": "This video presents a series of rumored romantic relationships involving popular South Korean celebrities from the drama and music industries.",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/Atkpops/posts/no-dating-rumors-no-public-scandals-just-pure-mystery-these-korean-stars-know-ho/122148096033380538/",
+    "date": "2026-11-11",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1794412071751-5",
+    "slug": "10-best-korean-series-on-netflix-and-disney-in-2026",
+    "title": "10 Best Korean Series on Netflix & Disney + in 2026",
+    "summary": "10 Best Korean Series on Netflix & Disney + in 2026 | New & Must-Watch K-Dramas Hello and Welcome to Asian Odyssey. There are quite a few new K-dramas ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=FpyQSy6f72M",
+    "date": "2026-11-11",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1794412072591-6",
+    "slug": "the-remarried-empress-royal-romance-now-streaming",
+    "title": "The Remarried Empress Royal Romance Now Streaming ...",
+    "summary": "The video displays a character from the show, accompanied by a detailed schedule for the 2026 episodes, which are set to be released on November 11. The author ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/DisneyPlus/videos/the-next-royal-romance-starts-right-herenow-streaming-theremarriedempress/28707162555652365/",
+    "date": "2026-11-11",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1794326486235-1",
     "slug": "6-high-profile-korean-couple-whose-partner",
     "title": "6 HIGH PROFILE KOREAN COUPLE WHOSE PARTNER ...",
@@ -16627,7 +16729,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-11-10T16:01:30.297Z";
+export const LAST_UPDATED = "2026-11-11T15:47:53.795Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
