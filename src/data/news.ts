@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1794501064084-1",
+    "slug": "why-did-sion-go-quiet-when-jun-kyung-was-mentioned",
+    "title": "Why did Sion go quiet when Jun-kyung was mentioned? ...",
+    "summary": "This post details the ongoing controversy between South Korean actor Kim Soo Hyun and late K-pop star Sulli. The drama began after Soo Hyun received a \"clean ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/61594634360857/videos/why-did-sion-go-quiet-when-jun-kyung-was-mentioned-were-they-really-just-friends/40517340744546734/",
+    "date": "2026-11-12",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1794501065877-2",
+    "slug": "ham-so-won-and-jin-hua-still-kissing-after-divorce",
+    "title": "Ham So Won and Jin Hua: Still Kissing After Divorce",
+    "summary": "This video reports on the divorce of Korean actress Ham So Won and her husband, Jin Huayong. It features an interview where she confirms she is officially ...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/kdramafans01/videos/famous-couple-who-still-kiss-even-after-divorced-koreanstars-koreanactor/1651660246699580/",
+    "date": "2026-11-12",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1794501067101-3",
+    "slug": "5-new-k-dramas-october-2026-netflix-prime-and-disney",
+    "title": "5 New K-Dramas October 2026 😍 Netflix, Prime & Disney+",
+    "summary": "October 2026 mein aaye hain 5 zabardast naye K-dramas! Romance, horror, mystery, medical thriller, sab kuch hai is list mein.",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=_YooYyROmYw",
+    "date": "2026-11-12",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1794501068029-4",
+    "slug": "looking-for-what-to-watch-in-november-2026-browse",
+    "title": "Looking for what to watch in November 2026? Browse ...",
+    "summary": "✨ Get ready for another exciting month of Korean entertainment! November 2026 brings a fresh lineup of highly anticipated K-dramas across Disney+, Netflix, ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/bigrapidspioneer/posts/looking-for-what-to-watch-in-november-2026-browse-the-full-list-of-new-series-an/1772479738219267/",
+    "date": "2026-11-12",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1794501068150-5",
+    "slug": "4-korean-romance-dramas-to-watch-in-2026",
+    "title": "4 Korean romance dramas to watch in 2026 ...",
+    "summary": "The Remarried Empress — Royal divorce, palace intrigue, and a second chance at love on Disney+. 🎙️ What a Boss Wants — Sung Hoon plays a CEO searching for ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/DfmqWzJzUKh/",
+    "date": "2026-11-12",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1794501068755-6",
+    "slug": "new-k-drama-releases-of-the-week-november-9-15",
+    "title": "New K-drama releases of the week (November 9-15)",
+    "summary": "Doctor X, The Remarried Empress, Love in Disguise and 100 Days of Deception are new K-drama releases of the week (November 9-15, 2026) on OTT to bookmark.",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "gqindia.com",
+    "sourceUrl": "https://www.gqindia.com/content/new-k-drama-releases-of-the-week-november-9-15-11-new-korean-dramas-streaming-on-netflix-and-more",
+    "date": "9 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1794412066751-1",
     "slug": "top-5-korean-actors-who-are-biggest-red-flags",
     "title": "Top 5 Korean actors who are biggest Red Flags ...",
@@ -16729,7 +16831,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-11-11T15:47:53.795Z";
+export const LAST_UPDATED = "2026-11-12T16:31:09.139Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
