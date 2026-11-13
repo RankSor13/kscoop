@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1794585142245-1",
+    "slug": "shocking-love-scandals-of-korean-celebrities-kdrama",
+    "title": "Shocking Love Scandals of Korean Celebrities. #kdrama",
+    "summary": "Korean Actors With Some of the Biggest Scandals That Shocked the Industry ✨️Kim soo hyun✨️ Accused of dating a minor ✨️Jung woo sung✨️ ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/61566168023726/posts/shocking-love-scandals-of-korean-celebrities-kdrama/122256459104538934/",
+    "date": "2026-11-13",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1794585142564-2",
+    "slug": "kdrama-fans-discuss-gossip-and-relationships",
+    "title": "Kdrama fans discuss gossip and relationships",
+    "summary": "actress HAN SOO HEE (female lead in Nevertheless), was embroiled in a dating scandal. She dated HYERI's ex boyfriend RYU JUN YEOL whom she dated for 7years",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/groups/577440266493006/posts/2236153203955029/",
+    "date": "2026-11-13",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1794585142686-3",
+    "slug": "k-drama-fans-react-to-gossip-topics-with-caution",
+    "title": "K-Drama fans react to gossip topics with caution",
+    "summary": "actress HAN SOO HEE (female lead in Nevertheless), was embroiled in a dating scandal. She dated HYERI's ex boyfriend RYU JUN YEOL whom she dated for 7years",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/groups/890436395648423/posts/1894811451877574/",
+    "date": "2026-11-13",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1794585142816-4",
+    "slug": "lee-min-hos-romantic-relationships-a-behind-the",
+    "title": "Lee Min-Ho's Romantic Relationships: A Behind-the- ...",
+    "summary": "The South Korean actor has been linked to several high-profile celebrities, including actresses Park Min-young, Bae Suzy, and Kim Go-eun.",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "repticof.pro",
+    "sourceUrl": "https://repticof.pro/indexwany/73108-leaked-news/",
+    "date": "17 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1794585143059-5",
+    "slug": "2026-korean-web-series-upcoming-releases",
+    "title": "2026 Korean Web Series Upcoming Releases",
+    "summary": "2026 is packed with Korean web series across Netflix, Disney+, and other platforms, with big titles like The Remarried Empress, Bloodhounds 2, and...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/fb-answers/2026-korean-web-series-upcoming-releases/",
+    "date": "5 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1794585143213-6",
+    "slug": "kim-min-ha-shares-struggles-of-being-not-a-standard",
+    "title": "Kim Min-ha Shares Struggles of being NOT A STANDARD ...",
+    "summary": "This video explores South Korean actress Kim Min-ha's struggle with conforming to the industry's narrow beauty standards. It highlights the public criticism ...",
+    "category": "trending",
+    "author": "Rina Baek",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/100080146298347/videos/kim-min-ha-shares-struggles-of-being-not-a-standard-beauty-in-south-korean-enter/2632938287130641/",
+    "date": "2026-11-13",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1794501064084-1",
     "slug": "why-did-sion-go-quiet-when-jun-kyung-was-mentioned",
     "title": "Why did Sion go quiet when Jun-kyung was mentioned? ...",
@@ -16831,7 +16933,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-11-12T16:31:09.139Z";
+export const LAST_UPDATED = "2026-11-13T15:52:24.138Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
