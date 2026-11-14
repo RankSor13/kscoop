@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1794667384609-1",
+    "slug": "new-k-dramas-and-dramas-for-november-2026",
+    "title": "New K-dramas and dramas for November 2026",
+    "summary": "2026 is packed with new releases for K-drama lovers! several of these productions already have announced release dates on streaming platforms like Netflix, ...",
+    "category": "upcoming",
+    "author": "Ji Yeon Park",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=UbjuWrCODCQ",
+    "date": "2026-11-14",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1794667385430-2",
+    "slug": "last-kdrama-of-2026-finally-coming-tantara-trailer",
+    "title": "Last Kdrama Of 2026 😭 Finally Coming - Tantara Trailer ...",
+    "summary": "Netflix confirmed it today: Tantara, the epic period K-drama starring Song Hye Kyo and Gong Yoo, premieres worldwide on Friday, December 11, 2026.",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DfsJcrezg_e/",
+    "date": "2026-11-14",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1794667385852-3",
+    "slug": "november-2026-k-drama-lineup-9-new-series",
+    "title": "🔥 NOVEMBER 2026 K-DRAMA LINEUP — 9 NEW SERIES ...",
+    "summary": "November 3 | Disney+ 2. One-of-a-Kind Romance (2026) Happy Anding (2026) What a Boss Wants (2026) The Remarried Empress — Disney+ 📅 NOVEMBER 6 * Francesca Next ...",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/100069382855369/posts/-november-2026-k-drama-lineup-9-new-series-to-watch-november-is-bringing-a-fanta/1473255661663848/",
+    "date": "2026-11-14",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1794667386128-4",
+    "slug": "best-korean-drama-to-watch-on-netflix-disney",
+    "title": "Best Korean Drama To Watch on Netflix, Disney+",
+    "summary": "This video counts down 10 of the best Korean thriller dramas to watch in 2026, #100DaysOfDeception. Watch on Netflix, Disney+",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=1BM9Oy8yjoQ",
+    "date": "2026-11-14",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1794667386892-5",
+    "slug": "2027-is-bringing-more-exciting-korean-dramas-to-disney",
+    "title": "2027 is bringing more exciting Korean dramas to Disney+! ...",
+    "summary": "Upcoming K-dramas in October, Your Personal Taxi, Between Steps, Take Charge of My Heart, Doctor X, 100 Days of Deception, Make Me Tingle, Love in Disguise, ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/Dfpu_whuVgg/",
+    "date": "2026-11-14",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1794667387186-6",
+    "slug": "2026-best-kdrama-tv-shows-released-so-far",
+    "title": "2026 Best Kdrama TV Shows Released So Far",
+    "summary": "The list includes popular series such as \"Agent Kim,\" \"The Scarecrow,\" \"The Wonder Fools,\" \"The East Palace,\" \"My Royal Nemesis,\" and \"Boyfriend on Demand.\"",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/Mitchmoviess/videos/2026-best-kdrama-tvshows-released-so-far-kdrama-tvshowstowatch-mustwatch-bestsho/1074625708985499/",
+    "date": "2026-11-14",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1794585142245-1",
     "slug": "shocking-love-scandals-of-korean-celebrities-kdrama",
     "title": "Shocking Love Scandals of Korean Celebrities. #kdrama",
@@ -16933,7 +17035,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-11-13T15:52:24.138Z";
+export const LAST_UPDATED = "2026-11-14T14:43:08.599Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
