@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1794755695036-1",
+    "slug": "son-ye-jin-make-headlines-again-8-big",
+    "title": "SON YE-JIN MAKE HEADLINES AGAIN! 🇰🇷🔥 8 BIG ...",
+    "summary": "It reports on actress Kim Yong Ji's private wedding and pregnancy announcement. It details new findings in a case involving actor Kim Soo Hyun, suggesting ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/61567212300189/videos/son-ye-jin-make-headlines-again-8-big-korean-celebrity-updates-you-probably-miss/1794921605135121/",
+    "date": "2026-11-15",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1794755696741-2",
+    "slug": "hulus-best-k-drama-of-2026-is-getting-an-anime-icymi",
+    "title": "Hulu's best K-drama of 2026 is getting an anime. ICYMI ...",
+    "summary": "K-Dramas coming soon on Netflix. \"Can This Love Be Translated\" \"Boyfriend On Demand\" \"East Palace\" \"The WonderFools\" As confirmed ...",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/adultswholovecartoons/posts/hulus-best-k-drama-of-2026-is-getting-an-anime-icymi-read-more-/1613076720866009/",
+    "date": "2026-11-15",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1794755696885-3",
+    "slug": "upcoming-korean-dramas-to-watch-on-netflix",
+    "title": "Upcoming Korean dramas to watch on Netflix",
+    "summary": "Here's the upcoming Netflix original series (Korean drama) that you should look forward to: #GyeongseongCreature #SweetHome2 #DailyDoseOfSunshine #Ballerina # ...",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/groups/netflixkoreanseries/posts/41279676598298512/",
+    "date": "2026-11-15",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1794755697049-4",
+    "slug": "where-to-watch-k-drama-in-2026-top-9-streaming-platforms",
+    "title": "Where to Watch K-Drama in 2026: Top 9 Streaming Platforms",
+    "summary": "November 2026's Korean dramas and films to watch include Netflix's chart-topping Dead-End Job, Disney+'s royal fantasy romance The Remarried Empress, and ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "gamsgo.com",
+    "sourceUrl": "https://www.gamsgo.com/blog/where-to-watch-kdrama",
+    "date": "4 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1794755697439-5",
+    "slug": "from-dreaming-of-k-drama-actors-to-meeting-kang",
+    "title": "From Dreaming of K-Drama Actors to Meeting Kang ...",
+    "summary": "This video is a montage celebrating a fan's dream of meeting a K-Drama actor in real life. It features clips of the creator meeting actor Kang Hanewl, ...",
+    "category": "trending",
+    "author": "Mia Kwon",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/MajidMushtaqOfficial/videos/-dreams-come-true-which-korea-actor-actress-or-idol-would-you-want-to-meet-in-li/1121822807404346/",
+    "date": "2026-11-15",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1794755698613-6",
+    "slug": "its-weird-how-our-local-tv-networks-and-media-outlets",
+    "title": "It's weird how our local TV networks and media outlets ...",
+    "summary": "It's weird how our local TV networks and media outlets have been giving so much attention to incidents involving Korean celebrities and singers on their social ...",
+    "category": "trending",
+    "author": "Rina Baek",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/Pinoyhistorygroup/posts/its-weird-how-our-local-tv-networks-and-media-outlets-have-been-giving-so-much-a/1664213335074730/",
+    "date": "2026-11-15",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1794667384609-1",
     "slug": "new-k-dramas-and-dramas-for-november-2026",
     "title": "New K-dramas and dramas for November 2026",
@@ -17035,7 +17137,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-11-14T14:43:08.599Z";
+export const LAST_UPDATED = "2026-11-15T15:14:58.843Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
