@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1794851398537-1",
+    "slug": "son-ye-jin-news-8-big-korean-celebrity",
+    "title": "🚨 SON YE-JIN NEWS! ❤️ 8 BIG KOREAN CELEBRITY ...",
+    "summary": "Other updates include actress Shin Min-A's comments on how she would respond to infidelity, and actor Sun Sung-Tae's account of meeting ethnic Korean families ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/61567212300189/videos/-son-ye-jin-news-%EF%B8%8F-8-big-korean-celebrity-updates-you-probably-missed-which-kore/1882265272943202/",
+    "date": "2026-11-16",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1794851399632-2",
+    "slug": "celebrity-news-gossip-photos-and-videos",
+    "title": "Celebrity News, Gossip, Photos and Videos",
+    "summary": "Korean star Jeon Do-yeon. Jensen Huang over affair scandal, Bowen Yang returns Surprise! Bowen Yang shows up on \"Saturday Night Live\" to spoof Nvidia CEO ...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "usatoday.com",
+    "sourceUrl": "https://www.usatoday.com/entertainment/celebrities/",
+    "date": "11 hours ago",
+    "image": "https://www.usatoday.com/tangstatic/sites/usat/og-image-q1a2z3fb72acfa.png",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1794851399868-3",
+    "slug": "the-upcoming-k-drama-starring-suzy-and-kim-seon-ho",
+    "title": "The upcoming K-drama starring Suzy and Kim Seon-ho ...",
+    "summary": "Korea has officially announced that Suzy and Kim Seon Ho's highly anticipated drama “Delusion” will premiere in 2026. 2026 exclusively on Disney+.",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/DramalistOfficial/posts/the-upcoming-k-drama-starring-suzy-and-kim-seon-ho-was-originally-announced-for-/122212717376766631/",
+    "date": "2026-11-16",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1794851400071-4",
+    "slug": "the-remarried-empress-tops-k-drama-buzz-rankings-over",
+    "title": "The Remarried Empress tops K-drama buzz rankings over ...",
+    "summary": "Disney+ and Hulu's The Remarried Empress is No. 1 on this week's most buzzworthy K-drama list, ahead of 100 Days of Deception, while Park Jinyoung leads the ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "imdb.com",
+    "sourceUrl": "https://www.imdb.com/news/ni66113164/?ref_=nm_nwr_1",
+    "date": "9 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1794851400401-5",
+    "slug": "south-korea-has-become-a-global-entertainment",
+    "title": "South Korea has become a global entertainment ...",
+    "summary": "From Lee Min-ho and Kim Soo-hyun to Gong Yoo and Ma Dong-seok, these stars have helped shape the worldwide Korean Wave (Hallyu). Who is your favorite South ...",
+    "category": "trending",
+    "author": "Mia Kwon",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/DfvRCs2Hxei/?__d=11",
+    "date": "2026-11-16",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1794851400737-6",
+    "slug": "5-korean-stars-who-have-been-fired-and-remove-from-their",
+    "title": "5 Korean Stars who have been fired and remove from their ...",
+    "summary": "This video details the scandals of five prominent Korean actors (K-pop idols) who have lost their fanbases due to serious controversies. The first is Park ...",
+    "category": "trending",
+    "author": "Rina Baek",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/kdramafans01/videos/5-korean-stars-who-have-been-fired-and-remove-from-their-drama-koreanstar-korean/1811499923434683/",
+    "date": "2026-11-16",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1794755695036-1",
     "slug": "son-ye-jin-make-headlines-again-8-big",
     "title": "SON YE-JIN MAKE HEADLINES AGAIN! 🇰🇷🔥 8 BIG ...",
@@ -17137,7 +17239,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-11-15T15:14:58.843Z";
+export const LAST_UPDATED = "2026-11-16T17:50:01.760Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
