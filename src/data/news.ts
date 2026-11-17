@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1794935947149-1",
+    "slug": "high-profile-k-stars-who-were-arrested-over-the-years",
+    "title": "High Profile K-stars who were arrested over the years!",
+    "summary": "The scandals discussed include Kim Sohn Cha-Ga's involvement in the \"burning sand\" scandal, Park Yujong's involvement in a G-Y-G and TVXQ scandal, Ji Soo being ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/kdramafans01/videos/high-profile-k-stars-who-were-arrested-over-the-years-koreanstars/1165036646467709/",
+    "date": "2026-11-17",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1794935948210-2",
+    "slug": "jun-ji-hyun-is-in-talks-to-star-in-intimate-strangers-2",
+    "title": "\"Jun Ji Hyun is in talks to star in 'Intimate Strangers 2, ...",
+    "summary": "Jun Ji Hyun is in talks to star in 'Intimate Strangers 2,' Gong Hyo Jin's drama \"When the Stars Gossip.\"",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/DfysvgNo5C3/",
+    "date": "2026-11-17",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1794935948491-3",
+    "slug": "sulli",
+    "title": "Sulli",
+    "summary": "Choi Jin-ri (Korean: 최진리 ; March 29, 1994 – October 13 or 14, 2019), known professionally as Sulli (/ˈsʌli/), was a South Korean singer and actress.",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "en.wikipedia.org",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Sulli",
+    "date": "5 days ago",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Sulli-2019_%28derived%29.jpg?utm_source=en.wikipedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail_unscaled",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1794935948592-4",
+    "slug": "top-6-upcoming-december-2026-k-dramas-on-netflix-and",
+    "title": "Top 6 Upcoming December 2026 K-Dramas on Netflix and ...",
+    "summary": "\"The Second Signal,\" which is noted to be streaming on Netflix. \"Take Charge of My Heart\" (released on October 9, 2026), and \"Love on a Discipline\" (released ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/61595367976702/videos/1660706779188284/",
+    "date": "2026-11-17",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1794935949315-5",
+    "slug": "tantara-official-teaser-netflix-eng-sub",
+    "title": "Tantara | Official Teaser | Netflix [ENG SUB]",
+    "summary": "The Netflix Series “Tantara” begins streaming worldwide, only on Netflix. Part 1: December 11, 2026 Part 2: December 18, 2026 Part 3: December 25, 2026",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=A0niUtf-pXU",
+    "date": "2026-11-17",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1794935950144-6",
+    "slug": "november-2026-is-bringing-some-exciting-k-dramas-and-if",
+    "title": "November 2026 is bringing some exciting K-dramas, and if ...",
+    "summary": "November 2026 K-drama Watchlist 1. The Remarried Empress Release Date: 4 November Episodes: 10 Genre: Fantasy, Romance, Historical An empress seeks a new ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DfuOxSPACX0/",
+    "date": "2026-11-17",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1794851398537-1",
     "slug": "son-ye-jin-news-8-big-korean-celebrity",
     "title": "🚨 SON YE-JIN NEWS! ❤️ 8 BIG KOREAN CELEBRITY ...",
@@ -17239,7 +17341,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-11-16T17:50:01.760Z";
+export const LAST_UPDATED = "2026-11-17T17:19:10.374Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
