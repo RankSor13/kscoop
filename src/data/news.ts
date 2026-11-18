@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1795020834959-1",
+    "slug": "korean-actor-ko-kyung-pyo-drunk-driving-scandal-explained",
+    "title": "Korean Actor Ko Kyung-pyo Drunk Driving Scandal Explained",
+    "summary": "Korean actor Ko Kyung-pyo (Reply 1988) was involved in a drunk driving crash in Seoul on November 14, 2026. We break down what happened, the CCTV footage, ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=zmpgdLnq_W8",
+    "date": "2026-11-18",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1795020835970-2",
+    "slug": "yumcha-tea-time-tuesdays-celebs-gossip-oh-my-november-17-2026",
+    "title": "Yumcha Tea Time Tuesdays 🫖 Celebs, gossip, oh my! — November 17, 2026",
+    "summary": "If you have breaking news, gossip, or rumours have you heard recently about cdrama celebrities, idols, and stars this weekly post is a space for you to do this!",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/CDrama/comments/1xymmf4/yumcha_tea_time_tuesdays_celebs_gossip_oh_my/",
+    "date": "2026-11-18",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1795020836035-3",
+    "slug": "south-korean-actor-ko-kyung-pyo-best-known-for-his-role-in-the-popular-k",
+    "title": "South Korean actor Ko Kyung Pyo, best known for his role in the popular K ...",
+    "summary": "South Korean actor Ko Kyung Pyo, best known for his role in the popular K-drama Reply 1988, has reportedly become embroiled in a drunk-driving controversy ...",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/DfuLbqXItyo/",
+    "date": "2026-11-18",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1795020836569-4",
+    "slug": "justice-department-announces-actions-to-disrupt-north-koreas",
+    "title": "Justice Department Announces Actions to Disrupt North Korea's ...",
+    "summary": "The FBI remains committed to identifying, disrupting, and imposing cost on North Korean actors targeting the virtual asset community.” “North Korea's ...",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "justice.gov",
+    "sourceUrl": "https://www.justice.gov/opa/pr/justice-department-announces-actions-disrupt-north-koreas-massive-theft-cryptocurrency",
+    "date": "6 days ago",
+    "image": "https://www.justice.gov/themes/custom/usdoj_uswds/images/metatag-image--press-release.png",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1795020836782-5",
+    "slug": "disney-is-doubling-down-on-korean-content-more-k",
+    "title": "🇰🇷 DISNEY+ IS DOUBLING DOWN ON KOREAN CONTENT! MORE K ...",
+    "summary": "Disney+ 2026 KOREAN DRAMA LINEUP✨️ (According to their Premiere Schedule) : Made In Korea (Season 1&2) LEADS : Hyun Bin, Jung Woo Sung, Won JiAn and Woo ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/KDramaBuddiesPh/posts/-disney-is-doubling-down-on-korean-content-more-k-dramas-and-variety-shows-are-c/1134967762223165/",
+    "date": "2026-11-18",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1795020837140-6",
+    "slug": "top-6-upcoming-december-2026-k-dramas-on-netflix-and-disney",
+    "title": "Top 6 Upcoming December 2026 K-Dramas on Netflix and Disney+",
+    "summary": "No preview available.",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/61595367976702/videos/december-2026-upcoming-k-dramas-you-cant-miss-upcomingkdramas-decemberkdramas-kd/1660706779188284/",
+    "date": "2026-11-18",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1794935947149-1",
     "slug": "high-profile-k-stars-who-were-arrested-over-the-years",
     "title": "High Profile K-stars who were arrested over the years!",
@@ -17341,7 +17443,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-11-17T17:19:10.374Z";
+export const LAST_UPDATED = "2026-11-18T16:53:58.256Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
