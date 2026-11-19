@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1795107597308-1",
+    "slug": "a-former-south-korean-police-officer-who-leaked-confidential",
+    "title": "A former South Korean police officer who leaked confidential ...",
+    "summary": "No preview available.",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/_a/reel/DfqmkdLT8cS/",
+    "date": "2026-11-19",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1795107597985-2",
+    "slug": "won-bin",
+    "title": "Won Bin",
+    "summary": "Won is one of the most elusive actors in South Korea. Due to the rarity of meeting him in person, other celebrities refer to him as a \"legendary dragon\".",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "en.wikipedia.org",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Won_Bin",
+    "date": "4 days ago",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Won_Bin_from_acrofan.jpg?utm_source=en.wikipedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail_unscaled",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1795107598613-3",
+    "slug": "netflixs-guarding-stars-cast-is-the-gossip-girl-and-gilmore-girls",
+    "title": "Netflix's 'Guarding Stars' Cast Is the 'Gossip Girl' and 'Gilmore Girls' ...",
+    "summary": "Netflix's 'Guarding Stars' Cast Is the 'Gossip Girl' and 'Gilmore Girls' Crossover We Deserve · 1) Leighton Meester plays Hanna Brooks · 2) Jared Padalecki plays ...",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "sg.news.yahoo.com",
+    "sourceUrl": "https://sg.news.yahoo.com/netflix-guarding-stars-cast-gossip-160454154.html",
+    "date": "1 day ago",
+    "image": "https://s.yimg.com/lo/mysterio/api/d55d328472e4ca1acb47f45ad614969bde77cbab9e6053862aa8581829108e09/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcosmopolitan_438%2Ffbfec7930e4fbd4f0742ecc87fdcd6fc.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1795107599449-4",
+    "slug": "three-romance-k-dramas-premiering-in-november-2026",
+    "title": "Three romance k-dramas premiering in November 2026",
+    "summary": "Here is a quick look at what each series is about: #TheRemarriedEmpress: Streaming on Disney+, this fantasy romance stars Shin Min-a, Lee Jong-suk, and Ju Ji- ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/dramadazz20/posts/three-most-popular-romance-k-dramas-premiering-in-november-2026-from-royal-palac/122149228143106575/",
+    "date": "2026-11-19",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1795107599763-5",
+    "slug": "10-upcoming-k-dramas-in-2026-you-cant-miss-from-perfect-crown-to",
+    "title": "10 Upcoming K-Dramas In 2026 You Can't Miss: From Perfect Crown To ...",
+    "summary": "Here is our list of 10 K-dramas we're looking forward to watching in 2026. 1. Can This Love Be Translated? Director: Yoo Young-eun Where To Watch: Netflix ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "imdb.com",
+    "sourceUrl": "https://www.imdb.com/es/news/ni65641464/",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1795107600023-6",
+    "slug": "new-k-drama-releases-of-the-week-november-16-22",
+    "title": "New K-drama releases of the week (November 16-22)",
+    "summary": "Good Partner Season 2, The Blue Road, Love in Disguise and The Remarried Empress are new K-drama releases of the week (November 16-22, 2026) on OTT to ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "gqindia.com",
+    "sourceUrl": "https://www.gqindia.com/content/new-k-drama-releases-of-the-week-november-16-22-13-new-korean-dramas-streaming-on-netflix-and-more",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1795020834959-1",
     "slug": "korean-actor-ko-kyung-pyo-drunk-driving-scandal-explained",
     "title": "Korean Actor Ko Kyung-pyo Drunk Driving Scandal Explained",
@@ -17443,7 +17545,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-11-18T16:53:58.256Z";
+export const LAST_UPDATED = "2026-11-19T17:00:00.309Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
