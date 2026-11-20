@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1795192695751-1",
+    "slug": "kim-yoo-jung-is-unstoppable-100-days-of-deception-maintains-10",
+    "title": "KIM YOO-JUNG IS UNSTOPPABLE! 100 Days of Deception Maintains 10 ...",
+    "summary": "Kim Yoo-jung is shining brighter than ever! Her latest drama, 100 Days of Deception, continues to make waves … exciting entertainment gossip. Scandal Explained",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "m.youtube.com",
+    "sourceUrl": "https://m.youtube.com/watch?v=DjtuOHpG6pg",
+    "date": "2026-11-20",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1795192696976-2",
+    "slug": "12-most-anticipated-korean-dramas-in-2027",
+    "title": "12+ Most Anticipated Korean Dramas in 2027!",
+    "summary": "20 K-Dramas With ZERO Romance You NEED To Watch In 2026! (LATEST!) · 10 K-Dramas Outside Netflix You NEED to Watch in 2026! · 30 Most TALENTED K-Drama Actors in ...",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=It0CdX6ed80",
+    "date": "2026-11-20",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1795192697851-3",
+    "slug": "16-new-and-returning-december-2026-netflix-titlesspanning-k-dramas",
+    "title": "16 new and returning December 2026 Netflix titles—spanning K-dramas ...",
+    "summary": "Upcoming Korean and Japanese drama releases on Netflix this December: - #AlchemyOfSouls season 2: December 9 - #MoneyHeistKorea part 2: December 10 ...",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/groups/azraelsmerrylandblog/posts/29116671831321578/",
+    "date": "2026-11-20",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1795192698065-4",
+    "slug": "netflixs-most-watched-new-kdramas-of-2026",
+    "title": "Netflix's Most Watched New Kdramas of 2026! ...",
+    "summary": "No preview available.",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/MyDramaListdotcom/posts/netflixs-most-watched-new-kdramas-of-2026-kdrama-koreandrama-netflix-mydramalist/1816726109878289/",
+    "date": "2026-11-20",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1795192698179-5",
+    "slug": "netflix-unveils-2026-k-drama-lineup",
+    "title": "Netflix Unveils 2026 K Drama Lineup",
+    "summary": "November 2026 K-Drama Release List: The Remarried Empress & More. Full November 2026 K-drama calendar with release dates, main cast, genres and streaming ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "tiktok.com",
+    "sourceUrl": "https://www.tiktok.com/discover/netflix-unveils-2026-k-drama-lineup",
+    "date": "4 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1795192698761-6",
+    "slug": "disney-has-revealed-major-updates-to-its-upcoming-korean",
+    "title": "\"Disney+ has revealed major updates to its upcoming Korean ...",
+    "summary": "Korean Dramas Set to Premiere in October 2026: Oct 5 : BetweenSteps (ENA/ · Would you let a Korean shaman read your future? Disney+'s smash-hit supernatural ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/p/Df4TCC0BJ_L/",
+    "date": "2026-11-20",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1795107597308-1",
     "slug": "a-former-south-korean-police-officer-who-leaked-confidential",
     "title": "A former South Korean police officer who leaked confidential ...",
@@ -17545,7 +17647,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-11-19T17:00:00.309Z";
+export const LAST_UPDATED = "2026-11-20T16:38:19.416Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
