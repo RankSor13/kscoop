@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1795276342887-1",
+    "slug": "choi-dong-seok-faces-controversy-over-an-alleged-malicious-comment",
+    "title": "⚖️ Choi Dong-seok faces controversy over an alleged malicious comment ...",
+    "summary": "Choi Dong-seok faces controversy over an alleged malicious comment targeting his ex-wife, Park Ji-yoon! The case has reportedly been referred to prosecutors.",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/newsade24/posts/%EF%B8%8F-choi-dong-seok-faces-controversy-over-an-alleged-malicious-comment-targeting-h/1593371236151355/",
+    "date": "2026-11-21",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1795276343201-2",
+    "slug": "kim-soo-hyuns-agency-has-been-ordered-to-pay-cuckoo-around-870",
+    "title": "Kim Soo Hyun's agency has been ordered to pay Cuckoo around 870 ...",
+    "summary": "South Korean actor Kim Soo Hyun is reportedly being sued by two advertising (CF) companies for over 300 billion KRW (approximately $2 million USD) following a ...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/MyDramaListdotcom/posts/kim-soo-hyuns-agency-has-been-ordered-to-pay-cuckoo-around-870-million-won-but-t/1820128122871421/",
+    "date": "2026-11-21",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1795276343361-3",
+    "slug": "are-celebrities-royalty-cha-ye-ryun-leaves-comments-open-as-her",
+    "title": "“Are Celebrities Royalty?” Cha Ye-ryun Leaves Comments Open as Her ...",
+    "summary": "Allegations of school bullying involving actress Cha Ye-ryun have shown little sign of dying down, despite denials from her side.",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "sportschosun.com",
+    "sourceUrl": "https://www.sportschosun.com/en/celebrity/2026-11-19/202611190100122970011344",
+    "date": "3 days ago",
+    "image": "https://www.sportschosun.com/article/html/2026/11/19/2026111901001229700113442.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1795276344770-4",
+    "slug": "actor-ko-kyung-pyo-faces-backlash-following-traffic-dui-accident",
+    "title": "Actor Ko Kyung Pyo Faces Backlash Following Traffic DUI Accident",
+    "summary": "No preview available.",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DfvRPgwCDRc/",
+    "date": "2026-11-21",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1795276345115-5",
+    "slug": "korean-celebrities-breakup-that-ended-in-shocking-way",
+    "title": "KOREAN CELEBRITIES BREAKUP THAT ENDED IN SHOCKING WAY.",
+    "summary": "It details the breakups of South Korean actors Yo Sung-ho and Lim Seju, who split in 2026; Lee Jong Sook and Ayu, who divorced in 2026; Young Kyung-ho and Choi ...",
+    "category": "gossip",
+    "author": "Mia Kwon",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/61566168023726/videos/korean-celebrities-breakup-that-ended-in-shocking-way-kdrama/1140556005045686/",
+    "date": "2026-11-21",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1795276345721-6",
+    "slug": "broadcaster-park-ji-yoon-has-denied-adultery-allegations-involving-her",
+    "title": "Broadcaster Park Ji-yoon has denied adultery allegations involving her ...",
+    "summary": "Park Ji-yoon has denied adultery allegations involving her male acquaintance and spoken out about her ongoing divorce battle with ex- husband Choi Dong-seok.",
+    "category": "gossip",
+    "author": "Rina Baek",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/pnglnvnsskm89/posts/broadcaster-park-ji-yoon-has-denied-adultery-allegations-involving-her-male-acqu/29583984357881407/",
+    "date": "2026-11-21",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1795192695751-1",
     "slug": "kim-yoo-jung-is-unstoppable-100-days-of-deception-maintains-10",
     "title": "KIM YOO-JUNG IS UNSTOPPABLE! 100 Days of Deception Maintains 10 ...",
@@ -17647,7 +17749,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-11-20T16:38:19.416Z";
+export const LAST_UPDATED = "2026-11-21T15:52:25.885Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
