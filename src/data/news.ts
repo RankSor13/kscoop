@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1795362725691-1",
+    "slug": "is-this-true-are-they-really-dating-who-is-she-im-just-so-shocked-oppa",
+    "title": "Is this true? Are they really dating? Who is she? Im just so shocked. Oppa 😭😲",
+    "summary": "This video presents a series of rumored romantic relationships involving popular South Korean celebrities from the drama and music industries.",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/groups/netflixkoreanseries/posts/41472846555648181/",
+    "date": "2026-11-22",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1795362726083-2",
+    "slug": "south-korea-cheating-scandal-are-ai-smart-glasses-a-threat-to-exams",
+    "title": "South Korea cheating scandal: Are AI smart glasses a threat to exams?",
+    "summary": "South Korea is racing to fix potential security gaps in upcoming exams after a top scorer on a national test admitted to using artificial intelligence to cheat.",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "aljazeera.com",
+    "sourceUrl": "https://www.aljazeera.com/news/2026/11/17/south-korea-cheating-scandal-are-ai-smart-glasses-a-threat-to-exams",
+    "date": "5 days ago",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26320265886735-1794904238.jpg?resize=1920%2C1440",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1795362726885-3",
+    "slug": "would-you-date-a-k-drama-actoractress-hypothetical-question",
+    "title": "Would you date a K-drama actor/actress? [Hypothetical Question]",
+    "summary": "Korea has the weirdest celebrity culture. It's honestly insane how the most mundane can become scandalous and a career breaker in Korea. Not to mention the ...",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "reddit.com",
+    "sourceUrl": "https://www.reddit.com/r/KDramasWorld/comments/1xxtm3z/would_you_date_a_kdrama_actoractress_hypothetical/",
+    "date": "2026-11-22",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1795362726972-4",
+    "slug": "south-koreas-high-stakes-university-exams-upended-by-ai-cheating",
+    "title": "South Korea's high-stakes university exams upended by AI cheating ...",
+    "summary": "South Korea has been gripped by revelations of AI-aided cheating, just days before more than half a million students are to sit high-stakes entrance exams.",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "theguardian.com",
+    "sourceUrl": "https://www.theguardian.com/world/2026/nov/18/south-korea-university-entrace-exams-ai-cheating-measures",
+    "date": "3 days ago",
+    "image": "https://i.guim.co.uk/img/media/291cc6ecd5e65b702c8158243baa0233602cba73/501_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=787a18999719b95db36330f92b1f35e3",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1795362727217-5",
+    "slug": "bae-doona",
+    "title": "Bae Doona",
+    "summary": "Bae Doona (Korean: 배두나 ; born October 11, 1979), anglicized as Doona Bae, is a South Korean actress and photographer. She debuted as a model and first ...",
+    "category": "gossip",
+    "author": "Mia Kwon",
+    "source": "en.wikipedia.org",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Bae_Doona",
+    "date": "6 days ago",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Bae_Doona_at_Berlinale_2026.jpg/960px-Bae_Doona_at_Berlinale_2026.jpg?utm_source=en.wikipedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1795362727740-6",
+    "slug": "8-new-korean-movies-and-series-of-2026-on-netflix-and-disney",
+    "title": "8 New Korean Movies & Series of 2026 on Netflix & Disney+",
+    "summary": "Here are 8 New Korean Movies & Series of 2026 on Netflix & Disney+. From gripping thrillers like to heartwarming romance dramas, this list covers the biggest K ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "youtube.com",
+    "sourceUrl": "https://www.youtube.com/watch?v=kiupQBJVcIg",
+    "date": "2026-11-22",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1795276342887-1",
     "slug": "choi-dong-seok-faces-controversy-over-an-alleged-malicious-comment",
     "title": "⚖️ Choi Dong-seok faces controversy over an alleged malicious comment ...",
@@ -17749,7 +17851,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-11-21T15:52:25.885Z";
+export const LAST_UPDATED = "2026-11-22T15:52:08.264Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
