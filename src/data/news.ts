@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1795463137387-1",
+    "slug": "seo-ye-ji-forbade-her-boyfriend-from-getting-close-to-his-co-star",
+    "title": "Seo Ye-ji Forbade Her Boyfriend From Getting Close to His Co-star 😳📱",
+    "summary": "This post is a celebrity gossip report about the alleged romantic relationship between South Korean actor Kwak Si-yang and singer Yoo Ji-ae. The narrator claims ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/100084602036000/videos/seo-ye-ji-forbade-her-boyfriend-from-getting-close-to-his-co-star-seoyeji-kimjun/1147161641098610/",
+    "date": "2026-11-23",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1795463138338-2",
+    "slug": "korean-actors-who-have-never-publicly-confirmed-a-relationship",
+    "title": "Korean Actors Who Have Never Publicly Confirmed a Relationship ...",
+    "summary": "No preview available.",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/100080146298347/videos/korean-actors-who-have-never-publicly-confirmed-a-relationship-viralreels%E3%82%B7-foryo/2955445018152971/",
+    "date": "2026-11-23",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1795463139414-3",
+    "slug": "kim-soo-hyun-court-orders-actors-agency-to-pay-800m-won-to-cuckoo",
+    "title": "Kim Soo-hyun — Court Orders Actor's Agency to Pay 800M Won to Cuckoo",
+    "summary": "A South Korean court has ordered actor Kim Soo-hyun's agency to pay 870 million won in damages to Cuckoo following an advertising contract dispute.",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "en.koreadaily.com",
+    "sourceUrl": "https://en.koreadaily.com/kim-soo-hyun-agency-ordered-to-pay-800m-won-to-cuckoo/",
+    "date": "3 days ago",
+    "image": "https://en.koreadaily.com/wp-content/uploads/2026/11/c64cec90-1c71-4a2f-aed9-e7725cfd5528.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1795463141375-4",
+    "slug": "unraveling-the-rumors-is-park-bo-gum-married-to-kim-yoo-jung",
+    "title": "Unraveling the Rumors: Is Park Bo Gum Married to Kim Yoo Jung?",
+    "summary": "Rumors of a high-profile marriage between Park Bo Gum and Kim Yoo Jung have been circulating in the Korean entertainment industry for months.",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "ftp.acp-mn.com",
+    "sourceUrl": "https://ftp.acp-mn.com/unraveling-the-rumors-is-park-bo-gum-married-to-kim-yoo-jung",
+    "date": "21 hours ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1795463151437-5",
+    "slug": "upcoming-korean-drama-on-december-2026-gagan-explain",
+    "title": "Upcoming Korean Drama on December 2026. | Gagan Explain",
+    "summary": "'Tantara' – The drama will be released in three parts on Netflix: Part 1 on December 11, Part 2 on December 18, and Part 3 on December 25, all with Hindi ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/GaganExplained/videos/upcoming-korean-drama-on-december-2026/1675442590972111/",
+    "date": "2026-11-23",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1795463152225-6",
+    "slug": "disney-series-portraits-of-delusion-starring-suzy-and-kim-seon-ho-postponed-to-2",
+    "title": "Disney+ series 'Portraits of Delusion' starring Suzy and Kim Seon-ho postponed to 2027",
+    "summary": "No preview available.",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/groups/netflixkoreanseries/posts/41421362224129948/",
+    "date": "2026-11-23",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1795362725691-1",
     "slug": "is-this-true-are-they-really-dating-who-is-she-im-just-so-shocked-oppa",
     "title": "Is this true? Are they really dating? Who is she? Im just so shocked. Oppa 😭😲",
@@ -17851,7 +17953,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-11-22T15:52:08.264Z";
+export const LAST_UPDATED = "2026-11-23T19:45:52.299Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
