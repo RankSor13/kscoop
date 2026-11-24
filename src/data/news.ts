@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1795547814625-1",
+    "slug": "korean-actors-who-confirmed-their-breakup-this-year-and-left-fans",
+    "title": "Korean actors who confirmed their breakup this year and left fans ...",
+    "summary": "No preview available.",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DgIAxGntH8j/",
+    "date": "2026-11-24",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1795547815092-2",
+    "slug": "actor-lee-ga-seop-to-marry-non-celebrity-in-december",
+    "title": "Actor Lee Ga-seop To Marry Non-Celebrity In December",
+    "summary": "No preview available.",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/Kpopmap/videos/actor-lee-ga-seop-to-marry-non-celebrity-in-december/1930303641273522/",
+    "date": "2026-11-24",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1795547816362-3",
+    "slug": "the-world-of-love-review-south-korean-coming-of-ager",
+    "title": "The World of Love review: South Korean coming-of-ager",
+    "summary": "Yoon Ga-eun's South Korean coming-of-ager is a lesson in survival and joie de vivre, with an outstanding central performance from Seo Su-bin as the ...",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/SightSoundmag/posts/yoon-ga-euns-south-korean-coming-of-ager-is-a-lesson-in-survival-and-joie-de-viv/1795461842584561/",
+    "date": "2026-11-24",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1795547816537-4",
+    "slug": "chae-soo-bin",
+    "title": "Chae Soo-bin",
+    "summary": "Bae Soo-bin (Korean: 배수빈 ; born July 10, 1994), known professionally as Chae Soo-bin (채수빈 ), is a South Korean actress. Chae made her acting debut ...",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "en.wikipedia.org",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Chae_Soo-bin",
+    "date": "3 days ago",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Chae_Soo-bin_in_March_2026.png?utm_source=en.wikipedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail_unscaled",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1795547816971-5",
+    "slug": "a-hunt-for-test-cheats-with-phone-alerts-and-eyeglasses-checks",
+    "title": "A Hunt for Test Cheats With Phone Alerts and Eyeglasses Checks",
+    "summary": "South Korea sent three loud emergency alerts to every phone in the country as part of a campaign to keep students taking a grueling test honest.",
+    "category": "gossip",
+    "author": "Mia Kwon",
+    "source": "nytimes.com",
+    "sourceUrl": "https://www.nytimes.com/2026/11/18/world/asia/south-korea-cheating-college-exam-suneung.html",
+    "date": "6 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1795547817260-6",
+    "slug": "hulus-best-k-drama-of-2026-is-getting-an-anime-icymi-read-more",
+    "title": "Hulu's best K-drama of 2026 is getting an anime. ICYMI, read more! 👇",
+    "summary": "K-Dramas coming soon on Netflix. \"Can This Love Be Translated\" \"Boyfriend On Demand\" \"East Palace\" \"The WonderFools\" As confirmed ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/adultswholovecartoons/posts/hulus-best-k-drama-of-2026-is-getting-an-anime-icymi-read-more-/1621057796734568/",
+    "date": "2026-11-24",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1795463137387-1",
     "slug": "seo-ye-ji-forbade-her-boyfriend-from-getting-close-to-his-co-star",
     "title": "Seo Ye-ji Forbade Her Boyfriend From Getting Close to His Co-star 😳📱",
@@ -17953,7 +18055,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-11-23T19:45:52.299Z";
+export const LAST_UPDATED = "2026-11-24T19:16:57.434Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
