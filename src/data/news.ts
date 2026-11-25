@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1795630914421-1",
+    "slug": "kim-yoo-jung-is-going-viral-after-netizens-came-up-with-a-hilarious-theory-about",
+    "title": "Kim Yoo Jung is going viral after netizens came up with a hilarious theory about why she's never had a public dating scandal. Over the years, the actress has starred opposite some of Korea's biggest",
+    "summary": "Recently, the actor who was born on April 17, 1995, was hit by dating rumors with actress Park Ji Hyun. Ahn Hyo Seop is actually rumored to be dating actress, ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/groups/620566886853642/posts/1476226357954353/",
+    "date": "2026-11-25",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1795630914701-2",
+    "slug": "south-korea-111-students-caught-with-new-measures-against-cheating-at-suneung-ex",
+    "title": "South Korea: 111 students caught with new measures against cheating at Suneung exam",
+    "summary": "111 candidates were found with unauthorised smart devices during a high-stakes nationwide exam, several recent high-profile cheating scandals.",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "bbc.com",
+    "sourceUrl": "https://www.bbc.com/news/articles/cm3vgw1xevvwo",
+    "date": "5 days ago",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f32a/live/51464610-e4cb-11f1-8ebd-0fa6091698b5.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1795630915400-3",
+    "slug": "top-20-korean-series-of-2026-netflix-disney-and-prime-video-best-k-dramas-ranked",
+    "title": "Top 20 Korean Series of 2026 | Netflix, Disney+ & Prime Video — Best K-Dramas Ranked",
+    "summary": "No preview available.",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "m.youtube.com",
+    "sourceUrl": "https://m.youtube.com/watch?v=2_JuvAca-dU",
+    "date": "2026-11-25",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1795630916340-4",
+    "slug": "november-streaming-lineup-k-dramas-and-movies-on-netflix-hulu-disney-the-ultimat",
+    "title": "November Streaming Lineup: K-Dramas & Movies on Netflix, Hulu, Disney+ | The Ultimate K-List",
+    "summary": "This post announces the release dates for 11 new South Korean (K- Dramas) in November 2026. It presents a \"November watchlist,\" displaying a visual schedule ...",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/theUltimateKList/videos/so-many-dramas-movies-shows-and-i-cant-keep-up-who-else-feels-the-same-way-tell/1611319990229145/",
+    "date": "2026-11-25",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1795630917343-5",
+    "slug": "netflixs-most-watched-new-k-dramas-of-2026-teach-you-a-lesson-tops-list-mydramal",
+    "title": "Netflix's Most-Watched New K-Dramas of 2026: Teach You a Lesson Tops List | MyDramaList.Com",
+    "summary": "No preview available.",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/MyDramaListdotcom/videos/netflixs-most-watched-new-kdramas-of-2026-kdrama-koreandrama-netflix-mydramalist/1180852287740463/",
+    "date": "2026-11-25",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1795630918274-6",
+    "slug": "korean-entertainment-news-k-pop-k-drama-movies-and-stars",
+    "title": "Korean Entertainment News: K-POP, K-Drama, Movies & Stars",
+    "summary": "Explore the latest Korean entertainment news covering K-POP, Jeon Do-yeon, a Stunning Best Actress Nominee on the Red Carpet. Yoo Hae-jin Shows Warm. Lee Jong- ...",
+    "category": "trending",
+    "author": "Rina Baek",
+    "source": "global.topstarnews.net",
+    "sourceUrl": "https://global.topstarnews.net/en/articleList.html?page=1&total=11172&sc_section_code=&sc_sub_section_code=&sc_serial_code=&sc_area=&sc_level=&sc_article_type=&sc_view_level=&sc_sdate=&sc_edate=&sc_serial_number=&sc_word=&sc_andor=&sc_word2=&box_idxno=&sc_multi_code=&sc_is_image=&sc_is_movie=&sc_user_name=&sc_order_by=&sc_region=",
+    "date": "6 hours ago",
+    "image": "https://global.topstarnews.net/image/logo/snslogotrans_20260907095853.png",
+    "tags": [
+      "trending",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1795547814625-1",
     "slug": "korean-actors-who-confirmed-their-breakup-this-year-and-left-fans",
     "title": "Korean actors who confirmed their breakup this year and left fans ...",
@@ -18055,7 +18157,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-11-24T19:16:57.434Z";
+export const LAST_UPDATED = "2026-11-25T18:22:01.361Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
