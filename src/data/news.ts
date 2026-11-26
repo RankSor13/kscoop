@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1795716209809-1",
+    "slug": "yang-hong-won-faces-drug-allegations-amid-divorce-an-accuser-raised",
+    "title": "Yang Hong-won Faces Drug Allegations Amid Divorce. An accuser raised ...",
+    "summary": "An accuser raised drug suspicions against rapper Yang Hong-won. Yang Hong-won's agency filed complaints against the accuser. His wife Won Hyun-joo announced ...",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/Kpopmap/videos/yang-hong-won-faces-drug-allegations-amid-divorce/1025482936491800/",
+    "date": "2026-11-26",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1795716211172-2",
+    "slug": "kang-ji-hwan-returns-with-livestream-after-seven-years-as-sexual-assault-convict",
+    "title": "Kang Ji-hwan returns with livestream after seven years as sexual assault conviction derailed career and led to S$8.5 million in damages",
+    "summary": "In July 2019, Kang was arrested and charged with sexually assaulting and molesting two female staff members involved in a television production at his home in ...",
+    "category": "gossip",
+    "author": "Soo Min Lee",
+    "source": "zaobao.com.sg",
+    "sourceUrl": "https://www.zaobao.com.sg/en/entertainment/kang-ji-hwan-returns-livestream-after-seven-years-sexual-assault-conviction-derailed-career-and-led",
+    "date": "7 days ago",
+    "image": "https://cassette.sphdigital.com.sg/image/zaobao/b51a445345e01fb90afce9d3eceaca3442bc7268371021fd0af5783760d98551",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1795716212784-3",
+    "slug": "won-hyun-joo-announces-divorce-from-yang-hong-won",
+    "title": "Won Hyun-joo Announces Divorce From Yang Hong-won",
+    "summary": "Won Hyun-joo announced she agreed to divorce Yang Hong-won. intense,' ended in divorce after 37 days due to infidelity, sensationalist gossip reporting on a ...",
+    "category": "gossip",
+    "author": "Dana Kim",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/Kpopmap/videos/won-hyun-joo-announces-divorce-from-yang-hong-won/1909351117089594/",
+    "date": "2026-11-26",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1795716213397-4",
+    "slug": "dui-kimsaeron-weena-zabvong",
+    "title": "DUI 🍻 #KimSaeRon | Weena Zabvong",
+    "summary": "This news report details the clearing of Korean actor Kim Soo Hyun in a dating scandal involving actress Kim Sae Ron.",
+    "category": "gossip",
+    "author": "Hana Cho",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/weena.meang/videos/dui-kimsaeron/2708596179621223/",
+    "date": "2026-11-26",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1795716214645-5",
+    "slug": "12-k-dramas-airing-in-november-2026-you-must-watch-1-the-remarried-empress",
+    "title": "12 K-Dramas Airing In November 2026 You Must Watch 1) The Remarried Empress ...",
+    "summary": "1) The Remarried Empress (2026) 2) Francesca Next Door (2026) — neighbour romance … 11) The Substitute (2026) 12) Nine to Six (2026) — office romance. November ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/SajeebTalks/posts/12-k-dramas-airing-in-november-2026-you-must-watch1-the-remarried-empress-2026-e/1674152478059838/",
+    "date": "2026-11-26",
+    "image": "https://sfile.chatglm.cn/images-ppt/4b718e6f12d7.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1795716214757-6",
+    "slug": "8-new-korean-dramas-coming-out-in-november-2026-to-add-to-your-watch-list",
+    "title": "8 New Korean Dramas Coming Out In November 2026 To Add To Your Watch List",
+    "summary": "The Remarried Empress (Shin Min-Ah, Ju Ji-Hoon, Lee Jong-Suk, Lee Se-Young) · Premiere Date: November 4, 2026 · Network: Disney+ · Schedule: TBA · Genre: Fantasy, ...",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "inkistyle.com",
+    "sourceUrl": "https://inkistyle.com/new-korean-dramas-november-2026/",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1795630914421-1",
     "slug": "kim-yoo-jung-is-going-viral-after-netizens-came-up-with-a-hilarious-theory-about",
     "title": "Kim Yoo Jung is going viral after netizens came up with a hilarious theory about why she's never had a public dating scandal. Over the years, the actress has starred opposite some of Korea's biggest",
@@ -18157,7 +18259,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-11-25T18:22:01.361Z";
+export const LAST_UPDATED = "2026-11-26T18:03:34.896Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
