@@ -103,6 +103,108 @@ const IMG = {
 // ---------------------------------------------------------------------------
 export const NEWS: NewsItem[] = [
   {
+    "id": "live-1795801682815-1",
+    "slug": "stay-strong-actor-go-kyung-pyo-apologises-for-the-recent-drunk-driving-accident-",
+    "title": "Stay strong!! Actor Go Kyung Pyo apologises For the recent Drunk Driving Accident (DUI) ...",
+    "summary": "No preview available.",
+    "category": "gossip",
+    "author": "Ji Yeon Park",
+    "source": "instagram.com",
+    "sourceUrl": "https://www.instagram.com/reel/DgFa1giz-sa/",
+    "date": "2026-11-27",
+    "image": "https://sfile.chatglm.cn/images-ppt/9be0638b46b2.jpg",
+    "tags": [
+      "gossip",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1795801683522-2",
+    "slug": "choi-hyun-wook-and-jung-chaeyeon-confirmed-for-new-romance-drama-green-light",
+    "title": "Choi Hyun Wook and Jung Chaeyeon Confirmed for New Romance Drama 'Green Light'",
+    "summary": "Ena's upcoming romance drama “Green Light,” K-Drama 9/21/2026. Disney+ Sets K-Drama Adaptation of 'Miracles of the",
+    "category": "upcoming",
+    "author": "Soo Min Lee",
+    "source": "imdb.com",
+    "sourceUrl": "https://www.imdb.com/news/ni66128091/?ref_=nmnw_art_perm",
+    "date": "2 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0ba5c3374361.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1795801683664-3",
+    "slug": "portraits-of-delusion-what-to-know-about-disneyhulus-new-k-drama",
+    "title": "'Portraits Of Delusion': What To Know About Disney+/Hulu's New K-Drama",
+    "summary": "Disney+ and Hulu have announced that the vampire K-drama 'Portraits of Delusion' will premiere on January 6, 2027.",
+    "category": "upcoming",
+    "author": "Dana Kim",
+    "source": "forbes.com",
+    "sourceUrl": "https://www.forbes.com/sites/reginakim/2026/11/24/portraits-of-delusion-what-to-know-about-disneyhulus-new-k-drama/",
+    "date": "3 days ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/0cbd0a3ee8b8.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": true
+  },
+  {
+    "id": "live-1795801683747-4",
+    "slug": "disneys-no-1-show-just-became-its-biggest-korean-premiere-ever",
+    "title": "Disney+'s No. 1 Show Just Became Its Biggest Korean Premiere Ever",
+    "summary": "The Remarried Empress is another global hit for Disney+, a Korean fantasy romance that's quickly becoming one of the platform's biggest international hits.",
+    "category": "upcoming",
+    "author": "Hana Cho",
+    "source": "mensjournal.com",
+    "sourceUrl": "https://www.mensjournal.com/entertainment/disneys-no-1-show-just-became-its-biggest-korean-premiere-ever",
+    "date": "1 hour ago",
+    "image": "https://sfile.chatglm.cn/images-ppt/a78d07243519.jpg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1795801683954-5",
+    "slug": "squid-game-star-officially-returns-to-netflix-with-3-part-release-next-month",
+    "title": "'Squid Game' Star Officially Returns to Netflix With 3-Part Release Next Month",
+    "summary": "Tantara premieres on Netflix on Friday, December 11. The series' 22-episode first season rolls out in 3 parts: Part I, December 11, 2026: Episodes 1–8; Part II: ...",
+    "category": "upcoming",
+    "author": "Mia Kwon",
+    "source": "collider.com",
+    "sourceUrl": "https://collider.com/tantara-gong-yoo-netflix-december-2026-release-date/",
+    "date": "3 days ago",
+    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/song-hye-kyo-gong-yoo-tantara-1.jpg?w=1600&amp;h=900&amp;fit=crop",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
+    "id": "live-1795801684372-6",
+    "slug": "are-you-know-what-title-this-drama-that-opened-2026-koreandramalovers",
+    "title": "Are you know what title this drama that opened 2026? #koreandramalovers",
+    "summary": "No preview available.",
+    "category": "upcoming",
+    "author": "Rina Baek",
+    "source": "facebook.com",
+    "sourceUrl": "https://www.facebook.com/groups/261711786611176/posts/1191873923594953/",
+    "date": "2026-11-27",
+    "image": "https://sfile.chatglm.cn/images-ppt/381738f62ea9.jpeg",
+    "tags": [
+      "upcoming",
+      "korean-entertainment"
+    ],
+    "hot": false
+  },
+  {
     "id": "live-1795716209809-1",
     "slug": "yang-hong-won-faces-drug-allegations-amid-divorce-an-accuser-raised",
     "title": "Yang Hong-won Faces Drug Allegations Amid Divorce. An accuser raised ...",
@@ -18259,7 +18361,7 @@ function buildHeroFeatures(items: NewsItem[], count = 3) {
 
 export const HERO_FEATURES = buildHeroFeatures(NEWS);
 
-export const LAST_UPDATED = "2026-11-26T18:03:34.896Z";
+export const LAST_UPDATED = "2026-11-27T17:48:04.648Z";
 
 // ---------------------------------------------------------------------------
 // AUTO-GENERATED ARTICLE BODIES
